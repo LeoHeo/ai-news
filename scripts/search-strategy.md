@@ -52,7 +52,7 @@ Reddit과 Hacker News에서 커뮤니티가 검증한 AI 뉴스를 검색한다.
 config/sources.json의 `L4_social.queries`를 읽어 실행한다:
 
 1. `site:reddit.com/r/MachineLearning AI`
-2. `site:reddit.com/r/artificial OR site:reddit.com/r/LocalLLaMA AI`
+2. `site:reddit.com/r/artificial OR site:reddit.com/r/LocalLLaMA OR site:reddit.com/r/singularity AI`
 3. `site:news.ycombinator.com AI`
 
 ### 소셜미디어 신뢰도 필터

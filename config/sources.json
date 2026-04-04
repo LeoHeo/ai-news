@@ -31,7 +31,7 @@
       "description": "소셜미디어 커뮤니티 (Reddit, Hacker News)",
       "queries": [
         "site:reddit.com/r/MachineLearning AI",
-        "site:reddit.com/r/artificial OR site:reddit.com/r/LocalLLaMA AI",
+        "site:reddit.com/r/artificial OR site:reddit.com/r/LocalLLaMA OR site:reddit.com/r/singularity AI",
         "site:news.ycombinator.com AI"
       ]
     }
