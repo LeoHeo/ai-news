@@ -1,4 +1,4 @@
-/* AI News Daily — style.css */
+/* News Daily — style.css */
 /* Design Ref: §5 — 모바일 퍼스트, 시스템 폰트, 뉴스레터 스타일 */
 
 /* Reset & Base */
@@ -192,6 +192,86 @@ footer {
 footer .disclaimer {
     margin-top: 4px;
     font-style: italic;
+}
+
+/* Topic Tabs — Home page navigation */
+.topic-tabs {
+    max-width: 720px;
+    margin: 0 auto 24px;
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+
+.topic-tabs .tab {
+    display: inline-block;
+    padding: 8px 20px;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    color: #333;
+    text-decoration: none;
+    font-size: 0.9em;
+    font-weight: 500;
+    transition: background 0.2s, border-color 0.2s;
+}
+
+.topic-tabs .tab:hover {
+    background: #0066cc;
+    border-color: #0066cc;
+    color: #fff;
+}
+
+/* Topic Card — Home page summary */
+.topic-card {
+    max-width: 720px;
+    margin: 0 auto 16px;
+    padding: 20px;
+    background: #fff;
+    border-radius: 4px;
+    border-left: 4px solid #0066cc;
+}
+
+.topic-card h2 {
+    font-size: 1.2em;
+    margin-bottom: 4px;
+}
+
+.topic-card h2 a {
+    color: #1a1a1a;
+    text-decoration: none;
+}
+
+.topic-card h2 a:hover {
+    color: #0066cc;
+}
+
+.topic-card .date {
+    color: #888;
+    font-size: 0.85em;
+}
+
+.topic-card .count {
+    color: #666;
+    font-size: 0.9em;
+    margin-top: 4px;
+}
+
+.topic-card .read-more {
+    display: inline-block;
+    margin-top: 8px;
+    color: #0066cc;
+    text-decoration: none;
+    font-size: 0.85em;
+}
+
+.topic-card .read-more:hover {
+    text-decoration: underline;
+}
+
+/* Header nav spacing for multiple links */
+header nav a + a {
+    margin-left: 12px;
 }
 
 /* Desktop — Design Ref: §5.1 모바일 퍼스트 */
