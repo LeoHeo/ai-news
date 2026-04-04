@@ -1,0 +1,41 @@
+{
+  "layers": {
+    "L1_authority": {
+      "description": "권위 있는 테크 미디어 직접 타겟",
+      "sources": [
+        { "site": "techcrunch.com", "query": "AI" },
+        { "site": "theverge.com", "query": "AI artificial intelligence" },
+        { "site": "venturebeat.com", "query": "AI" },
+        { "site": "arxiv.org", "query": "AI machine learning" },
+        { "site": "reuters.com", "query": "artificial intelligence" }
+      ]
+    },
+    "L2_thematic": {
+      "description": "테마별 정밀 검색",
+      "queries": [
+        "OpenAI OR Anthropic OR Google DeepMind {today}",
+        "AI startup funding investment {today}",
+        "AI regulation policy government {today}",
+        "large language model benchmark {today}"
+      ]
+    },
+    "L3_korean": {
+      "description": "한국 AI 뉴스",
+      "queries": [
+        "AI 인공지능 뉴스 오늘",
+        "네이버 카카오 삼성 AI",
+        "한국 AI 스타트업"
+      ]
+    }
+  },
+  "categories": ["Models", "Products", "Research", "Industry", "Regulation"],
+  "ratings": ["★★★", "★★", "★"],
+  "limits": {
+    "maxSearchCalls": 12,
+    "targetArticles": { "min": 10, "max": 20 },
+    "maxRawResults": 50
+  },
+  "archive": {
+    "retentionDays": 90
+  }
+}

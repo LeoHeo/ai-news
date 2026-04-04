@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI News Daily — {date}</title>
+    <link rel="stylesheet" href="{css_path}">
+</head>
+<body>
+    <header>
+        <h1>AI News Daily</h1>
+        <p class="date">{date} (KST)</p>
+        <p class="summary">오늘의 AI 뉴스 {total_count}건</p>
+        <nav>
+            <a href="{archive_link}">Archive</a>
+        </nav>
+    </header>
+
+    <main>
+        <!-- 카테고리별 섹션 반복 -->
+        <section class="category" id="{category_id}">
+            <h2>{category_name}</h2>
+
+            <!-- 뉴스 아이템 반복 (중요도 내림차순) -->
+            <article class="news-item rating-{rating_level}">
+                <div class="rating">{rating_stars}</div>
+                <h3>
+                    <a href="{original_url}" target="_blank" rel="noopener">
+                        {title_ko}
+                    </a>
+                </h3>
+                <p class="original-title">{title_en}</p>
+                <p class="summary">{summary_ko}</p>
+                <div class="meta">
+                    <span class="source">{source_name}</span>
+                    <span class="date">{publish_date}</span>
+                    <a href="{original_url}" class="link">원문 보기</a>
+                </div>
+            </article>
+        </section>
+    </main>
+
+    <footer>
+        <p>Curated by Claude | Auto-generated at {generated_time} KST</p>
+        <p class="disclaimer">이 페이지의 뉴스는 AI가 자동 수집·요약한 것입니다.
+           정확한 내용은 원문 링크를 확인하세요.</p>
+    </footer>
+</body>
+</html>
