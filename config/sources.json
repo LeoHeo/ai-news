@@ -26,12 +26,20 @@
         "네이버 카카오 삼성 AI",
         "한국 AI 스타트업"
       ]
+    },
+    "L4_social": {
+      "description": "소셜미디어 커뮤니티 (Reddit, Hacker News)",
+      "queries": [
+        "site:reddit.com/r/MachineLearning AI",
+        "site:reddit.com/r/artificial OR site:reddit.com/r/LocalLLaMA AI",
+        "site:news.ycombinator.com AI"
+      ]
     }
   },
   "categories": ["Models", "Products", "Research", "Industry", "Regulation"],
   "ratings": ["★★★", "★★", "★"],
   "limits": {
-    "maxSearchCalls": 12,
+    "maxSearchCalls": 15,
     "targetArticles": { "min": 10, "max": 20 },
     "maxRawResults": 50
   },

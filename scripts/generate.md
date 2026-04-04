@@ -34,7 +34,8 @@ search-strategy.md의 지시에 따라 3-Layer WebSearch를 실행한다.
 - L1: 권위 소스 5회
 - L2: 테마별 4회
 - L3: 한국 3회
-- 총 12회 이내
+- L4: 소셜미디어 (Reddit, HN) 3회
+- 총 15회 이내
 
 결과: 30~50건의 raw results (title_en, original_url, source_name, publish_date)
 

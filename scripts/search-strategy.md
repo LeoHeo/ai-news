@@ -5,7 +5,7 @@
 ## Overview
 
 글로벌 AI 뉴스를 3개 레이어로 검색하여 30~50건의 raw results를 수집한다.
-최대 WebSearch 호출 12회. 각 레이어의 쿼리를 순서대로 실행한다.
+최대 WebSearch 호출 15회. 각 레이어의 쿼리를 순서대로 실행한다.
 
 ## Layer 1: 권위 소스 직접 타겟 (5회)
 
@@ -44,6 +44,25 @@ config/sources.json의 `L3_korean.queries`를 읽어 실행한다:
 1. `AI 인공지능 뉴스 오늘`
 2. `네이버 카카오 삼성 AI`
 3. `한국 AI 스타트업`
+
+## Layer 4: 소셜미디어 커뮤니티 (3회)
+
+Reddit과 Hacker News에서 커뮤니티가 검증한 AI 뉴스를 검색한다.
+
+config/sources.json의 `L4_social.queries`를 읽어 실행한다:
+
+1. `site:reddit.com/r/MachineLearning AI`
+2. `site:reddit.com/r/artificial OR site:reddit.com/r/LocalLLaMA AI`
+3. `site:news.ycombinator.com AI`
+
+### 소셜미디어 신뢰도 필터
+
+소셜미디어 결과는 추가 필터를 적용한다:
+
+- **Reddit**: 원본 링크가 있는 포스트만 채택 (self-post 토론은 제외). 원본 링크를 `original_url`로 사용한다.
+- **Hacker News**: 외부 링크가 있는 포스트만 채택. 외부 링크를 `original_url`로 사용한다.
+- **중복 체크**: L1~L3에서 이미 수집한 URL과 중복되면 제외한다.
+- **출처 표기**: `source_name`은 원본 매체명을 사용하되, "(via Reddit)" 또는 "(via HN)"을 붙인다.
 
 ## 수집 규칙
 
