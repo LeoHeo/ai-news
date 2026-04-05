@@ -3,15 +3,52 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI News Daily — {date}</title>
+    <title>{topic_name} — {date}</title>
+    <!-- SEO Meta -->
+    <meta name="description" content="{og_description}">
+    <link rel="canonical" href="{page_url}">
+    <!-- Open Graph -->
+    <meta property="og:title" content="{topic_name} — {date}">
+    <meta property="og:description" content="{og_description}">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="{page_url}">
+    <meta property="og:image" content="{og_image_url}">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:locale" content="ko_KR">
+    <meta property="og:site_name" content="News Daily">
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{topic_name} — {date}">
+    <meta name="twitter:description" content="{og_description}">
+    <meta name="twitter:image" content="{og_image_url}">
+    <!-- JSON-LD -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "CollectionPage",
+      "name": "{topic_name} — {date}",
+      "description": "{og_description}",
+      "url": "{page_url}",
+      "image": "{og_image_url}",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "News Daily",
+        "url": "{site_url}"
+      },
+      "datePublished": "{date}",
+      "inLanguage": "ko"
+    }
+    </script>
     <link rel="stylesheet" href="{css_path}">
 </head>
 <body>
     <header>
-        <h1>AI News Daily</h1>
+        <h1>{topic_name}</h1>
         <p class="date">{date} (KST)</p>
-        <p class="summary">오늘의 AI 뉴스 {total_count}건</p>
+        <p class="summary">{topic_name_ko} {total_count}건</p>
         <nav>
+            <a href="{home_link}">Home</a>
             <a href="{archive_link}">Archive</a>
         </nav>
     </header>
@@ -28,6 +65,9 @@
                     <a href="{original_url}" target="_blank" rel="noopener">
                         {title_ko}
                     </a>
+                    <button class="copy-btn" onclick="copyArticle(this)" title="복사">
+                        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
+                    </button>
                 </h3>
                 <p class="original-title">{title_en}</p>
                 <p class="summary">{summary_ko}</p>
@@ -45,5 +85,29 @@
         <p class="disclaimer">이 페이지의 뉴스는 AI가 자동 수집·요약한 것입니다.
            정확한 내용은 원문 링크를 확인하세요.</p>
     </footer>
+
+    <script>
+    function copyArticle(btn) {
+        var article = btn.closest('.news-item');
+        var link = article.querySelector('h3 a');
+        var summary = article.querySelector('.summary');
+        var title = link.textContent.trim();
+        var url = link.href;
+        var text = summary.textContent.trim();
+
+        var html = '<a href="' + url + '">' + title + '</a><br><br>' + text;
+        var plain = title + '\n' + url + '\n\n' + text;
+
+        navigator.clipboard.write([
+            new ClipboardItem({
+                'text/html': new Blob([html], { type: 'text/html' }),
+                'text/plain': new Blob([plain], { type: 'text/plain' })
+            })
+        ]).then(function() {
+            btn.classList.add('copied');
+            setTimeout(function() { btn.classList.remove('copied'); }, 1500);
+        });
+    }
+    </script>
 </body>
 </html>

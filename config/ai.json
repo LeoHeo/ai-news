@@ -1,0 +1,72 @@
+{
+  "topic": {
+    "id": "ai",
+    "name": "AI News Daily",
+    "name_ko": "AI 뉴스"
+  },
+  "layers": {
+    "L1_authority": {
+      "description": "권위 있는 테크 미디어 직접 타겟",
+      "sources": [
+        { "site": "techcrunch.com", "query": "AI" },
+        { "site": "theverge.com", "query": "AI artificial intelligence" },
+        { "site": "venturebeat.com", "query": "AI" },
+        { "site": "arxiv.org", "query": "AI machine learning" },
+        { "site": "reuters.com", "query": "artificial intelligence" }
+      ]
+    },
+    "L2_thematic": {
+      "description": "테마별 정밀 검색",
+      "queries": [
+        "OpenAI OR Anthropic OR Google DeepMind {today}",
+        "AI startup funding investment {today}",
+        "AI regulation policy government {today}",
+        "large language model benchmark {today}"
+      ]
+    },
+    "L3_korean": {
+      "description": "한국 AI 뉴스",
+      "queries": [
+        "AI 인공지능 뉴스 오늘",
+        "네이버 카카오 삼성 AI",
+        "한국 AI 스타트업"
+      ]
+    },
+    "L4_social": {
+      "description": "소셜미디어 커뮤니티 (Reddit, Hacker News)",
+      "queries": [
+        "site:reddit.com/r/MachineLearning AI",
+        "site:reddit.com/r/artificial OR site:reddit.com/r/LocalLLaMA OR site:reddit.com/r/singularity AI",
+        "site:news.ycombinator.com AI"
+      ]
+    }
+  },
+  "categories": [
+    { "id": "models", "name": "Models", "name_ko": "모델", "description": "LLM, 이미지/비디오 생성 모델 발표·업데이트" },
+    { "id": "products", "name": "Products", "name_ko": "제품", "description": "AI 기반 제품·서비스 출시·업데이트" },
+    { "id": "research", "name": "Research", "name_ko": "연구", "description": "논문, 벤치마크, 기술 혁신" },
+    { "id": "industry", "name": "Industry", "name_ko": "산업", "description": "투자, 인수, 파트너십, 기업 동향" },
+    { "id": "regulation", "name": "Regulation", "name_ko": "규제", "description": "AI 정책, 법규, 안전, 윤리" }
+  ],
+  "relevance_filter": "AI/인공지능과 직접 관련이 없는 기사는 제외. 'AI' 키워드만 언급되고 실질적 내용이 없는 기사 제외.",
+  "ratings": ["★★★", "★★", "★"],
+  "limits": {
+    "maxSearchCalls": 15,
+    "targetArticles": { "min": 10, "max": 20 },
+    "maxRawResults": 50
+  },
+  "archive": {
+    "retentionDays": 90
+  },
+  "site": {
+    "url": "https://leoheo.github.io/ai-news",
+    "name": "News Daily"
+  },
+  "og": {
+    "gradient_start": "#0f0c29",
+    "gradient_mid": "#302b63",
+    "gradient_end": "#24243e",
+    "accent_start": "#667eea",
+    "accent_end": "#764ba2"
+  }
+}

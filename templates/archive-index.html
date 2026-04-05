@@ -3,13 +3,50 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI News Daily — Archive</title>
-    <link rel="stylesheet" href="../style.css">
+    <title>{topic_name} — Archive</title>
+    <!-- SEO Meta -->
+    <meta name="description" content="{topic_name} 뉴스 아카이브">
+    <link rel="canonical" href="{page_url}">
+    <!-- Open Graph -->
+    <meta property="og:title" content="{topic_name} — Archive">
+    <meta property="og:description" content="{topic_name} 뉴스 아카이브">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{page_url}">
+    <meta property="og:image" content="{og_image_url}">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:locale" content="ko_KR">
+    <meta property="og:site_name" content="News Daily">
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{topic_name} — Archive">
+    <meta name="twitter:description" content="{topic_name} 뉴스 아카이브">
+    <meta name="twitter:image" content="{og_image_url}">
+    <!-- JSON-LD -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "CollectionPage",
+      "name": "{topic_name} — Archive",
+      "description": "{topic_name} 뉴스 아카이브",
+      "url": "{page_url}",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "News Daily",
+        "url": "{site_url}"
+      },
+      "inLanguage": "ko"
+    }
+    </script>
+    <link rel="stylesheet" href="{css_path}">
 </head>
 <body>
     <header>
-        <h1>AI News Daily Archive</h1>
-        <nav><a href="../index.html">Today's News</a></nav>
+        <h1>{topic_name} Archive</h1>
+        <nav>
+            <a href="{home_link}">Home</a>
+            <a href="{today_link}">Today's News</a>
+        </nav>
     </header>
 
     <main>
@@ -23,7 +60,7 @@
     </main>
 
     <footer>
-        <p>Curated by Claude | AI News Daily</p>
+        <p>Curated by Claude | {topic_name}</p>
     </footer>
 </body>
 </html>

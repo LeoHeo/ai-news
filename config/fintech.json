@@ -1,0 +1,73 @@
+{
+  "topic": {
+    "id": "fintech",
+    "name": "Fintech News Daily",
+    "name_ko": "핀테크 뉴스"
+  },
+  "layers": {
+    "L1_authority": {
+      "description": "핀테크 전문 매체 직접 타겟",
+      "sources": [
+        { "site": "pymnts.com", "query": "fintech payments" },
+        { "site": "finextra.com", "query": "fintech banking" },
+        { "site": "fintechfutures.com", "query": "fintech" },
+        { "site": "thefintechtimes.com", "query": "fintech" },
+        { "site": "tearsheet.co", "query": "fintech finance" }
+      ]
+    },
+    "L2_thematic": {
+      "description": "테마별 정밀 검색",
+      "queries": [
+        "fintech startup funding investment {today}",
+        "digital payments neobank BNPL {today}",
+        "cross-border remittance international transfer {today}",
+        "open banking embedded finance regulation {today}"
+      ]
+    },
+    "L3_korean": {
+      "description": "한국 핀테크 뉴스",
+      "queries": [
+        "핀테크 뉴스 오늘",
+        "토스 카카오페이 네이버페이",
+        "한국 해외송금 디지털뱅크"
+      ]
+    },
+    "L4_social": {
+      "description": "소셜미디어 커뮤니티 (Reddit, Hacker News)",
+      "queries": [
+        "site:reddit.com/r/fintech fintech",
+        "site:reddit.com/r/CryptoCurrency OR site:reddit.com/r/personalfinance fintech",
+        "site:news.ycombinator.com fintech payments"
+      ]
+    }
+  },
+  "categories": [
+    { "id": "payments", "name": "Payments", "name_ko": "결제", "description": "결제, PG, 카드 네트워크, 실시간 결제" },
+    { "id": "remittance", "name": "Remittance", "name_ko": "해외송금", "description": "해외송금, 크로스보더 결제, SWIFT 대안" },
+    { "id": "digital-banking", "name": "Digital Banking", "name_ko": "디지털뱅킹", "description": "네오뱅크, 챌린저뱅크, BaaS" },
+    { "id": "lending", "name": "Lending", "name_ko": "대출", "description": "대출, BNPL, 대안 신용평가" },
+    { "id": "regulation", "name": "Regulation", "name_ko": "규제", "description": "핀테크 규제, 오픈뱅킹, 라이선스" },
+    { "id": "investment", "name": "Investment", "name_ko": "투자", "description": "핀테크 투자, M&A, IPO" }
+  ],
+  "relevance_filter": "핀테크/금융기술과 직접 관련이 없는 기사는 제외. AI가 주된 내용인 기사는 제외하고 핀테크가 주된 내용인 기사만 포함.",
+  "ratings": ["★★★", "★★", "★"],
+  "limits": {
+    "maxSearchCalls": 15,
+    "targetArticles": { "min": 10, "max": 20 },
+    "maxRawResults": 50
+  },
+  "archive": {
+    "retentionDays": 90
+  },
+  "site": {
+    "url": "https://leoheo.github.io/ai-news",
+    "name": "News Daily"
+  },
+  "og": {
+    "gradient_start": "#0a2e1a",
+    "gradient_mid": "#1a5c3a",
+    "gradient_end": "#0d3320",
+    "accent_start": "#34d399",
+    "accent_end": "#059669"
+  }
+}

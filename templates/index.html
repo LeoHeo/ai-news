@@ -6,13 +6,13 @@
     <title>News Daily</title>
     <!-- SEO Meta -->
     <meta name="description" content="AI-curated daily news across topics">
-    <link rel="canonical" href="https://leoheo.github.io/ai-news">
+    <link rel="canonical" href="{site_url}">
     <!-- Open Graph -->
     <meta property="og:title" content="News Daily">
     <meta property="og:description" content="AI-curated daily news across topics">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://leoheo.github.io/ai-news">
-    <meta property="og:image" content="https://leoheo.github.io/ai-news/assets/og-home.png">
+    <meta property="og:url" content="{site_url}">
+    <meta property="og:image" content="{site_url}/assets/og-home.png">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
     <meta property="og:locale" content="ko_KR">
@@ -21,7 +21,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="News Daily">
     <meta name="twitter:description" content="AI-curated daily news across topics">
-    <meta name="twitter:image" content="https://leoheo.github.io/ai-news/assets/og-home.png">
+    <meta name="twitter:image" content="{site_url}/assets/og-home.png">
     <!-- JSON-LD -->
     <script type="application/ld+json">
     {
@@ -29,7 +29,7 @@
       "@type": "WebSite",
       "name": "News Daily",
       "description": "AI-curated daily news across topics",
-      "url": "https://leoheo.github.io/ai-news",
+      "url": "{site_url}",
       "inLanguage": "ko"
     }
     </script>
@@ -42,23 +42,17 @@
     </header>
 
     <nav class="topic-tabs">
-        <a href="ai/index.html" class="tab">AI 뉴스</a>
-        <a href="fintech/index.html" class="tab">핀테크 뉴스</a>
+        <!-- 토픽별 탭 (generate.md Step 5d에서 동적 생성) -->
+        <a href="{topic_id}/index.html" class="tab">{topic_name_ko}</a>
     </nav>
 
     <main>
+        <!-- 각 토픽의 최신 뉴스 요약 카드 -->
         <section class="topic-card">
-            <h2><a href="ai/index.html">AI News Daily</a></h2>
-            <p class="date">2026-04-05</p>
-            <p class="count">AI 뉴스 10건</p>
-            <a href="ai/index.html" class="read-more">자세히 보기</a>
-        </section>
-
-        <section class="topic-card">
-            <h2><a href="fintech/index.html">Fintech News Daily</a></h2>
-            <p class="date">2026-04-05</p>
-            <p class="count">핀테크 뉴스 15건</p>
-            <a href="fintech/index.html" class="read-more">자세히 보기</a>
+            <h2><a href="{topic_id}/index.html">{topic_name}</a></h2>
+            <p class="date">{date}</p>
+            <p class="count">{topic_name_ko} {total_count}건</p>
+            <a href="{topic_id}/index.html" class="read-more">자세히 보기</a>
         </section>
     </main>
 
