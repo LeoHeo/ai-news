@@ -97,9 +97,10 @@ Read templates/news.html
 **① og_description 생성**
 
 카테고리별 기사 수를 집계하여 요약 문자열을 만든다:
-- 형식: `"{topic_name_ko} {total_count}건 | {cat1} {n}건, {cat2} {n}건, ..."`
-- 예: `"AI 뉴스 15건 | Models 4건, Products 3건, Research 3건, Industry 3건, Regulation 2건"`
+- 형식: `"오늘의 글로벌 {topic_name_ko} {total_count}건을 AI가 자동 큐레이션했습니다. {cat1} {n}건, {cat2} {n}건, ... 최신 {topic_name_ko} 동향을 한눈에 확인하세요."`
+- 예: `"오늘의 글로벌 AI 뉴스 15건을 AI가 자동 큐레이션했습니다. Models 4건, Products 3건, Research 3건, Industry 3건, Regulation 2건. 최신 AI 뉴스 동향을 한눈에 확인하세요."`
 - 기사 0건인 카테고리는 생략
+- 목표 길이: 110~160자
 - HTML 특수문자(`"`, `&`, `<`)는 entity 이스케이프 필수
 
 **② page_url 조합**
