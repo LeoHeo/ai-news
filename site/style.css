@@ -121,6 +121,42 @@ header nav a:hover {
     text-decoration: underline;
 }
 
+/* Copy Button */
+.copy-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 28px;
+    height: 28px;
+    border: none;
+    background: none;
+    color: #aaa;
+    cursor: pointer;
+    border-radius: 4px;
+    vertical-align: middle;
+    margin-left: 4px;
+    transition: color 0.2s, background 0.2s;
+}
+
+.copy-btn:hover {
+    color: #0066cc;
+    background: #f0f0f0;
+}
+
+.copy-btn.copied {
+    color: #27ae60;
+}
+
+.copy-btn.copied svg {
+    display: none;
+}
+
+.copy-btn.copied::after {
+    content: "\2713";
+    font-size: 14px;
+    font-weight: 700;
+}
+
 .news-item .original-title {
     color: #888;
     font-size: 0.85em;
