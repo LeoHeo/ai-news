@@ -5,7 +5,7 @@
 ## Execution Context
 
 - Working directory: ai-news/ (project root)
-- Triggered by: Claude Code Remote Trigger (토픽별 cron)
+- Triggered by: Claude Code Schedule (토픽별 — AI 08:00 KST, Fintech 08:30 KST)
 - Required tools: WebSearch, WebFetch, Read, Write, Bash (git fetch/reset), `mcp__github__push_files`, `mcp__github__delete_file`
 - **Topic parameter**: `{topic}` — 실행 시 전달됨 (예: ai, fintech)
 
@@ -231,7 +231,7 @@ find site/{topic}/archive/ -name "????-??-??.html" -mtime +90
 ### Step 7: Deploy
 
 `mcp__github__push_files` 툴을 사용해서 GitHub API로 직접 푸시한다 (git push 대신).
-이렇게 하면 로컬 git 인증·프록시 설정에 의존하지 않고 launchd 자동 실행 환경에서도 푸시가 동작한다.
+이렇게 하면 로컬 git 인증·프록시 설정에 의존하지 않고 Claude Code Schedule 환경에서도 푸시가 동작한다.
 
 **7a. 푸시할 파일 목록**
 
