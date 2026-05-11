@@ -6,7 +6,7 @@
 
 - Working directory: ai-news/ (project root)
 - Triggered by: Claude Code Remote Trigger (토픽별 cron)
-- Required tools: WebSearch, WebFetch, Read, Write, Bash (git)
+- Required tools: WebSearch, WebFetch, Read, Write, Bash (git fetch/reset), `mcp__github__push_files`, `mcp__github__delete_file`
 - **Topic parameter**: `{topic}` — 실행 시 전달됨 (예: ai, fintech)
 
 ## Pipeline
@@ -230,15 +230,50 @@ find site/{topic}/archive/ -name "????-??-??.html" -mtime +90
 
 ### Step 7: Deploy
 
-```bash
-git add site/
-git commit -m "chore: update {topic} news {YYYY-MM-DD}"
-git push origin main
+`mcp__github__push_files` 툴을 사용해서 GitHub API로 직접 푸시한다 (git push 대신).
+이렇게 하면 로컬 git 인증·프록시 설정에 의존하지 않고 launchd 자동 실행 환경에서도 푸시가 동작한다.
+
+**7a. 푸시할 파일 목록**
+
+이번 실행에서 생성·변경된 파일들을 Read로 읽어 내용 전체를 문자열로 준비한다:
+- `site/{topic}/index.html` (오늘의 뉴스)
+- `site/{topic}/archive/{YYYY-MM-DD}.html` (아카이브 사본)
+- `site/{topic}/archive/index.html` (아카이브 목록)
+- `site/index.html` (메인 탭 UI)
+- Step 6에서 삭제한 90일 이전 아카이브 파일이 있다면 그 경로도 포함 (content는 빈 문자열이 아니라 별도 처리 필요 → 삭제는 `mcp__github__delete_file`로)
+
+**7b. MCP 푸시 실행**
+
+```
+mcp__github__push_files({
+  owner: "LeoHeo",
+  repo: "ai-news",
+  branch: "main",
+  message: "chore: update {topic} news {YYYY-MM-DD}",
+  files: [
+    { path: "site/{topic}/index.html", content: "<7a에서 읽은 내용>" },
+    { path: "site/{topic}/archive/{YYYY-MM-DD}.html", content: "..." },
+    { path: "site/{topic}/archive/index.html", content: "..." },
+    { path: "site/index.html", content: "..." }
+  ]
+})
 ```
 
-- `{topic}`은 토픽 ID (예: ai, fintech)
-- git push 실패 시 1회 재시도한다.
-- 재시도도 실패하면 로컬에 생성된 HTML을 유지하고 종료한다.
+**7c. 로컬 git 동기화**
+
+MCP 푸시는 GitHub에 새 커밋을 만들지만 로컬 git은 변경되지 않는다.
+다음 실행에서 git 상태가 꼬이지 않도록 로컬을 remote에 맞춘다:
+
+```bash
+git fetch origin main
+git reset --hard origin/main
+```
+
+**7d. 실패 처리**
+
+- MCP 푸시 실패 시 1회 재시도한다.
+- 재시도도 실패하면 로컬에 생성된 HTML을 유지하고 종료한다 (다음 실행 시 누락 파일 자동 보정).
+- `git push`는 사용하지 않는다 (인증/프록시 문제 회피).
 
 ---
 
@@ -251,7 +286,7 @@ git push origin main
 | 특정 카테고리 0건 | 해당 카테고리 섹션을 생략 |
 | WebFetch 타임아웃 | 해당 뉴스 제외 (검증 불가) |
 | HTML 생성 오류 | 이전 index.html 유지, 에러 로그만 commit |
-| git push 실패 | 1회 재시도 → 실패 시 로컬 유지 |
+| MCP push 실패 | 1회 재시도 → 실패 시 로컬 유지 |
 
 ## Output
 
