@@ -54,12 +54,29 @@
     </header>
 
     <main>
+        <!-- P3: Today's Top 5 band — 큐레이션 결과가 5건 이상일 때만 렌더링.
+             헤더는 동적: Top 5 / Top 4 / "주요 임팩트 적은 날" 안내 등 -->
+        <section class="top5-band">
+            <h2>Today's Top {top5_count}</h2>
+            <ol>
+                <!-- top5_rank=1..N 기사 각각 반복 -->
+                <li>
+                    <span class="top5-rank">{top5_rank}</span>
+                    <a href="#{top5_anchor}">{title_ko}</a>
+                    <span class="top5-tag">{category_name}</span>
+                    <span class="top5-rating">{rating_stars}</span>
+                </li>
+            </ol>
+        </section>
+
         <!-- 카테고리별 섹션 반복 -->
         <section class="category" id="{category_id}">
             <h2>{category_name}</h2>
 
-            <!-- 뉴스 아이템 반복 (중요도 내림차순) -->
-            <article class="news-item rating-{rating_level}">
+            <!-- 뉴스 아이템 반복 (중요도 내림차순). P3: 각 article에 id 부여 (Top 5 앵커 점프용).
+                 강등된 기사는 <article> 직전에 hidden comment 삽입:
+                 <!-- demoted from ★★★ — {keyword} {count}회 -->
+            <article id="{article_anchor}" class="news-item rating-{rating_level}">
                 <div class="rating">{rating_stars}</div>
                 <h3>
                     <a href="{original_url}" target="_blank" rel="noopener">
