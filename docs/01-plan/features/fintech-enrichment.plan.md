@@ -319,28 +319,177 @@ summary_why = "{LLM이 작성한 시사점}. {fetch fragment}"
 
 ---
 
-### Phase 3 — 7일 메모리 + Top 5 밴드
+### Phase 3 — 7일 메모리 + Top 5 밴드 (상세 설계)
 
-**변경 파일**: `scripts/curation-rules.md`, `templates/news.html`, `site/style.css`, `state/fintech-themes.json`(신설), `scripts/generate.md`(deploy 목록 1줄)
+**변경 파일 5개**: `state/fintech-themes.json`(신설), `scripts/curation-rules.md`, `scripts/generate.md`, `templates/news.html`, `site/style.css`
 
-**작업**:
-1. `state/fintech-themes.json` 초기 빈 파일 생성
-2. `curation-rules.md`에 다음 단계 추가:
-   - Step 3a: 카테고리 분류 직후 테마 키워드 추출 (LLM)
-   - Step 4a: 중요도 평가 직후 메모리 조회 → 반복 테마 ★ -1
-   - Step 6a: Top 5 선정 (★★★ 우선 → 카테고리 다양성 → 한국 1건 보장)
-   - Step 8: 메모리 갱신·만료
-3. `templates/news.html`에 `<section class="top5-band">` 섹션 추가 (main 최상단)
-4. `style.css`에 Top 5 밴드 스타일 추가 (sticky top? 일단 일반 섹션으로)
-5. `scripts/generate.md` Step 7a "푸시할 파일 목록"에 `state/fintech-themes.json` 추가 (한 줄)
+#### 3.1 메모리 스키마 (`state/fintech-themes.json`)
 
-**Done 조건**:
-- 메모리 파일이 매일 정상 갱신 (count·last_seen)
-- 7일 초과 항목 자동 삭제
-- 7일 내 동일 테마 반복 시 ★ 강등 동작 확인 (archive 비교)
-- 매일 페이지 상단에 Top 5 밴드 노출
+```json
+{
+  "version": 1,
+  "updated": "2026-05-23",
+  "window_days": 7,
+  "themes": [
+    {
+      "keyword": "stablecoin-uk-regulation",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-23",
+      "count": 4,
+      "example_titles": ["...", "...", "..."]
+    }
+  ]
+}
+```
 
-**Rollback**: 파일별 git revert + state 파일 삭제
+- 키워드 슬러그: kebab-case 영문 3~5단어 (한국 기사도 영문 슬러그)
+- `example_titles`: 디버깅·매칭 보조용 최대 3개 (FIFO)
+- 토픽별 분리 (`{topic}-themes.json`)
+
+물리적 제약: themes[] 최대 50개, 파일 size < 50KB, 8일 경과 항목 자동 만료.
+
+#### 3.2 테마 키워드 추출 (Step 3a)
+
+위치: `curation-rules.md` Step 3(카테고리 분류) 직후.
+
+- LLM에 기존 themes[].keyword + example_titles 제공
+- 새 기사가 기존 슬러그와 같은 사건이면 재사용, 아니면 새 슬러그 생성
+- 스팬 케이스(두 테마 걸침): 주 키워드 + 보조 `theme_keyword_aux`
+- **별도 API 호출 없음** — 카테고리 LLM 출력에 필드 추가로 통합
+
+매칭 가이드:
+- 같은 당사자 + 같은 행위 → 동일 (재사용)
+- 같은 트렌드, 다른 당사자 → 별개 (새 슬러그)
+- 추가 전개·후속 보도 → 동일 (재사용)
+
+#### 3.3 반복 감지 + 강등 (Step 4a)
+
+| `theme.count` | 판정 | 동작 |
+|---------------|------|------|
+| 1~2 | 신선 | 강등 없음 |
+| 3~4 | 반복 | ★ -1 강등 후보 |
+| 5+ | 포화 | ★ -1 강등 + 큐레이션 경고 |
+
+**바닥**: ★ 유지 (제외 안 함). 강등은 ★★★→★★, ★★→★까지만.
+
+**면제 조건** (LLM 판단):
+1. 새 전개 (추가 규제·후속 딜·입장 변화)
+2. 새 당사자 (이미 슬러그 매칭에서 자동 처리)
+3. 임팩트 점프 (수치·영향이 명확히 더 커짐)
+
+**강등 흔적 보존**: `rating_demoted: true`, `original_rating_level`, `rating_demote_reason` 메타에 기록. HTML 노출 안 함 (archive HTML hidden comment로만).
+
+**Step 6 보호 규칙 수정**: "20건 초과 제거" 시 강등 기사는 비강등 ★ 뉴스보다 늦게 제거.
+
+**★★★ 0건 보호**: ★★★이 모두 강등되어 페이지에서 0건이 되면, 가장 최근 ★★★ 1건 강등 취소.
+
+#### 3.4 Today's Top 5 밴드 (Step 6a)
+
+후보 풀: Step 7 정렬까지 완료된 큐레이션 기사 전체.
+
+**슬롯 분배**:
+- Slot 1~3: ★★★ 우선 (강등 안 된 것), 카테고리 다양성 만족
+- Slot 4: 한국 매체 1건 보장 (가능한 가장 높은 등급)
+- Slot 5: 카테고리 다양성 보완 (남은 카테고리 중 최고 등급)
+
+**카테고리 다양성**: 최대 2건/카테고리, 최소 3개 카테고리 등장.
+
+**한국 슬롯 처리**:
+| 상황 | 동작 |
+|------|------|
+| 한국 ★★★ 존재 | 자연 포함, Slot 4는 다양성 슬롯 재사용 |
+| 한국 ★★/★ 만 | Slot 4에 배치 |
+| 한국 0건 | Slot 4 생략 → Top 4 |
+
+**HTML 위치**: `<main>` 최상단, 첫 `<section class="category">` 앞.
+
+**형식**: 헤드라인만 (요약 노출 안 함). 카테고리 태그 + 등급 + 앵커 점프 링크. 각 `<article>`에 `id="{anchor}"` 부여 필요.
+
+**가드레일**:
+- 큐레이션 후보 < 5건 → Top 5 → Top N 자동 축소
+- ★★★ 0건 날 → 슬롯 모두 ★★/★, "주요 임팩트 적은 날" 안내
+
+#### 3.5 메모리 영속화 + Deploy 통합
+
+**파이프라인 통합 시점**:
+
+```
+Step 1   Load Config + Read state/fintech-themes.json
+Step 3a  테마 추출 (메모리 keyword 매칭에 사용)
+Step 4a  반복 감지 (count >= 3 판정)
+Step 8   메모리 갱신 + 8일 만료 (NEW, deploy 직전)
+Step 7   Deploy — push 파일 목록에 state/{topic}-themes.json 추가
+```
+
+**Fallback — 재구축 모드**:
+- 메모리 파일 부재/corrupt + archive 7일치 있음 → LLM이 archive 분석해서 메모리 재추론
+- 비상 시만 발동 (+5,000 토큰)
+
+**초기 빈 파일**: P3 첫 커밋에 `themes: []` 상태로 포함.
+
+**보안**: PII 0건, example_titles HTML 특수문자 sanitize, size cap 50KB.
+
+#### 3.6 변경 파일 5개 요약
+
+| 파일 | 변경 |
+|------|------|
+| `state/fintech-themes.json` | 신설 (~10라인) |
+| `scripts/curation-rules.md` | Step 3a + 4a + 6a + 8 추가 (~80라인) |
+| `scripts/generate.md` | Step 1 메모리 로드 + Step 7a push 한 줄 + Step 8 명시 (~15라인) |
+| `templates/news.html` | Top 5 밴드 마크업 + article id (~20라인) |
+| `site/style.css` | `.top5-band` 스타일 (~40라인) |
+
+총 ~165라인.
+
+#### 3.7 Done 기준
+
+| 측정 | 목표 |
+|------|------|
+| 메모리 파일 매일 정상 갱신 | updated/count/last_seen 정상 변동 |
+| 8일 경과 항목 자동 만료 | 7일 후 확인 |
+| 반복 테마 강등 발생률 | 5~20% (효과 vs 과적합 균형) |
+| 강등 면제 발생률 | 강등 후보 중 10~30% |
+| Top 5 매일 노출 | 5건(혹은 안내) 보장 |
+| Top 5 카테고리 다양성 | 최소 3개 카테고리 |
+| Top 5 한국 슬롯 | 한국 매체 가용 시 100% |
+
+#### 3.8 리스크
+
+| 리스크 | 완화책 |
+|--------|--------|
+| 슬러그 일관성 부족 → 매칭 실패 | normalize 규칙 명시 |
+| 과적극 강등 → 중요 후속 누락 | 면제 가이드 + ★★★ 0건 보호 |
+| Top 5와 본문 중복 산만 | Top 5는 헤드라인만 |
+| MCP push 실패 → 메모리 깨짐 | 재구축 모드 |
+| 메모리 파일 비대화 | 만료 + size cap 양쪽 제어 |
+
+#### 3.9 롤백 (4-stage)
+
+- **Stage 1**: Top 5 시각만 revert (template + css의 .top5-band 부분)
+- **Stage 2**: 강등 로직 revert (curation-rules Step 4a)
+- **Stage 3**: 전체 P3 revert (5개 파일) + state 파일 삭제
+- **Stage 4**: P2까지 revert (가장 보수적)
+
+각 stage는 단일 git revert 가능하도록 P3를 **3개 커밋으로 분리** 푸시:
+1. 메모리 + 강등 + generate.md push 통합 (Step 3a, 4a, 8 + state + generate)
+2. Top 5 시각 (curation Step 6a + template + css)
+3. (선택) docs commit
+
+#### 3.10 비용 (P3 추가분)
+
+- 메모리 관련 LLM 호출: +500토큰/일 (대부분 카테고리 LLM 통합)
+- Top 5 선정 LLM: +200토큰/일
+- 평상시 합계: **+700토큰/일 ≈ $0.003**
+- 재구축 모드 (비상): +5,000토큰/회
+
+#### 3.11 범위 외 (P3)
+
+- AI/macro 토픽 적용 (검증 후)
+- 임베딩 기반 클러스터링
+- 주간 트렌드 리포트
+- 사용자 피드백 루프
+- 개별 기사 영구 ID
+- Top 5 RSS·이메일
 
 ---
 
