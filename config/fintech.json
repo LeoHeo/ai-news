@@ -6,30 +6,40 @@
   },
   "layers": {
     "L1_authority": {
-      "description": "핀테크 전문 매체 직접 타겟",
+      "description": "핀테크 전문 매체 + 일반 비즈니스/지역 매체 직접 타겟",
       "sources": [
         { "site": "pymnts.com", "query": "fintech payments" },
         { "site": "finextra.com", "query": "fintech banking" },
         { "site": "fintechfutures.com", "query": "fintech" },
         { "site": "thefintechtimes.com", "query": "fintech" },
-        { "site": "tearsheet.co", "query": "fintech finance" }
+        { "site": "tearsheet.co", "query": "fintech finance" },
+        { "site": "techcrunch.com", "query": "fintech funding" },
+        { "site": "bloomberg.com", "query": "fintech payments banking" },
+        { "site": "sifted.eu", "query": "fintech" },
+        { "site": "asia.nikkei.com", "query": "fintech payments banking" },
+        { "site": "theblock.co", "query": "stablecoin payments fintech" }
       ]
     },
     "L2_thematic": {
-      "description": "테마별 정밀 검색",
+      "description": "테마별 정밀 검색 (커버리지 누락 보강)",
       "queries": [
         "fintech startup funding investment {today}",
         "digital payments neobank BNPL {today}",
         "cross-border remittance international transfer {today}",
-        "open banking embedded finance regulation {today}"
+        "open banking embedded finance regulation {today}",
+        "stablecoin RWA tokenization payments regulation {today}",
+        "B2B payments infrastructure API fintech {today}",
+        "fintech M&A IPO acquisition deal {today}"
       ]
     },
     "L3_korean": {
-      "description": "한국 핀테크 뉴스",
+      "description": "한국 핀테크 뉴스 (일반 + 매체별 site: 타겟)",
       "queries": [
         "핀테크 뉴스 오늘",
         "토스 카카오페이 네이버페이",
-        "한국 해외송금 디지털뱅크"
+        "한국 해외송금 디지털뱅크",
+        "site:hankyung.com 핀테크",
+        "site:mt.co.kr 핀테크"
       ]
     },
     "L4_social": {
@@ -52,9 +62,9 @@
   "relevance_filter": "핀테크/금융기술과 직접 관련이 없는 기사는 제외. AI가 주된 내용인 기사는 제외하고 핀테크가 주된 내용인 기사만 포함.",
   "ratings": ["★★★", "★★", "★"],
   "limits": {
-    "maxSearchCalls": 15,
-    "targetArticles": { "min": 10, "max": 20 },
-    "maxRawResults": 50
+    "maxSearchCalls": 25,
+    "targetArticles": { "min": 15, "max": 25 },
+    "maxRawResults": 80
   },
   "archive": {
     "retentionDays": 90
