@@ -398,12 +398,27 @@
     function copyArticle(btn) {
         var article = btn.closest('.news-item');
         var link = article.querySelector('h3 a');
-        var summary = article.querySelector('.summary');
         var title = link.textContent.trim();
         var url = link.href;
-        var text = summary.textContent.trim();
-        var html = '<a href="' + url + '">' + title + '</a><br><br>' + text;
+
+        // 3-block 요약 (P2). legacy .summary는 fallback.
+        var core   = article.querySelector('.summary-core');
+        var detail = article.querySelector('.summary-detail');
+        var why    = article.querySelector('.summary-why');
+        var legacy = article.querySelector('.summary');
+        var blocks = [core, detail, why]
+            .map(function(el) { return el ? el.textContent.trim() : ''; })
+            .filter(Boolean);
+        var text = blocks.length
+            ? blocks.join('\n\n')
+            : (legacy ? legacy.textContent.trim() : '');
+
+        var htmlText = blocks.length
+            ? blocks.map(function(b) { return '<p>' + b + '</p>'; }).join('')
+            : (text ? '<p>' + text + '</p>' : '');
+        var html = '<a href="' + url + '">' + title + '</a><br><br>' + htmlText;
         var plain = title + '\n' + url + '\n\n' + text;
+
         navigator.clipboard.write([
             new ClipboardItem({
                 'text/html': new Blob([html], { type: 'text/html' }),
