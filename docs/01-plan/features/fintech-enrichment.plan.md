@@ -1,0 +1,288 @@
+# Plan: Fintech News Enrichment
+
+> Plan Plus — Brainstorming-Enhanced PDCA Planning
+> Created: 2026-05-23
+
+---
+
+## Executive Summary
+
+| Perspective | Description |
+|------------|-------------|
+| **Problem** | Fintech 토픽이 빈약함 — 양 부족, 헤드라인 수준 요약, 단조로운 영미권 소스, 카테고리·테마 커버리지 누락, 같은 테마 반복. 5가지 증상이 동시 발생 |
+| **Solution** | Approach C 하이브리드 — (1) 검색 폭 확장 (소스·테마·한국어), (2) 요약 깊이 강화 (3-block + ★★★ 맥락), (3) 7일 테마 메모리로 반복 방지 + 상단 Today's Top 5 밴드 |
+| **UX Effect** | Bloomberg 5-Things 스타일 일일 브리핑(주) + 트렌드 인사이트(보조) + 새 패턴 발견(약간). 카테고리당 1~2건 누락 일소, 매일 동일 헤드라인 반복 감소 |
+| **Core Value** | 같은 시간 안에 더 넓게·더 깊게·덜 중복되게 — 수동 보조 없이 일일 브리핑 가치 회복 |
+
+---
+
+## 1. User Intent Discovery
+
+### Core Problem
+사용자가 "fintech가 빈약하다"고 느끼는 5가지 동시 증상:
+1. **양 부족** — 카테고리당 1~2건만 나오는 날이 잦음 (오늘 Lending 1건)
+2. **얕음/뻔함** — 헤드라인 + 2~3문장 요약, 시사점·맥락 부재
+3. **소스 단조** — L1 권위매체 5개 영미권에 집중, 아시아·B2B 인프라 누락
+4. **커버리지 누락** — 스테이블코인/RWA, 인슈테크/웰스테크, 한국 심층 등
+5. **반복** — 같은 테마가 며칠 연속 비슷한 톤으로 등장
+
+### Target Use Case
+- **주(70%)**: 일일 브리핑 — Bloomberg 5-Things 스타일, 폭넓게 스캔
+- **보조(20%)**: 트렌드 추적 — 구조적 변화·규제 방향·딜 패턴 해석
+- **약간(10%)**: 아이디어 소스 — 새 모델·기술 스택·UX 사례 수집
+
+### Success Criteria
+- 일일 기사 수 15~25건으로 상향 안정화 (현재 12~16)
+- ★★★/★★ 기사에 "왜 중요한가" 한 단락 필수 포함
+- 카테고리별 최소 2건 보장 (Lending 1건 날 사라짐)
+- 7일 내 동일 테마 반복 시 ★ 1단계 강등으로 자연 분산
+- 상단 Today's Top 5 밴드에서 30초 스캔 가능
+
+### Constraints
+- 기존 7단계 파이프라인은 유지 (`scripts/generate.md` 비변경)
+- 정적 사이트 (GitHub Pages), Claude Code Schedule 실행 환경
+- 토큰·시간 비용 증가가 있더라도 일일 실행 budget 내 수렴
+- 변경은 fintech 토픽에 우선 적용, ai/macro는 검증 후 별도 결정
+
+---
+
+## 2. Alternatives Explored
+
+### Approach A: 검색 폭 확장만
+- **Pros**: config만 변경, 즉시 양·다양성 개선
+- **Cons**: 깊이·반복 문제 그대로. "뻔한 헤드라인의 더 많은 버전"
+- **Verdict**: 5가지 증상 중 2개만 해결
+
+### Approach B: 요약 깊이만 강화
+- **Pros**: "뻔함" 즉시 해소, 작은 변경
+- **Cons**: 양·소스·커버리지·반복은 그대로
+- **Verdict**: 5가지 증상 중 1개만 해결
+
+### ✅ Approach C: 하이브리드 (Selected)
+- **Pros**: 5가지 증상 모두 동시 처치, 일일 브리핑 + 트렌드 + 아이디어 3가지 활용 모드 모두 커버
+- **Cons**: 변경 범위 최대, 토큰·시간 비용 최대, 7일 메모리 상태 파일 추가 필요
+- **Mitigation**: 단계적 구현 (P1 → 관찰 → P2 → P3)으로 비용·리스크 분산
+
+---
+
+## 3. YAGNI Review
+
+### ✅ Included (v1)
+
+**Phase 1 — 검색 폭**
+- L1 권위매체 5 → 10~12개 (TechCrunch, Bloomberg, FT, Sifted, NikkeiAsia, KrAsia, The Block 등)
+- L2 테마 4 → 7~8개 (스테이블코인/RWA, B2B 결제 인프라, 인슈테크/웰스테크, 아시아 핀테크 추가)
+- L3 한국 3 → 5~6개 (site: 한경/머니투데이/디지털데일리 명시 추가)
+- `limits.maxSearchCalls` 15 → 25
+- `limits.targetArticles` {10,20} → {15,25}
+
+**Phase 2 — 요약 깊이**
+- 요약을 3-block으로: `summary_core` (1문장) + `summary_detail` (2문장) + `summary_why` (1~2문장 시사점)
+- ★★★ 기사는 WebFetch 1회 추가로 `summary_why`에 유사 선례·맥락 명시
+- `templates/news.html`의 `.summary` 영역을 3개 sub-block으로 분리 렌더링
+
+**Phase 3 — 메모리 + Top 5**
+- 새 파일 `state/fintech-themes.json` — 최근 7일 테마 키워드 빈도 누적
+- 큐레이션 단계에서 추출한 이번 회차 테마가 7일 메모리 상위 키워드와 겹치면 해당 기사 ★ -1 (최소 ★)
+- 단, 진짜 새 전개(예: 추가 규제·후속 딜)면 강등 보류 — curation-rules에 판단 기준 명시
+- 상단 Today's Top 5 밴드: 카테고리 횡단 최상위 5건 헤드라인-only 섹션 (Bloomberg 5-Things)
+- Top 5 선정 규칙: ★★★ 우선 → 카테고리 다양성 → 한국 1건 보장
+
+### ❌ Out of Scope
+- AI/macro 토픽 적용 (P3 안정화 후 별도 결정)
+- 주간 트렌드 리포트 (Saturday 자동 요약)
+- 카테고리 자동 신설 (예: 스테이블코인을 독립 카테고리로 승격) — 일단 기존 6개 안에 흡수
+- 외부 LLM 임베딩 기반 테마 클러스터링 — 키워드 단순 매칭으로 시작
+- 다국어 (영문 미러)
+- 사용자 피드백 루프 (👍/👎)
+- 개별 기사 영구 ID/퍼머링크
+- `scripts/generate.md` 오케스트레이션 변경 (Step 1~7 골격 그대로)
+
+---
+
+## 4. Architecture
+
+### 4.1 7단계 파이프라인 변경 매트릭스
+
+| Step | 변경 여부 | Phase | 변경 내용 |
+|------|----------|-------|----------|
+| 1. Load Config | ✓ | P1 | 확장된 fintech.json 로드 (구조 동일, 값 증가) |
+| 2. Web Search | ✓ | P1 | 더 많은 쿼리 (소스·테마·KR 확장). search-strategy.md 비변경 |
+| 3. Curate | ✓ | P2, P3 | 3-block 요약 생성, ★★★ 맥락 fetch, 7일 메모리 조회·강등, Top 5 선정, 메모리 갱신 |
+| 4. Verify | - | - | 변경 없음 |
+| 5. Generate HTML | ✓ | P2, P3 | 3-block 렌더링, Top 5 밴드 섹션 추가 |
+| 6. Archive Cleanup | - | - | 변경 없음 |
+| 7. Deploy | ✓ | P3 | push 파일 목록에 `state/fintech-themes.json` 추가 |
+
+### 4.2 변경 대상 파일
+
+| 파일 | 변경 유형 | Phase |
+|------|----------|-------|
+| `config/fintech.json` | 수정 (값 확장) | P1 |
+| `scripts/curation-rules.md` | 수정 (3-block, 메모리, Top 5 규칙 추가) | P2, P3 |
+| `templates/news.html` | 수정 (3-block + Top 5 밴드 마크업) | P2, P3 |
+| `state/fintech-themes.json` | 신설 | P3 |
+| `site/style.css` | 수정 (Top 5 밴드 + 3-block 스타일) | P2, P3 |
+
+### 4.3 데이터 흐름 (변경 부분만)
+
+```
+Step 3 Curate (P2,P3 적용 후):
+  raw_results
+    → 중복 제거 / 관련성 필터 / 카테고리 분류 (기존)
+    → [P3] 테마 키워드 추출 → state/fintech-themes.json 조회
+    → 중요도 평가 + [P3] 7일 반복 시 ★ -1 강등
+    → [P2] 한국어 번역 + 3-block 요약 생성
+    → [P2] ★★★ 기사: WebFetch로 맥락 보강 → summary_why 강화
+    → [P3] Top 5 선정 (카테고리 횡단)
+    → [P3] state/fintech-themes.json 갱신 (오늘 테마 += 1, 7일 초과분 만료)
+  → curated_articles (with summary_core/detail/why + top5_flag)
+```
+
+### 4.4 `state/fintech-themes.json` 스키마
+
+```json
+{
+  "version": 1,
+  "updated": "2026-05-23",
+  "window_days": 7,
+  "themes": [
+    { "keyword": "stablecoin-genius-act", "first_seen": "2026-05-17", "last_seen": "2026-05-23", "count": 4 },
+    { "keyword": "up-fintech-csrc-penalty", "first_seen": "2026-05-22", "last_seen": "2026-05-23", "count": 2 }
+  ]
+}
+```
+
+- `keyword`: 큐레이션 단계에서 LLM이 기사별로 슬러그 형태 생성 (3~5단어 hyphen-case)
+- `count >= 3` 이면 "반복 테마" 판정 → 신규 기사 ★ -1 강등 후보
+- `last_seen` 기준 8일 경과 시 항목 삭제
+
+### 4.5 Top 5 밴드 HTML 위치
+
+```html
+<main>
+  <!-- NEW: Top 5 band (P3) -->
+  <section class="top5-band">
+    <h2>Today's Top 5</h2>
+    <ol> ... 5개 헤드라인 + 카테고리 태그 + 앵커링크 ... </ol>
+  </section>
+
+  <!-- 기존 카테고리 섹션 (P2 적용으로 3-block 요약) -->
+  <section class="category" id="regulation"> ... </section>
+  ...
+</main>
+```
+
+---
+
+## 5. Implementation Phases
+
+### Phase 1 — 검색 폭 확장 (config-only)
+
+**변경 파일**: `config/fintech.json` 한 개
+
+**작업**:
+1. `layers.L1_authority.sources` 5 → 10~12개 추가
+2. `layers.L2_thematic.queries` 4 → 7~8개 (스테이블코인/RWA, B2B 인프라, 인슈테크, 아시아 추가)
+3. `layers.L3_korean.queries` 3 → 5~6개 (site: 한경/머니투데이/디지털데일리)
+4. `limits.maxSearchCalls` 15 → 25
+5. `limits.targetArticles` {10,20} → {15,25}
+
+**Done 조건**: 다음 자동 실행 후 archive에서 일일 기사 수 ≥ 15, 카테고리 최소 2건 충족 빈도 ≥ 5/7일
+
+**Rollback**: 이전 fintech.json으로 1-line git revert
+
+---
+
+### Phase 2 — 요약 깊이 강화
+
+**변경 파일**: `scripts/curation-rules.md`, `templates/news.html`, `site/style.css`
+
+**작업**:
+1. `curation-rules.md` Step 5 "한국어 번역·요약" 섹션을 3-block 구조로 재작성
+   - `summary_core` — 한 문장, 무엇이 일어났나
+   - `summary_detail` — 두 문장, 핵심 숫자·당사자·시점
+   - `summary_why` — 한두 문장, 왜 중요한가·시사점
+2. 새 Step 5b 추가: ★★★ 기사는 WebFetch로 원문 또는 관련 1건 fetch → `summary_why`에 유사 선례 한 줄 추가
+3. `templates/news.html`의 `<p class="summary">{summary_ko}</p>` 부분을 3개 `<p>` block으로 교체
+4. `style.css`에 3-block 시각 구분 스타일 추가 (`.summary-why`는 좌측 accent border)
+
+**Done 조건**: 다음 실행 후 ★★★ 기사 100%, ★★ 기사 ≥ 80%가 3-block 충족. 시각적으로 "왜 중요한가" 단락이 구분됨
+
+**Rollback**: curation-rules.md / news.html / style.css 각각 git revert
+
+---
+
+### Phase 3 — 7일 메모리 + Top 5 밴드
+
+**변경 파일**: `scripts/curation-rules.md`, `templates/news.html`, `site/style.css`, `state/fintech-themes.json`(신설), `scripts/generate.md`(deploy 목록 1줄)
+
+**작업**:
+1. `state/fintech-themes.json` 초기 빈 파일 생성
+2. `curation-rules.md`에 다음 단계 추가:
+   - Step 3a: 카테고리 분류 직후 테마 키워드 추출 (LLM)
+   - Step 4a: 중요도 평가 직후 메모리 조회 → 반복 테마 ★ -1
+   - Step 6a: Top 5 선정 (★★★ 우선 → 카테고리 다양성 → 한국 1건 보장)
+   - Step 8: 메모리 갱신·만료
+3. `templates/news.html`에 `<section class="top5-band">` 섹션 추가 (main 최상단)
+4. `style.css`에 Top 5 밴드 스타일 추가 (sticky top? 일단 일반 섹션으로)
+5. `scripts/generate.md` Step 7a "푸시할 파일 목록"에 `state/fintech-themes.json` 추가 (한 줄)
+
+**Done 조건**:
+- 메모리 파일이 매일 정상 갱신 (count·last_seen)
+- 7일 초과 항목 자동 삭제
+- 7일 내 동일 테마 반복 시 ★ 강등 동작 확인 (archive 비교)
+- 매일 페이지 상단에 Top 5 밴드 노출
+
+**Rollback**: 파일별 git revert + state 파일 삭제
+
+---
+
+## 6. Risks & Mitigations
+
+| 리스크 | 영향 | 완화책 |
+|--------|------|--------|
+| P1으로 검색 쿼리 증가 → WebSearch 한도 초과 | 일일 실행 실패 | `maxSearchCalls=25`로 cap. 초과 시 L4 소셜부터 스킵 |
+| P2 ★★★ 맥락 fetch 토큰 비용 폭증 | budget 초과 | ★★★ 기사당 WebFetch 1회로 cap, 실패 시 fetch 생략하고 summary_why는 LLM 기반 |
+| P3 메모리 파일 GitHub push 실패 → 7일 윈도우 깨짐 | 강등 로직 무력화 | push 실패해도 다음 회차 LLM이 archive 7일을 재추론할 수 있도록 fallback 명시 |
+| 테마 키워드 슬러그 매칭이 너무 엄격해 강등 안 됨 | "반복" 그대로 | curation-rules에 "유사 키워드 동일 테마로 간주" 판단 가이드 명시 |
+| 강등이 너무 적극적이라 진짜 중요한 후속 뉴스가 강등됨 | 중요 뉴스 누락 | curation-rules에 "새 전개(추가 제재, 후속 딜, 입장 변화)면 강등 보류" 규정 |
+| Top 5와 본문 중복 노출이 산만함 | UX 저하 | Top 5는 헤드라인 + 앵커링크만, 요약은 본문에 한 번만 |
+
+---
+
+## 7. Out of Scope (재확인)
+
+- AI/macro 토픽 동시 적용
+- 주간 트렌드 자동 리포트
+- 임베딩 기반 테마 클러스터링
+- 다국어/영문 미러
+- 사용자 피드백 루프
+- 개별 기사 영구 ID
+- `scripts/generate.md` 골격 변경
+- `scripts/search-strategy.md` 변경
+- `scripts/verification.md` 변경
+
+---
+
+## 8. Brainstorming Log
+
+| 결정 | 근거 |
+|------|------|
+| Approach C 선택 | 빈약함의 원인 5가지가 모두 동시 발생 — 부분 처방으로 만족도 회복 불가 |
+| 일일 브리핑(주) + 트렌드(보조) + 아이디어(약간) | 사용자 직접 응답 — 활용 모드 우선순위 명시 |
+| 검색·요약·메모리를 P1/P2/P3로 분해 | 변경 범위·토큰 비용 분산, 각 단계 효과 별도 관찰 가능 |
+| AI/macro 토픽은 보류 | fintech 검증 후 패턴 이식이 안전. macro는 4-section 구조라 별도 설계 필요 |
+| 메모리는 단순 키워드 빈도로 시작 | 임베딩 기반은 over-engineering. archive 재추론 fallback도 가능 |
+| Top 5 밴드는 헤드라인만 | 본문과의 중복 노출 방지, 30초 스캔 동선 확보 |
+
+---
+
+## 9. Next Steps
+
+1. **사용자 승인** (이 문서 검토)
+2. **/pdca design fintech-enrichment** (선택) — 디자인 문서로 진행하거나 곧바로 Phase 1 do로 이동
+3. **Phase 1 구현** — `config/fintech.json` 확장 + 1회 자동 실행 관찰
+4. **Phase 1 결과 리뷰** — 다음 1~2회 archive 기사 수·카테고리 분포 확인 후 Phase 2 진행 여부 결정
+5. **Phase 2 구현** — 큐레이션·템플릿·CSS 업데이트
+6. **Phase 3 구현** — 메모리·Top 5·deploy 목록 추가
