@@ -70,7 +70,10 @@
                     </button>
                 </h3>
                 <p class="original-title">{title_en}</p>
-                <p class="summary">{summary_ko}</p>
+                <p class="summary-core">{summary_core}</p>
+                <p class="summary-detail">{summary_detail}</p>
+                <!-- summary_why가 비어있지 않을 때만 다음 줄을 포함한다 (빈 값이면 통째 생략) -->
+                <p class="summary-why">{summary_why}</p>
                 <div class="meta">
                     <span class="source">{source_name}</span>
                     <span class="date">{publish_date}</span>
@@ -90,12 +93,25 @@
     function copyArticle(btn) {
         var article = btn.closest('.news-item');
         var link = article.querySelector('h3 a');
-        var summary = article.querySelector('.summary');
         var title = link.textContent.trim();
         var url = link.href;
-        var text = summary.textContent.trim();
 
-        var html = '<a href="' + url + '">' + title + '</a><br><br>' + text;
+        // 3-block 요약 (P2). legacy .summary는 fallback.
+        var core   = article.querySelector('.summary-core');
+        var detail = article.querySelector('.summary-detail');
+        var why    = article.querySelector('.summary-why');
+        var legacy = article.querySelector('.summary');
+        var blocks = [core, detail, why]
+            .map(function(el) { return el ? el.textContent.trim() : ''; })
+            .filter(Boolean);
+        var text = blocks.length
+            ? blocks.join('\n\n')
+            : (legacy ? legacy.textContent.trim() : '');
+
+        var htmlText = blocks.length
+            ? blocks.map(function(b) { return '<p>' + b + '</p>'; }).join('')
+            : (text ? '<p>' + text + '</p>' : '');
+        var html = '<a href="' + url + '">' + title + '</a><br><br>' + htmlText;
         var plain = title + '\n' + url + '\n\n' + text;
 
         navigator.clipboard.write([

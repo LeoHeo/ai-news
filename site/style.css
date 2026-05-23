@@ -164,10 +164,45 @@ header nav a:hover {
     font-style: italic;
 }
 
+/* Legacy single-line summary (pre-P2 archives) */
 .news-item .summary {
     font-size: 0.9em;
     color: #444;
     margin-bottom: 8px;
+}
+
+/* P2 — 3-block summary (core / detail / why) */
+.news-item .summary-core {
+    font-size: 0.95em;
+    font-weight: 600;
+    color: #1a1a1a;
+    line-height: 1.55;
+    margin-bottom: 4px;
+}
+
+.news-item .summary-detail {
+    font-size: 0.9em;
+    color: #555;
+    line-height: 1.55;
+    margin-bottom: 6px;
+}
+
+.news-item .summary-why {
+    font-size: 0.9em;
+    color: #444;
+    line-height: 1.6;
+    border-left: 3px solid #f39c12;  /* ★★ rating accent와 매칭 */
+    padding-left: 12px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    font-style: italic;
+}
+
+/* ★★★ 기사는 why 액센트를 한 톤 강조 */
+.news-item.rating-3 .summary-why {
+    border-left-color: #e74c3c;
+    font-style: normal;
+    color: #333;
 }
 
 .news-item .meta {

@@ -18,18 +18,73 @@
 WebFetch 타임아웃: 10초.
 리다이렉트 추적: 최대 3회.
 
-## Stage 2: 원문 교차검증
+## Stage 2: 원문 교차검증 + ★★★ 맥락 추출
 
 WebFetch로 가져온 원문 페이지 내용을 확인한다.
+이 단계는 **등급별로 fetch prompt를 분기**한다 — ★★★ 기사는 검증 + 추가 맥락 추출까지 한 번에 수행하여 별도 API 호출을 발생시키지 않는다.
 
-검증 항목:
-1. **요약 정확성**: `summary_ko`의 내용이 원문과 일치하는가?
-   - 날짜, 수치, 기업명, 제품명 등 팩트가 맞는지 확인
-   - 불일치 발견 시: 원문 기준으로 `summary_ko`를 수정
-   - 수정 불가능할 정도의 불일치: 해당 뉴스 **제외**
+### 등급별 분기 로직
+
+```
+for each article:
+    if article.rating_level == 3:    # ★★★
+        prompt = 〈A. ★★★ 확장 프롬프트〉
+        result = WebFetch(article.original_url, prompt)
+        # result는 verify 결과 + context_fragment 포함
+        article.summary_why = (article.summary_why + " " + result.context_fragment).strip()
+    else:                            # ★★, ★
+        prompt = 〈B. 표준 verify 프롬프트〉
+        result = WebFetch(article.original_url, prompt)
+```
+
+### A. ★★★ 확장 프롬프트
+
+```
+Confirm this URL is live and the title/publish-date match what we have:
+  - expected_title_en: "{title_en}"
+  - expected_publish_date: "{publish_date}"
+
+Additionally, extract from the article body any of:
+  (a) 유사 선례 / 과거 사례 — "이전 X 사건과 같이…"
+  (b) 진행 중 트렌드 연결 — "Y 흐름의 한 축이다…"
+  (c) 경쟁사·관련 당사자 움직임 인용
+
+Return:
+  - verify_status: "match" | "mismatch" | "unreadable"
+  - corrected_title (if mismatch and correctable, else "")
+  - corrected_date (if mismatch and correctable, else "")
+  - context_fragment: single Korean fragment 60~80자
+    suitable to append to summary_why,
+    or empty string if nothing extractable / paywalled.
+```
+
+### B. 표준 verify 프롬프트 (★★, ★)
+
+```
+Confirm this URL is live and the title/publish-date match:
+  - expected_title_en: "{title_en}"
+  - expected_publish_date: "{publish_date}"
+
+Return:
+  - verify_status: "match" | "mismatch" | "unreadable"
+  - corrected_title (if mismatch and correctable, else "")
+  - corrected_date (if mismatch and correctable, else "")
+```
+
+### 검증 항목 (등급 무관 공통)
+
+1. **팩트 일치**: 제목·발행일·핵심 수치/기관명이 원문과 일치하는가?
+   - 불일치 + 수정 가능: 원문 기준으로 `title_*`, `publish_date`, 그리고 가능하면 `summary_core/detail`을 보정
+   - 불일치 + 수정 불가: 해당 뉴스 **제외**
 
 2. **시의성**: 기사 발행일이 최근 24시간 이내인가?
    - 24시간 초과: 해당 뉴스 **제외**
+
+### ★★★ context_fragment 처리
+
+- 비어있음 (paywall, 추출 실패, 공허한 표현 자기검열): `summary_why`는 LLM 시사점만으로 유지
+- 정상 추출: `summary_why`의 마지막에 한 칸 띄우고 append
+- ★★★ 5건 중 fragment 포함률이 50% 미만이면 curation 단계 경고 출력 (페이지는 정상 발행)
 
 ## Stage 3: 메타데이터 완전성
 
