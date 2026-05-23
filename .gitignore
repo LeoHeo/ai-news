@@ -13,3 +13,4 @@ Thumbs.db
 
 # bkit state
 .bkit/
+.claude/
