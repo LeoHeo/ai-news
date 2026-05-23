@@ -194,22 +194,128 @@ Step 3 Curate (P2,P3 적용 후):
 
 ---
 
-### Phase 2 — 요약 깊이 강화
+### Phase 2 — 요약 깊이 강화 (상세 설계)
 
-**변경 파일**: `scripts/curation-rules.md`, `templates/news.html`, `site/style.css`
+**변경 파일 4개**: `scripts/curation-rules.md`, `scripts/verification.md`, `templates/news.html`, `site/style.css` (+`generate.md` 비변경)
 
-**작업**:
-1. `curation-rules.md` Step 5 "한국어 번역·요약" 섹션을 3-block 구조로 재작성
-   - `summary_core` — 한 문장, 무엇이 일어났나
-   - `summary_detail` — 두 문장, 핵심 숫자·당사자·시점
-   - `summary_why` — 한두 문장, 왜 중요한가·시사점
-2. 새 Step 5b 추가: ★★★ 기사는 WebFetch로 원문 또는 관련 1건 fetch → `summary_why`에 유사 선례 한 줄 추가
-3. `templates/news.html`의 `<p class="summary">{summary_ko}</p>` 부분을 3개 `<p>` block으로 교체
-4. `style.css`에 3-block 시각 구분 스타일 추가 (`.summary-why`는 좌측 accent border)
+#### 2.1 3-block 요약 스키마
 
-**Done 조건**: 다음 실행 후 ★★★ 기사 100%, ★★ 기사 ≥ 80%가 3-block 충족. 시각적으로 "왜 중요한가" 단락이 구분됨
+| Block | 역할 | 분량 | 톤 |
+|-------|------|------|-----|
+| `summary_core` | 무엇이 일어났나 — 사실 한 줄 | 50~80자 (1문장) | 헤드라인 확장형, 동사 능동 |
+| `summary_detail` | 숫자·당사자·시점 | 100~180자 (2문장) | 객관 사실, 6하원칙 중 최소 2개 |
+| `summary_why` | 왜 중요한가 — 시사점·맥락 | 80~150자 (1~2문장) | 해석/연결, "~을 시사한다", "~의 변곡점", "~ 흐름과 맞물려" |
 
-**Rollback**: curation-rules.md / news.html / style.css 각각 git revert
+기존 `summary_ko` 필드는 폐기. 한 페이지 내 `summary_why` 누락 30% 초과 시 큐레이션 품질 경고.
+
+**가드레일 — 공허한 표현 금지**: "주목할 만하다", "트렌드의 일부다", "흥미롭다"
+
+#### 2.2 등급별 적용 매트릭스
+
+| 등급 | core | detail | why | ★★★ fetch 맥락 |
+|------|------|--------|-----|---------------|
+| ★★★ | 필수 | 필수 | 필수 (강도↑) | 필수 (Step 4 Stage 2에서 통합 처리) |
+| ★★ | 필수 | 필수 | 필수 (강도 보통) | — |
+| ★ | 필수 | 필수 | 선택 — 자연스러운 연결고리가 있을 때만 | — |
+
+- `summary_why` 빈 값일 때 renderer는 해당 `<p class="summary-why">` 블록 자체를 생략
+- ★★★인데 `summary_why` 누락 → ★★로 강등
+
+#### 2.3 ★★★ 맥락 fetch 구현 (별도 호출 없음)
+
+**핵심**: 기존 Step 4 Verify의 Stage 2 WebFetch를 등급별 분기로 확장 — **추가 API 호출 0건**.
+
+★★★용 fetch prompt:
+```
+Confirm this URL is live and title/publish-date match.
+Additionally extract any of:
+  (a) 유사 선례 / 과거 사례
+  (b) 진행 중 트렌드 연결
+  (c) 경쟁사·관련 당사자 움직임 인용
+Return single Korean fragment (60~80자) or empty string.
+```
+
+★★/★용 fetch prompt: 기존 verify-only 유지.
+
+추출된 fragment는 `summary_why`의 마지막 절로 합쳐짐:
+```
+summary_why = "{LLM이 작성한 시사점}. {fetch fragment}"
+```
+
+**실패 처리**:
+| 상황 | 동작 |
+|------|------|
+| paywall → 추출 실패 | fragment = "" → LLM 시사점만 |
+| Fetch 타임아웃 | 기존과 동일: 기사 제외 |
+| 공허한 fragment | LLM 자기 검열로 빈 값 반환 |
+| ★★★ 5건 중 fetch context 0건 | 페이지는 정상 발행, curation 단계 경고만 |
+
+**비용**: ★★★ 5건/일 × 추가 400토큰 = +2,000토큰/일 ≈ 무시할 수준.
+
+#### 2.4 파일별 변경 구조
+
+**`scripts/curation-rules.md`** — Step 5 재작성 + Output 섹션 확장 (~40~50라인)
+- 기존 "한국어 번역·요약" → "한국어 번역·3-block 요약"
+- 3-block 스키마, 등급별 매트릭스, 가드레일 명시
+- Output 필드 목록: `summary_core/detail/why` 추가, `summary_ko` 폐기
+
+**`scripts/verification.md`** — Stage 2 등급별 분기 (~15~20라인)
+- rating_level == 3 시 확장 prompt, 그 외 기존 prompt
+- 추출된 fragment를 `summary_why`에 append
+
+**`templates/news.html`** — line 73 교체 + copyArticle() 수정 (~10라인)
+- `<p class="summary">{summary_ko}</p>` → 3개 블록
+- `summary_why_block` 조건부 placeholder (빈 값이면 통째 생략)
+- copyArticle()이 3블록을 결합해 클립보드 텍스트 생성
+
+**`site/style.css`** — 3개 클래스 추가 (~20라인)
+```css
+.news-item .summary-core { font-weight: 600; line-height: 1.55; }
+.news-item .summary-detail { color: #666; line-height: 1.55; margin-top: 6px; }
+.news-item .summary-why {
+  border-left: 3px solid #f39c12;  /* ★★ accent와 매칭 */
+  padding-left: 12px;
+  margin-top: 10px;
+  font-style: italic;
+  color: #444;
+}
+```
+기존 `.summary` 클래스는 **legacy fallback로 유지** (90일 archive 호환).
+
+#### 2.5 Done 기준 (구체 수치)
+
+| 측정 | 목표 |
+|------|------|
+| ★★★ 기사 3-block 충족률 | 100% |
+| ★★ 기사 3-block 충족률 | ≥ 80% |
+| ★★★ `summary_why` fetch fragment 포함률 | ≥ 50% (paywall 비율 고려) |
+| 공허한 표현 발생 | 0건 |
+| 전체 `summary_why` 누락 | < 30% |
+
+평가: P2 배포 후 첫 1회 자동 실행 결과 채점.
+
+#### 2.6 마이그레이션 / 롤백
+
+- **마이그레이션**: 기존 90일 archive 비변경. `.summary` legacy 스타일 유지로 두 포맷 자연 공존
+- **롤백 3-stage**: 
+  - Stage 1: `style.css`만 revert (시각만 되돌림)
+  - Stage 2: 4개 파일 일괄 revert (단일 summary 복귀)
+  - Stage 3: P1까지 revert (가장 보수적)
+- P2를 단일 커밋(혹은 명확한 commit-range)으로 묶어 푸시 — `git revert` 한 번으로 복귀 가능하도록
+
+#### 2.7 P2 Dry-run 프로토콜
+
+1. 4개 파일 로컬 수정
+2. 수동 dry-run으로 `site/fintech/dry-run/2026-05-NN.html` 재생성
+3. 3-block 의도대로 나오는지, summary_why 공허하지 않은지 육안 확인
+4. OK → 커밋 + push (P1과 동일하게 `git reset --hard` 이슈 회피)
+
+#### 2.8 범위 외 (P2)
+
+- AI/macro 토픽 동일 적용 (P3 안정화 후 별도 결정)
+- 외부 RAG/임베딩
+- 새 카테고리 신설
+- 모바일 전용 CSS 최적화
 
 ---
 
