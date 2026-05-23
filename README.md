@@ -1,6 +1,6 @@
 # News Daily
 
-매일 글로벌 AI/핀테크 뉴스를 자동 수집 · 큐레이션하여 GitHub Pages로 배포하는 개인용 뉴스레터.
+매일 글로벌 AI / 핀테크 / 매크로 브리핑을 자동 수집 · 큐레이션하여 GitHub Pages로 배포하는 개인용 뉴스레터.
 
 **Live Site**: https://leoheo.github.io/ai-news
 
@@ -8,6 +8,7 @@
 
 | Topic | Schedule (KST) | Categories |
 |-------|:--------------:|------------|
+| Macro | 07:30 | Global, US, Europe, China, Japan, Korea, Crypto, Bonds, Commodities, IT/Tech |
 | AI | 08:00 | Models, Products, Research, Industry, Regulation |
 | Fintech | 08:30 | Payments, Remittance, Digital Banking, Lending, Regulation, Investment |
 
@@ -38,7 +39,8 @@ ai-news/
 └── site/             ← 자동 생성 (GitHub Pages deploy)
     ├── assets/       ← OG 이미지 (동적 생성)
     ├── ai/           ← AI 뉴스
-    └── fintech/      ← 핀테크 뉴스
+    ├── fintech/      ← 핀테크 뉴스
+    └── macro/        ← 글로벌 매크로 브리핑 (4-section)
 ```
 
 ## SEO
