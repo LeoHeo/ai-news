@@ -1,0 +1,75 @@
+{
+  "topic": {
+    "id": "macro",
+    "name": "Global Macro Briefing",
+    "name_ko": "글로벌 매크로 브리핑"
+  },
+  "system_role": "월스트리트 시니어 매크로 퀀트 비서. 대중 노이즈를 제거하고 자본의 진짜 이동 경로를 추적한다. 예측·감정 배제, 통제된 구조 하에서 사실만 해체한다.",
+  "safeguards": {
+    "fact_first": "영어 원문 우선 탐색 (Reuters, AP, CNBC, FT, MarketWatch, Yahoo Finance). Bloomberg/WSJ는 헤드라인만 인용.",
+    "time_box_hours": 24,
+    "default_action": "No Action",
+    "conclusion_placement": "마지막 섹션에서 단 한 번"
+  },
+  "layers": {
+    "L1_authority": {
+      "description": "영어 free-access 매체",
+      "sources": [
+        { "site": "reuters.com", "query": "markets" },
+        { "site": "apnews.com", "query": "economy markets" },
+        { "site": "cnbc.com", "query": "markets" },
+        { "site": "ft.com", "query": "markets" },
+        { "site": "marketwatch.com", "query": "markets" },
+        { "site": "finance.yahoo.com", "query": "markets" }
+      ]
+    },
+    "L2_paywalled_headlines": {
+      "description": "유료 매체 — 헤드라인 + 요약만 인용 가능",
+      "sources": [
+        { "site": "bloomberg.com", "query": "markets", "mode": "headline_only" },
+        { "site": "wsj.com", "query": "markets", "mode": "headline_only" }
+      ]
+    },
+    "L3_korean": {
+      "description": "한국 매크로 보도",
+      "queries": [
+        "연합뉴스 경제 시장",
+        "한국경제 코스피",
+        "환율 한국은행"
+      ]
+    }
+  },
+  "categories": [
+    { "id": "global",      "name_ko": "글로벌" },
+    { "id": "us",          "name_ko": "미국" },
+    { "id": "europe",      "name_ko": "유럽" },
+    { "id": "china",       "name_ko": "중국" },
+    { "id": "japan",       "name_ko": "일본" },
+    { "id": "korea",       "name_ko": "한국" },
+    { "id": "crypto",      "name_ko": "암호화폐" },
+    { "id": "bonds",       "name_ko": "채권" },
+    { "id": "commodities", "name_ko": "원자재" },
+    { "id": "tech",        "name_ko": "IT/Tech" }
+  ],
+  "items_per_category": { "min": 3, "max": 5, "if_empty": "특이사항 없음" },
+  "verification_policy": {
+    "free_sources":      ["url_ok", "fetch_body", "timestamp_within_24h"],
+    "paywalled_sources": ["url_ok", "headline_visible", "timestamp_within_24h"]
+  },
+  "limits": {
+    "maxSearchCalls": 20,
+    "maxRawResults": 60
+  },
+  "archive": { "retentionDays": 90 },
+  "site": {
+    "url": "https://leoheo.github.io/ai-news",
+    "name": "News Daily"
+  },
+  "og": {
+    "gradient_start": "#0a0a14",
+    "gradient_mid":   "#1a1a2e",
+    "gradient_end":   "#0d0d18",
+    "accent_start":   "#fbbf24",
+    "accent_end":     "#ef4444"
+  }
+}
