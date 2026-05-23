@@ -8,6 +8,7 @@
 |-------|--------|----------|------------|
 | AI | config/ai.json | 08:00 KST | Models, Products, Research, Industry, Regulation |
 | Fintech | config/fintech.json | 08:30 KST | Payments, Remittance, Digital Banking, Lending, Regulation, Investment |
+| Macro | config/macro.json | 07:30 KST | Global, US, Europe, China, Japan, Korea, Crypto, Bonds, Commodities, IT/Tech |
 
 ## Key Rules
 - site/ 디렉토리는 자동 생성됨 — 수동 편집 금지
@@ -17,6 +18,8 @@
 - config/{topic}.json에서 토픽별 검색 소스·카테고리·필터·OG 색상 관리
 - 모든 뉴스는 3단계 검증 필수 (URL → 원문 → 메타데이터)
 - 모든 페이지에 SEO 메타 태그 필수 (OG + Twitter Cards + JSON-LD)
+- macro 토픽은 4-section 브리핑 (Sector Facts → PEST → Falsification → Executive Summary). 출력 구조가 ai/fintech와 다르므로 별도 prompt(scripts/generate-macro.md)와 별도 템플릿(templates/news-macro.html)을 사용
+- config/{topic}.json schema는 토픽별 polymorphic — 각 토픽 config는 자신의 orchestrator가 읽는 필드만 포함. ai/fintech는 categories에 name/description/relevance_filter/ratings/targetArticles 포함, macro는 그것들 대신 system_role/safeguards/verification_policy/items_per_category 포함
 
 ## Site Structure
 ```
@@ -29,8 +32,11 @@ site/
 ├── ai/
 │   ├── index.html      ← 오늘의 AI 뉴스
 │   └── archive/
-└── fintech/
-    ├── index.html      ← 오늘의 핀테크 뉴스
+├── fintech/
+│   ├── index.html      ← 오늘의 핀테크 뉴스
+│   └── archive/
+└── macro/
+    ├── index.html      ← 오늘의 글로벌 매크로 브리핑 (4-section)
     └── archive/
 ```
 
