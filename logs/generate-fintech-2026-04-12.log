@@ -1,0 +1,27 @@
+=== fintech News Daily: 2026-04-12 08:33:05 ===
+All 7 steps complete. Here's the summary:
+
+---
+
+**Fintech News Daily 2026-04-12 파이프라인 완료**
+
+**수집·큐레이션 결과: 12건**
+
+| 카테고리 | 건수 | 주요 뉴스 |
+|---------|------|---------|
+| Payments | 3 | 임베디드 결제 90% 제공, 한국 선불충전금 1조원, Circle CPN 출시 |
+| Remittance | 2 | 한국 해외송금 대개혁(★★★), 미국 1% 송금세 영향 |
+| Digital Banking | 2 | Klarna P2P 네오뱅크 전환, 토스·네이버페이 얼굴결제 경쟁 |
+| Lending | 1 | Klarna 17억달러 SRT 거래 완료 |
+| Regulation | 2 | 임베디드 금융 미국 규제, 2026년 DORA·PSD3·오픈뱅킹 이슈 |
+| Investment | 2 | Q1 2026 글로벌 핀테크 VC 120억달러(★★★), 미국 핀테크 M&A 성숙화 |
+
+**생성 파일:**
+- `site/fintech/index.html` — 오늘의 뉴스 페이지 (갱신)
+- `site/fintech/archive/2026-04-12.html` — 아카이브 날짜 페이지 (신규)
+- `site/fintech/archive/index.html` — 아카이브 목록 (2026-04-12 항목 추가)
+- `site/index.html` — 홈 카드 날짜/건수 업데이트
+- `site/assets/og-fintech-2026-04-12.png` — OG 이미지 (SVG→PNG 변환)
+
+**배포:** `main` 브랜치에 푸시 완료 (`bab781f`)
+=== Completed: 08:51:33 ===

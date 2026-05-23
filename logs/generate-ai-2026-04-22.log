@@ -1,0 +1,19 @@
+=== ai News Daily: 2026-04-22 08:05:38 ===
+All 7 steps complete. Today's AI news (2026-04-22) has been deployed to GitHub Pages.
+
+**Summary — 10 articles curated and published:**
+
+| Category | Articles |
+|----------|---------|
+| **Models** | ★★★ OpenAI ChatGPT Images 2.0 출시 |
+| **Products** | ★★ Anthropic Mythos 무단 접근 / ★★ YouTube AI 초상권 감지 확대 / ★ Bond 소셜 플랫폼 / ★ Latitude Voyage / ★ GRAI 음악 리믹스 |
+| **Industry** | ★★★ SpaceX·Cursor 600억 달러 딜 / ★★★ Project Prometheus 100억 달러 투자 / ★★ NeoCognition $40M 시드 |
+| **Regulation** | ★★ Clarifai·OkCupid FTC 합의 |
+
+**Files generated:**
+- `site/ai/index.html` — 오늘의 AI 뉴스 페이지
+- `site/ai/archive/2026-04-22.html` — 아카이브 날짜 페이지
+- `site/ai/archive/index.html` — 목록 최상단에 오늘 날짜 추가
+- `site/index.html` — 홈 카드 날짜·건수 업데이트
+- `site/assets/og-ai-2026-04-22.png` — OG 이미지
+=== Completed: 08:40:56 ===

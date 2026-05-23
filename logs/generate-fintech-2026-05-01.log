@@ -1,0 +1,27 @@
+=== fintech News Daily: 2026-05-01 08:33:50 ===
+All 7 steps complete. Here's a summary of what was produced and deployed:
+
+---
+
+**2026-05-01 Fintech News — Pipeline Complete**
+
+**Articles (6건, 4 categories):**
+
+| Category | Article | Rating |
+|----------|---------|--------|
+| Payments | OnePay × Tempo 블록체인 스테이블코인 결제 출시 | ★★ |
+| Payments | 2026년 4월 한국 간편결제 브랜드평판 (네이버페이 1위) | ★ |
+| Digital Banking | **Mercury, OCC 은행 면허 조건부 승인** | ★★★ |
+| Digital Banking | SoFi 1분기 회원 1,470만명 돌파, 매출 $1.1B | ★★ |
+| Lending | Kashable Goldman Sachs 주도 $60M Series C | ★★ |
+| Investment | **OppFi, BNC Bank $1.3억 인수 (은행 차터 확보)** | ★★★ |
+
+**참고:** 5월 1일은 전 세계 노동절(Labour Day)로 해외 주요 매체 발행이 적었습니다. 수집된 뉴스는 4월 28~30일 발행분 중 검증을 통과한 기사입니다.
+
+**Files deployed:**
+- `site/fintech/index.html` — 오늘의 뉴스
+- `site/fintech/archive/2026-05-01.html` — 아카이브
+- `site/fintech/archive/index.html` — 아카이브 목록 업데이트
+- `site/index.html` — 메인 페이지 업데이트
+- `site/assets/og-fintech-2026-05-01.png` — OG 이미지
+=== Completed: 08:46:16 ===

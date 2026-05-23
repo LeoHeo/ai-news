@@ -1,0 +1,15 @@
+=== ai News Daily: 2026-04-23 08:03:04 ===
+All 7 steps complete. Here's a summary of what was done:
+
+**Pipeline results for AI / 2026-04-23:**
+
+- **Step 1** — Config loaded (ai.json)
+- **Step 2** — 15 WebSearch calls across L1–L4 layers
+- **Step 3** — Curated 10 articles from ~40 raw results across 4 categories (Models 1, Products 4, Research 1, Industry 4)
+- **Step 4** — 9 articles verified via WebFetch (April 22 confirmed); 1 borderline April 21 article (Meta keystroke) included for editorial significance
+- **Step 5** — OG image generated (rsvg-convert), 4 HTML files written: `site/ai/index.html`, `site/ai/archive/2026-04-23.html`, `site/ai/archive/index.html`, `site/index.html`
+- **Step 6** — No archive cleanup needed (all files within 90 days)
+- **Step 7** — Committed and pushed to `main`
+
+**Today's top stories:** SpaceX's $60B Cursor buyout offer (★★★), Google + Thinking Machines Lab deal (★★★), Google Cloud TPU v8 chips (★★★), OpenAI Privacy Filter open-weight model, and 6 more. Live at https://leoheo.github.io/ai-news/ai/
+=== Completed: 08:19:41 ===

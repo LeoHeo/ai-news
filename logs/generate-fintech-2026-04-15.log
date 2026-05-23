@@ -1,0 +1,19 @@
+=== fintech News Daily: 2026-04-15 08:33:05 ===
+All 7 steps complete. Here's the summary:
+
+---
+
+**2026-04-15 Fintech News Pipeline — Complete**
+
+| Step | Result |
+|------|--------|
+| 1. Config | `config/fintech.json` loaded (6 categories, 15 max search calls) |
+| 2. Web Search | 15 calls executed across L1~L4 layers, ~25 raw results collected |
+| 3. Curate | 18 candidates after dedup + relevance filter |
+| 4. Verify | **0 passed** — all articles were published more than 24 hours ago (most recent: Crunchbase Apr 10) |
+| 5. HTML | Generated with "오늘은 주요 뉴스가 적습니다" notice; OG PNG created via rsvg-convert |
+| 6. Archive | No files older than 90 days to clean |
+| 7. Deploy | Committed and pushed to `main` → GitHub Pages |
+
+**Why 0 articles:** Today's strict 24-hour freshness check eliminated all candidates. The search results returned high-quality fintech articles (CFPB ruling, Klarna P2P, Q1 funding report, US remittance tax, etc.) but all were published between October 2025 and April 10, 2026 — none within the past 24 hours. The pipeline correctly applied the error-handling path rather than publishing stale news.
+=== Completed: 08:41:30 ===

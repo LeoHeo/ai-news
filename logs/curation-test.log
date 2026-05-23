@@ -1,0 +1,109 @@
+Warning: no stdin data received in 3s, proceeding without it. If piping from a slow command, redirect stdin explicitly: < /dev/null to skip, or wait longer.
+Now I have all search results. Let me compile and apply the curation rules.
+
+---
+
+## Search Results
+- **Total raw results: 26건**
+- L1: 8건 (TechCrunch 4, VentureBeat 4 / Verge·Reuters·arXiv 결과 없음 또는 목록 페이지만 반환)
+- L2: 10건 (OpenAI/Anthropic 3, 투자 3, 규제 4, 벤치마크 3 — 일부 중복 포함)
+- L3: 8건 (한국 AI 뉴스 3, 네이버·카카오 2, 스타트업 3)
+- L4: 0건 (Reddit 검색 결과 없음; HN 10개 링크는 모두 자체 토론 스레드 — 외부 링크 포스트 해당 없음)
+
+---
+
+## Curation Applied
+
+**Step 1 — 중복 제거:**
+- OpenAI $3B 펀딩: TechCrunch(L1)와 L2 투자 쿼리 양쪽에서 수집 → L1 유지
+- 백악관 AI 프레임워크: 법무법인 분석 7건 → Holland & Knight 원문 1건만 유지
+- Q1 2026 VC 투자: Crunchbase 2건(전체·파운데이션 특화) → 전체 통계 1건 유지
+- **After dedup: 22건**
+
+**Step 2 — 관련성 필터:**
+- 제외: CES 2026 혁신상(1월 행사, 90일 이상 전), 기업별 예측/트렌드 기사(AI 실질 내용 부재), Texas TRAIGA(백악관 프레임워크와 동일 규제 흐름으로 독립 뉴스 가치 미달), Meta AI 음성번역(링크 불완전)
+- **After relevance filter: 15건**
+
+**Step 6 — 선별 우선순위:**
+- ★★★ 4건 + L1~L3 ★★ 6건 = 10건 (최소 충족)
+- ★ 3건 추가로 13건 확정 (10~20 범위 충족)
+- **Final selection: 13건**
+
+---
+
+## Priority Rules Applied
+
+**★★★ included (무조건):**
+1. Microsoft, AI 경쟁자 겨냥 3개 파운데이션 모델 공개
+2. OpenAI, 소매 투자자 30억 달러 조달 — 총 1,220억 달러 역대 최대 펀딩
+3. Q1 2026 글로벌 VC 투자 3,000억 달러 사상 최고 — AI 80% 차지
+4. 백악관, 국가 AI 정책 프레임워크 공개
+
+**L1~L3 ★★ included (우선):**
+5. Nvidia DGX Station, 조 파라미터 AI 구동 데스크톱 슈퍼컴 출시 (VentureBeat, L1)
+6. z.ai, 에이전트·코딩용 GLM-5 Turbo 출시 (VentureBeat, L1)
+7. CrowdStrike·Cisco·Palo Alto, RSAC 2026서 에이전틱 SOC 도구 일제 출시 (VentureBeat, L1)
+8. LLM 기반 에이전트, 임상 의사결정에서 유의미한 성과 — npj Digital Medicine (L2)
+9. 한국 정부 '인공지능 3강 도약' 선도기업 국제 성장 지원 강화 (L3)
+10. 네이버·카카오, 에이전틱 AI로 지도·검색 서비스 방어 나선다 (L3)
+
+**L4 ★★ included (보충):** 없음 (L1~L3에서 이미 커버, Reddit 검색 결과 없음)
+
+**★ included (채움 — 10건 미달로 3건 추가):**
+11. 2026 로컬 코딩 모델 벤치마크: Claude Opus 4.6 SWE-Bench 80.8% 1위 (dasroot.net, L2)
+12. 기상청, GPU 확보로 AI 기상예보 전환 가속화 (L3)
+13. 한국 AI 스타트업 5곳, 실리콘밸리 코리아 콘퍼런스에서 글로벌 데뷔 (L3)
+
+**Removed by priority:** 없음 (13건으로 10~20 범위 내 — 초과 제거 불필요)
+
+---
+
+## Final Articles (sorted by category → rating)
+
+### Models
+| Rating | Category | 제목 (출처, Layer) |
+|--------|----------|-------------------|
+| ★★★ | Models | **Microsoft, AI 경쟁자 겨냥한 3개 파운데이션 모델 공개** — Microsoft가 OpenAI·Google에 맞서 자체 개발 파운데이션 모델 3종을 공개했다. 빅테크 간 AI 모델 군비경쟁이 더욱 치열해지는 신호탄으로 평가된다. (TechCrunch, L1) |
+| ★★ | Models | **z.ai, 에이전트·코딩 특화 GLM-5 Turbo 출시 — 빠르고 저렴하지만 비오픈소스** — z.ai가 에이전트 작업과 코딩에 최적화한 GLM-5 Turbo를 공개했다. 속도·비용 효율을 크게 개선했으나 오픈소스는 아니라 커뮤니티 반응이 엇갈린다. (VentureBeat, L1) |
+
+### Products
+| Rating | Category | 제목 (출처, Layer) |
+|--------|----------|-------------------|
+| ★★ | Products | **Nvidia DGX Station, 클라우드 없이 조(兆) 파라미터 AI 구동하는 데스크톱 슈퍼컴 출시** — GTC 2026에서 공개된 DGX Station은 20페타플롭스·748GB 메모리를 탑재해 트릴리언 파라미터급 모델을 로컬에서 실행한다. 엔터프라이즈 AI 인프라 패러다임 변화가 예상된다. (VentureBeat, L1) |
+| ★★ | Products | **CrowdStrike·Cisco·Palo Alto, RSAC 2026서 에이전틱 SOC 도구 일제 출시 — 행동 기준선 격차는 여전** — 세 보안 대기업이 RSAC 2026에서 일제히 에이전틱 보안운영센터(SOC) 도구를 선보였다. 다만 에이전트 행동 텔레메트리 기준선 부재라는 공통 취약점이 지적된다. (VentureBeat, L1) |
+| ★★ | Products | **네이버·카카오, 에이전틱 AI로 지도·검색 서비스 방어 나선다** — 네이버는 '에이전트N', 카카오는 '카나나'를 중심으로 에이전틱 AI 전략을 강화해 지도·검색 핵심 서비스 경쟁력 유지에 나섰다. 두 플랫폼 모두 AI 에이전트를 기존 서비스에 통합하는 방향으로 전략을 전환 중이다. (SouthKoreanNetwork, L3) |
+| ★ | Products | **기상청, 첨단 GPU 대거 확보로 AI 기상예보 전환(AX) 가속화** — 한국 기상청이 최신 GPU를 확보해 기상 예보의 AI 전환을 본격화한다고 발표했다. AI 기상 예측 모델 도입으로 예보 정확도와 신속성이 향상될 것으로 기대된다. (보험AI뉴스/다자비, L3) |
+
+### Research
+| Rating | Category | 제목 (출처, Layer) |
+|--------|----------|-------------------|
+| ★★ | Research | **LLM 기반 에이전트 시스템, 임상 의사결정 과제에서 유의미한 성과 — npj Digital Medicine** — Nature 계열 학술지 npj Digital Medicine에 게재된 연구에서 LLM 에이전트가 복수의 임상 의사결정 과제를 수행하며 기존 시스템을 유의미하게 상회하는 성능을 보였다. AI의 의료 현장 도입 가능성을 뒷받침하는 연구다. (npj Digital Medicine, L2) |
+| ★ | Research | **2026 로컬 코딩 모델 벤치마크: Claude Opus 4.6 SWE-Bench 80.8%·Kimi K2 LiveCodeBench 83.1% 1위** — 2026년 로컬 배포 가능한 코딩 모델을 종합 비교한 벤치마크에서 Claude Opus 4.6이 SWE-Bench 80.8%로 에이전틱 소프트웨어 엔지니어링 1위를 기록했다. Kimi K2 Thinking은 LiveCodeBench 83.1%로 실시간 코드 생성 부문 선두를 차지했다. (dasroot.net, L2) |
+
+### Industry
+| Rating | Category | 제목 (출처, Layer) |
+|--------|----------|-------------------|
+| ★★★ | Industry | **OpenAI, 소매 투자자로부터 30억 달러 추가 조달 — 총 펀딩 규모 1,220억 달러 사상 최대** — 아직 상장 전인 OpenAI가 소매 투자자 대상으로 30억 달러를 추가 조달해 총 펀딩 규모가 1,220억 달러에 달했다. 이는 비상장 기업 역대 최대 규모다. (TechCrunch, L1) |
+| ★★★ | Industry | **Q1 2026 글로벌 VC 투자 3,000억 달러 사상 최고 — AI 스타트업이 전체 80%(2,420억 달러) 흡수** — 2026년 1분기 전 세계 벤처 투자액이 3,000억 달러를 돌파해 분기 사상 최고치를 기록했다. OpenAI·Anthropic·xAI·Waymo 4개 사가 단독으로 1,880억 달러를 끌어모으며 전체의 65%를 차지했다. (Crunchbase, L2) |
+| ★ | Industry | **한국 AI 스타트업 5곳, 실리콘밸리 코리아 콘퍼런스에서 글로벌 데뷔** — 가디언AI(Nvidia GTC 2026 포스터 발표), 레티튜, 모노플렉스, 에이슬립, 한국F&B파트너스 등 5개 AI 스타트업이 실리콘밸리 무대에서 첫 선을 보였다. (미주중앙일보, L3) |
+
+### Regulation
+| Rating | Category | 제목 (출처, Layer) |
+|--------|----------|-------------------|
+| ★★★ | Regulation | **백악관, 국가 AI 정책 프레임워크 공개 — 연방 단일 규제로 주(州) 법률 선점 추진** — 백악관이 2026년 3월 20일 국가 AI 정책 프레임워크를 공개하고 의회에 입법 권고안을 제출했다. 별도의 AI 규제 기관 신설 없이 기존 분야별 규제 기관을 활용하고, 주(州) AI 법률을 연방법으로 선점해 파편화된 규제를 방지하는 것이 핵심이다. (Holland & Knight, L2) |
+| ★★ | Regulation | **한국 정부, '인공지능 3강 도약 실현' 선포 — AI 선도기업 국제 성장·지식재산 경쟁력 집중 지원** — 한국 지식재산처가 세계 AI 3대 강국 도약을 목표로 AI 선도기업의 해외 진출과 지식재산(IP) 경쟁력 강화 지원 계획을 발표했다. 기업 국제화와 IP 전략을 연계한 패키지 지원이 특징이다. (보험AI뉴스/다자비, L3) |
+
+Sources:
+- [Microsoft takes on AI rivals with three new foundational models](https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/)
+- [OpenAI, not yet public, raises $3B from retail investors](https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/)
+- [Nvidia's DGX Station desktop supercomputer](https://venturebeat.com/infrastructure/nvidias-dgx-station-is-a-desktop-supercomputer-that-runs-trillion-parameter)
+- [z.ai GLM-5 Turbo model](https://venturebeat.com/technology/z-ai-debuts-faster-cheaper-glm-5-turbo-model-for-agents-and-claws-but-its)
+- [RSAC 2026 Agentic SOC tools](https://venturebeat.com/security/rsac-2026-agentic-soc-agent-telemetry-security-gap)
+- [Q1 2026 Shatters Venture Funding Records](https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/)
+- [White House National Policy Framework for AI](https://www.hklaw.com/en/insights/publications/2026/03/white-house-releases-a-national-policy-framework-for-artificial)
+- [Benchmarking Local Coding Models in 2026](https://dasroot.net/posts/2026/03/benchmarking-local-coding-models-2026/)
+- [LLM benchmarking for clinical decision tasks](https://www.nature.com/articles/s41746-026-02443-6)
+- [한국 AI 3강 도약 선도기업 지원](https://dazabi.com/insurance_magazine/article.php?id=12318)
+- [Naver and Kakao Bet on Agentic AI](https://www.southkoreannetwork.com/2026/03/ai-naver-and-kakao-bet-on-agentic-ai-to.html)
+- [기상청 AI 전환 가속화](https://dazabi.com/insurance_magazine/article.php?id=12336)
+- [한국 스타트업 실리콘밸리 데뷔](https://www.koreadaily.com/article/20260331234901610)

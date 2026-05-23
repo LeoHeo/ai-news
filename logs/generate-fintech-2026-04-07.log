@@ -1,0 +1,22 @@
+=== fintech News Daily: 2026-04-07 08:33:05 ===
+All 7 steps complete.
+
+**Summary — 2026-04-07 Fintech News**
+
+| Step | Result |
+|------|--------|
+| Config loaded | fintech.json, 6 categories, 15 max searches |
+| Web search | 35 raw results from 15 L1–L4 searches |
+| Curation | 12 articles across 5 categories |
+| Verification | 7 PYMNTS/Paypers articles confirmed; FinTech Futures/Block accepted from trusted sources |
+| HTML generated | index.html + archive/2026-04-07.html + archive/index.html + site/index.html + OG PNG |
+| Archive cleanup | No files older than 90 days |
+| Deployed | Pushed to main → GitHub Pages |
+
+**12 curated articles:**
+- **Regulation (2):** Coinbase OCC trust company criticism ★★★, Revolut Italy €11.5M fine ★★★
+- **Digital Banking (3):** Trump accounts (Robinhood/BNY) ★★★, Monzo US exit ★★★, N26 new CEO ★★
+- **Remittance (1):** SWIFT + Consensys blockchain ★★★
+- **Payments (3):** CFOs stablecoin interest ★★, Nacha fraud rules ★★, SMB payments modernization ★
+- **Investment (3):** Goldman private credit fund ★★, OceanFirst $579m merger ★★, Robinhood 7% layoffs ★★
+=== Completed: 08:57:06 ===

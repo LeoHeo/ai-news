@@ -1,0 +1,10 @@
+=== ai News Daily: 2026-04-29 08:03:05 ===
+All 7 steps complete. Today's AI news (2026-04-29) has been deployed to GitHub Pages.
+
+**Summary:**
+- **15 articles** curated across 5 categories: Models (3), Products (2), Research (3), Industry (5), Regulation (2)
+- **4 ★★★ stories**: DeepSeek V4 launch, Google $40B Anthropic investment, Ineffable Intelligence $1.1B seed, Microsoft-OpenAI exclusivity deal dissolved
+- **OG image** generated via `rsvg-convert` and deployed
+- **Files updated**: `site/ai/index.html`, `site/ai/archive/2026-04-29.html`, `site/ai/archive/index.html`, `site/index.html`, `site/assets/og-ai-2026-04-29.png`
+- Pushed to `main` → live at `https://leoheo.github.io/ai-news/ai/`
+=== Completed: 08:23:48 ===

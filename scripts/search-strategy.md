@@ -1,59 +1,42 @@
-# 3-Layer Web Search Strategy
+# 4-Layer Web Search Strategy
 
-> Design Ref: §3.2 — 3-Layer 검색 전략
+> Design Ref: §3.2 — 4-Layer 검색 전략 (멀티토픽)
 
 ## Overview
 
-글로벌 AI 뉴스를 3개 레이어로 검색하여 30~50건의 raw results를 수집한다.
-최대 WebSearch 호출 15회. 각 레이어의 쿼리를 순서대로 실행한다.
+토픽별 뉴스를 4개 레이어로 검색하여 30~50건의 raw results를 수집한다.
+최대 WebSearch 호출 횟수는 config의 `limits.maxSearchCalls`를 따른다.
+각 레이어의 쿼리를 순서대로 실행한다.
 
-## Layer 1: 권위 소스 직접 타겟 (5회)
+**토픽 config**: `config/{topic}.json`의 `layers` 섹션을 참조한다.
 
-주요 테크 미디어를 site: 연산자로 직접 검색한다.
+## Layer 1: 권위 소스 직접 타겟
 
-config/sources.json의 `L1_authority.sources`를 읽어 각 소스별로 WebSearch를 실행한다:
+주요 매체를 site: 연산자로 직접 검색한다.
+
+config의 `layers.L1_authority.sources`를 읽어 각 소스별로 WebSearch를 실행한다:
 
 ```
 WebSearch("site:{site} {query}")
 ```
 
-소스 목록:
-1. `site:techcrunch.com AI`
-2. `site:theverge.com AI artificial intelligence`
-3. `site:venturebeat.com AI`
-4. `site:arxiv.org AI machine learning`
-5. `site:reuters.com artificial intelligence`
+## Layer 2: 테마별 정밀 검색
 
-## Layer 2: 테마별 정밀 검색 (4회)
+주요 테마별로 정밀 검색한다. `{today}`는 오늘 날짜(YYYY-MM-DD)로 치환한다.
 
-주요 기업, 분야별로 테마 검색한다. `{today}`는 오늘 날짜(YYYY-MM-DD)로 치환한다.
+config의 `layers.L2_thematic.queries`를 읽어 각 쿼리를 실행한다.
 
-config/sources.json의 `L2_thematic.queries`를 읽어 각 쿼리를 실행한다:
+## Layer 3: 한국 뉴스
 
-1. `OpenAI OR Anthropic OR Google DeepMind {today}`
-2. `AI startup funding investment {today}`
-3. `AI regulation policy government {today}`
-4. `large language model benchmark {today}`
+한국어 뉴스를 검색한다.
 
-## Layer 3: 한국 AI 뉴스 (3회)
+config의 `layers.L3_korean.queries`를 읽어 실행한다.
 
-한국어 AI 뉴스를 검색한다.
+## Layer 4: 소셜미디어 커뮤니티
 
-config/sources.json의 `L3_korean.queries`를 읽어 실행한다:
+Reddit과 Hacker News에서 커뮤니티가 검증한 뉴스를 검색한다.
 
-1. `AI 인공지능 뉴스 오늘`
-2. `네이버 카카오 삼성 AI`
-3. `한국 AI 스타트업`
-
-## Layer 4: 소셜미디어 커뮤니티 (3회)
-
-Reddit과 Hacker News에서 커뮤니티가 검증한 AI 뉴스를 검색한다.
-
-config/sources.json의 `L4_social.queries`를 읽어 실행한다:
-
-1. `site:reddit.com/r/MachineLearning AI`
-2. `site:reddit.com/r/artificial OR site:reddit.com/r/LocalLLaMA OR site:reddit.com/r/singularity AI`
-3. `site:news.ycombinator.com AI`
+config의 `layers.L4_social.queries`를 읽어 실행한다.
 
 ### 소셜미디어 신뢰도 필터
 

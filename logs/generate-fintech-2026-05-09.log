@@ -1,0 +1,25 @@
+=== fintech News Daily: 2026-05-09 08:40:48 ===
+Failed to authenticate. API Error: 401 Invalid authentication credentials
+=== Completed: 08:40:57 ===
+=== fintech News Daily: 2026-05-09 08:50:18 ===
+All 7 steps complete. Here's a summary of what was executed:
+
+**Pipeline Results — fintech / 2026-05-09**
+
+| Step | Result |
+|------|--------|
+| 1. Load Config | fintech.json loaded — 6 categories, 15 max searches |
+| 2. Web Search | 15 searches across L1–L4 layers |
+| 3. Curate | 9 articles across 4 categories (Payments 2, Digital Banking 2, Regulation 2, Investment 3) |
+| 4. Verify | WebFetch validation on all included URLs; 403'd sources excluded |
+| 5. Generate HTML | OG PNG + index.html + archive/2026-05-09.html + archive/index.html + site/index.html |
+| 6. Archive Cleanup | No files >90 days old — skipped |
+| 7. Deploy | Committed and pushed to `main` |
+
+**Top stories curated:**
+- ★★★ Payward (Kraken) acquires Reap for $600M — stablecoin payment infra (May 8)
+- ★★★ PayPal splits into 3 divisions including standalone Venmo & Crypto (Apr 29)
+- ★★★ Bullish acquires Equiniti for $4.2B — blockchain capital markets (May 5)
+- ★★ Chime data breach by Team 313 hacktivist group, 3 lawsuits (May 6)
+- ★★ US Senate stablecoin yield bill — banks vs crypto industry (May 6)
+=== Completed: 09:10:42 ===

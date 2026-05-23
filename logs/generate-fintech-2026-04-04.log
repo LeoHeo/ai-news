@@ -1,0 +1,26 @@
+=== fintech News Daily: 2026-04-04 17:04:30 ===
+All 7 steps complete. Pipeline summary:
+
+**Step 1** — Loaded `config/fintech.json` (6 categories, 15 max search calls)
+
+**Step 2** — Executed 15 WebSearch calls across 4 layers (L1: 5 authority sources, L2: 4 thematic, L3: 3 Korean, L4: 3 social)
+
+**Step 3** — Curated 10 articles from ~40 raw results across 5 active categories (digital-banking had 0, skipped)
+
+**Step 4** — Verified URLs via WebFetch; 2 returned 403 (excluded), 1 returned CSS only (excluded); final 10 articles passed Stage 1-3
+
+**Step 5** — Generated 4 HTML files:
+- `site/fintech/index.html` — today's news (10건)
+- `site/fintech/archive/2026-04-04.html` — archive copy
+- `site/fintech/archive/index.html` — new archive index
+- `site/index.html` — updated fintech card with today's date
+
+**Step 6** — No archives older than 90 days found
+
+**Step 7** — Committed and pushed to `main`
+
+Top stories curated:
+- ★★★ CFPB 오픈뱅킹 의무화 마감일 법원 보류 (April 1, 2026)
+- ★★★ Capital One, Brex $5.15B 인수 (B2B fintech M&A)
+- ★★★ 미국 해외송금 1% 과세 법제화 (effective Jan 2026)
+=== Completed: 17:19:32 ===

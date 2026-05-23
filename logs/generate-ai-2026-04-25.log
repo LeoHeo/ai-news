@@ -1,0 +1,19 @@
+=== ai News Daily: 2026-04-25 08:03:05 ===
+All 7 steps complete. Here's a summary of what was deployed:
+
+**2026-04-25 AI 뉴스 — 9건**
+
+| 카테고리 | 건수 | 주요 기사 |
+|---|---|---|
+| Models | 2건 | DeepSeek V4 프리뷰 ★★★, GPT-5.5 출시 ★★★ |
+| Products | 2건 | Google Chrome AI 업무 조력자, Google Maps AI 강화 |
+| Industry | 3건 | Tencent·Alibaba DeepSeek 투자 협상 ★★★, 업스테이지 IPO, WIS2026 정부 1.2조 지원 |
+| Regulation | 2건 | 영국 국가 사이버방어 AI 협력 요청, 힌턴 유엔 AI 경고 |
+
+**배포된 파일:**
+- `site/ai/index.html` — 오늘의 뉴스 페이지 (갱신)
+- `site/ai/archive/2026-04-25.html` — 아카이브 (신규)
+- `site/ai/archive/index.html` — 아카이브 목록 (갱신)
+- `site/index.html` — 홈 카드 (갱신)
+- `site/assets/og-ai-2026-04-25.png` — OG 이미지 (신규)
+=== Completed: 08:16:27 ===

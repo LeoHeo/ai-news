@@ -1,0 +1,10 @@
+=== fintech News Daily: 2026-04-05 08:33:05 ===
+All 7 steps complete.
+
+**Pipeline summary:**
+- **28 raw results** collected across 15 searches (L1–L4)
+- **15 curated articles** selected across 5 categories (Payments ★★★×2+★★×2, Digital Banking ★★★×1+★★×1, Lending ★★×1, Regulation ★★★×1+★★×2, Investment ★★★×2+★★×3)
+- **4 files written**: `site/fintech/index.html`, `site/fintech/archive/2026-04-05.html`, `site/fintech/archive/index.html`, `site/index.html`
+- **No 90-day cleanup** needed
+- **Deployed** to `main` (commit `f89efa9`)
+=== Completed: 08:51:06 ===

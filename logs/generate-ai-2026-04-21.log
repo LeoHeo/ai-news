@@ -1,0 +1,22 @@
+=== ai News Daily: 2026-04-21 08:03:05 ===
+All 7 steps complete. Here's what was done:
+
+**2026-04-21 AI 뉴스 — 12건 큐레이션 완료**
+
+| 카테고리 | 기사 | 비고 |
+|----------|------|------|
+| Models (3건) | Grok 4.3 출시 ★★★, DeepSeek-V4 출시 예측 ★★, GPT-이미지-2 임박 ★★ | |
+| Products (2건) | 구글 Gemini Chrome 7개국 확대 ★★, 로보티즈 AI 사피엔스 ★★ | |
+| Research (1건) | OpenMythos 오픈소스 ★★ | |
+| Industry (5건) | 팀 쿡 퇴임 ★★★, 아마존 AI 스프롤 ★★, Deezer 44% AI음악 ★★, Fermi 경영진 퇴진 ★★, 네이버-타타 MOU ★★ | |
+| Regulation (1건) | NSA Anthropic Mythos 도입 ★★★ | |
+
+**생성 파일:**
+- `site/ai/index.html` — 오늘의 AI 뉴스
+- `site/ai/archive/2026-04-21.html` — 아카이브
+- `site/ai/archive/index.html` — 아카이브 목록 업데이트 (2026-04-21 최상단 추가)
+- `site/index.html` — 메인 페이지 (AI 뉴스 12건으로 업데이트)
+- `site/assets/og-ai-2026-04-21.png` — OG 이미지 (rsvg-convert 생성)
+
+GitHub Pages에 배포 완료 (`1c5dcd5`).
+=== Completed: 08:17:06 ===

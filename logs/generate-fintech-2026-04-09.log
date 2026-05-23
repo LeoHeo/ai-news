@@ -1,0 +1,29 @@
+=== fintech News Daily: 2026-04-09 08:33:05 ===
+Pipeline complete. Here's a summary of what was executed:
+
+---
+
+**7-Step Pipeline — fintech / 2026-04-09 ✅**
+
+| Step | Status | Notes |
+|------|--------|-------|
+| 1. Load Config | ✅ | fintech.json loaded, 15 search calls budget |
+| 2. Web Search | ✅ | 15 queries across L1-L4 layers |
+| 3. Curate | ✅ | 9 articles from 30+ raw results |
+| 4. Verify | ✅ | All 9 articles WebFetch-verified |
+| 5. Generate HTML | ✅ | index, archive/2026-04-09, archive/index, site/index |
+| 5-meta. OG Image | ✅ | og-fintech-2026-04-09.png generated via rsvg-convert |
+| 6. Archive Cleanup | ✅ | No files older than 90 days |
+| 7. Deploy | ✅ | Pushed to main |
+
+**9건 큐레이션 결과:**
+- **Digital Banking ★★★** — Monzo 미국 철수 (Banking Dive)
+- **Digital Banking ★★** — Chime Prime 멤버십 출시 (PYMNTS)
+- **Payments ★★** — Trustly 1억 2천만 명 달성 (PYMNTS)
+- **Payments ★★** — Neo Financial, Interac 결제망 합류 (BetaKit, Apr 8)
+- **Lending ★★★** — Cash App P2P BNPL 최초 도입 (PYMNTS)
+- **Regulation ★★★** — Coinbase OCC 신탁은행 조건부 승인 (PYMNTS)
+- **Investment ★★** — 중동 핀테크 투자 인프라 전환 (PYMNTS)
+- **Investment ★★** — Bolt 1/3 직원 해고, AI 전략 전환 (PYMNTS)
+- **Investment ★** — Fintech Americas 2026 마이애미 성료 (The Fintech Times)
+=== Completed: 08:51:39 ===

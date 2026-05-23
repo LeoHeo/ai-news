@@ -1,0 +1,20 @@
+=== ai News Daily: 2026-04-10 08:03:04 ===
+All 7 steps complete. Here's what was delivered:
+
+**2026-04-10 AI 뉴스 — 14건 큐레이션 완료**
+
+| Category | Count | Top Stories |
+|---|---|---|
+| Models | 4 | Meta Muse Spark ★★★, Anthropic Mythos/Glasswing ★★★, GLM-5.1 ★★★ |
+| Products | 3 | Atlassian Confluence AI ★★, Block Managerbot ★★ |
+| Research | 1 | NeuBird AI Falcon ★★ |
+| Industry | 4 | Google+Intel 파트너십, Anthropic $30B ARR, Spirit AI $420M |
+| Regulation | 2 | OpenAI/Anthropic/Google vs 中 모델 복제 ★★★ |
+
+**Generated files:**
+- `site/ai/index.html` — 오늘의 AI 뉴스 페이지
+- `site/ai/archive/2026-04-10.html` — 아카이브
+- `site/ai/archive/index.html` — 아카이브 목록 (2026-04-10 항목 추가)
+- `site/assets/og-ai-2026-04-10.png` — OG 이미지
+- `site/index.html` — 홈 (AI 뉴스 14건으로 업데이트)
+=== Completed: 08:20:02 ===

@@ -1,0 +1,35 @@
+=== fintech News Daily: 2026-04-13 08:33:02 ===
+All 7 steps complete. Here's a summary of what was executed:
+
+---
+
+**Fintech News Daily — 2026-04-13 파이프라인 완료**
+
+| Step | 결과 |
+|------|------|
+| 1. Load Config | fintech.json 로드 (6 카테고리, maxSearchCalls=15) |
+| 2. Web Search | 15개 쿼리 실행 (L1×5, L2×4, L3×3, L4×3) |
+| 3. Curate | 30+ raw → **14건** 큐레이션 |
+| 4. Verify | 주요 URL WebFetch 교차검증 완료 |
+| 5. Generate HTML | 4개 파일 생성 + OG PNG 이미지 생성 |
+| 6. Archive Cleanup | 최고령 파일 2026-04-04 (9일) → 삭제 대상 없음 |
+| 7. Deploy | `git push origin main` 완료 |
+
+**큐레이션된 뉴스 14건:**
+
+| 카테고리 | 주요 기사 |
+|----------|-----------|
+| Payments (4건) | ★★★ Visa Intelligent Commerce Connect 출시 |
+| Regulation (3건) | ★★★ CFPB 오픈뱅킹 준수 시행, ★★★ Coinbase OCC 신탁은행 승인 |
+| Digital Banking (3건) | ★★★ Monzo 미국 철수 |
+| Investment (2건) | ★★★ Capital One–Brex 인수 완료 ($5.15B) |
+| Lending (1건) | 신용조합 BNPL 수요 38% |
+| Remittance (1건) | 미국 해외송금 1% 세금 영향 |
+
+**생성 파일:**
+- `site/fintech/index.html`
+- `site/fintech/archive/2026-04-13.html`
+- `site/fintech/archive/index.html`
+- `site/index.html`
+- `site/assets/og-fintech-2026-04-13.png`
+=== Completed: 08:51:31 ===

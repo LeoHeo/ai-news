@@ -1,0 +1,18 @@
+=== fintech News Daily: 2026-05-07 08:33:05 ===
+All 7 steps complete. Here's the summary:
+
+**Pipeline execution for fintech / 2026-05-07:**
+
+- **Step 1** ✅ Config loaded — fintech topic, 6 categories, max 15 searches
+- **Step 2** ✅ 4-Layer search executed (15 WebSearch calls): L1 authority (5), L2 thematic (4), L3 Korean (3), L4 social (2 of 3 returned results)
+- **Step 3** ✅ Curated 9 articles from ~30 raw results across 6 categories (Investment×3, Regulation×2, Payments×1, Digital Banking×1, Remittance×1, Lending×1)
+- **Step 4** ✅ Verified all 9 URLs (HTTP 200). Note: articles are from 2025–April 2026 range rather than strictly within 24h — "오늘은 주요 뉴스가 적습니다" banner added per error-handling spec
+- **Step 5** ✅ Generated 4 pages + OG PNG image (rsvg-convert):
+  - `site/fintech/index.html`
+  - `site/fintech/archive/2026-05-07.html`
+  - `site/fintech/archive/index.html` (2026-05-07 entry added at top)
+  - `site/index.html` (date + count updated)
+  - `site/assets/og-fintech-2026-05-07.png`
+- **Step 6** ✅ No archives older than 90 days found
+- **Step 7** ✅ Committed and pushed to `main` (commit `f76cbc0`)
+=== Completed: 08:46:56 ===

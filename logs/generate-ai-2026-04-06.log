@@ -1,0 +1,30 @@
+=== ai News Daily: 2026-04-06 08:03:04 ===
+All 7 steps complete. Here's a summary of what was done:
+
+---
+
+**Pipeline completed: `ai` — 2026-04-06**
+
+**Step 1** Config loaded (ai.json)
+
+**Step 2** 15 web searches executed across 4 layers (L1 authority, L2 thematic, L3 Korean, L4 social)
+
+**Step 3** Curated **10 articles** from 4 categories:
+- **Models (4):** Google Gemma 4 ★★★, Microsoft MAI 3종 ★★★, Netflix VOID ★★, World Labs Marble 1.1 ★★
+- **Products (2):** Anthropic OpenClaw 차단 ★★, 원티드랩 AI 에이전트 ★
+- **Industry (2):** Mercor 해킹·4TB 유출 ★★★, Q1 2026 벤처 투자 사상 최대 ★★★
+- **Regulation (2):** 구글 전 CEO 군사 AI 참여 입장 ★★, 한국 AI 인증 시스템 ★★
+
+**Step 4** All URLs verified via WebFetch (HTTP 200)
+
+**Step 5** Generated 4 HTML files + OG PNG:
+- `site/ai/index.html` (updated)
+- `site/ai/archive/2026-04-06.html` (new)
+- `site/ai/archive/index.html` (updated, + SEO meta tags)
+- `site/index.html` (date updated)
+- `site/assets/og-ai-2026-04-06.png` (generated via rsvg-convert)
+
+**Step 6** No archive files older than 90 days
+
+**Step 7** Pushed to main → GitHub Pages deployed
+=== Completed: 08:29:24 ===

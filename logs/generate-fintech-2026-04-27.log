@@ -1,0 +1,22 @@
+=== fintech News Daily: 2026-04-27 08:33:04 ===
+All 7 steps complete. Here's the summary:
+
+**2026-04-27 Fintech News Daily — Pipeline Complete**
+
+**10 articles curated across 6 categories:**
+- **Regulation (3)** ★★★ UK FinTech Week payments package / FCA Open Finance roadmap | ★★ CFC stablecoin risk warning
+- **Remittance (1)** ★★★ US 1% remittance excise tax proposed regs (Form 720 due April 30)
+- **Digital Banking (1)** ★★★ Monzo exits US, pivots to Europe + IPO
+- **Payments (2)** ★★ Mastercard 500M financial inclusion initiative / Credit card app spending study
+- **Lending (1)** ★★ Salmon $100M Philippines digital credit
+- **Investment (2)** ★★★ Q1 2026 global fintech funding $12B / ★★ Record VC valuations report
+
+**Files generated:**
+- `site/assets/og-fintech-2026-04-27.png` (OG image)
+- `site/fintech/index.html` (today's news)
+- `site/fintech/archive/2026-04-27.html` (archive copy)
+- `site/fintech/archive/index.html` (updated with today's entry)
+- `site/index.html` (updated fintech count to 10건)
+
+**Deployed:** `a4952b0` pushed to `main` → GitHub Pages.
+=== Completed: 08:53:21 ===

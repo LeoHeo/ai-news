@@ -1,0 +1,26 @@
+=== ai News Daily: 2026-05-09 08:17:23 ===
+Failed to authenticate. API Error: 401 Invalid authentication credentials
+=== Completed: 08:24:11 ===
+=== ai News Daily: 2026-05-09 08:50:18 ===
+All 7 steps complete. Here's the summary:
+
+---
+
+**2026-05-09 AI 뉴스 파이프라인 완료**
+
+**수집 결과:** 15개 WebSearch 호출 → 8건 최종 검증 통과
+
+| 카테고리 | 기사 수 | 주요 뉴스 |
+|---------|--------|----------|
+| Industry | 5건 | Anthropic/OpenAI 합작법인 ★★★, 미 국방부 AI 계약 ★★★, AI 투자 560억달러, AI 경제 병목, 업스테이지 다음 인수 |
+| Products | 1건 | Google AI 건강 코치 ($9.99/월) |
+| Research | 1건 | 하버드 AI 응급 진단 연구 |
+| Regulation | 1건 | G7 AI 책임 혁신 허브 |
+
+**제외 사유:**
+- VentureBeat 4건: HTTP 429 (Stage 1 실패, 규칙상 완전 제외)
+- CNBC 2건: HTTP 403 (Stage 1 실패)
+- Models 카테고리 0건 → 섹션 생략
+
+**생성 파일:** `site/ai/index.html`, `site/ai/archive/2026-05-09.html`, OG 이미지 PNG, archive index 업데이트, site/index.html 업데이트 → `git push origin main` 완료
+=== Completed: 09:04:32 ===

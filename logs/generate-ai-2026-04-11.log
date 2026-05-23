@@ -1,0 +1,25 @@
+=== ai News Daily: 2026-04-11 08:03:05 ===
+All 7 steps complete. Here's the summary:
+
+---
+
+**2026-04-11 AI 뉴스 파이프라인 완료**
+
+**수집:** 15건 (April 10-11 검증 기사)
+
+| 카테고리 | 건수 | 주요 뉴스 |
+|---------|------|---------|
+| Models | 1 | 전 DeepMind 연구원, 시각적 AI 스타트업 Elorian 창업 |
+| Products | 4 | 월스트리트 은행들 Mythos 테스트 ★★★, Project Glasswing, ChatGPT Pro $100 |
+| Industry | 6 | OpenAI Stargate 임원 4명 퇴사 ★★★, TSMC +35%, CoreWeave-Meta $21B, Cisco-Astrix 인수 |
+| Regulation | 4 | CIA 전 분석 플랫폼 AI 통합 ★★★, VP Vance AI 브리핑, OpenAI 피해자 소송 |
+
+**생성된 파일:**
+- `site/ai/index.html` — 오늘의 뉴스 페이지
+- `site/ai/archive/2026-04-11.html` — 아카이브 사본
+- `site/ai/archive/index.html` — 아카이브 목록 업데이트 (8건)
+- `site/index.html` — 홈 카드 업데이트
+- `site/assets/og-ai-2026-04-11.png` — OG 이미지
+
+**배포:** `9cafa68` → `main` push 완료
+=== Completed: 08:20:27 ===

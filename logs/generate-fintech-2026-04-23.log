@@ -1,0 +1,21 @@
+=== fintech News Daily: 2026-04-23 08:33:05 ===
+All 7 steps complete. Here's what was done:
+
+**Pipeline Summary — Fintech News 2026-04-23**
+
+| Step | Result |
+|------|--------|
+| 1. Load Config | `config/fintech.json` loaded (6 categories, 15 max searches) |
+| 2. Web Search | 15 searches across L1–L4 layers executed |
+| 3. Curate | 10 articles selected across 4 categories |
+| 4. Verify | All URLs confirmed via WebFetch; dates validated |
+| 5. Generate HTML | index + archive page + archive index + site index updated; OG image generated via rsvg-convert |
+| 6. Archive Cleanup | No files older than 90 days found |
+| 7. Deploy | Committed and pushed to `main` |
+
+**10 curated articles:**
+- **Payments (3):** EBANX Money20/20 Asia expansion ★★★, Paymentology/Change Australia ★★, Monk $25M Series A ★★
+- **Digital Banking (3):** Revolut $200B IPO target ★★★, Mission Lane bank charter ★★, Seapoint €7.5M seed ★
+- **Regulation (2):** UK fintech payments modernization package ★★★, Money20/20 Asia Policy20 summit ★★
+- **Investment (2):** Plata $405M Series C at $5B valuation ★★★, Slash Financial $100M unicorn ★★★
+=== Completed: 08:49:53 ===

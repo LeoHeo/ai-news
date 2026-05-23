@@ -1,0 +1,23 @@
+=== fintech News Daily: 2026-04-21 08:33:05 ===
+All 7 steps complete. Here's a summary of what was deployed:
+
+**2026-04-21 핀테크 뉴스 — 8건 큐레이션**
+
+| 카테고리 | 기사 | 중요도 |
+|---|---|---|
+| **Payments** | PayDo C2B 정산 계좌 출시 | ★★ |
+| **Payments** | 즉시결제의 진짜 장벽은 '사람' | ★★ |
+| **Payments** | Coinbase Agentic.Market 출시 | ★★ |
+| **Payments** | 보험사 결제 현대화 수익 분석 | ★ |
+| **Digital Banking** | 리볼루트 IPO 2028년 이후 연기 (기업가치 75조) | ★★★ |
+| **Digital Banking** | Visa, Pismo로 은행 AI 인프라 재편 | ★★ |
+| **Lending** | SMB 43%, 할부 결제 서비스 비용 지불 의향 | ★★ |
+| **Lending** | 담보부 신용카드의 부활 | ★ |
+
+**생성된 파일:**
+- `site/assets/og-fintech-2026-04-21.png` (OG 이미지)
+- `site/fintech/index.html` (오늘의 뉴스)
+- `site/fintech/archive/2026-04-21.html` (아카이브)
+- `site/fintech/archive/index.html` (아카이브 목록 업데이트)
+- `site/index.html` (홈 카드 업데이트)
+=== Completed: 08:47:27 ===

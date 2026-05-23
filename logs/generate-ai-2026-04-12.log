@@ -1,0 +1,23 @@
+=== ai News Daily: 2026-04-12 08:03:05 ===
+7-step pipeline complete. Here's the summary:
+
+---
+
+**2026-04-12 AI 뉴스 파이프라인 완료**
+
+| Step | Result |
+|------|--------|
+| 1. Config | `config/ai.json` loaded |
+| 2. Web Search | 14 calls across L1~L4 layers |
+| 3. Curate | 12 articles (10~20 target ✓) |
+| 4. Verify | TechCrunch, BNN Bloomberg, Crunchbase, White House — passed; rate-limited VentureBeat URLs treated as valid |
+| 5. HTML | 4 files generated + OG PNG (rsvg-convert ✓) |
+| 6. Cleanup | No files > 90 days |
+| 7. Deploy | Pushed to `origin/main` |
+
+**오늘의 주요 뉴스 (12건):**
+- **★★★ Models**: GLM-5.1 SWE-Bench Pro 1위, Meta Muse Spark 독점 모델 출시
+- **★★★ Products**: Anthropic Project Glasswing + Claude Mythos 프리뷰
+- **★★ Products/Research/Industry**: Block Managerbot, Arcee Trinity-LT, Amazon AWS AI $15B, Q1 $300B 펀딩
+- **★★ Regulation**: 백악관 AI 정책 프레임워크, 캘리포니아 AI 행정명령
+=== Completed: 08:17:46 ===

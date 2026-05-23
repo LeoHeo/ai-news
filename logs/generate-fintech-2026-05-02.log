@@ -1,0 +1,28 @@
+=== fintech News Daily: 2026-05-02 08:33:05 ===
+All 7 steps complete. Here's the summary:
+
+**Pipeline executed for fintech / 2026-05-02:**
+
+- **Step 1** Config loaded (6 categories, 15 max search calls)
+- **Step 2** 15 web searches across L1–L4 layers
+- **Step 3** Curated 6 verified articles from 4 categories
+- **Step 4** Verified all 6 URLs — publication dates confirmed (April 10–May 1, 2026)
+- **Step 5** Generated:
+  - `site/assets/og-fintech-2026-05-02.png` (SVG→PNG via rsvg-convert)
+  - `site/fintech/index.html` — today's fintech page
+  - `site/fintech/archive/2026-05-02.html` — archive copy
+  - `site/fintech/archive/index.html` — updated with today's entry
+  - `site/index.html` — updated fintech card to 2026-05-02
+- **Step 6** No archives older than 90 days found
+- **Step 7** Committed and pushed to `main`
+
+**Today's 6 articles:**
+| Category | Rating | Article |
+|---|---|---|
+| Payments | ★★ | Adyen acquires Talon.One for €750M |
+| Digital Banking | ★★ | FinTechs cut staff (Bolt 33%, Block 40%) |
+| Regulation | ★★★ | India RBI revokes Paytm Payments Bank license |
+| Investment | ★★★ | FinTech M&A wave: Mastercard/BVNK $1.8B, Stripe, AmEx, etc. |
+| Investment | ★★ | Goldwise (ex-Royal Mint) launches fractional precious metals |
+| Investment | ★★ | Q1 2026 global fintech funding: $12B, deals down 32% |
+=== Completed: 08:50:42 ===

@@ -1,0 +1,23 @@
+=== fintech News Daily: 2026-04-29 08:33:05 ===
+All 7 steps complete. Pipeline summary for **fintech 2026-04-29**:
+
+| Step | Result |
+|------|--------|
+| Load Config | fintech.json loaded |
+| Web Search | 15 searches across L1–L4 layers |
+| Curate | 2 verified articles (오늘은 주요 뉴스가 적습니다 notice applied per < 5건 rule) |
+| Verify | Both pass URL validity + content cross-check + metadata completeness |
+| Generate HTML | index.html, archive/2026-04-29.html, archive/index.html, site/index.html, OG PNG |
+| Archive Cleanup | No files older than 90 days |
+| Deploy | Pushed to `main` → `0ee9c9a` |
+
+**Articles published today:**
+- **Remittance ★★** — "2026 해외송금 시장 보고서: 향후 5년간 3,100억 달러 이상 성장 전망" (GlobeNewswire, 2026-04-28)
+- **Regulation ★★** — "금감원, AI로 불법 핀플루언서 잡는다…'24시간 감시체계 가동'" (이투데이, 2026-04-28)
+
+Today's fintech news was slim — April 29 turned out to be a relatively quiet day for new fintech articles, so the low-count notice was triggered per the error-handling rules.
+
+Sources:
+- [Remittance Market Report 2026 — GlobeNewswire](https://www.globenewswire.com/news-release/2026/04/28/3282916/28124/en/remittance-market-report-2026-total-revenue-expected-to-grow-by-310-billion-over-the-next-five-years.html)
+- [금감원 AI 핀플루언서 — 이투데이](https://www.etoday.co.kr/news/view/2579793)
+=== Completed: 08:46:22 ===

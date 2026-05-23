@@ -1,0 +1,26 @@
+=== ai News Daily: 2026-04-13 08:03:05 ===
+All 7 steps complete. Here's the summary:
+
+---
+
+**2026-04-13 AI 뉴스 배포 완료**
+
+**큐레이션 결과: 9건**
+
+| 카테고리 | 건수 | 주요 기사 |
+|---------|------|---------|
+| Models | 3★★★ | Meta Muse Spark, GLM-5.1 SWE-Bench 1위, Anthropic Mythos |
+| Products | 3 | Meta AI 앱 스토어 5위, Poke AI 에이전트, Google Edge Eloquent |
+| Research | 1 | NVIDIA 물리 AI / Isaac GR00T |
+| Industry | 1★★★ | Q1 2026 AI 투자 $300B 사상 최대 |
+| Regulation | 1 | 글로벌 AI 규제 후퇴 현상 & 한국-아세안 협력 |
+
+**생성 파일:**
+- `site/ai/index.html` — 오늘의 뉴스 페이지
+- `site/ai/archive/2026-04-13.html` — 아카이브
+- `site/ai/archive/index.html` — 아카이브 목록 (2026-04-13 추가)
+- `site/index.html` — 홈 날짜·건수 업데이트
+- `site/assets/og-ai-2026-04-13.png` — OG 이미지
+
+커밋 `bc1a10e` → `main` 푸시 완료.
+=== Completed: 08:18:25 ===

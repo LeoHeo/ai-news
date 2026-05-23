@@ -1,0 +1,22 @@
+=== ai News Daily: 2026-04-16 08:03:02 ===
+모든 7단계 파이프라인 완료. 배포 결과:
+
+**2026-04-16 AI 뉴스 12건 큐레이션 완료**
+
+| 단계 | 결과 |
+|------|------|
+| Step 1: Config 로드 | ai.json 확인, 15회 검색 한도 |
+| Step 2: 4-Layer 검색 | L1(5) + L2(4) + L3(3) + L4(2) = 14회 |
+| Step 3: 큐레이션 | 20+ raw → 12건 선별 |
+| Step 4: 검증 | URL 확인, 요약 교차검증, 날짜 확인 |
+| Step 5: HTML 생성 | index.html, 2026-04-16.html, archive/index.html, site/index.html, OG 이미지 |
+| Step 6: 아카이브 정리 | 삭제 대상 없음 (90일 이내) |
+| Step 7: 배포 | `ca7162f` → main 푸시 완료 |
+
+**카테고리별 큐레이션 결과:**
+- **Models (2):** Anthropic Project Glasswing ★★★, Arcee Trinity-Large-Thinking 399B ★★
+- **Products (1):** Allbirds → NewBird AI ★
+- **Research (3):** 스탠퍼드 AI 인덱스 2026 ★★, Nature 인간 vs AI 에이전트 ★★, PwC AI 경제 연구 ★★
+- **Industry (3):** Q1 벤처 투자 3,000억 달러 ★★★, 업스테이지 한국 AI 유니콘 ★★, OpenAI Hiro 인수 ★★
+- **Regulation (3):** 백악관 AI 정책 프레임워크 ★★, OpenAI·Anthropic·Google 중국 대응 ★★, 캘리포니아 행정 명령 ★
+=== Completed: 08:19:03 ===
