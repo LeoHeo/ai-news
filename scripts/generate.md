@@ -15,10 +15,11 @@
 
 ---
 
-### Step 1: Load Config
+### Step 1: Load Config + Theme Memory (P3)
 
 ```
 Read config/{topic}.json
+Read state/{topic}-themes.json    # P3: 7일 테마 메모리, 없으면 빈 themes[]로 시작
 ```
 
 토픽 설정을 확인한다:
@@ -28,6 +29,13 @@ Read config/{topic}.json
 - `relevance_filter` — 관련성 필터 규칙
 - `limits` — maxSearchCalls, targetArticles
 - `archive.retentionDays` — 보존 기간
+
+테마 메모리 (P3):
+- 파일 부재/corrupt → 빈 `{themes: []}`로 진행 (경고 로그)
+- `updated`가 8일 이상 전 + archive 7일치 ≥ 3개 존재 → **재구축 모드** 발동
+  (LLM이 archive HTML을 분석해서 메모리 재추론)
+- 메모리는 Step 3a(테마 추출 매칭), Step 4a(반복 감지·강등)에서 사용되고
+  Step 8(메모리 갱신·만료)에서 갱신된 뒤 Step 7 Deploy에 함께 push된다
 
 ---
 
@@ -58,9 +66,9 @@ Read scripts/curation-rules.md
 curation-rules.md의 지시에 따라 큐레이션을 수행한다.
 - config의 `relevance_filter`를 관련성 필터 기준으로 사용한다.
 - config의 `categories`를 카테고리 분류 기준으로 사용한다.
-- 중복 제거 → 관련성 필터 → 카테고리 분류 → 중요도 평가 → 한국어 번역·요약
+- **흐름 (P3 적용 후)**: 중복 제거 → 관련성 필터 → 카테고리 분류 + **테마 추출(Step 3a)** → 중요도 평가 + **반복 감지·강등(Step 4a)** → 한국어 3-block 요약 → 선별 우선순위(강등 보호) → **Top 5 선정(Step 6a)** → 정렬 → **메모리 갱신·만료(Step 8)**
 
-결과: 10~20건의 큐레이션된 뉴스
+결과: 15~25건의 큐레이션된 뉴스 + 갱신된 테마 메모리 (state/{topic}-themes.json)
 
 ---
 
@@ -240,6 +248,7 @@ find site/{topic}/archive/ -name "????-??-??.html" -mtime +90
 - `site/{topic}/archive/{YYYY-MM-DD}.html` (아카이브 사본)
 - `site/{topic}/archive/index.html` (아카이브 목록)
 - `site/index.html` (메인 탭 UI)
+- **`state/{topic}-themes.json`** (P3 — Step 8에서 갱신된 테마 메모리. push 누락 시 다음 회차 윈도우 깨짐 + 재구축 모드 발동)
 - Step 6에서 삭제한 90일 이전 아카이브 파일이 있다면 그 경로도 포함 (content는 빈 문자열이 아니라 별도 처리 필요 → 삭제는 `mcp__github__delete_file`로)
 
 **7b. MCP 푸시 실행**
@@ -254,7 +263,8 @@ mcp__github__push_files({
     { path: "site/{topic}/index.html", content: "<7a에서 읽은 내용>" },
     { path: "site/{topic}/archive/{YYYY-MM-DD}.html", content: "..." },
     { path: "site/{topic}/archive/index.html", content: "..." },
-    { path: "site/index.html", content: "..." }
+    { path: "site/index.html", content: "..." },
+    { path: "state/{topic}-themes.json", content: "..." }
   ]
 })
 ```
