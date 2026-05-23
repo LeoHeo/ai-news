@@ -24,9 +24,9 @@
     {date}
   </text>
 
-  <rect x="80" y="370" width="280" height="56" rx="28"
+  <rect x="80" y="370" width="340" height="56" rx="28"
         fill="url(#accent)" opacity="0.85"/>
-  <text x="220" y="406" font-family="system-ui, -apple-system, sans-serif"
+  <text x="250" y="406" font-family="system-ui, -apple-system, sans-serif"
         font-size="24" font-weight="700" fill="#0a0a14" text-anchor="middle">
     Action: {action_plan}
   </text>
