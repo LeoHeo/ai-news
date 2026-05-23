@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{topic_name} — {date}</title>
+    <!-- SEO Meta -->
+    <meta name="description" content="{og_description}">
+    <link rel="canonical" href="{page_url}">
+    <!-- Open Graph -->
+    <meta property="og:title" content="{topic_name} — {date} | 오늘의 글로벌 매크로 브리핑">
+    <meta property="og:description" content="{og_description}">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="{page_url}">
+    <meta property="og:image" content="{og_image_url}">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:locale" content="ko_KR">
+    <meta property="og:site_name" content="News Daily">
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{topic_name} — {date} | 오늘의 글로벌 매크로 브리핑">
+    <meta name="twitter:description" content="{og_description}">
+    <meta name="twitter:image" content="{og_image_url}">
+    <!-- JSON-LD -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Report",
+      "name": "{topic_name} — {date}",
+      "description": "{og_description}",
+      "url": "{page_url}",
+      "image": "{og_image_url}",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "News Daily",
+        "url": "{site_url}"
+      },
+      "datePublished": "{date}",
+      "inLanguage": "ko"
+    }
+    </script>
+    <link rel="stylesheet" href="{css_path}">
+</head>
+<body>
+    <header>
+        <h1>{topic_name}</h1>
+        <p class="date">{date} (KST)</p>
+        <p class="summary validity">유효: {validity}</p>
+        <nav>
+            <a href="{home_link}">Home</a>
+            <a href="{archive_link}">Archive</a>
+        </nav>
+    </header>
+
+    <main>
+        <!-- 1. Executive Summary (상단 배치 — 리더 편의 우선) -->
+        <section class="executive-summary">
+            <h2>⚡ Executive Summary</h2>
+            <ol class="summary-lines">
+                <li>{summary_line_1}</li>
+                <li>{summary_line_2}</li>
+                <li>{summary_line_3}</li>
+            </ol>
+            <p class="action-plan">
+                Action Plan:
+                <span class="action-badge action-badge-{action_plan_slug}">{action_plan}</span>
+            </p>
+        </section>
+
+        <!-- 2. Sector Fact Check -->
+        <section class="sector-facts">
+            <h2>📊 Sector Fact Check</h2>
+            <!-- 카테고리별 카드 반복 (10개 카테고리, 각 3-5건 또는 "특이사항 없음") -->
+            <div class="sector-card" id="sector-{category_id}">
+                <h3>{category_name_ko}</h3>
+                <ol class="fact-list">
+                    <!-- 팩트 아이템 반복; 빈 카테고리는 .empty 클래스의 한 줄로 대체 -->
+                    <li class="fact-item" id="fact-{category_id}-{n}">
+                        <span class="fact-index">[{category_id}.{n}]</span>
+                        <span class="fact-headline">{headline}</span>
+                        <span class="fact-detail">{one_sentence}</span>
+                        <span class="fact-source">
+                            (<a href="{original_url}" target="_blank" rel="noopener">{source_name}</a>)
+                        </span>
+                    </li>
+                    <!-- 또는 빈 카테고리: -->
+                    <!-- <li class="fact-item empty">특이사항 없음</li> -->
+                </ol>
+            </div>
+        </section>
+
+        <!-- 3. PEST -->
+        <section class="pest">
+            <h2>🌐 PEST 거시 환경</h2>
+            <dl>
+                <dt>P (Politics)</dt>     <dd>{pest_politics}</dd>
+                <dt>E (Economy)</dt>      <dd>{pest_economy}</dd>
+                <dt>S (Society)</dt>      <dd>{pest_society}</dd>
+                <dt>T (Technology)</dt>   <dd>{pest_technology}</dd>
+            </dl>
+        </section>
+
+        <!-- 4. Falsification -->
+        <section class="falsification">
+            <h2>⚠️ Falsification (반증 조건)</h2>
+            <p>{falsification_trigger}</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>Curated by Claude | Auto-generated at {generated_time} KST</p>
+        <p class="disclaimer">본 브리핑은 AI가 자동 수집·분석한 결과이며, 투자 권유가 아닙니다.
+           원문 출처와 본인의 판단으로 확인하세요.</p>
+    </footer>
+</body>
+</html>
