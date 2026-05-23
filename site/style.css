@@ -324,3 +324,177 @@ header nav a + a {
         padding: 16px 20px;
     }
 }
+
+/* ===================================================================
+   Macro Briefing — 4-section layout (Design Ref: spec §4.2)
+   Topic-scoped: applies only to pages under site/macro/
+   =================================================================== */
+
+.validity {
+    color: #ef4444;
+    font-weight: 500;
+}
+
+.executive-summary,
+.sector-facts,
+.pest,
+.falsification {
+    margin-bottom: 32px;
+    padding: 16px 20px;
+    background: #fff;
+    border-radius: 4px;
+}
+
+.executive-summary {
+    border-left: 4px solid #fbbf24;
+}
+
+.executive-summary h2,
+.sector-facts h2,
+.pest h2,
+.falsification h2 {
+    font-size: 1.1em;
+    font-weight: 600;
+    color: #1a1a1a;
+    margin-bottom: 12px;
+}
+
+.summary-lines {
+    margin: 0 0 12px 20px;
+}
+
+.summary-lines li {
+    margin-bottom: 6px;
+    line-height: 1.5;
+}
+
+.action-plan {
+    font-size: 0.95em;
+    color: #444;
+}
+
+.action-badge {
+    display: inline-block;
+    padding: 4px 12px;
+    border-radius: 12px;
+    font-size: 0.85em;
+    font-weight: 700;
+    margin-left: 8px;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+}
+
+.action-badge-aggressive {
+    background: #fee2e2;
+    color: #b91c1c;
+}
+
+.action-badge-defensive {
+    background: #fef3c7;
+    color: #92400e;
+}
+
+.action-badge-no-action {
+    background: #e5e7eb;
+    color: #374151;
+}
+
+.sector-card {
+    margin-bottom: 16px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid #eee;
+}
+
+.sector-card:last-child {
+    border-bottom: none;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.sector-card h3 {
+    font-size: 0.95em;
+    font-weight: 600;
+    color: #555;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 8px;
+}
+
+.fact-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.fact-item {
+    padding: 6px 0;
+    font-size: 0.9em;
+    line-height: 1.5;
+}
+
+.fact-item .fact-index {
+    color: #999;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 0.85em;
+    margin-right: 6px;
+}
+
+.fact-item .fact-headline {
+    font-weight: 600;
+    color: #1a1a1a;
+    margin-right: 6px;
+}
+
+.fact-item .fact-detail {
+    color: #444;
+    margin-right: 6px;
+}
+
+.fact-item .fact-source {
+    color: #888;
+    font-size: 0.85em;
+}
+
+.fact-item .fact-source a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+.fact-item .fact-source a:hover {
+    text-decoration: underline;
+}
+
+.fact-item.empty {
+    color: #aaa;
+    font-style: italic;
+}
+
+.pest dl {
+    margin: 0;
+}
+
+.pest dt {
+    font-weight: 700;
+    color: #1a1a1a;
+    margin-top: 8px;
+}
+
+.pest dt:first-child {
+    margin-top: 0;
+}
+
+.pest dd {
+    margin: 4px 0 0 0;
+    color: #444;
+    font-size: 0.95em;
+    line-height: 1.5;
+}
+
+.falsification {
+    border-left: 4px solid #ef4444;
+}
+
+.falsification p {
+    color: #444;
+    line-height: 1.6;
+}
