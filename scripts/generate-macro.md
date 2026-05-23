@@ -47,8 +47,8 @@ Confirm these fields are present and use them throughout:
 Goal: gather raw items per category from the past 24 hours.
 
 Execution order (respect `limits.maxSearchCalls` as a hard cap):
-1. **L1 (free)**: For each `layers.L1_authority.sources[i]`, run `WebSearch("site:{site} {query} past 24 hours")`. One call per source.
-2. **L2 (paywall headlines)**: For each `layers.L2_paywalled_headlines.sources[i]`, run `WebSearch("site:{site} {query} past 24 hours")`. Mark resulting items with `mode: "headline_only"` — they CANNOT be cross-verified by fetching the body.
+1. **L1 (free)**: For each `layers.L1_authority.sources[i]`, run `WebSearch("site:{site} {query}")` (substitute `{site}` from `sources[i].site`, `{query}` from `sources[i].query`). One call per source.
+2. **L2 (paywall headlines)**: For each `layers.L2_paywalled_headlines.sources[i]`, run `WebSearch("site:{site} {query}")`. Mark resulting items with `mode: "headline_only"` — they CANNOT be cross-verified by fetching the body. Reserve at least 3 of the remaining `maxSearchCalls` budget for L3.
 3. **L3 (Korean)**: For each `layers.L3_korean.queries[i]`, run `WebSearch("{query} 오늘")`.
 
 For each search result, extract:
@@ -85,7 +85,7 @@ Mark survivors with `verification_status: "passed"`. Drop the rest. Only `passed
 ### Step 4: Assemble Sector Fact Check (10 categories)
 
 For each of the 10 categories in `config.categories` (in the same order as the config array):
-- Pick the 3–5 most informationally dense items belonging to that category. Use the headline content to classify (e.g., FOMC → `us` or `bonds` depending on which is dominant; ECB → `europe`; Bitcoin ETF → `crypto`).
+- Pick the 3–5 most informationally dense items belonging to that category. Use the headline content to classify. When ambiguous, prefer the **geographic category** over the asset-class category (e.g., FOMC decision → `us`; bond yield reaction triggered by FOMC → `bonds`; ECB → `europe`; Bitcoin ETF approval → `crypto` over `us`).
 - If fewer than 3 items remain after verification, include what is available (1–2 is OK).
 - If 0 items remain, render exactly: `특이사항 없음`.
 
@@ -102,7 +102,7 @@ For each fact, prepare:
 Using ONLY the indices produced in Step 4, write:
 
 **PEST (one line each, must cite at least one index):**
-- `pest_politics`   — selections + tariffs + war + regulation risk
+- `pest_politics`   — elections + tariffs + war + regulation risk
 - `pest_economy`    — central bank policy + inflation + employment
 - `pest_society`    — fear/greed sentiment + crowd narrative
 - `pest_technology` — AI / leading sector momentum + earnings
@@ -110,7 +110,7 @@ Using ONLY the indices produced in Step 4, write:
 Reference indices in brackets, e.g. `미·중 관세 협상 재개 시그널 [us.2, china.1]`. If a PEST dimension has no supporting fact, write `특이사항 없음` for that line.
 
 **Falsification:**
-- One sentence: "내일/다음 주 ___ 지표 또는 이벤트가 ___ 결과를 보이면 본 브리핑 폐기."
+- One sentence in this exact shape, with the angle-bracketed placeholders replaced by your judgment: `"내일/다음 주 <지표명 또는 이벤트> 발표가 <임계 결과> 를 보이면 본 브리핑 폐기."` — never leave the angle-bracket text unfilled.
 
 ---
 
@@ -124,7 +124,7 @@ Now and ONLY now produce:
    - `Defensive`   → `defensive`
    - `No Action`   → `no-action`
    - Any other value → coerce to `No Action` / `no-action`.
-3. `validity` — short Korean clause stating the analysis window, e.g. `미국 CPI 발표 전까지`.
+3. `validity` — short Korean clause stating the analysis window, e.g. `미국 CPI 발표 전까지`. Hard cap: 24 Korean characters (it must fit on the OG image at font-size 22).
 
 ---
 
@@ -137,9 +137,9 @@ Now and ONLY now produce:
   - Today's page: `{site.url}/macro/`
   - Archive day: `{site.url}/macro/archive/{date}.html`
   - Archive index: `{site.url}/macro/archive/`
-- `og_image_url`:
-  - On success: `{site.url}/assets/og-macro-{date}.png`
-  - On rsvg-convert failure: `{site.url}/assets/og-home.png` (fallback)
+- `og_image_url` (PROVISIONAL — final value resolved by Step 7-og below):
+  - Default: `{site.url}/assets/og-macro-{date}.png`
+  - On `rsvg-convert` failure (Step 7-og): `{site.url}/assets/og-home.png` (fallback; assumes this static asset already exists)
 
 #### 7-og: Render OG image
 
@@ -171,7 +171,7 @@ If `rsvg-convert` is unavailable or exits non-zero, log a warning and leave `sit
 Read templates/news-macro.html
 ```
 
-Substitute placeholders. For repeated structures (sector-card and fact-item) duplicate the template fragment per category and per fact:
+Substitute placeholders. The repeatable sector-card fragment is the whole `<div class="sector-card">…</div>` block; the repeatable fact-item fragment is the whole `<li class="fact-item">…</li>` block. Duplicate the fragment per category and per fact:
 - `{css_path}` → `../style.css`
 - `{home_link}` → `../index.html`
 - `{archive_link}` → `archive/index.html`
@@ -239,11 +239,11 @@ Write site/macro/archive/index.html
 Read site/index.html
 ```
 
-Ensure the macro tab and topic-card are present (they were inserted statically in Task 9 of the plan). Update only the macro card's `<p class="date">` and `<p class="count">` lines:
+If the macro tab (`<a href="macro/index.html" class="tab">매크로 브리핑</a>`) is missing from `<nav class="topic-tabs">`, insert it as the last tab. If the macro `<section class="topic-card">` is missing, insert it immediately before `</main>`. Then update the macro card's `<p class="date">` and `<p class="count">` lines:
 - `<p class="date">{date}</p>`
 - `<p class="count">Action: {action_plan} · 유효: {validity}</p>`
 
-Do NOT touch the AI or Fintech cards.
+Do NOT touch the AI or Fintech tabs/cards.
 
 ```
 Write site/index.html
