@@ -1,0 +1,91 @@
+{
+  "topic": "ai",
+  "updated": "2026-05-25",
+  "window_days": 7,
+  "themes": {
+    "google-gemini-35-flash": {
+      "count": 6,
+      "first_seen": "2026-05-19",
+      "last_seen": "2026-05-25",
+      "status": "SATURATED"
+    },
+    "google-gemini-omni-model": {
+      "count": 5,
+      "first_seen": "2026-05-19",
+      "last_seen": "2026-05-25",
+      "status": "SATURATED"
+    },
+    "google-gemini-spark-agent": {
+      "count": 4,
+      "first_seen": "2026-05-19",
+      "last_seen": "2026-05-25",
+      "status": "demoted"
+    },
+    "exa-labs-search-funding": {
+      "count": 3,
+      "first_seen": "2026-05-20",
+      "last_seen": "2026-05-25",
+      "status": "demoted"
+    },
+    "stability-ai-audio-model": {
+      "count": 1,
+      "first_seen": "2026-05-25",
+      "last_seen": "2026-05-25",
+      "status": "normal"
+    },
+    "openai-erdos-math-proof": {
+      "count": 1,
+      "first_seen": "2026-05-25",
+      "last_seen": "2026-05-25",
+      "status": "normal"
+    },
+    "thinking-machines-voice-ai": {
+      "count": 1,
+      "first_seen": "2026-05-25",
+      "last_seen": "2026-05-25",
+      "status": "normal"
+    },
+    "anthropic-funding-900b-round": {
+      "count": 1,
+      "first_seen": "2026-05-25",
+      "last_seen": "2026-05-25",
+      "status": "normal"
+    },
+    "anthropic-microsoft-maia-chip": {
+      "count": 1,
+      "first_seen": "2026-05-25",
+      "last_seen": "2026-05-25",
+      "status": "normal"
+    },
+    "openai-gartner-coding-leader": {
+      "count": 1,
+      "first_seen": "2026-05-25",
+      "last_seen": "2026-05-25",
+      "status": "normal"
+    },
+    "pope-leo-ai-encyclical": {
+      "count": 1,
+      "first_seen": "2026-05-25",
+      "last_seen": "2026-05-25",
+      "status": "normal"
+    },
+    "us-whitehouse-ai-order-delay": {
+      "count": 1,
+      "first_seen": "2026-05-25",
+      "last_seen": "2026-05-25",
+      "status": "normal"
+    },
+    "amazon-bee-wearable": {
+      "count": 1,
+      "first_seen": "2026-05-25",
+      "last_seen": "2026-05-25",
+      "status": "normal"
+    },
+    "google-search-ai-overhaul": {
+      "count": 1,
+      "first_seen": "2026-05-25",
+      "last_seen": "2026-05-25",
+      "status": "normal"
+    }
+  }
+}
