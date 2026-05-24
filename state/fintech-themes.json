@@ -1,6 +1,133 @@
 {
   "version": 1,
-  "updated": "1970-01-01",
+  "updated": "2026-05-24",
   "window_days": 7,
-  "themes": []
+  "themes": [
+    {
+      "keyword": "stablecoin-payments",
+      "count": 1,
+      "first_seen": "2026-05-24",
+      "last_seen": "2026-05-24",
+      "articles": ["doordash-tempo-stablecoin", "aton-vantage-stablecoin", "hecto-wisecare-medical-stablecoin"]
+    },
+    {
+      "keyword": "stablecoin-infrastructure",
+      "count": 1,
+      "first_seen": "2026-05-24",
+      "last_seen": "2026-05-24",
+      "articles": ["stablecoin-stack-competition"]
+    },
+    {
+      "keyword": "embedded-payments",
+      "count": 1,
+      "first_seen": "2026-05-24",
+      "last_seen": "2026-05-24",
+      "articles": ["embedded-payments-market"]
+    },
+    {
+      "keyword": "doordash-fintech",
+      "count": 1,
+      "first_seen": "2026-05-24",
+      "last_seen": "2026-05-24",
+      "articles": ["doordash-tempo-stablecoin"]
+    },
+    {
+      "keyword": "ripple-xrp-cross-border",
+      "count": 1,
+      "first_seen": "2026-05-24",
+      "last_seen": "2026-05-24",
+      "articles": ["ripple-convera-partnership"]
+    },
+    {
+      "keyword": "fx-p2p-remittance",
+      "count": 1,
+      "first_seen": "2026-05-24",
+      "last_seen": "2026-05-24",
+      "articles": ["travelwallet-fx-p2p-milestone"]
+    },
+    {
+      "keyword": "neobank-us-expansion",
+      "count": 1,
+      "first_seen": "2026-05-24",
+      "last_seen": "2026-05-24",
+      "articles": ["monzo-us-exit", "revolut-us-bank-license"]
+    },
+    {
+      "keyword": "monzo-us-market",
+      "count": 1,
+      "first_seen": "2026-05-24",
+      "last_seen": "2026-05-24",
+      "articles": ["monzo-us-exit"]
+    },
+    {
+      "keyword": "revolut-banking-license",
+      "count": 1,
+      "first_seen": "2026-05-24",
+      "last_seen": "2026-05-24",
+      "articles": ["revolut-us-bank-license"]
+    },
+    {
+      "keyword": "klarna-p2p",
+      "count": 1,
+      "first_seen": "2026-05-24",
+      "last_seen": "2026-05-24",
+      "articles": ["klarna-p2p-europe-launch"]
+    },
+    {
+      "keyword": "b2b-banking-startup",
+      "count": 1,
+      "first_seen": "2026-05-24",
+      "last_seen": "2026-05-24",
+      "articles": ["infinite-erebor-b2b-banking"]
+    },
+    {
+      "keyword": "fed-payment-account",
+      "count": 1,
+      "first_seen": "2026-05-24",
+      "last_seen": "2026-05-24",
+      "articles": ["fed-payment-account-fintech"]
+    },
+    {
+      "keyword": "cfpb-open-banking",
+      "count": 1,
+      "first_seen": "2026-05-24",
+      "last_seen": "2026-05-24",
+      "articles": ["cfpb-open-banking-pause"]
+    },
+    {
+      "keyword": "us-fintech-regulation",
+      "count": 1,
+      "first_seen": "2026-05-24",
+      "last_seen": "2026-05-24",
+      "articles": ["embedded-finance-regulation-us"]
+    },
+    {
+      "keyword": "mercury-valuation",
+      "count": 1,
+      "first_seen": "2026-05-24",
+      "last_seen": "2026-05-24",
+      "articles": ["mercury-fintech-valuation"]
+    },
+    {
+      "keyword": "fintech-ma-consolidation",
+      "count": 1,
+      "first_seen": "2026-05-24",
+      "last_seen": "2026-05-24",
+      "articles": ["fintech-ma-strategic-wave", "payward-reap-acquisition"]
+    },
+    {
+      "keyword": "fintech-bankruptcy",
+      "count": 1,
+      "first_seen": "2026-05-24",
+      "last_seen": "2026-05-24",
+      "articles": ["parker-fintech-bankruptcy"]
+    },
+    {
+      "keyword": "crypto-fintech-acquisition",
+      "count": 1,
+      "first_seen": "2026-05-24",
+      "last_seen": "2026-05-24",
+      "articles": ["payward-reap-acquisition"]
+    }
+  ]
 }
