@@ -501,6 +501,30 @@ Step 7   Deploy — push 파일 목록에 state/{topic}-themes.json 추가
 
 **측정**: P3.1 배포 후 7일 동안 한국 매체 기사 가용한 날의 Top 5 포함률 ≥ 95% 목표.
 
+#### 3.13 P3.2 패치 — 홈 페이지 stale 방지 (2026-05-25)
+
+**문제 (2026-05-25 site/index.html 관찰)**: AI 카드만 2026-05-23 / 10건으로 stale. 실제 site/ai/index.html은 2026-05-25 / 14건. fintech의 5-25 run이 site/index.html을 갱신할 때 ai/index.html을 새로 Read하지 않고 이전 회차 추론값을 재사용한 것으로 추정.
+
+**처방**:
+1. **즉시 fix**: site/index.html AI 카드를 2026-05-25 / 14건으로 수동 갱신
+2. **근본 fix** (`scripts/generate.md` Step 5d 강화):
+   - **5d.1**: 각 토픽의 site/{topic}/index.html을 Read로 매번 새로 읽기 — 이전 회차/추론값 재사용 금지
+   - **5d.2**: 추출값을 즉시 placeholder 치환에 사용
+   - **5d.3**: Write site/index.html
+   - **5d.4**: 작성 후 Read로 다시 검증 — 불일치 시 1회 재작성
+3. **Error Handling 표 보강**: stale 감지·복구·운영 가이드 3개 항목 추가
+
+**변경 범위**: `scripts/generate.md` ~60라인 추가, `site/index.html` 3라인 갱신.
+
+**운영 가이드**:
+- 매주 1회 홈 카드 date를 토픽 페이지와 수동 대조
+- Schedule 발화 실패 (AI/fintech/macro 중 누락) 주 1회 모니터링
+- 두 번째 재작성도 실패하는 패턴 발견 시 Step 5d를 더 강화
+
+**관련 발견**: AI 토픽이 2026-05-24에 발화하지 않음 (archive 누락 + git log 부재). 이건 Claude Code Schedule 측 문제로 추정, 사용자가 Schedule 화면에서 확인 필요. Stale 패치와는 별개 이슈.
+
+**측정**: P3.2 배포 후 7일 동안 홈 페이지 stale 발생 0건 목표.
+
 ---
 
 ## 6. Risks & Mitigations

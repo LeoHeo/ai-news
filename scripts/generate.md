@@ -212,12 +212,59 @@ Read templates/index.html
 ```
 
 메인 페이지(탭 UI)를 업데이트한다. 모든 토픽 디렉토리를 확인하여 탭 목록을 생성한다.
-- SEO 메타 태그 placeholder 치환:
+
+##### 5d.1 — 필수 Read 시퀀스 (P3.2 — stale 방지)
+
+> **배경**: 2026-05-25 archive에서 홈 페이지 AI 카드가 5-23 정보로 stale 발생. 원인은 orchestrator가 ai/index.html을 다시 Read하지 않고 이전 회차 추론을 재사용한 것. 아래 규칙으로 재발 방지.
+
+**원칙**: site/index.html 작성 직전에 각 토픽의 `site/{topic}/index.html`을 Read 도구로 **반드시 새로 읽어** 다음 값을 추출한다. **이전 회차 또는 이전 단계에서 추론한 값을 재사용 금지**.
+
+```
+For each topic in [ai, fintech, macro]:
+    if exists(site/{topic}/index.html):
+        Read site/{topic}/index.html
+        extract:
+          - date    from <p class="date">{YYYY-MM-DD} (KST)</p>
+          - count   from <p class="summary">{topic_name_ko} {N}건</p>
+                    (macro의 경우 4-section briefing의 첫 summary 줄을 그대로 사용)
+          - title   from <title>{topic_name} — {YYYY-MM-DD}</title>
+    else:
+        date = "(준비 중)"
+        count = "아직 생성되지 않음"
+```
+
+추출 값을 **즉시** site/index.html 작성에 사용한다. Read와 Write 사이에 다른 추론·기억 호출을 끼우지 마라.
+
+##### 5d.2 — placeholder 치환
+
+- SEO 메타 태그 placeholder:
   - `{site_url}` → config의 `site.url` (나머지는 템플릿에 고정값)
+- 각 토픽 카드 placeholder:
+  - `{topic_date}` → 5d.1에서 Read로 추출한 값
+  - `{topic_count}` → 5d.1에서 Read로 추출한 값
+
+##### 5d.3 — site/index.html 작성
 
 ```
 Write site/index.html
 ```
+
+##### 5d.4 — 작성 후 검증 (P3.2)
+
+작성 직후 **반드시** site/index.html을 Read로 다시 읽어 각 토픽 카드의 date가 site/{topic}/index.html의 date와 일치하는지 검증한다.
+
+```
+Read site/index.html
+For each topic card in home:
+    home_date = parse(<p class="date">)
+    topic_date = (5d.1에서 추출한 값)
+    if home_date != topic_date:
+        log: "STALE DETECTED: {topic} home={home_date} actual={topic_date}"
+        # 재시도: 정확한 값으로 다시 Write
+        Write site/index.html (with correct values)
+```
+
+일치하지 않으면 한 번 더 Write로 재작성. 두 번째도 실패하면 deploy 단계 진행 후 에러 로그만 남긴다.
 
 ---
 
@@ -297,6 +344,15 @@ git reset --hard origin/main
 | WebFetch 타임아웃 | 해당 뉴스 제외 (검증 불가) |
 | HTML 생성 오류 | 이전 index.html 유지, 에러 로그만 commit |
 | MCP push 실패 | 1회 재시도 → 실패 시 로컬 유지 |
+| **홈 페이지 토픽 카드 stale** (P3.2) | Step 5d.4 검증에서 자동 감지·재작성. 두 번째도 실패면 에러 로그 + deploy 진행 (다음 회차에서 자동 복구) |
+| **특정 토픽 디렉토리 부재** | 해당 토픽 카드는 "(준비 중)" placeholder로 표시. 절대 이전 회차 추론값 재사용 금지 |
+| **다른 토픽 run이 실패해서 그 토픽 index.html이 오래됨** | 의도된 동작 — 그 토픽의 last successful date를 홈에 그대로 표시. 가짜 갱신 금지 |
+
+#### 재발 방지 운영 가이드
+
+1. **매주 1회 홈 검증** (수동): site/index.html의 각 토픽 카드 date를 site/{topic}/index.html과 직접 비교. 불일치 발견 시 Step 5d.1~5d.4 로직 재검토.
+2. **Schedule 발화 실패 모니터링**: Claude Code Schedule 화면에서 매일 3개 토픽(AI/fintech/macro) 모두 발화 성공했는지 주 1회 확인. 누락된 날은 다음 날 자동 복구되지만 stale 가능성 있음.
+3. **stale 패턴 발견 시**: 패턴이 반복되면 generate.md Step 5d를 더 강화 (예: 두 번째 재작성도 실패 시 deploy 자체를 차단).
 
 ## Output
 
