@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-05-25",
+  "updated": "2026-05-26",
   "window_days": 7,
   "themes": {
     "google-gemini-35-flash": {
@@ -63,18 +63,6 @@
       "last_seen": "2026-05-25",
       "status": "normal"
     },
-    "pope-leo-ai-encyclical": {
-      "count": 1,
-      "first_seen": "2026-05-25",
-      "last_seen": "2026-05-25",
-      "status": "normal"
-    },
-    "us-whitehouse-ai-order-delay": {
-      "count": 1,
-      "first_seen": "2026-05-25",
-      "last_seen": "2026-05-25",
-      "status": "normal"
-    },
     "amazon-bee-wearable": {
       "count": 1,
       "first_seen": "2026-05-25",
@@ -85,6 +73,78 @@
       "count": 1,
       "first_seen": "2026-05-25",
       "last_seen": "2026-05-25",
+      "status": "normal"
+    },
+    "pope-leo-ai-encyclical": {
+      "count": 2,
+      "first_seen": "2026-05-25",
+      "last_seen": "2026-05-26",
+      "status": "normal"
+    },
+    "us-whitehouse-ai-order-delay": {
+      "count": 2,
+      "first_seen": "2026-05-25",
+      "last_seen": "2026-05-26",
+      "status": "normal"
+    },
+    "microsoft-fara-computer-use": {
+      "count": 1,
+      "first_seen": "2026-05-26",
+      "last_seen": "2026-05-26",
+      "status": "normal"
+    },
+    "anthropic-claude-constitution": {
+      "count": 1,
+      "first_seen": "2026-05-26",
+      "last_seen": "2026-05-26",
+      "status": "normal"
+    },
+    "writer-autonomous-ai-agents": {
+      "count": 1,
+      "first_seen": "2026-05-26",
+      "last_seen": "2026-05-26",
+      "status": "normal"
+    },
+    "microsoft-agent-365-launch": {
+      "count": 1,
+      "first_seen": "2026-05-26",
+      "last_seen": "2026-05-26",
+      "status": "normal"
+    },
+    "enterprise-ai-agent-chaos": {
+      "count": 1,
+      "first_seen": "2026-05-26",
+      "last_seen": "2026-05-26",
+      "status": "normal"
+    },
+    "openai-ipo-s1-filing": {
+      "count": 1,
+      "first_seen": "2026-05-26",
+      "last_seen": "2026-05-26",
+      "status": "normal"
+    },
+    "anthropic-pwc-enterprise-partnership": {
+      "count": 1,
+      "first_seen": "2026-05-26",
+      "last_seen": "2026-05-26",
+      "status": "normal"
+    },
+    "ai-washing-rebrand-trend": {
+      "count": 1,
+      "first_seen": "2026-05-26",
+      "last_seen": "2026-05-26",
+      "status": "normal"
+    },
+    "ai-lab-consolidation-may": {
+      "count": 1,
+      "first_seen": "2026-05-26",
+      "last_seen": "2026-05-26",
+      "status": "normal"
+    },
+    "whitehouse-genesis-ai-project": {
+      "count": 1,
+      "first_seen": "2026-05-26",
+      "last_seen": "2026-05-26",
       "status": "normal"
     }
   }
