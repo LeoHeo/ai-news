@@ -491,6 +491,16 @@ Step 7   Deploy — push 파일 목록에 state/{topic}-themes.json 추가
 - 개별 기사 영구 ID
 - Top 5 RSS·이메일
 
+#### 3.12 P3.1 패치 — 한국 슬롯 절대 우선 (2026-05-25)
+
+**문제 (2026-05-24 archive 관찰)**: ★★★ 풀 6건일 때 orchestrator LLM이 Slot 1~5를 모두 비한국 ★★★으로 채워 한국 슬롯 미동작.
+
+**처방**: `scripts/curation-rules.md` Step 6a에 "한국 슬롯 절대 우선 규칙" 명시 — ★★★ 풀이 6건 이상이어도 Slot 4는 한국 매체에 양보. 판단 예시 3가지 추가.
+
+**변경 범위**: `scripts/curation-rules.md` 1개 파일, ~15라인 추가.
+
+**측정**: P3.1 배포 후 7일 동안 한국 매체 기사 가용한 날의 Top 5 포함률 ≥ 95% 목표.
+
 ---
 
 ## 6. Risks & Mitigations
