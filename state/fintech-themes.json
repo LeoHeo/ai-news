@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-05-24",
+  "updated": "2026-05-25",
   "window_days": 7,
   "themes": [
     {
@@ -19,10 +19,10 @@
     },
     {
       "keyword": "embedded-payments",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-05-24",
-      "last_seen": "2026-05-24",
-      "articles": ["embedded-payments-market"]
+      "last_seen": "2026-05-25",
+      "articles": ["embedded-payments-market", "embedded-payments"]
     },
     {
       "keyword": "doordash-fintech",
@@ -54,10 +54,10 @@
     },
     {
       "keyword": "monzo-us-market",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-05-24",
-      "last_seen": "2026-05-24",
-      "articles": ["monzo-us-exit"]
+      "last_seen": "2026-05-25",
+      "articles": ["monzo-us-exit", "monzo-us-market"]
     },
     {
       "keyword": "revolut-banking-license",
@@ -75,10 +75,10 @@
     },
     {
       "keyword": "b2b-banking-startup",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-05-24",
-      "last_seen": "2026-05-24",
-      "articles": ["infinite-erebor-b2b-banking"]
+      "last_seen": "2026-05-25",
+      "articles": ["infinite-erebor-b2b-banking", "b2b-banking-startup"]
     },
     {
       "keyword": "fed-payment-account",
@@ -96,10 +96,10 @@
     },
     {
       "keyword": "us-fintech-regulation",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-05-24",
-      "last_seen": "2026-05-24",
-      "articles": ["embedded-finance-regulation-us"]
+      "last_seen": "2026-05-25",
+      "articles": ["embedded-finance-regulation-us", "us-fintech-regulation"]
     },
     {
       "keyword": "mercury-valuation",
@@ -128,6 +128,104 @@
       "first_seen": "2026-05-24",
       "last_seen": "2026-05-24",
       "articles": ["payward-reap-acquisition"]
+    },
+    {
+      "keyword": "circle-usdc-payments",
+      "count": 1,
+      "first_seen": "2026-05-25",
+      "last_seen": "2026-05-25",
+      "articles": ["circle-usdc-payments"]
+    },
+    {
+      "keyword": "squarefi-stablecoin-b2b",
+      "count": 1,
+      "first_seen": "2026-05-25",
+      "last_seen": "2026-05-25",
+      "articles": ["squarefi-stablecoin-b2b"]
+    },
+    {
+      "keyword": "first-digital-finance-district",
+      "count": 1,
+      "first_seen": "2026-05-25",
+      "last_seen": "2026-05-25",
+      "articles": ["first-digital-finance-district"]
+    },
+    {
+      "keyword": "aton-vantage-stablecoin",
+      "count": 1,
+      "first_seen": "2026-05-25",
+      "last_seen": "2026-05-25",
+      "articles": ["aton-vantage-stablecoin"]
+    },
+    {
+      "keyword": "us-remittance-excise-tax",
+      "count": 1,
+      "first_seen": "2026-05-25",
+      "last_seen": "2026-05-25",
+      "articles": ["us-remittance-excise-tax"]
+    },
+    {
+      "keyword": "bnpl-debit-card-convergence",
+      "count": 1,
+      "first_seen": "2026-05-25",
+      "last_seen": "2026-05-25",
+      "articles": ["bnpl-debit-card-convergence"]
+    },
+    {
+      "keyword": "bnpl-regulatory-outlook",
+      "count": 1,
+      "first_seen": "2026-05-25",
+      "last_seen": "2026-05-25",
+      "articles": ["bnpl-regulatory-outlook"]
+    },
+    {
+      "keyword": "china-rwa-crypto-regulation",
+      "count": 1,
+      "first_seen": "2026-05-25",
+      "last_seen": "2026-05-25",
+      "articles": ["china-rwa-crypto-regulation"]
+    },
+    {
+      "keyword": "finovate-spring-2026",
+      "count": 1,
+      "first_seen": "2026-05-25",
+      "last_seen": "2026-05-25",
+      "articles": ["finovate-spring-2026"]
+    },
+    {
+      "keyword": "capital-one-brex-acquisition",
+      "count": 1,
+      "first_seen": "2026-05-25",
+      "last_seen": "2026-05-25",
+      "articles": ["capital-one-brex-acquisition"]
+    },
+    {
+      "keyword": "fintech-land-grab-ma",
+      "count": 1,
+      "first_seen": "2026-05-25",
+      "last_seen": "2026-05-25",
+      "articles": ["fintech-land-grab-ma"]
+    },
+    {
+      "keyword": "fintech-ma-comeback",
+      "count": 1,
+      "first_seen": "2026-05-25",
+      "last_seen": "2026-05-25",
+      "articles": ["fintech-ma-comeback"]
+    },
+    {
+      "keyword": "kulipa-stablecoin-card",
+      "count": 1,
+      "first_seen": "2026-05-25",
+      "last_seen": "2026-05-25",
+      "articles": ["kulipa-stablecoin-card"]
+    },
+    {
+      "keyword": "payy-stablecoin-funding",
+      "count": 1,
+      "first_seen": "2026-05-25",
+      "last_seen": "2026-05-25",
+      "articles": ["payy-stablecoin-funding"]
     }
   ]
 }
