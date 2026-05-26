@@ -1,151 +1,36 @@
 {
   "topic": "ai",
-  "updated": "2026-05-26",
+  "updated": "2026-05-27",
   "window_days": 7,
   "themes": {
-    "google-gemini-35-flash": {
-      "count": 6,
-      "first_seen": "2026-05-19",
-      "last_seen": "2026-05-25",
-      "status": "SATURATED"
-    },
-    "google-gemini-omni-model": {
-      "count": 5,
-      "first_seen": "2026-05-19",
-      "last_seen": "2026-05-25",
-      "status": "SATURATED"
-    },
-    "google-gemini-spark-agent": {
-      "count": 4,
-      "first_seen": "2026-05-19",
-      "last_seen": "2026-05-25",
-      "status": "demoted"
-    },
-    "exa-labs-search-funding": {
-      "count": 3,
-      "first_seen": "2026-05-20",
-      "last_seen": "2026-05-25",
-      "status": "demoted"
-    },
-    "stability-ai-audio-model": {
-      "count": 1,
-      "first_seen": "2026-05-25",
-      "last_seen": "2026-05-25",
-      "status": "normal"
-    },
-    "openai-erdos-math-proof": {
-      "count": 1,
-      "first_seen": "2026-05-25",
-      "last_seen": "2026-05-25",
-      "status": "normal"
-    },
-    "thinking-machines-voice-ai": {
-      "count": 1,
-      "first_seen": "2026-05-25",
-      "last_seen": "2026-05-25",
-      "status": "normal"
-    },
-    "anthropic-funding-900b-round": {
-      "count": 1,
-      "first_seen": "2026-05-25",
-      "last_seen": "2026-05-25",
-      "status": "normal"
-    },
-    "anthropic-microsoft-maia-chip": {
-      "count": 1,
-      "first_seen": "2026-05-25",
-      "last_seen": "2026-05-25",
-      "status": "normal"
-    },
-    "openai-gartner-coding-leader": {
-      "count": 1,
-      "first_seen": "2026-05-25",
-      "last_seen": "2026-05-25",
-      "status": "normal"
-    },
-    "amazon-bee-wearable": {
-      "count": 1,
-      "first_seen": "2026-05-25",
-      "last_seen": "2026-05-25",
-      "status": "normal"
-    },
-    "google-search-ai-overhaul": {
-      "count": 1,
-      "first_seen": "2026-05-25",
-      "last_seen": "2026-05-25",
-      "status": "normal"
-    },
-    "pope-leo-ai-encyclical": {
-      "count": 2,
-      "first_seen": "2026-05-25",
-      "last_seen": "2026-05-26",
-      "status": "normal"
-    },
-    "us-whitehouse-ai-order-delay": {
-      "count": 2,
-      "first_seen": "2026-05-25",
-      "last_seen": "2026-05-26",
-      "status": "normal"
-    },
-    "microsoft-fara-computer-use": {
-      "count": 1,
-      "first_seen": "2026-05-26",
-      "last_seen": "2026-05-26",
-      "status": "normal"
-    },
-    "anthropic-claude-constitution": {
-      "count": 1,
-      "first_seen": "2026-05-26",
-      "last_seen": "2026-05-26",
-      "status": "normal"
-    },
-    "writer-autonomous-ai-agents": {
-      "count": 1,
-      "first_seen": "2026-05-26",
-      "last_seen": "2026-05-26",
-      "status": "normal"
-    },
-    "microsoft-agent-365-launch": {
-      "count": 1,
-      "first_seen": "2026-05-26",
-      "last_seen": "2026-05-26",
-      "status": "normal"
-    },
-    "enterprise-ai-agent-chaos": {
-      "count": 1,
-      "first_seen": "2026-05-26",
-      "last_seen": "2026-05-26",
-      "status": "normal"
-    },
-    "openai-ipo-s1-filing": {
-      "count": 1,
-      "first_seen": "2026-05-26",
-      "last_seen": "2026-05-26",
-      "status": "normal"
-    },
-    "anthropic-pwc-enterprise-partnership": {
-      "count": 1,
-      "first_seen": "2026-05-26",
-      "last_seen": "2026-05-26",
-      "status": "normal"
-    },
-    "ai-washing-rebrand-trend": {
-      "count": 1,
-      "first_seen": "2026-05-26",
-      "last_seen": "2026-05-26",
-      "status": "normal"
-    },
-    "ai-lab-consolidation-may": {
-      "count": 1,
-      "first_seen": "2026-05-26",
-      "last_seen": "2026-05-26",
-      "status": "normal"
-    },
-    "whitehouse-genesis-ai-project": {
-      "count": 1,
-      "first_seen": "2026-05-26",
-      "last_seen": "2026-05-26",
-      "status": "normal"
-    }
+    "google-gemini-35-flash": {"count": 6, "first_seen": "2026-05-19", "last_seen": "2026-05-25", "status": "SATURATED"},
+    "google-gemini-omni-model": {"count": 5, "first_seen": "2026-05-19", "last_seen": "2026-05-25", "status": "SATURATED"},
+    "google-gemini-spark-agent": {"count": 4, "first_seen": "2026-05-19", "last_seen": "2026-05-25", "status": "demoted"},
+    "exa-labs-search-funding": {"count": 3, "first_seen": "2026-05-20", "last_seen": "2026-05-25", "status": "demoted"},
+    "stability-ai-audio-model": {"count": 1, "first_seen": "2026-05-25", "last_seen": "2026-05-25", "status": "normal"},
+    "openai-erdos-math-proof": {"count": 1, "first_seen": "2026-05-25", "last_seen": "2026-05-25", "status": "normal"},
+    "thinking-machines-voice-ai": {"count": 2, "first_seen": "2026-05-25", "last_seen": "2026-05-27", "status": "normal", "example_titles": ["Thinking Machines, 지연시간 0.4초 AI 실시간 음성·영상 대화 모델 공개"]},
+    "anthropic-funding-900b-round": {"count": 1, "first_seen": "2026-05-25", "last_seen": "2026-05-25", "status": "normal"},
+    "anthropic-microsoft-maia-chip": {"count": 1, "first_seen": "2026-05-25", "last_seen": "2026-05-25", "status": "normal"},
+    "openai-gartner-coding-leader": {"count": 1, "first_seen": "2026-05-25", "last_seen": "2026-05-25", "status": "normal"},
+    "amazon-bee-wearable": {"count": 1, "first_seen": "2026-05-25", "last_seen": "2026-05-25", "status": "normal"},
+    "google-search-ai-overhaul": {"count": 1, "first_seen": "2026-05-25", "last_seen": "2026-05-25", "status": "normal"},
+    "pope-leo-ai-encyclical": {"count": 2, "first_seen": "2026-05-25", "last_seen": "2026-05-26", "status": "normal"},
+    "us-whitehouse-ai-order-delay": {"count": 2, "first_seen": "2026-05-25", "last_seen": "2026-05-26", "status": "normal"},
+    "microsoft-fara-computer-use": {"count": 1, "first_seen": "2026-05-26", "last_seen": "2026-05-26", "status": "normal"},
+    "anthropic-claude-constitution": {"count": 1, "first_seen": "2026-05-26", "last_seen": "2026-05-26", "status": "normal"},
+    "writer-autonomous-ai-agents": {"count": 2, "first_seen": "2026-05-26", "last_seen": "2026-05-27", "status": "normal", "example_titles": ["Writer, 프롬프트 없이 자율 동작하는 AI 에이전트 출시"]},
+    "microsoft-agent-365-launch": {"count": 1, "first_seen": "2026-05-26", "last_seen": "2026-05-26", "status": "normal"},
+    "enterprise-ai-agent-chaos": {"count": 2, "first_seen": "2026-05-26", "last_seen": "2026-05-27", "status": "normal", "example_titles": ["AI 에이전트, 기업 모르는 사이 카오스 엔지니어링 장애 유발 중"]},
+    "openai-ipo-s1-filing": {"count": 1, "first_seen": "2026-05-26", "last_seen": "2026-05-26", "status": "normal"},
+    "anthropic-pwc-enterprise-partnership": {"count": 1, "first_seen": "2026-05-26", "last_seen": "2026-05-26", "status": "normal"},
+    "ai-washing-rebrand-trend": {"count": 1, "first_seen": "2026-05-26", "last_seen": "2026-05-26", "status": "normal"},
+    "ai-lab-consolidation-may": {"count": 2, "first_seen": "2026-05-26", "last_seen": "2026-05-27", "status": "normal", "example_titles": ["5일 만에 AI 랩 4건 인수… AI 업계 대재편 신호탄"]},
+    "whitehouse-genesis-ai-project": {"count": 2, "first_seen": "2026-05-26", "last_seen": "2026-05-27", "status": "normal", "example_titles": ["백악관 'Genesis Mission' AI 맨해튼 프로젝트, 기업이 알아야 할 것들"]},
+    "microsoft-3-ai-models": {"count": 1, "first_seen": "2026-05-27", "last_seen": "2026-05-27", "status": "normal", "example_titles": ["Microsoft, 음성·이미지 AI 모델 3종 동시 출시… OpenAI·Google에 직격탄"]},
+    "intelition-ai-paradigm": {"count": 1, "first_seen": "2026-05-27", "last_seen": "2026-05-27", "status": "normal", "example_titles": ["'인텔리션' 등장… AI, 더 이상 사용자가 호출하는 도구가 아니다"]},
+    "enterprise-ai-research-trends-2026": {"count": 1, "first_seen": "2026-05-27", "last_seen": "2026-05-27", "status": "normal", "example_titles": ["2026년 엔터프라이즈가 주목해야 할 AI 연구 트렌드 4가지"]},
+    "naver-kakao-ai-agent-competition": {"count": 1, "first_seen": "2026-05-27", "last_seen": "2026-05-27", "status": "normal", "example_titles": ["네이버 vs 카카오, AI 에이전트 경쟁 본격화"]},
+    "ai-agent-deployment-reality": {"count": 1, "first_seen": "2026-05-27", "last_seen": "2026-05-27", "status": "normal", "example_titles": ["AI 에이전트 시대 도래, 혼돈과 기회가 공존한다"]}
   }
 }
