@@ -1,6 +1,7 @@
 {
   "topic": "ai",
-  "updated": "2026-05-27",
+  "updated": "2026-05-28",
+  "version": 1,
   "window_days": 7,
   "themes": {
     "google-gemini-35-flash": {"count": 6, "first_seen": "2026-05-19", "last_seen": "2026-05-25", "status": "SATURATED"},
@@ -10,7 +11,7 @@
     "stability-ai-audio-model": {"count": 1, "first_seen": "2026-05-25", "last_seen": "2026-05-25", "status": "normal"},
     "openai-erdos-math-proof": {"count": 1, "first_seen": "2026-05-25", "last_seen": "2026-05-25", "status": "normal"},
     "thinking-machines-voice-ai": {"count": 2, "first_seen": "2026-05-25", "last_seen": "2026-05-27", "status": "normal", "example_titles": ["Thinking Machines, 지연시간 0.4초 AI 실시간 음성·영상 대화 모델 공개"]},
-    "anthropic-funding-900b-round": {"count": 1, "first_seen": "2026-05-25", "last_seen": "2026-05-25", "status": "normal"},
+    "anthropic-funding-900b-round": {"count": 2, "first_seen": "2026-05-25", "last_seen": "2026-05-28", "status": "normal", "example_titles": ["Anthropic, $300억 펀딩 라운드 클로징 확정… 기업가치 $9,000억 돌파, 세계 최고가 비상장 AI 스타트업 등극"]},
     "anthropic-microsoft-maia-chip": {"count": 1, "first_seen": "2026-05-25", "last_seen": "2026-05-25", "status": "normal"},
     "openai-gartner-coding-leader": {"count": 1, "first_seen": "2026-05-25", "last_seen": "2026-05-25", "status": "normal"},
     "amazon-bee-wearable": {"count": 1, "first_seen": "2026-05-25", "last_seen": "2026-05-25", "status": "normal"},
@@ -30,7 +31,15 @@
     "microsoft-3-ai-models": {"count": 1, "first_seen": "2026-05-27", "last_seen": "2026-05-27", "status": "normal", "example_titles": ["Microsoft, 음성·이미지 AI 모델 3종 동시 출시… OpenAI·Google에 직격탄"]},
     "intelition-ai-paradigm": {"count": 1, "first_seen": "2026-05-27", "last_seen": "2026-05-27", "status": "normal", "example_titles": ["'인텔리션' 등장… AI, 더 이상 사용자가 호출하는 도구가 아니다"]},
     "enterprise-ai-research-trends-2026": {"count": 1, "first_seen": "2026-05-27", "last_seen": "2026-05-27", "status": "normal", "example_titles": ["2026년 엔터프라이즈가 주목해야 할 AI 연구 트렌드 4가지"]},
-    "naver-kakao-ai-agent-competition": {"count": 1, "first_seen": "2026-05-27", "last_seen": "2026-05-27", "status": "normal", "example_titles": ["네이버 vs 카카오, AI 에이전트 경쟁 본격화"]},
-    "ai-agent-deployment-reality": {"count": 1, "first_seen": "2026-05-27", "last_seen": "2026-05-27", "status": "normal", "example_titles": ["AI 에이전트 시대 도래, 혼돈과 기회가 공존한다"]}
+    "naver-kakao-ai-agent-competition": {"count": 2, "first_seen": "2026-05-27", "last_seen": "2026-05-28", "status": "normal", "example_titles": ["네이버 vs 카카오, AI 에이전트 경쟁 본격화", "네이버·카카오, 2026 하반기 AI 에이전트 수익화 '진검승부'"]},
+    "ai-agent-deployment-reality": {"count": 1, "first_seen": "2026-05-27", "last_seen": "2026-05-27", "status": "normal", "example_titles": ["AI 에이전트 시대 도래, 혼돈과 기회가 공존한다"]},
+    "z-ai-glm-image-benchmark": {"count": 1, "first_seen": "2026-05-28", "last_seen": "2026-05-28", "status": "normal", "example_titles": ["Z.ai 오픈소스 GLM-Image, 복잡한 텍스트 렌더링에서 Google Nano Banana Pro 능가"]},
+    "meta-social-ai-subscriptions": {"count": 1, "first_seen": "2026-05-28", "last_seen": "2026-05-28", "status": "normal", "example_titles": ["Meta, Instagram·Facebook·WhatsApp 유료 구독 글로벌 출시… AI 구독 플랜도 테스트 돌입"]},
+    "enterprise-agentic-ai-results": {"count": 1, "first_seen": "2026-05-28", "last_seen": "2026-05-28", "status": "normal", "example_titles": ["Merck·Mastercard, AI 에이전트 실전 ROI 공개… \"데이터 인프라 정비가 선행 조건\""]},
+    "ai-ml-smart-manufacturing-roadmap": {"count": 1, "first_seen": "2026-05-28", "last_seen": "2026-05-28", "status": "normal", "example_titles": ["2026 AI·ML 스마트 제조업 로드맵, arXiv 공개… 자율화·적응성을 핵심 축으로"]},
+    "ai-agent-definition-debate": {"count": 1, "first_seen": "2026-05-28", "last_seen": "2026-05-28", "status": "normal", "example_titles": ["AI 에이전트를 계속 언급하지만, 우리는 실제로 그 정의를 알고 있는가?"]},
+    "tech-ceo-ai-psychosis": {"count": 1, "first_seen": "2026-05-28", "last_seen": "2026-05-28", "status": "normal", "example_titles": ["테크 CEO들, 'AI 사이코시스'에 빠져… 현장 괴리된 과대 낙관 만연"]},
+    "us-state-ai-regulation-2026": {"count": 1, "first_seen": "2026-05-28", "last_seen": "2026-05-28", "status": "normal", "example_titles": ["콜로라도 종합 AI법, 6월 30일 시행 예정… 美 주(州) 차원 AI 규제 전선 확대"]},
+    "ai-venture-funding-record-q1-2026": {"count": 1, "first_seen": "2026-05-28", "last_seen": "2026-05-28", "status": "normal", "example_titles": ["AI 스타트업, 2026 Q1에 $2,420억 유치… 글로벌 VC 투자액의 80%가 AI로"]}
   }
 }
