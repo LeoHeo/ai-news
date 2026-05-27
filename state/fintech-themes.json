@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-05-25",
+  "updated": "2026-05-27",
   "window_days": 7,
   "themes": [
     {
@@ -19,10 +19,10 @@
     },
     {
       "keyword": "embedded-payments",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-05-24",
-      "last_seen": "2026-05-25",
-      "articles": ["embedded-payments-market", "embedded-payments"]
+      "last_seen": "2026-05-27",
+      "articles": ["embedded-payments-market", "embedded-payments", "embedded-payments-90-percent"]
     },
     {
       "keyword": "doordash-fintech",
@@ -68,10 +68,10 @@
     },
     {
       "keyword": "klarna-p2p",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-05-24",
-      "last_seen": "2026-05-24",
-      "articles": ["klarna-p2p-europe-launch"]
+      "last_seen": "2026-05-27",
+      "articles": ["klarna-p2p-europe-launch", "klarna-p2p-eu-launch"]
     },
     {
       "keyword": "b2b-banking-startup",
@@ -82,24 +82,24 @@
     },
     {
       "keyword": "fed-payment-account",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-05-24",
-      "last_seen": "2026-05-24",
-      "articles": ["fed-payment-account-fintech"]
+      "last_seen": "2026-05-27",
+      "articles": ["fed-payment-account-fintech", "fed-payment-account-fintech"]
     },
     {
       "keyword": "cfpb-open-banking",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-05-24",
-      "last_seen": "2026-05-24",
-      "articles": ["cfpb-open-banking-pause"]
+      "last_seen": "2026-05-27",
+      "articles": ["cfpb-open-banking-pause", "cfpb-open-banking-pause"]
     },
     {
       "keyword": "us-fintech-regulation",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-05-24",
-      "last_seen": "2026-05-25",
-      "articles": ["embedded-finance-regulation-us", "us-fintech-regulation"]
+      "last_seen": "2026-05-27",
+      "articles": ["embedded-finance-regulation-us", "us-fintech-regulation", "embedded-finance-us-regulation"]
     },
     {
       "keyword": "mercury-valuation",
@@ -159,17 +159,17 @@
     },
     {
       "keyword": "us-remittance-excise-tax",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-05-25",
-      "last_seen": "2026-05-25",
-      "articles": ["us-remittance-excise-tax"]
+      "last_seen": "2026-05-27",
+      "articles": ["us-remittance-excise-tax", "us-remittance-excise-tax"]
     },
     {
       "keyword": "bnpl-debit-card-convergence",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-05-25",
-      "last_seen": "2026-05-25",
-      "articles": ["bnpl-debit-card-convergence"]
+      "last_seen": "2026-05-27",
+      "articles": ["bnpl-debit-card-convergence", "bnpl-debit-card-convergence"]
     },
     {
       "keyword": "bnpl-regulatory-outlook",
@@ -201,10 +201,10 @@
     },
     {
       "keyword": "fintech-land-grab-ma",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-05-25",
-      "last_seen": "2026-05-25",
-      "articles": ["fintech-land-grab-ma"]
+      "last_seen": "2026-05-27",
+      "articles": ["fintech-land-grab-ma", "fintech-land-grab-intensifies"]
     },
     {
       "keyword": "fintech-ma-comeback",
@@ -226,6 +226,62 @@
       "first_seen": "2026-05-25",
       "last_seen": "2026-05-25",
       "articles": ["payy-stablecoin-funding"]
+    },
+    {
+      "keyword": "whitehouse-fintech-payment-rails",
+      "count": 1,
+      "first_seen": "2026-05-27",
+      "last_seen": "2026-05-27",
+      "articles": ["whitehouse-fintech-payment-rails"]
+    },
+    {
+      "keyword": "zerohash-mastercard-deal",
+      "count": 1,
+      "first_seen": "2026-05-27",
+      "last_seen": "2026-05-27",
+      "articles": ["zerohash-mastercard-deal"]
+    },
+    {
+      "keyword": "stitch-saudi-fintech-funding",
+      "count": 1,
+      "first_seen": "2026-05-27",
+      "last_seen": "2026-05-27",
+      "articles": ["stitch-saudi-fintech-funding"]
+    },
+    {
+      "keyword": "fintech-ma-strategic-maturity",
+      "count": 1,
+      "first_seen": "2026-05-27",
+      "last_seen": "2026-05-27",
+      "articles": ["fintech-ma-strategic-maturity"]
+    },
+    {
+      "keyword": "us-fintech-banking-inflection",
+      "count": 1,
+      "first_seen": "2026-05-27",
+      "last_seen": "2026-05-27",
+      "articles": ["us-fintech-banking-inflection"]
+    },
+    {
+      "keyword": "legacy-payments-ai-rebrand",
+      "count": 1,
+      "first_seen": "2026-05-27",
+      "last_seen": "2026-05-27",
+      "articles": ["legacy-payments-ai-rebrand"]
+    },
+    {
+      "keyword": "toss-naverpay-terminal-compete",
+      "count": 1,
+      "first_seen": "2026-05-27",
+      "last_seen": "2026-05-27",
+      "articles": ["toss-naverpay-terminal-compete"]
+    },
+    {
+      "keyword": "korea-remittance-reform-2026",
+      "count": 1,
+      "first_seen": "2026-05-27",
+      "last_seen": "2026-05-27",
+      "articles": ["korea-remittance-reform-2026"]
     }
   ]
 }
