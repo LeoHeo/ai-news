@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-05-29",
+  "updated": "2026-05-31",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -39,9 +39,18 @@
     "ai-ml-smart-manufacturing-roadmap": {"count": 1, "first_seen": "2026-05-28", "last_seen": "2026-05-28", "status": "normal", "example_titles": ["2026 AI·ML 스마트 제조업 로드맵, arXiv 공개… 자율화·적응성을 핵심 축으로"]},
     "ai-agent-definition-debate": {"count": 2, "first_seen": "2026-05-28", "last_seen": "2026-05-29", "status": "normal", "example_titles": ["AI 에이전트를 계속 언급하지만, 우리는 실제로 그 정의를 알고 있는가?"]},
     "tech-ceo-ai-psychosis": {"count": 1, "first_seen": "2026-05-28", "last_seen": "2026-05-28", "status": "normal", "example_titles": ["테크 CEO들, 'AI 사이코시스'에 빠져… 현장 괴리된 과대 낙관 만연"]},
-    "us-state-ai-regulation-2026": {"count": 2, "first_seen": "2026-05-28", "last_seen": "2026-05-29", "status": "normal", "example_titles": ["콜로라도 종합 AI법, 6월 30일 시행 예정… 美 주(州) 차원 AI 규제 전선 확대", "콜로라도 종합 AI법, 6월 30일 시행 예정… 美 주 차원 AI 규제 전선 확대"]},
+    "us-state-ai-regulation-2026": {"count": 3, "first_seen": "2026-05-28", "last_seen": "2026-05-31", "status": "normal", "example_titles": ["콜로라도 종합 AI법, 6월 30일 시행 예정… 美 주(州) 차원 AI 규제 전선 확대", "콜로라도 AI 종합법, 6월 30일 시행 D-30... 美 주(州) AI 규제 전선 본격화"]},
     "ai-venture-funding-record-q1-2026": {"count": 1, "first_seen": "2026-05-28", "last_seen": "2026-05-28", "status": "normal", "example_titles": ["AI 스타트업, 2026 Q1에 $2,420억 유치… 글로벌 VC 투자액의 80%가 AI로"]},
     "deepswe-gpt55-coding-benchmark": {"count": 1, "first_seen": "2026-05-29", "last_seen": "2026-05-29", "status": "normal", "example_titles": ["DeepSWE, AI 코딩 리더보드 재편… GPT-5.5 1위, Claude Opus 벤치마크 허점 악용 발각"]},
-    "sesame-ai-ios-app-launch": {"count": 1, "first_seen": "2026-05-29", "last_seen": "2026-05-29", "status": "normal", "example_titles": ["Sesame, Oculus 창업자들의 AI 대화 스타트업 iOS 앱 정식 출시"]}
+    "sesame-ai-ios-app-launch": {"count": 1, "first_seen": "2026-05-29", "last_seen": "2026-05-29", "status": "normal", "example_titles": ["Sesame, Oculus 창업자들의 AI 대화 스타트업 iOS 앱 정식 출시"]},
+    "anthropic-opus-4-8-release": {"count": 1, "first_seen": "2026-05-31", "last_seen": "2026-05-31", "status": "normal", "example_titles": ["Anthropic, Claude Opus 4.8 출시하며 Mythos급 AI 전면 공개 예정... 기업가치 $9,650억 확정"]},
+    "liquid-ai-lfm25-moe-model": {"count": 1, "first_seen": "2026-05-31", "last_seen": "2026-05-31", "status": "normal", "example_titles": ["Liquid AI, 온디바이스 MoE 모델 LFM2.5-8B-A1B 공개... 83억 중 15억 파라미터만 활성화"]},
+    "aislop-code-quality-cli": {"count": 1, "first_seen": "2026-05-31", "last_seen": "2026-05-31", "status": "normal", "example_titles": ["AISlop: AI가 생성한 코드의 품질 문제를 감지하는 오픈소스 CLI 공개"]},
+    "rsi-agi-definition-debate": {"count": 1, "first_seen": "2026-05-31", "last_seen": "2026-05-31", "status": "normal", "example_titles": ["'RSI', AGI의 뒤를 이을 AI 업계 차세대 유행어... 여전히 정의조차 불분명"]},
+    "enterprise-ai-cost-rationing": {"count": 1, "first_seen": "2026-05-31", "last_seen": "2026-05-31", "status": "normal", "example_titles": ["Corporate America, AI 비용 폭등에 사용량 배급 시작... Uber·Meta·Microsoft 월별 한도 도입"]},
+    "amazon-ai-leaderboard-gaming": {"count": 1, "first_seen": "2026-05-31", "last_seen": "2026-05-31", "status": "normal", "example_titles": ["Amazon, 직원들이 게임화한 AI 사용 리더보드 폐지... AI 위해 AI 쓰지 말라"]},
+    "coders-ai-dependency-adoption": {"count": 1, "first_seen": "2026-05-31", "last_seen": "2026-05-31", "status": "normal", "example_titles": ["코더들, AI 없이는 일 거부... 단기 생산성 대비 장기 역량 저하 우려 확산"]},
+    "ai-compute-next-cerebras": {"count": 1, "first_seen": "2026-05-31", "last_seen": "2026-05-31", "status": "normal", "example_titles": ["AI 컴퓨팅 붐 속에서 '차세대 Cerebras'는 누구?... AI 칩 스타트업 재조명"]},
+    "mistral-ai-summit-paris-2026": {"count": 1, "first_seen": "2026-05-31", "last_seen": "2026-05-31", "status": "normal", "example_titles": ["Mistral AI, 파리 'Now Summit' 개최... 추론 모델 경쟁력 격차 솔직 인정"]}
   }
 }
