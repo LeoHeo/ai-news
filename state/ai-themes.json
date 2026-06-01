@@ -1,21 +1,11 @@
 {
   "topic": "ai",
-  "updated": "2026-05-31",
+  "updated": "2026-06-02",
   "version": 1,
   "window_days": 7,
   "themes": {
-    "google-gemini-35-flash": {"count": 6, "first_seen": "2026-05-19", "last_seen": "2026-05-25", "status": "SATURATED"},
-    "google-gemini-omni-model": {"count": 5, "first_seen": "2026-05-19", "last_seen": "2026-05-25", "status": "SATURATED"},
-    "google-gemini-spark-agent": {"count": 4, "first_seen": "2026-05-19", "last_seen": "2026-05-25", "status": "demoted"},
-    "exa-labs-search-funding": {"count": 3, "first_seen": "2026-05-20", "last_seen": "2026-05-25", "status": "demoted"},
-    "stability-ai-audio-model": {"count": 1, "first_seen": "2026-05-25", "last_seen": "2026-05-25", "status": "normal"},
-    "openai-erdos-math-proof": {"count": 1, "first_seen": "2026-05-25", "last_seen": "2026-05-25", "status": "normal"},
     "thinking-machines-voice-ai": {"count": 3, "first_seen": "2026-05-25", "last_seen": "2026-05-29", "status": "demoted", "example_titles": ["Thinking Machines, 지연시간 0.4초 AI 실시간 음성·영상 대화 모델 공개", "Thinking Machines, 지연시간 0.4초 실시간 AI 음성·영상 대화 모델 프리뷰 공개"]},
     "anthropic-funding-900b-round": {"count": 2, "first_seen": "2026-05-25", "last_seen": "2026-05-28", "status": "normal", "example_titles": ["Anthropic, $300억 펀딩 라운드 클로징 확정… 기업가치 $9,000억 돌파, 세계 최고가 비상장 AI 스타트업 등극"]},
-    "anthropic-microsoft-maia-chip": {"count": 1, "first_seen": "2026-05-25", "last_seen": "2026-05-25", "status": "normal"},
-    "openai-gartner-coding-leader": {"count": 1, "first_seen": "2026-05-25", "last_seen": "2026-05-25", "status": "normal"},
-    "amazon-bee-wearable": {"count": 1, "first_seen": "2026-05-25", "last_seen": "2026-05-25", "status": "normal"},
-    "google-search-ai-overhaul": {"count": 1, "first_seen": "2026-05-25", "last_seen": "2026-05-25", "status": "normal"},
     "pope-leo-ai-encyclical": {"count": 2, "first_seen": "2026-05-25", "last_seen": "2026-05-26", "status": "normal"},
     "us-whitehouse-ai-order-delay": {"count": 2, "first_seen": "2026-05-25", "last_seen": "2026-05-26", "status": "normal"},
     "microsoft-fara-computer-use": {"count": 1, "first_seen": "2026-05-26", "last_seen": "2026-05-26", "status": "normal"},
@@ -51,6 +41,13 @@
     "amazon-ai-leaderboard-gaming": {"count": 1, "first_seen": "2026-05-31", "last_seen": "2026-05-31", "status": "normal", "example_titles": ["Amazon, 직원들이 게임화한 AI 사용 리더보드 폐지... AI 위해 AI 쓰지 말라"]},
     "coders-ai-dependency-adoption": {"count": 1, "first_seen": "2026-05-31", "last_seen": "2026-05-31", "status": "normal", "example_titles": ["코더들, AI 없이는 일 거부... 단기 생산성 대비 장기 역량 저하 우려 확산"]},
     "ai-compute-next-cerebras": {"count": 1, "first_seen": "2026-05-31", "last_seen": "2026-05-31", "status": "normal", "example_titles": ["AI 컴퓨팅 붐 속에서 '차세대 Cerebras'는 누구?... AI 칩 스타트업 재조명"]},
-    "mistral-ai-summit-paris-2026": {"count": 1, "first_seen": "2026-05-31", "last_seen": "2026-05-31", "status": "normal", "example_titles": ["Mistral AI, 파리 'Now Summit' 개최... 추론 모델 경쟁력 격차 솔직 인정"]}
+    "mistral-ai-summit-paris-2026": {"count": 1, "first_seen": "2026-05-31", "last_seen": "2026-05-31", "status": "normal", "example_titles": ["Mistral AI, 파리 'Now Summit' 개최... 추론 모델 경쟁력 격차 솔직 인정"]},
+    "anthropic-ipo-s1-filing": {"count": 1, "first_seen": "2026-06-02", "last_seen": "2026-06-02", "status": "normal", "example_titles": ["Anthropic, 상장 신청서(S-1) 공식 제출… 기업가치 $9,650억으로 AI 업계 최대 IPO 초읽기"]},
+    "ms-google-ai-coding-rivalry": {"count": 1, "first_seen": "2026-06-02", "last_seen": "2026-06-02", "status": "normal", "example_titles": ["Microsoft·Google, AI 코딩 시장에서 Anthropic·OpenAI에 정면 도전장"]},
+    "mistral-vibe-industrial-expansion": {"count": 1, "first_seen": "2026-06-02", "last_seen": "2026-06-02", "status": "normal", "example_titles": ["Mistral AI, 'Vibe' 출시·산업 AI 진출·데이터센터 구축으로 3방향 동시 확장"]},
+    "nvidia-pc-ai-chip": {"count": 1, "first_seen": "2026-06-02", "last_seen": "2026-06-02", "status": "normal", "example_titles": ["Nvidia, 개인용 컴퓨터(PC) 전용 AI 칩 신제품 공개"]},
+    "windborne-weathermesh-forecast": {"count": 1, "first_seen": "2026-06-02", "last_seen": "2026-06-02", "status": "normal", "example_titles": ["WindBorne Systems, AI 기상 모델 WeatherMesh 6로 유럽기상청(ECMWF)·기존 AI 예보 모두 능가"]},
+    "duckduckgo-anti-ai-search-surge": {"count": 1, "first_seen": "2026-06-02", "last_seen": "2026-06-02", "status": "normal", "example_titles": ["DuckDuckGo 'AI 없는 검색' 트래픽 3배 급등… 반AI 검색 수요 본격 부상"]},
+    "subquadratic-llm-efficiency-claim": {"count": 1, "first_seen": "2026-06-02", "last_seen": "2026-06-02", "status": "normal", "example_titles": ["Subquadratic, LLM 어텐션 연산 1,000배 절감 주장… 연구자들 독립 검증 요구"]}
   }
 }
