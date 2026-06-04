@@ -44,18 +44,19 @@ site/
 1. config/{topic}.json 생성 (ai.json 참고) — `site`, `og` 섹션 포함
 2. site/{topic}/ 디렉토리 생성
 3. site/index.html 탭에 새 토픽 추가
-4. Claude Code Schedule에 새 스케줄 등록 (토픽별 시간, 프롬프트: "Read scripts/generate.md ... topic은 {topic}")
+4. CC routine에 새 스케줄 등록 (토픽별 시간, 프롬프트: "Read scripts/generate.md ... topic은 {topic}")
 
 ## Execution
-- 실행 방식: Claude Code Schedule (Claude Code 내장 스케줄러)
-- 매 실행은 `scripts/generate.md`를 읽고 7단계 파이프라인을 수행
-- 배포는 `mcp__github__push_files`로 GitHub API 직접 호출 (로컬 git 인증 불필요)
+- 실행 방식: CC routines (Claude Code 스케줄 routine — 토픽별 발화)
+- 매 실행은 `scripts/generate.md`(ai/fintech) 또는 `scripts/generate-macro.md`(macro)를 읽고 파이프라인 수행
+- 배포는 routine 네이티브 git 단일 채널 (`git add → commit → pull --rebase → push`)
+- ⚠️ `mcp__github__push_files`(GitHub API 직접 푸시)와 routine 자동 git push를 **혼용 금지** — 같은 `main`을 동시에 밀어 non-fast-forward(`fetch first` / HTTP 403) 충돌 발생
 
 ## Git Convention
 - Commit message: "chore: update {topic} news YYYY-MM-DD"
 - Auto-generated files only in site/
 - Deploy branch: main, deploy dir: /site
-- 푸시 방식: MCP GitHub API (`mcp__github__push_files`) — `git push`는 사용하지 않음
+- 푸시 방식: routine 네이티브 git — push 전 반드시 `git pull --rebase origin main`으로 원격에 맞춘 뒤 push (토픽 3개가 같은 main에 push하므로 순서 충돌 방지)
 
 ## Archive Policy
 - 보존 기간: 90일

@@ -5,8 +5,9 @@
 ## Execution Context
 
 - Working directory: ai-news/ (project root)
-- Triggered by: Claude Code Schedule (토픽별 — AI 08:00 KST, Fintech 08:30 KST)
-- Required tools: WebSearch, WebFetch, Read, Write, Bash (git fetch/reset), `mcp__github__push_files`, `mcp__github__delete_file`
+- Triggered by: CC routine (토픽별 — AI 08:00 KST, Fintech 08:30 KST, Macro 07:30 KST)
+- Required tools: WebSearch, WebFetch, Read, Write, Edit, Glob, Grep, Bash (git add/commit/pull --rebase/push, git rm)
+- Deploy: routine 네이티브 git 단일 채널 (Step 7 참조 — GitHub MCP 미사용)
 - **Topic parameter**: `{topic}` — 실행 시 전달됨 (예: ai, fintech)
 
 ## Pipeline
@@ -285,52 +286,40 @@ find site/{topic}/archive/ -name "????-??-??.html" -mtime +90
 
 ### Step 7: Deploy
 
-`mcp__github__push_files` 툴을 사용해서 GitHub API로 직접 푸시한다 (git push 대신).
-이렇게 하면 로컬 git 인증·프록시 설정에 의존하지 않고 Claude Code Schedule 환경에서도 푸시가 동작한다.
+CC routine 환경에서는 routine 자체가 변경분을 git으로 커밋·푸시한다. 따라서 이 파이프라인은
+**GitHub MCP를 쓰지 않고** 변경된 파일을 워킹트리에 남긴 뒤 git으로 직접 커밋·푸시한다.
 
-**7a. 푸시할 파일 목록**
+> ⚠️ `mcp__github__push_files`(GitHub API 직접 푸시)와 routine의 자동 git push는 **같은 `main`을 동시에
+> 밀어 non-fast-forward 충돌**(`! [rejected] main -> main (fetch first)` + HTTP 403)을 일으킨다.
+> 그래서 routine 환경에서는 MCP 푸시를 쓰지 않고 git 단일 채널로만 배포한다.
 
-이번 실행에서 생성·변경된 파일들을 Read로 읽어 내용 전체를 문자열로 준비한다:
+**7a. 배포 대상 파일**
+
+이번 실행에서 생성·변경된 파일 (워킹트리에 그대로 둔다 — 내용을 문자열로 읽을 필요 없음):
 - `site/{topic}/index.html` (오늘의 뉴스)
 - `site/{topic}/archive/{YYYY-MM-DD}.html` (아카이브 사본)
 - `site/{topic}/archive/index.html` (아카이브 목록)
 - `site/index.html` (메인 탭 UI)
-- **`state/{topic}-themes.json`** (P3 — Step 8에서 갱신된 테마 메모리. push 누락 시 다음 회차 윈도우 깨짐 + 재구축 모드 발동)
-- Step 6에서 삭제한 90일 이전 아카이브 파일이 있다면 그 경로도 포함 (content는 빈 문자열이 아니라 별도 처리 필요 → 삭제는 `mcp__github__delete_file`로)
+- **`state/{topic}-themes.json`** (P3 — Step 8에서 갱신된 테마 메모리. 누락 시 다음 회차 윈도우 깨짐 + 재구축 모드 발동)
+- Step 6에서 삭제한 90일 이전 아카이브 파일이 있다면 `git rm`으로 제거 (아래 커밋에 함께 포함됨)
 
-**7b. MCP 푸시 실행**
-
-```
-mcp__github__push_files({
-  owner: "LeoHeo",
-  repo: "ai-news",
-  branch: "main",
-  message: "chore: update {topic} news {YYYY-MM-DD}",
-  files: [
-    { path: "site/{topic}/index.html", content: "<7a에서 읽은 내용>" },
-    { path: "site/{topic}/archive/{YYYY-MM-DD}.html", content: "..." },
-    { path: "site/{topic}/archive/index.html", content: "..." },
-    { path: "site/index.html", content: "..." },
-    { path: "state/{topic}-themes.json", content: "..." }
-  ]
-})
-```
-
-**7c. 로컬 git 동기화**
-
-MCP 푸시는 GitHub에 새 커밋을 만들지만 로컬 git은 변경되지 않는다.
-다음 실행에서 git 상태가 꼬이지 않도록 로컬을 remote에 맞춘다:
+**7b. 커밋·푸시 (rebase 우선)**
 
 ```bash
-git fetch origin main
-git reset --hard origin/main
+git add -A
+git commit -m "chore: update {topic} news {YYYY-MM-DD}"
+# 원격 main이 앞서 있을 수 있으므로(다른 토픽 실행 등) rebase로 맞춘 뒤 push → non-fast-forward 방지
+git pull --rebase origin main
+git push origin main
 ```
 
-**7d. 실패 처리**
+**7c. 실패 처리**
 
-- MCP 푸시 실패 시 1회 재시도한다.
-- 재시도도 실패하면 로컬에 생성된 HTML을 유지하고 종료한다 (다음 실행 시 누락 파일 자동 보정).
-- `git push`는 사용하지 않는다 (인증/프록시 문제 회피).
+- `git pull --rebase` 중 충돌 시: site/·state/ 산출물은 자동 생성 파일이므로 충돌 거의 없으나, 발생 시
+  `git checkout --theirs <path>` 후 `git add` → `git rebase --continue` (원격 우선)로 해소한다.
+- `git push` 실패 시 `git pull --rebase origin main` 후 1회 재시도한다.
+- 재시도도 실패하면 워킹트리 변경분을 유지하고 종료한다 (다음 실행 시 누락 파일 자동 보정).
+- **`mcp__github__push_files` / `mcp__github__delete_file`는 사용하지 않는다** (routine 자동 push와 main 충돌).
 
 ---
 
@@ -343,7 +332,7 @@ git reset --hard origin/main
 | 특정 카테고리 0건 | 해당 카테고리 섹션을 생략 |
 | WebFetch 타임아웃 | 해당 뉴스 제외 (검증 불가) |
 | HTML 생성 오류 | 이전 index.html 유지, 에러 로그만 commit |
-| MCP push 실패 | 1회 재시도 → 실패 시 로컬 유지 |
+| git push 실패 (non-fast-forward 등) | `git pull --rebase origin main` 후 1회 재시도 → 실패 시 워킹트리 유지 |
 | **홈 페이지 토픽 카드 stale** (P3.2) | Step 5d.4 검증에서 자동 감지·재작성. 두 번째도 실패면 에러 로그 + deploy 진행 (다음 회차에서 자동 복구) |
 | **특정 토픽 디렉토리 부재** | 해당 토픽 카드는 "(준비 중)" placeholder로 표시. 절대 이전 회차 추론값 재사용 금지 |
 | **다른 토픽 run이 실패해서 그 토픽 index.html이 오래됨** | 의도된 동작 — 그 토픽의 last successful date를 홈에 그대로 표시. 가짜 갱신 금지 |
@@ -351,7 +340,7 @@ git reset --hard origin/main
 #### 재발 방지 운영 가이드
 
 1. **매주 1회 홈 검증** (수동): site/index.html의 각 토픽 카드 date를 site/{topic}/index.html과 직접 비교. 불일치 발견 시 Step 5d.1~5d.4 로직 재검토.
-2. **Schedule 발화 실패 모니터링**: Claude Code Schedule 화면에서 매일 3개 토픽(AI/fintech/macro) 모두 발화 성공했는지 주 1회 확인. 누락된 날은 다음 날 자동 복구되지만 stale 가능성 있음.
+2. **routine 발화 실패 모니터링**: CC routines 화면에서 매일 3개 토픽(AI/fintech/macro) 모두 발화·푸시 성공했는지 주 1회 확인. 누락된 날은 다음 날 자동 복구되지만 stale 가능성 있음.
 3. **stale 패턴 발견 시**: 패턴이 반복되면 generate.md Step 5d를 더 강화 (예: 두 번째 재작성도 실패 시 deploy 자체를 차단).
 
 ## Output

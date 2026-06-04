@@ -266,10 +266,13 @@ Then remove the same dates from `site/macro/archive/index.html`. If no files mat
 ```bash
 git add site/macro/ site/index.html site/assets/og-macro-{date}.png
 git commit -m "chore: update macro news {date}"
+# Remote main may have advanced (e.g. the ai/fintech routine pushed first today),
+# so rebase onto it before pushing to avoid a non-fast-forward rejection (HTTP 403 / "fetch first").
+git pull --rebase origin main
 git push origin main
 ```
 
-Match the existing commit-message convention. On push failure, retry once; if that also fails, leave the local files and exit non-zero.
+Match the existing commit-message convention. On push failure, run `git pull --rebase origin main` and retry once; if that also fails, leave the local files committed and exit non-zero. Do **not** use `mcp__github__push_files` here — pushing through both git and the GitHub API races on the same `main` and triggers the non-fast-forward conflict.
 
 ---
 
@@ -283,4 +286,4 @@ Match the existing commit-message convention. On push failure, retry once; if th
 | WebFetch timeout (10s) | Drop that item. |
 | OG image conversion fails | Use `og-home.png` fallback; do not abort the page render. |
 | LLM proposes an `action_plan` outside the 3 allowed values | Coerce to `No Action` / `no-action`. |
-| `git push` fails | Retry once. If still failing, exit with non-zero status but keep local files committed. |
+| `git push` fails (non-fast-forward / 403) | `git pull --rebase origin main`, then retry once. If still failing, exit non-zero but keep local files committed. |
