@@ -28,12 +28,12 @@
         fill="rgba(255,255,255,0.1)" stroke="rgba(255,255,255,0.2)" stroke-width="1"/>
   <text x="180" y="401" font-family="system-ui, -apple-system, sans-serif"
         font-size="22" fill="rgba(255,255,255,0.9)" text-anchor="middle">
-    14건의 뉴스
+    17건의 뉴스
   </text>
 
   <text x="80" y="480" font-family="system-ui, -apple-system, sans-serif"
         font-size="22" fill="rgba(255,255,255,0.5)">
-    Payments 4건 · Remittance 1건 · Digital Banking 1건 · Lending 1건 · Regulation 2건 · Investment 5건
+    Payments 6건 · Remittance 3건 · Digital Banking 2건 · Regulation 2건 · Investment 4건
   </text>
 
   <text x="80" y="570" font-family="system-ui, -apple-system, sans-serif"
