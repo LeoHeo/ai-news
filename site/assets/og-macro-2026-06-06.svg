@@ -1,0 +1,46 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   style="stop-color:#0a0a14"/>
+      <stop offset="50%"  style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#0d0d18"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   style="stop-color:#fbbf24"/>
+      <stop offset="100%" style="stop-color:#ef4444"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="80" y="180" width="120" height="4" rx="2" fill="url(#accent)"/>
+
+  <text x="80" y="260" font-family="system-ui, -apple-system, sans-serif"
+        font-size="60" font-weight="700" fill="#ffffff">
+    Global Macro Briefing
+  </text>
+
+  <text x="80" y="330" font-family="system-ui, -apple-system, sans-serif"
+        font-size="38" fill="rgba(255,255,255,0.75)">
+    2026-06-06
+  </text>
+
+  <rect x="80" y="370" width="340" height="56" rx="28"
+        fill="url(#accent)" opacity="0.85"/>
+  <text x="250" y="406" font-family="system-ui, -apple-system, sans-serif"
+        font-size="24" font-weight="700" fill="#0a0a14" text-anchor="middle">
+    Action: Defensive
+  </text>
+
+  <text x="80" y="490" font-family="system-ui, -apple-system, sans-serif"
+        font-size="22" fill="rgba(255,255,255,0.6)">
+    유효: 미국 6월 FOMC 전까지
+  </text>
+
+  <text x="80" y="570" font-family="system-ui, -apple-system, sans-serif"
+        font-size="20" fill="rgba(255,255,255,0.3)">
+    News Daily — Global Macro · Curated by Claude
+  </text>
+
+  <circle cx="1050" cy="120" r="80"  fill="rgba(251,191,36,0.04)"/>
+  <circle cx="1100" cy="220" r="130" fill="rgba(239,68,68,0.03)"/>
+</svg>
