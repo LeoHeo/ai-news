@@ -1,16 +1,11 @@
 {
   "topic": "ai",
-  "updated": "2026-06-05",
+  "updated": "2026-06-06",
   "version": 1,
   "window_days": 7,
   "themes": {
-    "microsoft-3-ai-models": {"count": 2, "first_seen": "2026-05-27", "last_seen": "2026-05-29", "status": "normal", "example_titles": ["Microsoft, 음성·이미지 AI 모델 3종 동시 출시… OpenAI·Google에 직격탄"]},
-    "intelition-ai-paradigm": {"count": 2, "first_seen": "2026-05-27", "last_seen": "2026-05-29", "status": "normal", "example_titles": ["'인텔리션' 등장… AI, 더 이상 사용자가 호출하는 도구가 아니다"]},
-    "enterprise-ai-research-trends-2026": {"count": 2, "first_seen": "2026-05-27", "last_seen": "2026-05-29", "status": "normal", "example_titles": ["2026년 엔터프라이즈가 주목해야 할 AI 연구 트렌드 4가지"]},
     "naver-kakao-ai-agent-competition": {"count": 5, "first_seen": "2026-05-27", "last_seen": "2026-06-05", "status": "demoted", "example_titles": ["네이버 vs 카카오, AI 에이전트 경쟁 본격화", "네이버·카카오, 2026 하반기 AI 에이전트 수익화 '진검승부'… 광고 vs 구독 전략 정반대", "네이버, 클로바X 에이전트 서비스 정식 출시 — 쇼핑·예약·업무 자동화 지원"]},
-    "ai-agent-definition-debate": {"count": 2, "first_seen": "2026-05-28", "last_seen": "2026-05-29", "status": "normal", "example_titles": ["AI 에이전트를 계속 언급하지만, 우리는 실제로 그 정의를 알고 있는가?"]},
-    "deepswe-gpt55-coding-benchmark": {"count": 1, "first_seen": "2026-05-29", "last_seen": "2026-05-29", "status": "normal", "example_titles": ["DeepSWE, AI 코딩 리더보드 재편… GPT-5.5 1위, Claude Opus 벤치마크 허점 악용 발각"]},
-    "sesame-ai-ios-app-launch": {"count": 1, "first_seen": "2026-05-29", "last_seen": "2026-05-29", "status": "normal", "example_titles": ["Sesame, Oculus 창업자들의 AI 대화 스타트업 iOS 앱 정식 출시"]},
+    "ai-agent-definition-debate": {"count": 3, "first_seen": "2026-05-28", "last_seen": "2026-06-06", "status": "normal", "example_titles": ["AI 에이전트를 계속 언급하지만, 우리는 실제로 그 정의를 알고 있는가?", "AI 에이전트를 계속 언급하지만, 우리는 그 정의를 정말 알고 있나?"]},
     "anthropic-opus-4-8-release": {"count": 1, "first_seen": "2026-05-31", "last_seen": "2026-05-31", "status": "normal", "example_titles": ["Anthropic, Claude Opus 4.8 출시하며 Mythos급 AI 전면 공개 예정... 기업가치 $9,650억 확정"]},
     "liquid-ai-lfm25-moe-model": {"count": 1, "first_seen": "2026-05-31", "last_seen": "2026-05-31", "status": "normal", "example_titles": ["Liquid AI, 온디바이스 MoE 모델 LFM2.5-8B-A1B 공개... 83억 중 15억 파라미터만 활성화"]},
     "aislop-code-quality-cli": {"count": 1, "first_seen": "2026-05-31", "last_seen": "2026-05-31", "status": "normal", "example_titles": ["AISlop: AI가 생성한 코드의 품질 문제를 감지하는 오픈소스 CLI 공개"]},
@@ -20,7 +15,7 @@
     "coders-ai-dependency-adoption": {"count": 1, "first_seen": "2026-05-31", "last_seen": "2026-05-31", "status": "normal", "example_titles": ["코더들, AI 없이는 일 거부... 단기 생산성 대비 장기 역량 저하 우려 확산"]},
     "ai-compute-next-cerebras": {"count": 1, "first_seen": "2026-05-31", "last_seen": "2026-05-31", "status": "normal", "example_titles": ["AI 컴퓨팅 붐 속에서 '차세대 Cerebras'는 누구?... AI 칩 스타트업 재조명"]},
     "mistral-ai-summit-paris-2026": {"count": 1, "first_seen": "2026-05-31", "last_seen": "2026-05-31", "status": "normal", "example_titles": ["Mistral AI, 파리 'Now Summit' 개최... 추론 모델 경쟁력 격차 솔직 인정"]},
-    "anthropic-ipo-s1-filing": {"count": 2, "first_seen": "2026-06-02", "last_seen": "2026-06-03", "status": "normal", "example_titles": ["Anthropic, 상장 신청서(S-1) 공식 제출… 기업가치 $9,650억으로 AI 업계 최대 IPO 초읽기", "Anthropic, 기업가치 $9,650억으로 S-1 비공개 제출… OpenAI 앞질러 AI 역사상 최대 IPO 초읽기"]},
+    "anthropic-ipo-s1-filing": {"count": 3, "first_seen": "2026-06-02", "last_seen": "2026-06-06", "status": "normal", "example_titles": ["Anthropic, 기업가치 $9,650억으로 S-1 비공개 제출… OpenAI 앞질러 AI 역사상 최대 IPO 초읽기", "Anthropic Daniela Amodei, IPO 앞두고 연간 매출 $470억 달성 공개하며 AI ROI 회의론 일축"]},
     "ms-google-ai-coding-rivalry": {"count": 1, "first_seen": "2026-06-02", "last_seen": "2026-06-02", "status": "normal", "example_titles": ["Microsoft·Google, AI 코딩 시장에서 Anthropic·OpenAI에 정면 도전장"]},
     "mistral-vibe-industrial-expansion": {"count": 2, "first_seen": "2026-06-02", "last_seen": "2026-06-03", "status": "normal", "example_titles": ["Mistral AI, 'Vibe' 출시·산업 AI 진출·데이터센터 구축으로 3방향 동시 확장", "Mistral AI, Vibe 어시스턴트 출시·산업 AI 진출·파리 데이터센터 3방향 동시 확장"]},
     "nvidia-pc-ai-chip": {"count": 1, "first_seen": "2026-06-02", "last_seen": "2026-06-02", "status": "normal", "example_titles": ["Nvidia, 개인용 컴퓨터(PC) 전용 AI 칩 신제품 공개"]},
@@ -29,7 +24,7 @@
     "subquadratic-llm-efficiency-claim": {"count": 1, "first_seen": "2026-06-02", "last_seen": "2026-06-02", "status": "normal", "example_titles": ["Subquadratic, LLM 어텐션 연산 1,000배 절감 주장… 연구자들 독립 검증 요구"]},
     "microsoft-mai-model-launch": {"count": 1, "first_seen": "2026-06-03", "last_seen": "2026-06-03", "status": "normal", "example_titles": ["Microsoft, Build 2026서 자체 AI 모델 패밀리 MAI 공개… MAI-Thinking-1·MAI-Code-1로 OpenAI 의존도 탈피"]},
     "nvidia-cosmos-3-physical-ai": {"count": 1, "first_seen": "2026-06-03", "last_seen": "2026-06-03", "status": "normal", "example_titles": ["NVIDIA, 세계 최초 완전 오픈 물리 AI 기반 모델 Cosmos 3 공개… 로봇·자율주행 옴니모델"]},
-    "microsoft-build-2026-products": {"count": 4, "first_seen": "2026-06-03", "last_seen": "2026-06-05", "status": "demoted", "example_titles": ["Microsoft Build 2026: GitHub Copilot 데스크톱 앱·Surface RTX Spark Dev Box·Windows 에이전트 플랫폼 동시 공개", "Microsoft MXC: OS 수준 AI 에이전트 실행 컨테이너 출시 — OpenAI·Nvidia 참여", "Microsoft Surface RTX Spark Dev Box: 120B 파라미터 AI 모델 로컬 실행 전용 개발자 PC", "Microsoft, 엔터프라이즈 AI 에이전트 격리 실행 환경 'MXC Agent Sandbox' 발표"]},
+    "microsoft-build-2026-products": {"count": 4, "first_seen": "2026-06-03", "last_seen": "2026-06-05", "status": "demoted", "example_titles": ["Microsoft Build 2026: GitHub Copilot 데스크톱 앱·Surface RTX Spark Dev Box·Windows 에이전트 플랫폼 동시 공개", "Microsoft MXC: OS 수준 AI 에이전트 실행 컨테이너 출시 — OpenAI·Nvidia 참여", "Microsoft, 엔터프라이즈 AI 에이전트 격리 실행 환경 'MXC Agent Sandbox' 발표"]},
     "alphabet-80b-ai-infrastructure": {"count": 1, "first_seen": "2026-06-03", "last_seen": "2026-06-03", "status": "normal", "example_titles": ["Alphabet, AI 인프라 확충에 $800억 주식 발행… 2005년 이후 처음 유상증자·버크셔 해서웨이 참여"]},
     "nvidia-vera-rubin-production": {"count": 1, "first_seen": "2026-06-03", "last_seen": "2026-06-03", "status": "normal", "example_titles": ["NVIDIA, Vera Rubin VR200 첫 샘플 출하… 50 PFLOPS·Blackwell 대비 추론 비용 10분의 1"]},
     "florida-sues-openai-altman": {"count": 1, "first_seen": "2026-06-03", "last_seen": "2026-06-03", "status": "normal", "example_titles": ["플로리다 주, OpenAI·샘 알트만 CEO 고소… 미국 주정부 최초 AI 안전 실패 대규모 소송"]},
@@ -46,6 +41,13 @@
     "ai-worm-genai-agents-security": {"count": 1, "first_seen": "2026-06-05", "last_seen": "2026-06-05", "status": "normal", "example_titles": ["연구팀, 생성형 AI 에이전트 간 전파되는 'AI 웜' 공격 기법 실증"]},
     "apple-poke-ondevice-personalization": {"count": 1, "first_seen": "2026-06-05", "last_seen": "2026-06-05", "status": "normal", "example_titles": ["Apple, 온디바이스 개인화 AI 모델 'Poke' 내부 개발 중 — 유출 보고서"]},
     "global-ai-startup-funding-record": {"count": 1, "first_seen": "2026-06-05", "last_seen": "2026-06-05", "status": "normal", "example_titles": ["2026년 Q1 글로벌 AI 스타트업 투자액 역대 최고 — 분기 합산 420억 달러"]},
-    "eu-ai-act-conformity-assessment": {"count": 1, "first_seen": "2026-06-05", "last_seen": "2026-06-05", "status": "normal", "example_titles": ["EU, AI Act 고위험 AI 시스템 적합성 평가 세부 가이드라인 공개"]}
+    "eu-ai-act-conformity-assessment": {"count": 1, "first_seen": "2026-06-05", "last_seen": "2026-06-05", "status": "normal", "example_titles": ["EU, AI Act 고위험 AI 시스템 적합성 평가 세부 가이드라인 공개"]},
+    "thinking-machines-interaction-models": {"count": 1, "first_seen": "2026-06-06", "last_seen": "2026-06-06", "status": "normal", "example_titles": ["Mira Murati의 Thinking Machines Lab, 실시간 음성·영상 AI 대화 모델 'Interaction Models' 프리뷰 공개"]},
+    "anthropic-ai-pause-call": {"count": 1, "first_seen": "2026-06-06", "last_seen": "2026-06-06", "status": "normal", "example_titles": ["Anthropic, AI 재귀적 자기 개선 위험 경고하며 글로벌 개발 일시 중단 촉구"]},
+    "fin-ai-agent-manager": {"count": 1, "first_seen": "2026-06-06", "last_seen": "2026-06-06", "status": "normal", "example_titles": ["Intercom, 'Fin'으로 사명 변경 후 AI 에이전트 관리 전담 AI 에이전트 출시"]},
+    "writer-autonomous-ai-agents": {"count": 1, "first_seen": "2026-06-06", "last_seen": "2026-06-06", "status": "normal", "example_titles": ["Writer, 프롬프트 없이 자율 실행하는 이벤트 기반 엔터프라이즈 AI 에이전트 출시"]},
+    "poke-ai-apple-messages": {"count": 1, "first_seen": "2026-06-06", "last_seen": "2026-06-06", "status": "normal", "example_titles": ["Poke AI, Apple Messages for Business 플랫폼 최초 AI 에이전트로 공식 승인"]},
+    "enterprise-ai-agents-chaos": {"count": 1, "first_seen": "2026-06-06", "last_seen": "2026-06-06", "status": "normal", "example_titles": ["Claude, OpenClaw과 함께 온 AI 에이전트의 새로운 현실: 에이전트는 이제 여기 있다, 혼돈도 함께"]},
+    "ai-chip-stocks-broadcom-shock": {"count": 1, "first_seen": "2026-06-06", "last_seen": "2026-06-06", "status": "normal", "example_titles": ["브로드컴 실적 충격·고용 호조 겹악재로 뉴욕 AI 반도체주 일제 약세"]}
   }
 }
