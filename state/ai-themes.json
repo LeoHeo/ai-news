@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-06-06",
+  "updated": "2026-06-07",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -48,6 +48,17 @@
     "writer-autonomous-ai-agents": {"count": 1, "first_seen": "2026-06-06", "last_seen": "2026-06-06", "status": "normal", "example_titles": ["Writer, 프롬프트 없이 자율 실행하는 이벤트 기반 엔터프라이즈 AI 에이전트 출시"]},
     "poke-ai-apple-messages": {"count": 1, "first_seen": "2026-06-06", "last_seen": "2026-06-06", "status": "normal", "example_titles": ["Poke AI, Apple Messages for Business 플랫폼 최초 AI 에이전트로 공식 승인"]},
     "enterprise-ai-agents-chaos": {"count": 1, "first_seen": "2026-06-06", "last_seen": "2026-06-06", "status": "normal", "example_titles": ["Claude, OpenClaw과 함께 온 AI 에이전트의 새로운 현실: 에이전트는 이제 여기 있다, 혼돈도 함께"]},
-    "ai-chip-stocks-broadcom-shock": {"count": 1, "first_seen": "2026-06-06", "last_seen": "2026-06-06", "status": "normal", "example_titles": ["브로드컴 실적 충격·고용 호조 겹악재로 뉴욕 AI 반도체주 일제 약세"]}
+    "ai-chip-stocks-broadcom-shock": {"count": 1, "first_seen": "2026-06-06", "last_seen": "2026-06-06", "status": "normal", "example_titles": ["브로드컴 실적 충격·고용 호조 겹악재로 뉴욕 AI 반도체주 일제 약세"]},
+    "openai-chatgpt-dreaming-v3": {"count": 1, "first_seen": "2026-06-07", "last_seen": "2026-06-07", "status": "normal", "example_titles": ["OpenAI, ChatGPT 'Dreaming V3' 출시 — 비구조적 추론·수면 중 자율학습 기능 최초 탑재"]},
+    "alibaba-qwen37plus-ga": {"count": 1, "first_seen": "2026-06-07", "last_seen": "2026-06-07", "status": "normal", "example_titles": ["Alibaba, Qwen 3.7 Plus 정식 출시 — 수학·코딩 벤치마크서 GPT-5.5 압도"]},
+    "openai-gpt55-cyber-eu": {"count": 1, "first_seen": "2026-06-07", "last_seen": "2026-06-07", "status": "normal", "example_titles": ["OpenAI, EU 사이버보안 인증 특화 모델 GPT-5.5-Cyber 공개"]},
+    "meta-muse-spark-delay": {"count": 1, "first_seen": "2026-06-07", "last_seen": "2026-06-07", "status": "normal", "example_titles": ["Meta, 창작자 지원 AI 'Muse Spark' 출시 3개월 연기 — 안전성 재검토"]},
+    "ai-agents-chaos-engineering-risk": {"count": 1, "first_seen": "2026-06-07", "last_seen": "2026-06-07", "status": "normal", "example_titles": ["AI 에이전트 카오스 엔지니어링 연구: 자율 에이전트 간 오류 전파 리스크 실증"]},
+    "microsoft-ai-independence-statement": {"count": 1, "first_seen": "2026-06-07", "last_seen": "2026-06-07", "status": "normal", "example_titles": ["Microsoft, OpenAI 의존 탈피 공식 선언 — MAI 모델 패밀리로 완전 독립 선언"]},
+    "nvidia-jensen-korea-visit": {"count": 1, "first_seen": "2026-06-07", "last_seen": "2026-06-07", "status": "normal", "example_titles": ["젠슨 황 엔비디아 CEO 방한 — 한국 AI 인프라·반도체 협력 확대 의지 표명"]},
+    "us-house-ai-preemption-bill": {"count": 1, "first_seen": "2026-06-07", "last_seen": "2026-06-07", "status": "normal", "example_titles": ["미국 하원, 주정부 AI 규제 선점 차단 법안 통과 — 연방 단일 규제 체계 급물살"]},
+    "ai-ceos-biosecurity-letter-congress": {"count": 1, "first_seen": "2026-06-07", "last_seen": "2026-06-07", "status": "normal", "example_titles": ["AI CEO들, 의회에 바이오보안 공동 서한 — AI 기반 생물 무기 위협 긴급 대응 촉구"]},
+    "colorado-ai-law-june2026": {"count": 1, "first_seen": "2026-06-07", "last_seen": "2026-06-07", "status": "normal", "example_titles": ["콜로라도, 고위험 AI 시스템 규제법 6월 30일 발효 — 기업 준비 시간 촉박"]},
+    "whitehouse-genesis-mission": {"count": 1, "first_seen": "2026-06-07", "last_seen": "2026-06-07", "status": "normal", "example_titles": ["백악관 '제네시스 미션': AI 가속 신약 개발·의료 혁신 국가 프로젝트 발표"]}
   }
 }
