@@ -1,20 +1,11 @@
 {
   "topic": "ai",
-  "updated": "2026-06-07",
+  "updated": "2026-06-08",
   "version": 1,
   "window_days": 7,
   "themes": {
     "naver-kakao-ai-agent-competition": {"count": 5, "first_seen": "2026-05-27", "last_seen": "2026-06-05", "status": "demoted", "example_titles": ["네이버 vs 카카오, AI 에이전트 경쟁 본격화", "네이버·카카오, 2026 하반기 AI 에이전트 수익화 '진검승부'… 광고 vs 구독 전략 정반대", "네이버, 클로바X 에이전트 서비스 정식 출시 — 쇼핑·예약·업무 자동화 지원"]},
     "ai-agent-definition-debate": {"count": 3, "first_seen": "2026-05-28", "last_seen": "2026-06-06", "status": "normal", "example_titles": ["AI 에이전트를 계속 언급하지만, 우리는 실제로 그 정의를 알고 있는가?", "AI 에이전트를 계속 언급하지만, 우리는 그 정의를 정말 알고 있나?"]},
-    "anthropic-opus-4-8-release": {"count": 1, "first_seen": "2026-05-31", "last_seen": "2026-05-31", "status": "normal", "example_titles": ["Anthropic, Claude Opus 4.8 출시하며 Mythos급 AI 전면 공개 예정... 기업가치 $9,650억 확정"]},
-    "liquid-ai-lfm25-moe-model": {"count": 1, "first_seen": "2026-05-31", "last_seen": "2026-05-31", "status": "normal", "example_titles": ["Liquid AI, 온디바이스 MoE 모델 LFM2.5-8B-A1B 공개... 83억 중 15억 파라미터만 활성화"]},
-    "aislop-code-quality-cli": {"count": 1, "first_seen": "2026-05-31", "last_seen": "2026-05-31", "status": "normal", "example_titles": ["AISlop: AI가 생성한 코드의 품질 문제를 감지하는 오픈소스 CLI 공개"]},
-    "rsi-agi-definition-debate": {"count": 1, "first_seen": "2026-05-31", "last_seen": "2026-05-31", "status": "normal", "example_titles": ["'RSI', AGI의 뒤를 이을 AI 업계 차세대 유행어... 여전히 정의조차 불분명"]},
-    "enterprise-ai-cost-rationing": {"count": 1, "first_seen": "2026-05-31", "last_seen": "2026-05-31", "status": "normal", "example_titles": ["Corporate America, AI 비용 폭등에 사용량 배급 시작... Uber·Meta·Microsoft 월별 한도 도입"]},
-    "amazon-ai-leaderboard-gaming": {"count": 1, "first_seen": "2026-05-31", "last_seen": "2026-05-31", "status": "normal", "example_titles": ["Amazon, 직원들이 게임화한 AI 사용 리더보드 폐지... AI 위해 AI 쓰지 말라"]},
-    "coders-ai-dependency-adoption": {"count": 1, "first_seen": "2026-05-31", "last_seen": "2026-05-31", "status": "normal", "example_titles": ["코더들, AI 없이는 일 거부... 단기 생산성 대비 장기 역량 저하 우려 확산"]},
-    "ai-compute-next-cerebras": {"count": 1, "first_seen": "2026-05-31", "last_seen": "2026-05-31", "status": "normal", "example_titles": ["AI 컴퓨팅 붐 속에서 '차세대 Cerebras'는 누구?... AI 칩 스타트업 재조명"]},
-    "mistral-ai-summit-paris-2026": {"count": 1, "first_seen": "2026-05-31", "last_seen": "2026-05-31", "status": "normal", "example_titles": ["Mistral AI, 파리 'Now Summit' 개최... 추론 모델 경쟁력 격차 솔직 인정"]},
     "anthropic-ipo-s1-filing": {"count": 3, "first_seen": "2026-06-02", "last_seen": "2026-06-06", "status": "normal", "example_titles": ["Anthropic, 기업가치 $9,650억으로 S-1 비공개 제출… OpenAI 앞질러 AI 역사상 최대 IPO 초읽기", "Anthropic Daniela Amodei, IPO 앞두고 연간 매출 $470억 달성 공개하며 AI ROI 회의론 일축"]},
     "ms-google-ai-coding-rivalry": {"count": 1, "first_seen": "2026-06-02", "last_seen": "2026-06-02", "status": "normal", "example_titles": ["Microsoft·Google, AI 코딩 시장에서 Anthropic·OpenAI에 정면 도전장"]},
     "mistral-vibe-industrial-expansion": {"count": 2, "first_seen": "2026-06-02", "last_seen": "2026-06-03", "status": "normal", "example_titles": ["Mistral AI, 'Vibe' 출시·산업 AI 진출·데이터센터 구축으로 3방향 동시 확장", "Mistral AI, Vibe 어시스턴트 출시·산업 AI 진출·파리 데이터센터 3방향 동시 확장"]},
@@ -59,6 +50,16 @@
     "us-house-ai-preemption-bill": {"count": 1, "first_seen": "2026-06-07", "last_seen": "2026-06-07", "status": "normal", "example_titles": ["미국 하원, 주정부 AI 규제 선점 차단 법안 통과 — 연방 단일 규제 체계 급물살"]},
     "ai-ceos-biosecurity-letter-congress": {"count": 1, "first_seen": "2026-06-07", "last_seen": "2026-06-07", "status": "normal", "example_titles": ["AI CEO들, 의회에 바이오보안 공동 서한 — AI 기반 생물 무기 위협 긴급 대응 촉구"]},
     "colorado-ai-law-june2026": {"count": 1, "first_seen": "2026-06-07", "last_seen": "2026-06-07", "status": "normal", "example_titles": ["콜로라도, 고위험 AI 시스템 규제법 6월 30일 발효 — 기업 준비 시간 촉박"]},
-    "whitehouse-genesis-mission": {"count": 1, "first_seen": "2026-06-07", "last_seen": "2026-06-07", "status": "normal", "example_titles": ["백악관 '제네시스 미션': AI 가속 신약 개발·의료 혁신 국가 프로젝트 발표"]}
+    "whitehouse-genesis-mission": {"count": 1, "first_seen": "2026-06-07", "last_seen": "2026-06-07", "status": "normal", "example_titles": ["백악관 '제네시스 미션': AI 가속 신약 개발·의료 혁신 국가 프로젝트 발표"]},
+    "apple-wwdc-2026-gemini-siri": {"count": 1, "first_seen": "2026-06-08", "last_seen": "2026-06-08", "status": "normal", "example_titles": ["Apple WWDC 2026: Google Gemini 1.2T 기반 Siri 2.0 발표 — 연간 $10억 계약·iOS 27·Extensions 공개"]},
+    "google-gemini-35-pro-launch": {"count": 1, "first_seen": "2026-06-08", "last_seen": "2026-06-08", "status": "normal", "example_titles": ["Google Gemini 3.5 Pro, 200만 토큰 컨텍스트·Deep Think 추론 — 6월 GA 출시 임박"]},
+    "apple-ios27-extensions-multimodel": {"count": 1, "first_seen": "2026-06-08", "last_seen": "2026-06-08", "status": "normal", "example_titles": ["Apple iOS 27 Extensions 시스템 — iPhone에서 ChatGPT·Gemini·Claude 중 AI 직접 선택"]},
+    "anthropic-deepmind-ai-consciousness": {"count": 1, "first_seen": "2026-06-08", "last_seen": "2026-06-08", "status": "normal", "example_titles": ["Anthropic·DeepMind, AI 의식·감각 가능성 공동 조사 착수 — 내부 상태 분석 연구 발표"]},
+    "ai-roi-skepticism-hn": {"count": 1, "first_seen": "2026-06-08", "last_seen": "2026-06-08", "status": "normal", "example_titles": ["\"AI는 인류 역사상 최대 돈 낭비 프로젝트\" — Hacker News에서 AI ROI 회의론 재점화"]},
+    "k-startup-ai-league-2026": {"count": 1, "first_seen": "2026-06-08", "last_seen": "2026-06-08", "status": "normal", "example_titles": ["서울창조경제혁신센터, K-스타트업 2026 'AI리그' 신설 — 한국 AI 창업 지원 체계 고도화"]},
+    "meta-instagram-ai-hack-confirmed": {"count": 1, "first_seen": "2026-06-08", "last_seen": "2026-06-08", "status": "normal", "example_titles": ["Meta, AI 챗봇 악용 Instagram 계정 탈취 2만 건 공식 확인 — 코드패스 전면 차단"]},
+    "whitehouse-ai-security-innovation-eo": {"count": 1, "first_seen": "2026-06-08", "last_seen": "2026-06-08", "status": "normal", "example_titles": ["백악관, 'AI 혁신·보안 촉진' 행정명령 서명 — 30일 내 연방 AI 취약점 탐지 지원 체계 구축"]},
+    "anthropic-rsi-timeline-disclosure": {"count": 1, "first_seen": "2026-06-08", "last_seen": "2026-06-08", "status": "normal", "example_titles": ["Anthropic, RSI 위험 시계 직면 — 재귀적 자기개선 AI 도달 시점 내부 추정 공개"]},
+    "blackburn-trump-america-ai-act": {"count": 1, "first_seen": "2026-06-08", "last_seen": "2026-06-08", "status": "normal", "example_titles": ["블랙번 의원, 'TRUMP AMERICA AI 법안' 토의 초안 공개 — 주법 선점·저작권·책임 전면 개편"]}
   }
 }
