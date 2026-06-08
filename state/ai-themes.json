@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-06-08",
+  "updated": "2026-06-09",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -45,21 +45,24 @@
     "openai-gpt55-cyber-eu": {"count": 1, "first_seen": "2026-06-07", "last_seen": "2026-06-07", "status": "normal", "example_titles": ["OpenAI, EU 사이버보안 인증 특화 모델 GPT-5.5-Cyber 공개"]},
     "meta-muse-spark-delay": {"count": 1, "first_seen": "2026-06-07", "last_seen": "2026-06-07", "status": "normal", "example_titles": ["Meta, 창작자 지원 AI 'Muse Spark' 출시 3개월 연기 — 안전성 재검토"]},
     "ai-agents-chaos-engineering-risk": {"count": 1, "first_seen": "2026-06-07", "last_seen": "2026-06-07", "status": "normal", "example_titles": ["AI 에이전트 카오스 엔지니어링 연구: 자율 에이전트 간 오류 전파 리스크 실증"]},
-    "microsoft-ai-independence-statement": {"count": 1, "first_seen": "2026-06-07", "last_seen": "2026-06-07", "status": "normal", "example_titles": ["Microsoft, OpenAI 의존 탈피 공식 선언 — MAI 모델 패밀리로 완전 독립 선언"]},
+    "microsoft-ai-independence-statement": {"count": 2, "first_seen": "2026-06-07", "last_seen": "2026-06-09", "status": "normal", "example_titles": ["Microsoft, OpenAI 의존 탈피 공식 선언 — MAI 모델 패밀리로 완전 독립 선언", "Microsoft AI 수장 'OpenAI에서 해방' 선언 — MAI 패밀리로 슈퍼인텔리전스 독자 추진"]},
     "nvidia-jensen-korea-visit": {"count": 1, "first_seen": "2026-06-07", "last_seen": "2026-06-07", "status": "normal", "example_titles": ["젠슨 황 엔비디아 CEO 방한 — 한국 AI 인프라·반도체 협력 확대 의지 표명"]},
     "us-house-ai-preemption-bill": {"count": 1, "first_seen": "2026-06-07", "last_seen": "2026-06-07", "status": "normal", "example_titles": ["미국 하원, 주정부 AI 규제 선점 차단 법안 통과 — 연방 단일 규제 체계 급물살"]},
     "ai-ceos-biosecurity-letter-congress": {"count": 1, "first_seen": "2026-06-07", "last_seen": "2026-06-07", "status": "normal", "example_titles": ["AI CEO들, 의회에 바이오보안 공동 서한 — AI 기반 생물 무기 위협 긴급 대응 촉구"]},
     "colorado-ai-law-june2026": {"count": 1, "first_seen": "2026-06-07", "last_seen": "2026-06-07", "status": "normal", "example_titles": ["콜로라도, 고위험 AI 시스템 규제법 6월 30일 발효 — 기업 준비 시간 촉박"]},
-    "whitehouse-genesis-mission": {"count": 1, "first_seen": "2026-06-07", "last_seen": "2026-06-07", "status": "normal", "example_titles": ["백악관 '제네시스 미션': AI 가속 신약 개발·의료 혁신 국가 프로젝트 발표"]},
-    "apple-wwdc-2026-gemini-siri": {"count": 1, "first_seen": "2026-06-08", "last_seen": "2026-06-08", "status": "normal", "example_titles": ["Apple WWDC 2026: Google Gemini 1.2T 기반 Siri 2.0 발표 — 연간 $10억 계약·iOS 27·Extensions 공개"]},
+    "whitehouse-genesis-mission": {"count": 2, "first_seen": "2026-06-07", "last_seen": "2026-06-09", "status": "normal", "example_titles": ["백악관 '제네시스 미션': AI 가속 신약 개발·의료 혁신 국가 프로젝트 발표", "백악관 'Genesis Mission' 기업 실무 해설 — AI 맨해튼 프로젝트가 기업에 의미하는 것"]},
+    "apple-wwdc-2026-gemini-siri": {"count": 2, "first_seen": "2026-06-08", "last_seen": "2026-06-09", "status": "normal", "example_titles": ["Apple WWDC 2026: Google Gemini 1.2T 기반 Siri 2.0 발표 — 연간 $10억 계약·iOS 27·Extensions 공개", "Apple WWDC 2026: Google Gemini 기반 Siri 2.0·iOS 27·Extensions 시스템 전면 공개"]},
     "google-gemini-35-pro-launch": {"count": 1, "first_seen": "2026-06-08", "last_seen": "2026-06-08", "status": "normal", "example_titles": ["Google Gemini 3.5 Pro, 200만 토큰 컨텍스트·Deep Think 추론 — 6월 GA 출시 임박"]},
     "apple-ios27-extensions-multimodel": {"count": 1, "first_seen": "2026-06-08", "last_seen": "2026-06-08", "status": "normal", "example_titles": ["Apple iOS 27 Extensions 시스템 — iPhone에서 ChatGPT·Gemini·Claude 중 AI 직접 선택"]},
     "anthropic-deepmind-ai-consciousness": {"count": 1, "first_seen": "2026-06-08", "last_seen": "2026-06-08", "status": "normal", "example_titles": ["Anthropic·DeepMind, AI 의식·감각 가능성 공동 조사 착수 — 내부 상태 분석 연구 발표"]},
     "ai-roi-skepticism-hn": {"count": 1, "first_seen": "2026-06-08", "last_seen": "2026-06-08", "status": "normal", "example_titles": ["\"AI는 인류 역사상 최대 돈 낭비 프로젝트\" — Hacker News에서 AI ROI 회의론 재점화"]},
-    "k-startup-ai-league-2026": {"count": 1, "first_seen": "2026-06-08", "last_seen": "2026-06-08", "status": "normal", "example_titles": ["서울창조경제혁신센터, K-스타트업 2026 'AI리그' 신설 — 한국 AI 창업 지원 체계 고도화"]},
+    "k-startup-ai-league-2026": {"count": 2, "first_seen": "2026-06-08", "last_seen": "2026-06-09", "status": "normal", "example_titles": ["서울창조경제혁신센터, K-스타트업 2026 'AI리그' 신설 — 한국 AI 창업 지원 체계 고도화", "서울창조경제혁신센터, K-스타트업 2026 'AI리그' 신설 — 한국 AI 창업 생태계 고도화"]},
     "meta-instagram-ai-hack-confirmed": {"count": 1, "first_seen": "2026-06-08", "last_seen": "2026-06-08", "status": "normal", "example_titles": ["Meta, AI 챗봇 악용 Instagram 계정 탈취 2만 건 공식 확인 — 코드패스 전면 차단"]},
     "whitehouse-ai-security-innovation-eo": {"count": 1, "first_seen": "2026-06-08", "last_seen": "2026-06-08", "status": "normal", "example_titles": ["백악관, 'AI 혁신·보안 촉진' 행정명령 서명 — 30일 내 연방 AI 취약점 탐지 지원 체계 구축"]},
     "anthropic-rsi-timeline-disclosure": {"count": 1, "first_seen": "2026-06-08", "last_seen": "2026-06-08", "status": "normal", "example_titles": ["Anthropic, RSI 위험 시계 직면 — 재귀적 자기개선 AI 도달 시점 내부 추정 공개"]},
-    "blackburn-trump-america-ai-act": {"count": 1, "first_seen": "2026-06-08", "last_seen": "2026-06-08", "status": "normal", "example_titles": ["블랙번 의원, 'TRUMP AMERICA AI 법안' 토의 초안 공개 — 주법 선점·저작권·책임 전면 개편"]}
+    "blackburn-trump-america-ai-act": {"count": 1, "first_seen": "2026-06-08", "last_seen": "2026-06-08", "status": "normal", "example_titles": ["블랙번 의원, 'TRUMP AMERICA AI 법안' 토의 초안 공개 — 주법 선점·저작권·책임 전면 개편"]},
+    "amazon-alexa-ai-merch": {"count": 1, "first_seen": "2026-06-09", "last_seen": "2026-06-09", "status": "normal", "example_titles": ["Amazon, Alexa AI로 맞춤 굿즈 직접 디자인·주문 서비스 출시"]},
+    "agentic-ai-coding-productivity-paradox": {"count": 1, "first_seen": "2026-06-09", "last_seen": "2026-06-09", "status": "normal", "example_titles": ["에이전틱 AI, 코딩 해결 후 드러낸 역설 — 코드 생산성 급증에도 제품 품질 정체"]},
+    "intelition-ai-paradigm": {"count": 1, "first_seen": "2026-06-09", "last_seen": "2026-06-09", "status": "normal", "example_titles": ["'Intelition' 패러다임 부상 — AI, 이제 호출하는 도구가 아니라 스스로 감지·행동"]}
   }
 }
