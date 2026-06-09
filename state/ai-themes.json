@@ -1,18 +1,14 @@
 {
   "topic": "ai",
-  "updated": "2026-06-09",
+  "updated": "2026-06-10",
   "version": 1,
   "window_days": 7,
   "themes": {
     "naver-kakao-ai-agent-competition": {"count": 5, "first_seen": "2026-05-27", "last_seen": "2026-06-05", "status": "demoted", "example_titles": ["네이버 vs 카카오, AI 에이전트 경쟁 본격화", "네이버·카카오, 2026 하반기 AI 에이전트 수익화 '진검승부'… 광고 vs 구독 전략 정반대", "네이버, 클로바X 에이전트 서비스 정식 출시 — 쇼핑·예약·업무 자동화 지원"]},
     "ai-agent-definition-debate": {"count": 3, "first_seen": "2026-05-28", "last_seen": "2026-06-06", "status": "normal", "example_titles": ["AI 에이전트를 계속 언급하지만, 우리는 실제로 그 정의를 알고 있는가?", "AI 에이전트를 계속 언급하지만, 우리는 그 정의를 정말 알고 있나?"]},
     "anthropic-ipo-s1-filing": {"count": 3, "first_seen": "2026-06-02", "last_seen": "2026-06-06", "status": "normal", "example_titles": ["Anthropic, 기업가치 $9,650억으로 S-1 비공개 제출… OpenAI 앞질러 AI 역사상 최대 IPO 초읽기", "Anthropic Daniela Amodei, IPO 앞두고 연간 매출 $470억 달성 공개하며 AI ROI 회의론 일축"]},
-    "ms-google-ai-coding-rivalry": {"count": 1, "first_seen": "2026-06-02", "last_seen": "2026-06-02", "status": "normal", "example_titles": ["Microsoft·Google, AI 코딩 시장에서 Anthropic·OpenAI에 정면 도전장"]},
     "mistral-vibe-industrial-expansion": {"count": 2, "first_seen": "2026-06-02", "last_seen": "2026-06-03", "status": "normal", "example_titles": ["Mistral AI, 'Vibe' 출시·산업 AI 진출·데이터센터 구축으로 3방향 동시 확장", "Mistral AI, Vibe 어시스턴트 출시·산업 AI 진출·파리 데이터센터 3방향 동시 확장"]},
-    "nvidia-pc-ai-chip": {"count": 1, "first_seen": "2026-06-02", "last_seen": "2026-06-02", "status": "normal", "example_titles": ["Nvidia, 개인용 컴퓨터(PC) 전용 AI 칩 신제품 공개"]},
-    "windborne-weathermesh-forecast": {"count": 1, "first_seen": "2026-06-02", "last_seen": "2026-06-02", "status": "normal", "example_titles": ["WindBorne Systems, AI 기상 모델 WeatherMesh 6로 유럽기상청(ECMWF)·기존 AI 예보 모두 능가"]},
     "duckduckgo-anti-ai-search-surge": {"count": 2, "first_seen": "2026-06-02", "last_seen": "2026-06-03", "status": "normal", "example_titles": ["DuckDuckGo 'AI 없는 검색' 트래픽 3배 급등… 반AI 검색 수요 본격 부상"]},
-    "subquadratic-llm-efficiency-claim": {"count": 1, "first_seen": "2026-06-02", "last_seen": "2026-06-02", "status": "normal", "example_titles": ["Subquadratic, LLM 어텐션 연산 1,000배 절감 주장… 연구자들 독립 검증 요구"]},
     "microsoft-mai-model-launch": {"count": 1, "first_seen": "2026-06-03", "last_seen": "2026-06-03", "status": "normal", "example_titles": ["Microsoft, Build 2026서 자체 AI 모델 패밀리 MAI 공개… MAI-Thinking-1·MAI-Code-1로 OpenAI 의존도 탈피"]},
     "nvidia-cosmos-3-physical-ai": {"count": 1, "first_seen": "2026-06-03", "last_seen": "2026-06-03", "status": "normal", "example_titles": ["NVIDIA, 세계 최초 완전 오픈 물리 AI 기반 모델 Cosmos 3 공개… 로봇·자율주행 옴니모델"]},
     "microsoft-build-2026-products": {"count": 4, "first_seen": "2026-06-03", "last_seen": "2026-06-05", "status": "demoted", "example_titles": ["Microsoft Build 2026: GitHub Copilot 데스크톱 앱·Surface RTX Spark Dev Box·Windows 에이전트 플랫폼 동시 공개", "Microsoft MXC: OS 수준 AI 에이전트 실행 컨테이너 출시 — OpenAI·Nvidia 참여", "Microsoft, 엔터프라이즈 AI 에이전트 격리 실행 환경 'MXC Agent Sandbox' 발표"]},
@@ -51,7 +47,7 @@
     "ai-ceos-biosecurity-letter-congress": {"count": 1, "first_seen": "2026-06-07", "last_seen": "2026-06-07", "status": "normal", "example_titles": ["AI CEO들, 의회에 바이오보안 공동 서한 — AI 기반 생물 무기 위협 긴급 대응 촉구"]},
     "colorado-ai-law-june2026": {"count": 1, "first_seen": "2026-06-07", "last_seen": "2026-06-07", "status": "normal", "example_titles": ["콜로라도, 고위험 AI 시스템 규제법 6월 30일 발효 — 기업 준비 시간 촉박"]},
     "whitehouse-genesis-mission": {"count": 2, "first_seen": "2026-06-07", "last_seen": "2026-06-09", "status": "normal", "example_titles": ["백악관 '제네시스 미션': AI 가속 신약 개발·의료 혁신 국가 프로젝트 발표", "백악관 'Genesis Mission' 기업 실무 해설 — AI 맨해튼 프로젝트가 기업에 의미하는 것"]},
-    "apple-wwdc-2026-gemini-siri": {"count": 2, "first_seen": "2026-06-08", "last_seen": "2026-06-09", "status": "normal", "example_titles": ["Apple WWDC 2026: Google Gemini 1.2T 기반 Siri 2.0 발표 — 연간 $10억 계약·iOS 27·Extensions 공개", "Apple WWDC 2026: Google Gemini 기반 Siri 2.0·iOS 27·Extensions 시스템 전면 공개"]},
+    "apple-wwdc-2026-gemini-siri": {"count": 4, "first_seen": "2026-06-08", "last_seen": "2026-06-10", "status": "normal", "example_titles": ["Apple WWDC 2026: Google Gemini 기반 Siri 2.0·iOS 27·Extensions 시스템 전면 공개", "애플의 느리고 신중한 AI 전략이 결국 옳았다 — WWDC 2026이 증명한 것", "Apple WWDC 2026: Google Gemini 1.2T 기반 Siri 2.0 발표 — 연간 $10억 계약·iOS 27·Extensions 공개"]},
     "google-gemini-35-pro-launch": {"count": 1, "first_seen": "2026-06-08", "last_seen": "2026-06-08", "status": "normal", "example_titles": ["Google Gemini 3.5 Pro, 200만 토큰 컨텍스트·Deep Think 추론 — 6월 GA 출시 임박"]},
     "apple-ios27-extensions-multimodel": {"count": 1, "first_seen": "2026-06-08", "last_seen": "2026-06-08", "status": "normal", "example_titles": ["Apple iOS 27 Extensions 시스템 — iPhone에서 ChatGPT·Gemini·Claude 중 AI 직접 선택"]},
     "anthropic-deepmind-ai-consciousness": {"count": 1, "first_seen": "2026-06-08", "last_seen": "2026-06-08", "status": "normal", "example_titles": ["Anthropic·DeepMind, AI 의식·감각 가능성 공동 조사 착수 — 내부 상태 분석 연구 발표"]},
@@ -63,6 +59,14 @@
     "blackburn-trump-america-ai-act": {"count": 1, "first_seen": "2026-06-08", "last_seen": "2026-06-08", "status": "normal", "example_titles": ["블랙번 의원, 'TRUMP AMERICA AI 법안' 토의 초안 공개 — 주법 선점·저작권·책임 전면 개편"]},
     "amazon-alexa-ai-merch": {"count": 1, "first_seen": "2026-06-09", "last_seen": "2026-06-09", "status": "normal", "example_titles": ["Amazon, Alexa AI로 맞춤 굿즈 직접 디자인·주문 서비스 출시"]},
     "agentic-ai-coding-productivity-paradox": {"count": 1, "first_seen": "2026-06-09", "last_seen": "2026-06-09", "status": "normal", "example_titles": ["에이전틱 AI, 코딩 해결 후 드러낸 역설 — 코드 생산성 급증에도 제품 품질 정체"]},
-    "intelition-ai-paradigm": {"count": 1, "first_seen": "2026-06-09", "last_seen": "2026-06-09", "status": "normal", "example_titles": ["'Intelition' 패러다임 부상 — AI, 이제 호출하는 도구가 아니라 스스로 감지·행동"]}
+    "intelition-ai-paradigm": {"count": 1, "first_seen": "2026-06-09", "last_seen": "2026-06-09", "status": "normal", "example_titles": ["'Intelition' 패러다임 부상 — AI, 이제 호출하는 도구가 아니라 스스로 감지·행동"]},
+    "apple-afm3-ondevice-model": {"count": 1, "first_seen": "2026-06-10", "last_seen": "2026-06-10", "status": "normal", "example_titles": ["Apple, 온디바이스 AI 메모리 장벽 돌파 — AFM 3 Core Advanced, NAND에 20B 파라미터 전체 저장"]},
+    "tim-cook-farewell-ceo-succession": {"count": 1, "first_seen": "2026-06-10", "last_seen": "2026-06-10", "status": "normal", "example_titles": ["팀 쿡, WWDC 2026 마지막 키노트에서 9월 1일 CEO 퇴임 공식 선언 — 존 테르누스 후임 확정"]},
+    "apple-siri-eu-dma-block": {"count": 1, "first_seen": "2026-06-10", "last_seen": "2026-06-10", "status": "normal", "example_titles": ["Apple, EU iPhone에서 Siri AI 차단 — DMA 분쟁으로 iOS 27에서 4억 5000만 유럽 사용자 제외"]},
+    "samsung-ai-enterprise-transformation": {"count": 1, "first_seen": "2026-06-10", "last_seen": "2026-06-10", "status": "normal", "example_titles": ["삼성, AI 공개 도구 금지 3년 만에 전 계열사 ChatGPT·Gemini·Claude 전면 도입 선언"]},
+    "naver-kakao-ai-alliance": {"count": 1, "first_seen": "2026-06-10", "last_seen": "2026-06-10", "status": "normal", "example_titles": ["네이버 vs 카카오, AI 파트너십 전략 양극화 — 네이버는 엔비디아·AMD, 카카오는 Google·OpenAI"]},
+    "harness-1-search-agent-benchmark": {"count": 1, "first_seen": "2026-06-10", "last_seen": "2026-06-10", "status": "normal", "example_titles": ["UIUC·UC Berkeley·Chroma, 오픈소스 AI 검색 에이전트 Harness-1 공개 — GPT-5.4 정확도 능가"]},
+    "agi-timeline-delay": {"count": 1, "first_seen": "2026-06-10", "last_seen": "2026-06-10", "status": "normal", "example_titles": ["AGI 도달 시점 또 연기 — 기술적 장벽으로 예측 반복 수정"]},
+    "openai-economic-research-exchange": {"count": 1, "first_seen": "2026-06-10", "last_seen": "2026-06-10", "status": "normal", "example_titles": ["OpenAI, AI 경제 영향 연구 플랫폼 'Economic Research Exchange' 출범 — 7월 5일까지 연구 제안 접수"]}
   }
 }
