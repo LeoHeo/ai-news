@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-06-15",
+  "updated": "2026-06-16",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -10,8 +10,6 @@
     "google-gemini-35-pro-launch": {"count": 2, "first_seen": "2026-06-08", "last_seen": "2026-06-15", "status": "normal", "example_titles": ["Google Gemini 3.5 Pro, 200만 토큰 컨텍스트·Deep Think 추론 — 6월 GA 출시 임박", "Google Gemini 3.5 Pro 정식 출시 — 멀티모달·코딩·추론 성능 전면 강화"]},
     "k-startup-ai-league-2026": {"count": 3, "first_seen": "2026-06-08", "last_seen": "2026-06-11", "status": "demoted", "example_titles": ["서울창조경제혁신센터, K-스타트업 2026 'AI리그' 신설 — 한국 AI 창업 지원 체계 고도화"]},
     "agentic-ai-coding-productivity-paradox": {"count": 2, "first_seen": "2026-06-09", "last_seen": "2026-06-15", "status": "normal", "example_titles": ["에이전틱 AI, 코딩 해결 후 드러낸 역설 — 코드 생산성 급증에도 제품 품질 정체", "AI 코딩 에이전트 시대의 생산성 역설 — 빠른 개발·느린 품질 향상"]},
-    "intelition-ai-paradigm": {"count": 1, "first_seen": "2026-06-09", "last_seen": "2026-06-09", "status": "normal", "example_titles": ["'Intelition' 패러다임 부상 — AI, 이제 호출하는 도구가 아니라 스스로 감지·행동"]},
-    "apple-afm3-ondevice-model": {"count": 1, "first_seen": "2026-06-10", "last_seen": "2026-06-10", "status": "normal", "example_titles": ["Apple, 온디바이스 AI 메모리 장벽 돌파 — AFM 3 Core Advanced, NAND에 20B 파라미터 전체 저장"]},
     "tim-cook-farewell-ceo-succession": {"count": 1, "first_seen": "2026-06-10", "last_seen": "2026-06-10", "status": "normal", "example_titles": ["팀 쿡, WWDC 2026 마지막 키노트에서 9월 1일 CEO 퇴임 공식 선언 — 존 테르누스 후임 확정"]},
     "apple-siri-eu-dma-block": {"count": 1, "first_seen": "2026-06-10", "last_seen": "2026-06-10", "status": "normal", "example_titles": ["Apple, EU iPhone에서 Siri AI 차단 — DMA 분쟁으로 iOS 27에서 4억 5000만 유럽 사용자 제외"]},
     "samsung-ai-enterprise-transformation": {"count": 1, "first_seen": "2026-06-10", "last_seen": "2026-06-10", "status": "normal", "example_titles": ["삼성, AI 공개 도구 금지 3년 만에 전 계열사 ChatGPT·Gemini·Claude 전면 도입 선언"]},
@@ -30,7 +28,6 @@
     "naver-nvidia-gigawatt-infrastructure": {"count": 1, "first_seen": "2026-06-11", "last_seen": "2026-06-11", "status": "normal", "example_titles": ["네이버, 엔비디아 DSX 플랫폼으로 기가와트급 AI 팩토리 구축 — 한국 주권 AI 전략 가속화"]},
     "whitehouse-ai-national-security-directive": {"count": 1, "first_seen": "2026-06-11", "last_seen": "2026-06-11", "status": "normal", "example_titles": ["트럼프, 국가안보 영역 AI 역사적 지침 서명 — 연방 AI 취약점 탐지 체계 30일 내 구축 명령"]},
     "korea-ai-basic-act-calibration": {"count": 1, "first_seen": "2026-06-11", "last_seen": "2026-06-11", "status": "normal", "example_titles": ["한국, AI 기본법 시행 3개월 만에 실용화 재조정 착수 — 40인 민관 태스크포스 가동"]},
-    "sam-altman-korea-visit-2026": {"count": 2, "first_seen": "2026-06-12", "last_seen": "2026-06-14", "status": "normal", "example_titles": ["샘 올트먼 오픈AI CEO, 6월 14~15일 방한 — 삼성·카카오·네이버 연쇄 회동 예정", "샘 올트먼 방한 일정 전격 취소 — OpenAI·한국 협력 논의 미궁"]},
     "anthropic-tcs-enterprise-deal": {"count": 1, "first_seen": "2026-06-12", "last_seen": "2026-06-12", "status": "normal", "example_titles": ["앤트로픽, TCS와 손잡고 엔터프라이즈 Claude 배포 대규모 확대"]},
     "anthropic-dario-org-structure": {"count": 1, "first_seen": "2026-06-12", "last_seen": "2026-06-12", "status": "normal", "example_titles": ["앤트로픽 CEO 다리오 아모데이, 직속 보고자 단 한 명 — 초편평 조직 구조"]},
     "us-ai-commercialization-lead": {"count": 1, "first_seen": "2026-06-12", "last_seen": "2026-06-12", "status": "normal", "example_titles": ["미국, AI 상용화 경쟁에서 진짜 중요한 곳에서 앞서 — 수익화·기업 채택 격차"]},
@@ -45,14 +42,17 @@
     "norddrg-llm-medical-benchmark": {"count": 1, "first_seen": "2026-06-14", "last_seen": "2026-06-14", "status": "normal", "example_titles": ["NordDRG 기반 의료 LLM 벤치마크 공개 — 진단 분류 정확도 평가 표준화"]},
     "llm-attention-degradation-research": {"count": 1, "first_seen": "2026-06-14", "last_seen": "2026-06-14", "status": "normal", "example_titles": ["LLM 어텐션 성능 저하 메커니즘 규명 — 장문 처리 한계 원인 밝혀져"]},
     "openai-model-deprecation-cycle": {"count": 1, "first_seen": "2026-06-14", "last_seen": "2026-06-14", "status": "normal", "example_titles": ["OpenAI, GPT-5.2 공식 서비스 종료 — 모델 교체 주기 가속화"]},
-    "anthropic-fable-mythos-export-ban": {"count": 1, "first_seen": "2026-06-15", "last_seen": "2026-06-15", "status": "normal", "example_titles": ["미국 정부, 앤트로픽 Fable 5·Mythos 5 전면 수출통제 — Amazon CEO 제보가 방아쇠"]},
-    "g7-ai-leaders-summit-2026": {"count": 1, "first_seen": "2026-06-15", "last_seen": "2026-06-15", "status": "normal", "example_titles": ["올트먼·하사비스·아모데이, G7 정상회담 첫 동반 참석 — AI 국제 거버넌스 분수령"]},
-    "ai-biosecurity-synthetic-dna-congress": {"count": 1, "first_seen": "2026-06-15", "last_seen": "2026-06-15", "status": "normal", "example_titles": ["OpenAI·Anthropic·Google·Microsoft CEO, 합성 DNA 스크리닝 의무화 공동 촉구"]},
     "anthropic-claude-billing-agent-sdk": {"count": 1, "first_seen": "2026-06-15", "last_seen": "2026-06-15", "status": "normal", "example_titles": ["앤트로픽, 6월 15일부터 Agent SDK 별도 크레딧풀로 분리 — Claude 구독 요금 체계 개편"]},
-    "thinking-machines-realtime-voice-video": {"count": 1, "first_seen": "2026-06-15", "last_seen": "2026-06-15", "status": "normal", "example_titles": ["Thinking Machines Lab, 실시간 AI 음성·영상 대화 '인터랙션 모델' 프리뷰 공개"]},
     "alphaevolve-science-production-expansion": {"count": 1, "first_seen": "2026-06-15", "last_seen": "2026-06-15", "status": "normal", "example_titles": ["Google AlphaEvolve, 게놈·양자·기업으로 확장 — 과학 발견 AI 생산 시스템 전환"]},
-    "agi-2027-forecast-sprint": {"count": 1, "first_seen": "2026-06-15", "last_seen": "2026-06-15", "status": "normal", "example_titles": ["2027년 AGI·연이어 ASI 도달 예측 — 24개월 스프린트 시나리오 부상"]},
-    "korea-defense-ai-expansion": {"count": 1, "first_seen": "2026-06-15", "last_seen": "2026-06-15", "status": "normal", "example_titles": ["네이버·NC AI·크래프톤, 방산 AI 시장 본격 진출 — 물리 AI 경쟁 한국으로 확산"]},
-    "anthropic-user-growth-amid-ban": {"count": 1, "first_seen": "2026-06-15", "last_seen": "2026-06-15", "status": "normal", "example_titles": ["앤트로픽, 수출통제 속에도 하루 100만 명 이상 신규 가입 — \"법적 근거 없다\" 공개 반박"]}
+    "anthropic-fable-mythos-export-ban": {"count": 2, "first_seen": "2026-06-15", "last_seen": "2026-06-16", "status": "normal", "example_titles": ["미국 정부, 앤트로픽 Fable 5·Mythos 5 전면 수출통제 — Amazon CEO 제보가 방아쇠", "Anthropic 수출통제 조치, AI 안전 기준 놓고 정부-기업 간 해석 논쟁 촉발"]},
+    "g7-ai-leaders-summit-2026": {"count": 2, "first_seen": "2026-06-15", "last_seen": "2026-06-16", "status": "normal", "example_titles": ["올트먼·하사비스·아모데이, G7 정상회담 첫 동반 참석 — AI 국제 거버넌스 분수령", "Altman·Hassabis·Amodei, G7 정상회담 사상 첫 동반 참석 — AI 자율 규약 패키지 협의"]},
+    "ai-biosecurity-synthetic-dna-congress": {"count": 2, "first_seen": "2026-06-15", "last_seen": "2026-06-16", "status": "normal", "example_titles": ["OpenAI·Anthropic·Google·Microsoft CEO, 합성 DNA 스크리닝 의무화 공동 촉구", "OpenAI·Google DeepMind·Anthropic·Microsoft CEO, 합성 DNA 스크리닝 의무화 공동 촉구"]},
+    "thinking-machines-realtime-voice-video": {"count": 2, "first_seen": "2026-06-15", "last_seen": "2026-06-16", "status": "normal", "example_titles": ["Thinking Machines Lab, 실시간 AI 음성·영상 대화 '인터랙션 모델' 프리뷰 공개", "Thinking Machines Lab, 거의 실시간 AI 음성·영상 대화 '인터랙션 모델' 프리뷰 공개"]},
+    "agi-2027-forecast-sprint": {"count": 2, "first_seen": "2026-06-15", "last_seen": "2026-06-16", "status": "normal", "example_titles": ["2027년 AGI·연이어 ASI 도달 예측 — 24개월 스프린트 시나리오 부상", "AI 연구자들 '2027년 AGI·이후 ASI 도달' 24개월 스프린트 시나리오 분석"]},
+    "korea-defense-ai-expansion": {"count": 2, "first_seen": "2026-06-15", "last_seen": "2026-06-16", "status": "normal", "example_titles": ["네이버·NC AI·크래프톤, 방산 AI 시장 본격 진출 — 물리 AI 경쟁 한국으로 확산", "네이버·NC AI·크래프톤, 방산 AI 시장 본격 진출 — 피지컬 AI 경쟁 한국으로 확산"]},
+    "anthropic-user-growth-amid-ban": {"count": 2, "first_seen": "2026-06-15", "last_seen": "2026-06-16", "status": "normal", "example_titles": ["앤트로픽, 수출통제 속에도 하루 100만 명 이상 신규 가입 — \"법적 근거 없다\" 공개 반박", "수출통제 속 Anthropic 하루 100만 명 이상 신규 가입 — '법적 근거 없다' 공개 반박"]},
+    "sam-altman-korea-visit-2026": {"count": 3, "first_seen": "2026-06-12", "last_seen": "2026-06-16", "status": "demoted", "example_titles": ["샘 올트먼 오픈AI CEO, 6월 14~15일 방한 — 삼성·카카오·네이버 연쇄 회동 예정", "샘 올트먼 방한 완료 — 삼성 DX 강연·카카오 CEO·네이버 1784 연쇄 회동"]},
+    "anthropic-fable-ban-washington-deal": {"count": 1, "first_seen": "2026-06-16", "last_seen": "2026-06-16", "status": "normal", "example_titles": ["Anthropic, Fable 5 수출통제 해제 협상 — 엔지니어 워싱턴 급파, 상무장관·사이버국장과 면담"]},
+    "meta-facebook-ai-mode": {"count": 1, "first_seen": "2026-06-16", "last_seen": "2026-06-16", "status": "normal", "example_titles": ["Meta, Facebook에 AI Mode 출시 — Groups·Reels 공개 게시물 기반 대화형 AI 검색"]}
   }
 }
