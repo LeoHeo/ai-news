@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-06-16",
+  "updated": "2026-06-17",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -14,8 +14,6 @@
     "apple-siri-eu-dma-block": {"count": 1, "first_seen": "2026-06-10", "last_seen": "2026-06-10", "status": "normal", "example_titles": ["Apple, EU iPhone에서 Siri AI 차단 — DMA 분쟁으로 iOS 27에서 4억 5000만 유럽 사용자 제외"]},
     "samsung-ai-enterprise-transformation": {"count": 1, "first_seen": "2026-06-10", "last_seen": "2026-06-10", "status": "normal", "example_titles": ["삼성, AI 공개 도구 금지 3년 만에 전 계열사 ChatGPT·Gemini·Claude 전면 도입 선언"]},
     "naver-kakao-ai-alliance": {"count": 1, "first_seen": "2026-06-10", "last_seen": "2026-06-10", "status": "normal", "example_titles": ["네이버 vs 카카오, AI 파트너십 전략 양극화 — 네이버는 엔비디아·AMD, 카카오는 Google·OpenAI"]},
-    "harness-1-search-agent-benchmark": {"count": 1, "first_seen": "2026-06-10", "last_seen": "2026-06-10", "status": "normal", "example_titles": ["UIUC·UC Berkeley·Chroma, 오픈소스 AI 검색 에이전트 Harness-1 공개 — GPT-5.4 정확도 능가"]},
-    "agi-timeline-delay": {"count": 1, "first_seen": "2026-06-10", "last_seen": "2026-06-10", "status": "normal", "example_titles": ["AGI 도달 시점 또 연기 — 기술적 장벽으로 예측 반복 수정"]},
     "openai-economic-research-exchange": {"count": 1, "first_seen": "2026-06-10", "last_seen": "2026-06-10", "status": "normal", "example_titles": ["OpenAI, AI 경제 영향 연구 플랫폼 'Economic Research Exchange' 출범 — 7월 5일까지 연구 제안 접수"]},
     "google-diffusiongemma-release": {"count": 1, "first_seen": "2026-06-11", "last_seen": "2026-06-11", "status": "normal", "example_titles": ["Google, 텍스트 확산 방식 26B MoE 오픈 모델 'DiffusionGemma' 공개 — 최대 4배 빠른 추론"]},
     "perplexity-computer-enterprise-agent": {"count": 1, "first_seen": "2026-06-11", "last_seen": "2026-06-11", "status": "normal", "example_titles": ["Perplexity, 기업용 AI 에이전트 'Computer' 출시 — Microsoft·Salesforce 정면 겨냥"]},
@@ -45,14 +43,16 @@
     "anthropic-claude-billing-agent-sdk": {"count": 1, "first_seen": "2026-06-15", "last_seen": "2026-06-15", "status": "normal", "example_titles": ["앤트로픽, 6월 15일부터 Agent SDK 별도 크레딧풀로 분리 — Claude 구독 요금 체계 개편"]},
     "alphaevolve-science-production-expansion": {"count": 1, "first_seen": "2026-06-15", "last_seen": "2026-06-15", "status": "normal", "example_titles": ["Google AlphaEvolve, 게놈·양자·기업으로 확장 — 과학 발견 AI 생산 시스템 전환"]},
     "anthropic-fable-mythos-export-ban": {"count": 2, "first_seen": "2026-06-15", "last_seen": "2026-06-16", "status": "normal", "example_titles": ["미국 정부, 앤트로픽 Fable 5·Mythos 5 전면 수출통제 — Amazon CEO 제보가 방아쇠", "Anthropic 수출통제 조치, AI 안전 기준 놓고 정부-기업 간 해석 논쟁 촉발"]},
-    "g7-ai-leaders-summit-2026": {"count": 2, "first_seen": "2026-06-15", "last_seen": "2026-06-16", "status": "normal", "example_titles": ["올트먼·하사비스·아모데이, G7 정상회담 첫 동반 참석 — AI 국제 거버넌스 분수령", "Altman·Hassabis·Amodei, G7 정상회담 사상 첫 동반 참석 — AI 자율 규약 패키지 협의"]},
+    "g7-ai-leaders-summit-2026": {"count": 3, "first_seen": "2026-06-15", "last_seen": "2026-06-17", "status": "demoted", "example_titles": ["올트먼·하사비스·아모데이, G7 정상회담 첫 동반 참석 — AI 국제 거버넌스 분수령", "Altman·Hassabis·Amodei, G7 정상회담 사상 첫 동반 참석 — AI 자율 규약 패키지 협의", "Altman·Hassabis·Amodei, G7 정상회담 사상 첫 동반 참석 — AI 국제 거버넌스 협의 마무리"]},
     "ai-biosecurity-synthetic-dna-congress": {"count": 2, "first_seen": "2026-06-15", "last_seen": "2026-06-16", "status": "normal", "example_titles": ["OpenAI·Anthropic·Google·Microsoft CEO, 합성 DNA 스크리닝 의무화 공동 촉구", "OpenAI·Google DeepMind·Anthropic·Microsoft CEO, 합성 DNA 스크리닝 의무화 공동 촉구"]},
-    "thinking-machines-realtime-voice-video": {"count": 2, "first_seen": "2026-06-15", "last_seen": "2026-06-16", "status": "normal", "example_titles": ["Thinking Machines Lab, 실시간 AI 음성·영상 대화 '인터랙션 모델' 프리뷰 공개", "Thinking Machines Lab, 거의 실시간 AI 음성·영상 대화 '인터랙션 모델' 프리뷰 공개"]},
-    "agi-2027-forecast-sprint": {"count": 2, "first_seen": "2026-06-15", "last_seen": "2026-06-16", "status": "normal", "example_titles": ["2027년 AGI·연이어 ASI 도달 예측 — 24개월 스프린트 시나리오 부상", "AI 연구자들 '2027년 AGI·이후 ASI 도달' 24개월 스프린트 시나리오 분석"]},
+    "thinking-machines-realtime-voice-video": {"count": 3, "first_seen": "2026-06-15", "last_seen": "2026-06-17", "status": "demoted", "example_titles": ["Thinking Machines Lab, 실시간 AI 음성·영상 대화 '인터랙션 모델' 프리뷰 공개", "Thinking Machines Lab, 거의 실시간 AI 음성·영상 대화 '인터랙션 모델' 프리뷰 공개", "Thinking Machines Lab, 거의 실시간 AI 음성·영상 '인터랙션 모델' 프리뷰 공개"]},
+    "agi-2027-forecast-sprint": {"count": 3, "first_seen": "2026-06-15", "last_seen": "2026-06-17", "status": "demoted", "example_titles": ["2027년 AGI·연이어 ASI 도달 예측 — 24개월 스프린트 시나리오 부상", "AI 연구자들 '2027년 AGI·이후 ASI 도달' 24개월 스프린트 시나리오 분석", "2027년 AGI 도달 — 24개월 스프린트 시나리오 부상, 이후 ASI 연쇄 전망"]},
     "korea-defense-ai-expansion": {"count": 2, "first_seen": "2026-06-15", "last_seen": "2026-06-16", "status": "normal", "example_titles": ["네이버·NC AI·크래프톤, 방산 AI 시장 본격 진출 — 물리 AI 경쟁 한국으로 확산", "네이버·NC AI·크래프톤, 방산 AI 시장 본격 진출 — 피지컬 AI 경쟁 한국으로 확산"]},
     "anthropic-user-growth-amid-ban": {"count": 2, "first_seen": "2026-06-15", "last_seen": "2026-06-16", "status": "normal", "example_titles": ["앤트로픽, 수출통제 속에도 하루 100만 명 이상 신규 가입 — \"법적 근거 없다\" 공개 반박", "수출통제 속 Anthropic 하루 100만 명 이상 신규 가입 — '법적 근거 없다' 공개 반박"]},
     "sam-altman-korea-visit-2026": {"count": 3, "first_seen": "2026-06-12", "last_seen": "2026-06-16", "status": "demoted", "example_titles": ["샘 올트먼 오픈AI CEO, 6월 14~15일 방한 — 삼성·카카오·네이버 연쇄 회동 예정", "샘 올트먼 방한 완료 — 삼성 DX 강연·카카오 CEO·네이버 1784 연쇄 회동"]},
     "anthropic-fable-ban-washington-deal": {"count": 1, "first_seen": "2026-06-16", "last_seen": "2026-06-16", "status": "normal", "example_titles": ["Anthropic, Fable 5 수출통제 해제 협상 — 엔지니어 워싱턴 급파, 상무장관·사이버국장과 면담"]},
-    "meta-facebook-ai-mode": {"count": 1, "first_seen": "2026-06-16", "last_seen": "2026-06-16", "status": "normal", "example_titles": ["Meta, Facebook에 AI Mode 출시 — Groups·Reels 공개 게시물 기반 대화형 AI 검색"]}
+    "meta-facebook-ai-mode": {"count": 2, "first_seen": "2026-06-16", "last_seen": "2026-06-17", "status": "normal", "example_titles": ["Meta, Facebook에 AI Mode 출시 — Groups·Reels 공개 게시물 기반 대화형 AI 검색", "Meta, Facebook에 AI Mode 출시 — Groups·Reels 공개 게시물 기반 대화형 AI 검색"]},
+    "mistral-vibe-industrial-ai-launch": {"count": 1, "first_seen": "2026-06-17", "last_seen": "2026-06-17", "status": "normal", "example_titles": ["Mistral AI, Vibe 출시·산업용 물리 AI 진출·데이터센터 확장 — OpenAI에 정면 도전"]},
+    "respond-io-funding-round": {"count": 1, "first_seen": "2026-06-17", "last_seen": "2026-06-17", "status": "normal", "example_titles": ["AI 에이전트 기업 메시징 앱 Respond.io, 6,250만 달러 조달 — 북미·유럽 M&A 타진"]}
   }
 }
