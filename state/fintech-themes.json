@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-06-16",
+  "updated": "2026-06-17",
   "window_days": 7,
   "themes": [
     {"keyword":"us-fintech-regulation","count":20,"first_seen":"2026-05-24","last_seen":"2026-06-16","articles":["regulation-embedded-regs-june11","embedded-finance-us-regs-june12","embedded-finance-us-regs-june13","regulation-embedded-finance-june14","regulation-baas-occ-june15","regulation-embedded-finance-june16"]},
@@ -24,7 +24,7 @@
     {"keyword":"mastercard-agent-pay-machines","count":1,"first_seen":"2026-06-12","last_seen":"2026-06-12","articles":["mastercard-agent-pay-june12"]},
     {"keyword":"bofa-cross-border-instant","count":1,"first_seen":"2026-06-12","last_seen":"2026-06-12","articles":["bofa-cross-border-june12"]},
     {"keyword":"klarna-worldline-bnpl","count":1,"first_seen":"2026-06-13","last_seen":"2026-06-13","articles":["klarna-worldline-bnpl-june13"]},
-    {"keyword":"fintech-smb-crossborder","count":2,"first_seen":"2026-06-13","last_seen":"2026-06-16","articles":["fintech-smb-crossborder-june13","remittance-smb-crossborder-june16"]},
+    {"keyword":"fintech-smb-crossborder","count":3,"first_seen":"2026-06-13","last_seen":"2026-06-17","articles":["fintech-smb-crossborder-june13","remittance-smb-crossborder-june16","remittance-smb-june17"]},
     {"keyword":"slash-fintech-unicorn","count":1,"first_seen":"2026-06-13","last_seen":"2026-06-13","articles":["slash-fintech-unicorn-june13"]},
     {"keyword":"mastercard-stablecoin-rails","count":1,"first_seen":"2026-06-14","last_seen":"2026-06-14","articles":["payments-mastercard-stablecoin-june14"]},
     {"keyword":"visa-b2b-connect-expansion","count":1,"first_seen":"2026-06-14","last_seen":"2026-06-14","articles":["payments-visa-b2b-june14"]},
@@ -41,13 +41,20 @@
     {"keyword":"korea-payment-giants-competition","count":1,"first_seen":"2026-06-15","last_seen":"2026-06-15","articles":["payments-korea-competition-june15"]},
     {"keyword":"digital-asset-canton-funding","count":1,"first_seen":"2026-06-15","last_seen":"2026-06-15","articles":["investment-digital-asset-canton-june15"]},
     {"keyword":"fintech-csuite-churn-2026","count":1,"first_seen":"2026-06-15","last_seen":"2026-06-15","articles":["digital-banking-csuite-churn-june15"]},
-    {"keyword":"fintech-funding-weekly-icymi","count":1,"first_seen":"2026-06-15","last_seen":"2026-06-15","articles":["investment-fintech-funding-icymi-june15"]},
+    {"keyword":"fintech-funding-weekly-icymi","count":2,"first_seen":"2026-06-15","last_seen":"2026-06-17","articles":["investment-fintech-funding-icymi-june15","investment-icymi-june17"]},
     {"keyword":"fintech-awards-london-2026","count":1,"first_seen":"2026-06-15","last_seen":"2026-06-15","articles":["investment-fintech-awards-june15"]},
     {"keyword":"korea-remittance-reform-2026","count":1,"first_seen":"2026-06-15","last_seen":"2026-06-15","articles":["remittance-korea-reform-june15"]},
     {"keyword":"kashable-employee-lending","count":1,"first_seen":"2026-06-16","last_seen":"2026-06-16","articles":["lending-kashable-june16"]},
     {"keyword":"oatfi-b2b-lending-funding","count":1,"first_seen":"2026-06-16","last_seen":"2026-06-16","articles":["lending-oatfi-june16"]},
     {"keyword":"current-neobank-funding","count":1,"first_seen":"2026-06-16","last_seen":"2026-06-16","articles":["digital-banking-current-june16"]},
-    {"keyword":"genius-act-stablecoin-deadline","count":1,"first_seen":"2026-06-16","last_seen":"2026-06-16","articles":["regulation-genius-act-june16"]},
-    {"keyword":"finom-sme-banking-europe","count":1,"first_seen":"2026-06-16","last_seen":"2026-06-16","articles":["investment-finom-june16"]}
+    {"keyword":"genius-act-stablecoin-deadline","count":2,"first_seen":"2026-06-16","last_seen":"2026-06-17","articles":["regulation-genius-act-june16","regulation-genius-act-june17"]},
+    {"keyword":"finom-sme-banking-europe","count":1,"first_seen":"2026-06-16","last_seen":"2026-06-16","articles":["investment-finom-june16"]},
+    {"keyword":"japan-megabanks-yen-stablecoin","count":1,"first_seen":"2026-06-17","last_seen":"2026-06-17","articles":["regulation-japan-stablecoin-june17"]},
+    {"keyword":"figure-kiavi-tokenized-lending","count":1,"first_seen":"2026-06-17","last_seen":"2026-06-17","articles":["investment-figure-kiavi-june17"]},
+    {"keyword":"razorpay-india-ipo","count":1,"first_seen":"2026-06-17","last_seen":"2026-06-17","articles":["investment-razorpay-june17"]},
+    {"keyword":"etoro-banking-expansion","count":1,"first_seen":"2026-06-17","last_seen":"2026-06-17","articles":["digital-banking-etoro-june17"]},
+    {"keyword":"wasabicard-payment-startup","count":1,"first_seen":"2026-06-17","last_seen":"2026-06-17","articles":["payments-wasabicard-june17"]},
+    {"keyword":"edenred-bottomline-b2b-payments","count":1,"first_seen":"2026-06-17","last_seen":"2026-06-17","articles":["payments-edenred-june17"]},
+    {"keyword":"central-bank-xborder-playbook","count":1,"first_seen":"2026-06-17","last_seen":"2026-06-17","articles":["remittance-central-bank-june17"]}
   ]
 }
