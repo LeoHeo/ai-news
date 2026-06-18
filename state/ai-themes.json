@@ -1,23 +1,13 @@
 {
   "topic": "ai",
-  "updated": "2026-06-18",
+  "updated": "2026-06-19",
   "version": 1,
   "window_days": 7,
   "themes": {
     "colorado-ai-law-june2026": {"count": 4, "first_seen": "2026-06-07", "last_seen": "2026-06-14", "status": "demoted", "example_titles": ["콜로라도, 고위험 AI 시스템 규제법 6월 30일 발효 — 기업 준비 시간 촉박", "콜로라도 AI법 6월 30일 발효 임박 — 미국 주별 AI 규제 지형도"]},
     "microsoft-ai-independence-statement": {"count": 4, "first_seen": "2026-06-07", "last_seen": "2026-06-14", "status": "demoted", "example_titles": ["Microsoft, OpenAI 의존 탈피 공식 선언 — MAI 모델 패밀리로 완전 독립 선언", "MS AI 수장 \"OpenAI로부터 자유로워져 초지능 추구 가능해졌다\""]},
-    "apple-wwdc-2026-gemini-siri": {"count": 5, "first_seen": "2026-06-08", "last_seen": "2026-06-11", "status": "demoted", "example_titles": ["Apple WWDC 2026: Google Gemini 기반 Siri 2.0·iOS 27·Extensions 시스템 전면 공개", "WWDC 2026 총정리: Google Gemini 기반 Siri 2.0·iOS 27·멀티AI Extensions 전면 공개"]},
     "google-gemini-35-pro-launch": {"count": 2, "first_seen": "2026-06-08", "last_seen": "2026-06-15", "status": "normal", "example_titles": ["Google Gemini 3.5 Pro, 200만 토큰 컨텍스트·Deep Think 추론 — 6월 GA 출시 임박", "Google Gemini 3.5 Pro 정식 출시 — 멀티모달·코딩·추론 성능 전면 강화"]},
-    "k-startup-ai-league-2026": {"count": 3, "first_seen": "2026-06-08", "last_seen": "2026-06-11", "status": "demoted", "example_titles": ["서울창조경제혁신센터, K-스타트업 2026 'AI리그' 신설 — 한국 AI 창업 지원 체계 고도화"]},
     "agentic-ai-coding-productivity-paradox": {"count": 2, "first_seen": "2026-06-09", "last_seen": "2026-06-15", "status": "normal", "example_titles": ["에이전틱 AI, 코딩 해결 후 드러낸 역설 — 코드 생산성 급증에도 제품 품질 정체", "AI 코딩 에이전트 시대의 생산성 역설 — 빠른 개발·느린 품질 향상"]},
-    "claude-enterprise-agent-control": {"count": 1, "first_seen": "2026-06-11", "last_seen": "2026-06-11", "status": "normal", "example_titles": ["VentureBeat 분석: 엔터프라이즈 AI 다음 전선은 모델이 아닌 '에이전트 제어 플레인'"]},
-    "context-architecture-replacing-rag": {"count": 1, "first_seen": "2026-06-11", "last_seen": "2026-06-11", "status": "normal", "example_titles": ["에이전틱 AI 시대, RAG의 한계 노출 — '컨텍스트 아키텍처'가 엔터프라이즈 검색 패러다임 교체 중"]},
-    "openai-ipo-s1-filing": {"count": 1, "first_seen": "2026-06-11", "last_seen": "2026-06-11", "status": "normal", "example_titles": ["OpenAI, Anthropic에 이어 비공개 S-1 제출 — 목표 밸류에이션 1조 달러·9월 상장 타깃"]},
-    "anthropic-business-ai-adoption": {"count": 1, "first_seen": "2026-06-11", "last_seen": "2026-06-11", "status": "normal", "example_titles": ["Anthropic, 엔터프라이즈 AI 채택률 처음으로 OpenAI 추월 — 3가지 위협 요인도 부상"]},
-    "sandstone-ai-legal-funding": {"count": 1, "first_seen": "2026-06-11", "last_seen": "2026-06-11", "status": "normal", "example_titles": ["Sandstone, 사내 법무팀 AI 자동화 플랫폼에 3,000만 달러 조달"]},
-    "naver-nvidia-gigawatt-infrastructure": {"count": 1, "first_seen": "2026-06-11", "last_seen": "2026-06-11", "status": "normal", "example_titles": ["네이버, 엔비디아 DSX 플랫폼으로 기가와트급 AI 팩토리 구축 — 한국 주권 AI 전략 가속화"]},
-    "whitehouse-ai-national-security-directive": {"count": 1, "first_seen": "2026-06-11", "last_seen": "2026-06-11", "status": "normal", "example_titles": ["트럼프, 국가안보 영역 AI 역사적 지침 서명 — 연방 AI 취약점 탐지 체계 30일 내 구축 명령"]},
-    "korea-ai-basic-act-calibration": {"count": 1, "first_seen": "2026-06-11", "last_seen": "2026-06-11", "status": "normal", "example_titles": ["한국, AI 기본법 시행 3개월 만에 실용화 재조정 착수 — 40인 민관 태스크포스 가동"]},
     "anthropic-tcs-enterprise-deal": {"count": 1, "first_seen": "2026-06-12", "last_seen": "2026-06-12", "status": "normal", "example_titles": ["앤트로픽, TCS와 손잡고 엔터프라이즈 Claude 배포 대규모 확대"]},
     "anthropic-dario-org-structure": {"count": 1, "first_seen": "2026-06-12", "last_seen": "2026-06-12", "status": "normal", "example_titles": ["앤트로픽 CEO 다리오 아모데이, 직속 보고자 단 한 명 — 초편평 조직 구조"]},
     "us-ai-commercialization-lead": {"count": 1, "first_seen": "2026-06-12", "last_seen": "2026-06-12", "status": "normal", "example_titles": ["미국, AI 상용화 경쟁에서 진짜 중요한 곳에서 앞서 — 수익화·기업 채택 격차"]},
@@ -53,6 +43,8 @@
     "nadella-ai-industry-hollowing-warning": {"count": 1, "first_seen": "2026-06-18", "last_seen": "2026-06-18", "status": "normal", "example_titles": ["사티아 나델라, 'AI가 산업 전체를 공동화할 수 있다' 경고 — 세계화 충격과 비교"]},
     "ai-agent-enterprise-chaos-failures": {"count": 1, "first_seen": "2026-06-18", "last_seen": "2026-06-18", "status": "normal", "example_titles": ["AI 에이전트, 기업 내부에서 추적되지 않는 카오스 엔지니어링 장애 조용히 유발"]},
     "trump-ai-innovation-security-eo": {"count": 1, "first_seen": "2026-06-18", "last_seen": "2026-06-18", "status": "normal", "example_titles": ["트럼프, 'AI 혁신·보안 촉진' 행정명령 서명 — AI 사이버보안 정보공유 체계 구축"]},
-    "us-public-ai-perception-pew-2026": {"count": 1, "first_seen": "2026-06-18", "last_seen": "2026-06-18", "status": "normal", "example_titles": ["미국인 16%만 AI가 사회에 긍정적 영향 미칠 것이라 생각 — Pew Research"]}
+    "us-public-ai-perception-pew-2026": {"count": 1, "first_seen": "2026-06-18", "last_seen": "2026-06-18", "status": "normal", "example_titles": ["미국인 16%만 AI가 사회에 긍정적 영향 미칠 것이라 생각 — Pew Research"]},
+    "adobe-firefly-creative-suite": {"count": 1, "first_seen": "2026-06-19", "last_seen": "2026-06-19", "status": "normal", "example_titles": ["Adobe, Firefly AI 어시스턴트를 Premiere·Illustrator·InDesign에 탑재"]},
+    "intelition-ambient-ai-paradigm": {"count": 1, "first_seen": "2026-06-19", "last_seen": "2026-06-19", "status": "normal", "example_titles": ["'Intelition': AI는 더 이상 사용자가 호출하는 도구가 아니다"]}
   }
 }
