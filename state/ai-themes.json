@@ -1,14 +1,10 @@
 {
   "topic": "ai",
-  "updated": "2026-06-22",
+  "updated": "2026-06-23",
   "version": 1,
   "window_days": 7,
   "themes": {
-    "google-gemini-35-pro-launch": {"count": 2, "first_seen": "2026-06-08", "last_seen": "2026-06-15", "status": "normal", "example_titles": ["Google Gemini 3.5 Pro, 200만 토큰 컨텍스트·Deep Think 추론 — 6월 GA 출시 임박", "Google Gemini 3.5 Pro 정식 출시 — 멀티모달·코딩·추론 성능 전면 강화"]},
-    "agentic-ai-coding-productivity-paradox": {"count": 2, "first_seen": "2026-06-09", "last_seen": "2026-06-15", "status": "normal", "example_titles": ["에이전틱 AI, 코딩 해결 후 드러낸 역설 — 코드 생산성 급증에도 제품 품질 정체", "AI 코딩 에이전트 시대의 생산성 역설 — 빠른 개발·느린 품질 향상"]},
     "openai-gpt56-release-preview": {"count": 3, "first_seen": "2026-06-14", "last_seen": "2026-06-22", "status": "normal", "example_titles": ["OpenAI GPT-5.6 출시 임박 — ChatGPT 전면 개편·IPO 계획 동반", "GPT-5.6, 6월 22~28일 출시 확률 83%… 150만 토큰·에이전틱 코딩 강화", "OpenAI GPT-5.6 출시 카운트다운"]},
-    "anthropic-claude-billing-agent-sdk": {"count": 1, "first_seen": "2026-06-15", "last_seen": "2026-06-15", "status": "normal", "example_titles": ["앤트로픽, 6월 15일부터 Agent SDK 별도 크레딧풀로 분리 — Claude 구독 요금 체계 개편"]},
-    "alphaevolve-science-production-expansion": {"count": 1, "first_seen": "2026-06-15", "last_seen": "2026-06-15", "status": "normal", "example_titles": ["Google AlphaEvolve, 게놈·양자·기업으로 확장 — 과학 발견 AI 생산 시스템 전환"]},
     "anthropic-fable-mythos-export-ban": {"count": 4, "first_seen": "2026-06-15", "last_seen": "2026-06-22", "status": "demoted", "example_titles": ["미국 정부, 앤트로픽 Fable 5·Mythos 5 전면 수출통제 — Amazon CEO 제보가 방아쇠", "Anthropic 수출통제 조치, AI 안전 기준 놓고 정부-기업 간 해석 논쟁 촉발", "Anthropic Fable 5 수출 금지… 한국 이용자 6월 20일까지 환불, 앤트로픽 '수일 내 해결' 자신", "Fable 5 수출통제 완화 시사 — 트럼프, G7서 아모데이와 전격 면담"]},
     "g7-ai-leaders-summit-2026": {"count": 4, "first_seen": "2026-06-15", "last_seen": "2026-06-18", "status": "demoted", "example_titles": ["Altman·Hassabis·Amodei, G7 정상회담 사상 첫 동반 참석 — AI 자율 규약 패키지 협의", "Altman·Hassabis·Amodei, G7 정상회담 사상 첫 동반 참석 — AI 국제 거버넌스 협의 마무리", "앤트로픽·DeepMind CEO, G7서 미국 주도 AI 연합체 구성 촉구 — 국제 AI 거버넌스 분수령"]},
     "ai-biosecurity-synthetic-dna-congress": {"count": 3, "first_seen": "2026-06-15", "last_seen": "2026-06-18", "status": "demoted", "example_titles": ["OpenAI·Anthropic·Google·Microsoft CEO, 합성 DNA 스크리닝 의무화 공동 촉구", "OpenAI·Google DeepMind·Anthropic·Microsoft CEO, 합성 DNA 스크리닝 의무화 공동 촉구", "OpenAI·Anthropic·Google·Microsoft CEO, 의회에 합성 DNA 스크리닝 의무화 공동 촉구"]},
@@ -39,6 +35,14 @@
     "agentjacking-sentry-coding-attack": {"count": 1, "first_seen": "2026-06-22", "last_seen": "2026-06-22", "status": "normal", "example_titles": ["에이전트재킹: Sentry 가짜 오류 AI 코딩 에이전트 탈취 공격 기법 공개"]},
     "reuters-institute-dnr-2026": {"count": 1, "first_seen": "2026-06-22", "last_seen": "2026-06-22", "status": "normal", "example_titles": ["로이터연구소 2026 디지털뉴스 보고서 — AI 뉴스 요약 신뢰도 47%에 불과"]},
     "spacex-cursor-acquisition": {"count": 1, "first_seen": "2026-06-22", "last_seen": "2026-06-22", "status": "normal", "example_titles": ["SpaceX, AI 코딩 툴 Cursor 600억 달러에 인수 합의"]},
-    "chatgpt-market-share-below-50": {"count": 1, "first_seen": "2026-06-22", "last_seen": "2026-06-22", "status": "normal", "example_titles": ["ChatGPT AI 어시스턴트 시장 점유율 처음으로 50% 아래로 하락"]}
+    "chatgpt-market-share-below-50": {"count": 1, "first_seen": "2026-06-22", "last_seen": "2026-06-22", "status": "normal", "example_titles": ["ChatGPT AI 어시스턴트 시장 점유율 처음으로 50% 아래로 하락"]},
+    "spacex-reflection-compute-deal": {"count": 1, "first_seen": "2026-06-23", "last_seen": "2026-06-23", "status": "normal", "example_titles": ["SpaceX, 오픈소스 AI 스타트업 Reflection AI와 63억 달러 컴퓨팅 공급 계약 체결"]},
+    "getty-openai-display-deal": {"count": 1, "first_seen": "2026-06-23", "last_seen": "2026-06-23", "status": "normal", "example_titles": ["Getty Images, OpenAI와 ChatGPT 이미지 표시 파트너십 체결 — 주가 150% 폭등"]},
+    "google-deepmind-a24-film-deal": {"count": 1, "first_seen": "2026-06-23", "last_seen": "2026-06-23", "status": "normal", "example_titles": ["Google DeepMind, A24에 7,500만 달러 투자 — AI 영화 제작 도구 공동 개발"]},
+    "samsung-chatgpt-enterprise-deployment": {"count": 1, "first_seen": "2026-06-23", "last_seen": "2026-06-23", "status": "normal", "example_titles": ["삼성전자, ChatGPT Enterprise·Codex 한국·DX 부문 전 직원 도입 — OpenAI 최대 규모 한국 배포"]},
+    "openai-daybreak-patch-planet": {"count": 1, "first_seen": "2026-06-23", "last_seen": "2026-06-23", "status": "normal", "example_titles": ["OpenAI, 'Patch the Planet' 오픈소스 보안 이니셔티브 출시 — GPT-5.5-Cyber 전면 공개"]},
+    "apple-siri-ai-ios27": {"count": 1, "first_seen": "2026-06-23", "last_seen": "2026-06-23", "status": "normal", "example_titles": ["iOS 27에서 달라지는 iPhone AI 기능 총정리 — Siri AI의 실용적 변화"]},
+    "china-295b-ai-infrastructure": {"count": 1, "first_seen": "2026-06-23", "last_seen": "2026-06-23", "status": "normal", "example_titles": ["중국, 2조 위안 규모 AI 데이터센터 그리드 추진 — Nvidia·AMD 배제 80% 국산 칩 의무화"]},
+    "kt-k-path-2026-startup": {"count": 1, "first_seen": "2026-06-23", "last_seen": "2026-06-23", "status": "normal", "example_titles": ["KT, AI 스타트업 공동사업 파트너 발굴 'K-PATH 2026' 공모 시작"]}
   }
 }
