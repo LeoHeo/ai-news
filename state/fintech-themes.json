@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updated": "2026-06-22",
+  "updated": "2026-06-23",
   "window_days": 7,
   "themes": [
-    {"keyword":"us-fintech-regulation","count":24,"first_seen":"2026-05-24","last_seen":"2026-06-22","articles":["regulation-embedded-regs-june11","embedded-finance-us-regs-june12","embedded-finance-us-regs-june13","regulation-embedded-finance-june14","regulation-baas-occ-june15","regulation-embedded-finance-june16","regulation-cftc-rfi-june18","regulation-embedded-finance-us-regs-2026-06-19","regulation-cftc-fintech-rfi-2026-06-20","regulation-occ-baas-guidance-2026-06-22"]},
+    {"keyword":"us-fintech-regulation","count":25,"first_seen":"2026-05-24","last_seen":"2026-06-23","articles":["regulation-embedded-regs-june11","embedded-finance-us-regs-june12","embedded-finance-us-regs-june13","regulation-embedded-finance-june14","regulation-baas-occ-june15","regulation-embedded-finance-june16","regulation-cftc-rfi-june18","regulation-embedded-finance-us-regs-2026-06-19","regulation-cftc-fintech-rfi-2026-06-20","regulation-occ-baas-guidance-2026-06-22","regulation-embedded-finance-us-2026-06-23"]},
     {"keyword":"agentic-finance-payments","count":17,"first_seen":"2026-05-29","last_seen":"2026-06-22","articles":["payments-agentic-finance-june11","agentic-finance-june12","agentic-finance-june13","payments-agent-pay-june15","payments-agentic-june16","digital-banking-mercury-command-june18","payments-agentic-finance-2026-06-19","digital-banking-agentic-2026-06-22"]},
     {"keyword":"bnpl-debit-card-convergence","count":17,"first_seen":"2026-05-25","last_seen":"2026-06-22","articles":["lending-bnpl-debit-june11","bnpl-debit-june12","lending-bnpl-card-linked-2026-06-19","lending-bnpl-debit-convergence-2026-06-22"]},
     {"keyword":"b2b-banking-startup","count":13,"first_seen":"2026-05-24","last_seen":"2026-06-13","articles":["infinite-erebor-june10","infinite-erebor-june12","b2b-banking-june13"]},
@@ -74,6 +74,14 @@
     {"keyword":"payments-ux-innovation","count":1,"first_seen":"2026-06-22","last_seen":"2026-06-22","articles":["payments-digital-ux-2026-06-22"]},
     {"keyword":"neobank-infrastructure-buildout","count":1,"first_seen":"2026-06-22","last_seen":"2026-06-22","articles":["digital-banking-neobank-infrastructure-2026-06-22"]},
     {"keyword":"fintech-workforce-restructuring","count":1,"first_seen":"2026-06-22","last_seen":"2026-06-22","articles":["digital-banking-fintech-workforce-2026-06-22"]},
-    {"keyword":"korea-fintech-investment-2026","count":1,"first_seen":"2026-06-22","last_seen":"2026-06-22","articles":["investment-korea-fintech-h1-2026-06-22"]}
+    {"keyword":"korea-fintech-investment-2026","count":1,"first_seen":"2026-06-22","last_seen":"2026-06-22","articles":["investment-korea-fintech-h1-2026-06-22"]},
+    {"keyword":"moonpay-entendre-ai-acquisition","count":1,"first_seen":"2026-06-23","last_seen":"2026-06-23","articles":["investment-moonpay-entendre-2026-06-23"]},
+    {"keyword":"eu-digital-euro-econ-vote","count":1,"first_seen":"2026-06-23","last_seen":"2026-06-23","articles":["regulation-digital-euro-econ-vote-2026-06-23"]},
+    {"keyword":"mastercard-agent-pay-machines","count":1,"first_seen":"2026-06-23","last_seen":"2026-06-23","articles":["payments-mastercard-agent-pay-2026-06-23"]},
+    {"keyword":"santander-ai-banking-scale","count":1,"first_seen":"2026-06-23","last_seen":"2026-06-23","articles":["digital-banking-santander-ai-2026-06-23"]},
+    {"keyword":"korea-fintech-sandbox-reform","count":1,"first_seen":"2026-06-23","last_seen":"2026-06-23","articles":["regulation-korea-sandbox-reform-2026-06-23"]},
+    {"keyword":"cleo-stablecoin-pivot","count":1,"first_seen":"2026-06-23","last_seen":"2026-06-23","articles":["digital-banking-cleo-stablecoin-2026-06-23"]},
+    {"keyword":"payments-ai-infrastructure-shift","count":1,"first_seen":"2026-06-23","last_seen":"2026-06-23","articles":["payments-ai-infrastructure-shift-2026-06-23"]},
+    {"keyword":"europe-fintech-private-banking","count":1,"first_seen":"2026-06-23","last_seen":"2026-06-23","articles":["digital-banking-europe-private-banking-2026-06-23"]}
   ]
 }
