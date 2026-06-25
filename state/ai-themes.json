@@ -1,10 +1,10 @@
 {
   "topic": "ai",
-  "updated": "2026-06-25",
+  "updated": "2026-06-26",
   "version": 1,
   "window_days": 7,
   "themes": {
-    "openai-gpt56-release-preview": {"count": 3, "first_seen": "2026-06-14", "last_seen": "2026-06-22", "status": "normal", "example_titles": ["OpenAI GPT-5.6 출시 임박 — ChatGPT 전면 개편·IPO 계획 동반", "GPT-5.6, 6월 22~28일 출시 확률 83%… 150만 토큰·에이전틱 코딩 강화", "OpenAI GPT-5.6 출시 카운트다운"]},
+    "openai-gpt56-release-preview": {"count": 4, "first_seen": "2026-06-14", "last_seen": "2026-06-26", "status": "normal", "example_titles": ["OpenAI GPT-5.6 출시 임박 — ChatGPT 전면 개편·IPO 계획 동반", "GPT-5.6, 6월 22~28일 출시 확률 83%… 150만 토큰·에이전틱 코딩 강화", "OpenAI GPT-5.6 출시 카운트다운", "GPT-5.6 출시 확률 83%→18%로 급락 — \"하반기로 연기\" 복수 소식통 확인"]},
     "anthropic-fable-mythos-export-ban": {"count": 5, "first_seen": "2026-06-15", "last_seen": "2026-06-25", "status": "demoted", "example_titles": ["미국 정부, 앤트로픽 Fable 5·Mythos 5 전면 수출통제 — Amazon CEO 제보가 방아쇠", "Anthropic 수출통제 조치, AI 안전 기준 놓고 정부-기업 간 해석 논쟁 촉발", "Fable 5 수출통제 완화 시사 — 트럼프, G7서 아모데이와 전격 면담", "Mythos AI, NSA 기밀 시스템 침투 실험 성공 보도 — NSA 접속 전면 차단"]},
     "meta-muse-spark-proprietary-model": {"count": 2, "first_seen": "2026-06-18", "last_seen": "2026-06-24", "status": "normal", "example_titles": ["Meta, 오픈소스 Llama 버리고 첫 독점 AI 모델 Muse Spark 출시 — Superintelligence Labs 이후 전략 전환"]},
     "microsoft-mai-model-launch": {"count": 2, "first_seen": "2026-06-18", "last_seen": "2026-06-24", "status": "normal", "example_titles": ["Microsoft, 자체 개발 AI 모델 3종 동시 출시 — OpenAI·Google 정면 도전"]},
@@ -41,10 +41,20 @@
     "openai-broadcom-jalapeno-chip": {"count": 1, "first_seen": "2026-06-25", "last_seen": "2026-06-25", "status": "normal", "example_titles": ["OpenAI·Broadcom, LLM 추론 전용 커스텀 칩 '할라페뇨' 공개"]},
     "ai-chatbot-political-bias-study": {"count": 1, "first_seen": "2026-06-25", "last_seen": "2026-06-25", "status": "normal", "example_titles": ["AI 챗봇은 정치적으로 편향됐는가 — 워싱턴포스트 실험 결과"]},
     "gpt5-immunology-science-discovery": {"count": 1, "first_seen": "2026-06-25", "last_seen": "2026-06-25", "status": "normal", "example_titles": ["GPT-5, 면역학자의 3년 풀리지 않던 수수께끼 해결 보조"]},
-    "google-deepmind-brain-drain-2026": {"count": 1, "first_seen": "2026-06-25", "last_seen": "2026-06-25", "status": "normal", "example_titles": ["구글 AI 연구자 이탈 가속 — 경쟁사로 계속 유출"]},
+    "google-deepmind-brain-drain-2026": {"count": 2, "first_seen": "2026-06-25", "last_seen": "2026-06-26", "status": "normal", "example_titles": ["구글 AI 연구자 이탈 가속 — 경쟁사로 계속 유출", "구글 딥마인드 연구 리더 2명 추가 이탈 — Anthropic·OpenAI 합류 확인"]},
     "enterprise-ai-budget-governance": {"count": 1, "first_seen": "2026-06-25", "last_seen": "2026-06-25", "status": "normal", "example_titles": ["기업들, 직원들의 사소한 업무에 AI 예산 소진 막기 안간힘"]},
     "micron-hbm-ai-demand-surge": {"count": 1, "first_seen": "2026-06-25", "last_seen": "2026-06-25", "status": "normal", "example_titles": ["[미국 특징주] 마이크론, 시간 외 9% 급등…AI 수요에 메모리 가격 폭등·매출 4배"]},
     "china-ai-governance-davos-2026": {"count": 1, "first_seen": "2026-06-25", "last_seen": "2026-06-25", "status": "normal", "example_titles": ["中 총리 \"AI 거버넌스 없으면 기술 통제권 잃어\" — 하계 다보스 경고"]},
-    "korea-ai-job-displacement": {"count": 1, "first_seen": "2026-06-25", "last_seen": "2026-06-25", "status": "normal", "example_titles": ["사람 뛰어넘는 AI에 '고용 감축' 공포…한국 일자리는 무사한가"]}
+    "korea-ai-job-displacement": {"count": 1, "first_seen": "2026-06-25", "last_seen": "2026-06-25", "status": "normal", "example_titles": ["사람 뛰어넘는 AI에 '고용 감축' 공포…한국 일자리는 무사한가"]},
+    "alibaba-happyhorse-video-model": {"count": 1, "first_seen": "2026-06-26", "last_seen": "2026-06-26", "status": "normal", "example_titles": ["알리바바 HappyHorse 1.1, 글로벌 2위 비디오 생성 모델 등극"]},
+    "mistral-ocr-4-enterprise": {"count": 1, "first_seen": "2026-06-26", "last_seen": "2026-06-26", "status": "normal", "example_titles": ["Mistral OCR 4, 엔터프라이즈 문서 처리 정확도 95% 달성"]},
+    "microsoft-surface-spark-devbox": {"count": 1, "first_seen": "2026-06-26", "last_seen": "2026-06-26", "status": "normal", "example_titles": ["Microsoft, AI 개발자 전용 'Surface RTX Spark Dev Box' 공개"]},
+    "nvidia-dgx-station-desktop": {"count": 1, "first_seen": "2026-06-26", "last_seen": "2026-06-26", "status": "normal", "example_titles": ["Nvidia, 데스크탑용 DGX Station 2세대 출시 — GB200 탑재 개인용 AI 슈퍼컴"]},
+    "figma-ai-code-layers-update": {"count": 1, "first_seen": "2026-06-26", "last_seen": "2026-06-26", "status": "normal", "example_titles": ["Figma, AI 레이어 자동 코드화·디자인 어시스턴트 기능 대규모 업데이트"]},
+    "blocktrain-decentralized-ai": {"count": 1, "first_seen": "2026-06-26", "last_seen": "2026-06-26", "status": "normal", "example_titles": ["BlockTrain: 블록체인 기반 분산형 AI 학습 프로토콜 실험적 공개"]},
+    "anthropic-alibaba-model-distillation": {"count": 1, "first_seen": "2026-06-26", "last_seen": "2026-06-26", "status": "normal", "example_titles": ["앤트로픽, 알리바바의 Claude 모델 불법 대규모 증류 공식 고발"]},
+    "superhuman-gptzero-acquisition": {"count": 1, "first_seen": "2026-06-26", "last_seen": "2026-06-26", "status": "normal", "example_titles": ["Superhuman, AI 감지 전문 GPTZero를 3억 달러에 인수"]},
+    "ai-engineer-job-resilience": {"count": 1, "first_seen": "2026-06-26", "last_seen": "2026-06-26", "status": "normal", "example_titles": ["소프트웨어 엔지니어 고용 시장, AI 공포에도 오히려 회복세 — 2분기 채용 공고 14% 증가"]},
+    "whitehouse-ai-innovation-eo-june": {"count": 1, "first_seen": "2026-06-26", "last_seen": "2026-06-26", "status": "normal", "example_titles": ["백악관, AI 혁신·보안 촉진 행정명령 발령 — 정부 AI 조달 기준·안전 평가 의무화"]}
   }
 }
