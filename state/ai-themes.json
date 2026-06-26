@@ -1,19 +1,18 @@
 {
   "topic": "ai",
-  "updated": "2026-06-26",
+  "updated": "2026-06-27",
   "version": 1,
   "window_days": 7,
   "themes": {
-    "openai-gpt56-release-preview": {"count": 4, "first_seen": "2026-06-14", "last_seen": "2026-06-26", "status": "normal", "example_titles": ["OpenAI GPT-5.6 출시 임박 — ChatGPT 전면 개편·IPO 계획 동반", "GPT-5.6, 6월 22~28일 출시 확률 83%… 150만 토큰·에이전틱 코딩 강화", "OpenAI GPT-5.6 출시 카운트다운", "GPT-5.6 출시 확률 83%→18%로 급락 — \"하반기로 연기\" 복수 소식통 확인"]},
+    "openai-gpt56-release-preview": {"count": 5, "first_seen": "2026-06-14", "last_seen": "2026-06-27", "status": "demoted", "example_titles": ["OpenAI GPT-5.6 출시 임박 — ChatGPT 전면 개편·IPO 계획 동반", "GPT-5.6, 6월 22~28일 출시 확률 83%… 150만 토큰·에이전틱 코딩 강화", "GPT-5.6 출시 확률 83%→18%로 급락 — \"하반기로 연기\" 복수 소식통 확인", "트럼프 행정부 요청으로 OpenAI, GPT-5.6 공개 제한"]},
     "anthropic-fable-mythos-export-ban": {"count": 5, "first_seen": "2026-06-15", "last_seen": "2026-06-25", "status": "demoted", "example_titles": ["미국 정부, 앤트로픽 Fable 5·Mythos 5 전면 수출통제 — Amazon CEO 제보가 방아쇠", "Anthropic 수출통제 조치, AI 안전 기준 놓고 정부-기업 간 해석 논쟁 촉발", "Fable 5 수출통제 완화 시사 — 트럼프, G7서 아모데이와 전격 면담", "Mythos AI, NSA 기밀 시스템 침투 실험 성공 보도 — NSA 접속 전면 차단"]},
     "meta-muse-spark-proprietary-model": {"count": 2, "first_seen": "2026-06-18", "last_seen": "2026-06-24", "status": "normal", "example_titles": ["Meta, 오픈소스 Llama 버리고 첫 독점 AI 모델 Muse Spark 출시 — Superintelligence Labs 이후 전략 전환"]},
-    "microsoft-mai-model-launch": {"count": 2, "first_seen": "2026-06-18", "last_seen": "2026-06-24", "status": "normal", "example_titles": ["Microsoft, 자체 개발 AI 모델 3종 동시 출시 — OpenAI·Google 정면 도전"]},
-    "harness-one-search-agent-benchmark": {"count": 2, "first_seen": "2026-06-18", "last_seen": "2026-06-24", "status": "normal", "example_titles": ["오픈소스 AI 검색 에이전트 Harness-1, GPT-5.4 관련성 회상 성능 추월"]},
+    "microsoft-mai-model-launch": {"count": 3, "first_seen": "2026-06-18", "last_seen": "2026-06-27", "status": "normal", "example_titles": ["Microsoft, 자체 개발 AI 모델 3종 동시 출시 — OpenAI·Google 정면 도전", "마이크로소프트, OpenAI·구글 겨냥한 신규 AI 모델 3종 출시"]},
+    "harness-one-search-agent-benchmark": {"count": 3, "first_seen": "2026-06-18", "last_seen": "2026-06-27", "status": "normal", "example_titles": ["오픈소스 AI 검색 에이전트 Harness-1, GPT-5.4 관련성 회상 성능 추월", "오픈소스 AI 검색 에이전트 Harness-1, 정보 검색 성능에서 GPT-5.4 능가"]},
     "korea-gov-agentic-ai-2026": {"count": 2, "first_seen": "2026-06-18", "last_seen": "2026-06-20", "status": "normal", "example_titles": ["과기정통부, 'AI 동료'·'AI 사이버쉴드돔' 본격 개발 — 국민 체감형 에이전틱 AI 추진", "과기정통부, 'AI 동료'·'AI 사이버쉴드돔' 에이전틱 AI 국가 이니셔티브 발표"]},
     "nadella-ai-industry-hollowing-warning": {"count": 2, "first_seen": "2026-06-18", "last_seen": "2026-06-20", "status": "normal", "example_titles": ["사티아 나델라, 'AI가 산업 전체를 공동화할 수 있다' 경고 — 세계화 충격과 비교", "나델라 MS CEO, 'AI가 글로벌화처럼 산업 전체를 공동화할 수 있다' 경고"]},
-    "ai-agent-enterprise-chaos-failures": {"count": 3, "first_seen": "2026-06-18", "last_seen": "2026-06-24", "status": "demoted", "example_titles": ["AI 에이전트, 기업 내부에서 추적되지 않는 카오스 엔지니어링 장애 조용히 유발", "AI 에이전트, 기업에서 추적 안 되는 '조용한 혼돈공학 실패' 자체 생성"]},
+    "ai-agent-enterprise-chaos-failures": {"count": 4, "first_seen": "2026-06-18", "last_seen": "2026-06-27", "status": "demoted", "example_titles": ["AI 에이전트, 기업 내부에서 추적되지 않는 카오스 엔지니어링 장애 조용히 유발", "AI 에이전트, 기업에서 추적 안 되는 '조용한 혼돈공학 실패' 자체 생성", "Claude·OpenClaw와 새로운 현실: AI 에이전트 확산, 혼란도 함께 온다"]},
     "us-public-ai-perception-pew-2026": {"count": 2, "first_seen": "2026-06-18", "last_seen": "2026-06-20", "status": "normal", "example_titles": ["미국인 16%만 AI가 사회에 긍정적 영향 미칠 것이라 생각 — Pew Research", "Pew Research 2026: 미국인 40% AI에 부정적, 긍정 16% 불과"]},
-    "intelition-ambient-ai-paradigm": {"count": 1, "first_seen": "2026-06-19", "last_seen": "2026-06-19", "status": "normal", "example_titles": ["'Intelition': AI는 더 이상 사용자가 호출하는 도구가 아니다"]},
     "adobe-firefly-creative-suite": {"count": 3, "first_seen": "2026-06-19", "last_seen": "2026-06-22", "status": "normal", "example_titles": ["Adobe, Firefly AI 어시스턴트를 Premiere·Illustrator·InDesign에 탑재", "Adobe Firefly, Premiere·Illustrator·InDesign·Frame.io 통합 공개 베타 전면 확장", "Adobe Firefly 크리에이티브 앱 4종 오픈 베타 전면 확장"]},
     "john-jumper-anthropic-recruit": {"count": 2, "first_seen": "2026-06-20", "last_seen": "2026-06-22", "status": "normal", "example_titles": ["존 점퍼, 구글 딥마인드 떠나 앤트로픽 합류… AlphaFold 노벨상 수상자", "존 점퍼 Anthropic 합류 확인 — AlphaFold 이후 단백질 AI 기술 내재화 가속"]},
     "noam-shazeer-openai-recruit": {"count": 2, "first_seen": "2026-06-20", "last_seen": "2026-06-22", "status": "normal", "example_titles": ["트랜스포머 공동 고안자 노암 샤자르, 구글 떠나 OpenAI로", "노암 샤자르 OpenAI 합류 — 트랜스포머 원저자·Character.AI 창업자, 아키텍처 혁신 기대"]},
@@ -41,7 +40,7 @@
     "openai-broadcom-jalapeno-chip": {"count": 1, "first_seen": "2026-06-25", "last_seen": "2026-06-25", "status": "normal", "example_titles": ["OpenAI·Broadcom, LLM 추론 전용 커스텀 칩 '할라페뇨' 공개"]},
     "ai-chatbot-political-bias-study": {"count": 1, "first_seen": "2026-06-25", "last_seen": "2026-06-25", "status": "normal", "example_titles": ["AI 챗봇은 정치적으로 편향됐는가 — 워싱턴포스트 실험 결과"]},
     "gpt5-immunology-science-discovery": {"count": 1, "first_seen": "2026-06-25", "last_seen": "2026-06-25", "status": "normal", "example_titles": ["GPT-5, 면역학자의 3년 풀리지 않던 수수께끼 해결 보조"]},
-    "google-deepmind-brain-drain-2026": {"count": 2, "first_seen": "2026-06-25", "last_seen": "2026-06-26", "status": "normal", "example_titles": ["구글 AI 연구자 이탈 가속 — 경쟁사로 계속 유출", "구글 딥마인드 연구 리더 2명 추가 이탈 — Anthropic·OpenAI 합류 확인"]},
+    "google-deepmind-brain-drain-2026": {"count": 3, "first_seen": "2026-06-25", "last_seen": "2026-06-27", "status": "normal", "example_titles": ["구글 AI 연구자 이탈 가속 — 경쟁사로 계속 유출", "구글 딥마인드 연구 리더 2명 추가 이탈 — Anthropic·OpenAI 합류 확인", "구글 딥마인드, 핵심 AI 연구자 2명 OpenAI·Anthropic에 잇달아 빼앗겨"]},
     "enterprise-ai-budget-governance": {"count": 1, "first_seen": "2026-06-25", "last_seen": "2026-06-25", "status": "normal", "example_titles": ["기업들, 직원들의 사소한 업무에 AI 예산 소진 막기 안간힘"]},
     "micron-hbm-ai-demand-surge": {"count": 1, "first_seen": "2026-06-25", "last_seen": "2026-06-25", "status": "normal", "example_titles": ["[미국 특징주] 마이크론, 시간 외 9% 급등…AI 수요에 메모리 가격 폭등·매출 4배"]},
     "china-ai-governance-davos-2026": {"count": 1, "first_seen": "2026-06-25", "last_seen": "2026-06-25", "status": "normal", "example_titles": ["中 총리 \"AI 거버넌스 없으면 기술 통제권 잃어\" — 하계 다보스 경고"]},
@@ -55,6 +54,13 @@
     "anthropic-alibaba-model-distillation": {"count": 1, "first_seen": "2026-06-26", "last_seen": "2026-06-26", "status": "normal", "example_titles": ["앤트로픽, 알리바바의 Claude 모델 불법 대규모 증류 공식 고발"]},
     "superhuman-gptzero-acquisition": {"count": 1, "first_seen": "2026-06-26", "last_seen": "2026-06-26", "status": "normal", "example_titles": ["Superhuman, AI 감지 전문 GPTZero를 3억 달러에 인수"]},
     "ai-engineer-job-resilience": {"count": 1, "first_seen": "2026-06-26", "last_seen": "2026-06-26", "status": "normal", "example_titles": ["소프트웨어 엔지니어 고용 시장, AI 공포에도 오히려 회복세 — 2분기 채용 공고 14% 증가"]},
-    "whitehouse-ai-innovation-eo-june": {"count": 1, "first_seen": "2026-06-26", "last_seen": "2026-06-26", "status": "normal", "example_titles": ["백악관, AI 혁신·보안 촉진 행정명령 발령 — 정부 AI 조달 기준·안전 평가 의무화"]}
+    "whitehouse-ai-innovation-eo-june": {"count": 2, "first_seen": "2026-06-26", "last_seen": "2026-06-27", "status": "normal", "example_titles": ["백악관, AI 혁신·보안 촉진 행정명령 발령 — 정부 AI 조달 기준·안전 평가 의무화", "백악관, AI 혁신·보안 촉진 행정명령 서명"]},
+    "eu-ai-act-simplification-2026": {"count": 1, "first_seen": "2026-06-27", "last_seen": "2026-06-27", "status": "normal", "example_titles": ["EU, AI법 규제 간소화 합의…누드화 앱은 전면 금지"]},
+    "whitehouse-genesis-mission-ai": {"count": 1, "first_seen": "2026-06-27", "last_seen": "2026-06-27", "status": "normal", "example_titles": ["백악관 'AI 맨해튼 프로젝트' 제네시스 미션, 기업 실무 영향 분석"]},
+    "thinking-machines-interaction-models": {"count": 1, "first_seen": "2026-06-27", "last_seen": "2026-06-27", "status": "normal", "example_titles": ["Thinking Machines, 준실시간 음성·영상 AI 대화 '인터랙션 모델' 프리뷰 공개"]},
+    "agi-2027-timeline-forecast": {"count": 1, "first_seen": "2026-06-27", "last_seen": "2026-06-27", "status": "normal", "example_titles": ["2027년 AGI 달성 전망…인간 수준 AI까지 24개월"]},
+    "xiaomi-harnessx-self-rewriting": {"count": 1, "first_seen": "2026-06-27", "last_seen": "2026-06-27", "status": "normal", "example_titles": ["샤오미 HarnessX, 작업 중 AI 스캐폴딩 자체 재작성…소형 모델 성능 향상 극대화"]},
+    "naver-nvidia-korea-ai-cloud": {"count": 1, "first_seen": "2026-06-27", "last_seen": "2026-06-27", "status": "normal", "example_titles": ["네이버·엔비디아, 한국 기가와트급 AI 클라우드 구축 협력"]},
+    "anthropic-claude-sdk-code-execution": {"count": 1, "first_seen": "2026-06-27", "last_seen": "2026-06-27", "status": "normal", "example_titles": ["Anthropic Claude 개발자 플랫폼, 복수 SDK에 코드 실행 기능 지원 추가"]}
   }
 }
