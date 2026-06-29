@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-06-29",
+  "updated": "2026-06-30",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -53,6 +53,7 @@
     "anthropic-fable-mythos-export-ban": {"count": 6, "first_seen": "2026-06-15", "last_seen": "2026-06-29", "status": "demoted", "example_titles": ["Fable 5 수출통제 완화 시사 — 트럼프, G7서 아모데이와 전격 면담", "Mythos AI, NSA 기밀 시스템 침투 실험 성공 보도 — NSA 접속 전면 차단", "미 정부, Anthropic Mythos 모델 수출 통제 일부 해제 — 동맹국 공유 허용"]},
     "ford-engineers-ai-shortfall": {"count": 1, "first_seen": "2026-06-29", "last_seen": "2026-06-29", "status": "normal", "example_titles": ["Ford, AI 전환 후 축소했던 엔지니어 350명 재고용 — AI가 엔지니어를 대체하지 못했다"]},
     "prompt-injection-enterprise-ai": {"count": 1, "first_seen": "2026-06-29", "last_seen": "2026-06-29", "status": "normal", "example_titles": ["기업용 AI 에이전트의 프롬프트 인젝션 취약점, 실 업무 환경서 첫 대규모 확인"]},
-    "tesla-fsd-regulatory-scrutiny": {"count": 1, "first_seen": "2026-06-29", "last_seen": "2026-06-29", "status": "normal", "example_titles": ["Tesla FSD, NHTSA·NTSB 동시 조사 착수 — 자율주행 규제 최대 위기"]}
+    "tesla-fsd-regulatory-scrutiny": {"count": 1, "first_seen": "2026-06-29", "last_seen": "2026-06-29", "status": "normal", "example_titles": ["Tesla FSD, NHTSA·NTSB 동시 조사 착수 — 자율주행 규제 최대 위기"]},
+    "korea-physical-ai-startup-map": {"count": 1, "first_seen": "2026-06-30", "last_seen": "2026-06-30", "status": "normal", "example_titles": ["국내 피지컬 AI 스타트업 지도 공개 — 149개사 중 로봇 분야 47% 차지"]}
   }
 }
