@@ -1,12 +1,9 @@
 {
   "topic": "ai",
-  "updated": "2026-06-30",
+  "updated": "2026-07-01",
   "version": 1,
   "window_days": 7,
   "themes": {
-    "apple-siri-ai-ios27": {"count": 1, "first_seen": "2026-06-23", "last_seen": "2026-06-23", "status": "normal", "example_titles": ["iOS 27에서 달라지는 iPhone AI 기능 총정리 — Siri AI의 실용적 변화"]},
-    "china-295b-ai-infrastructure": {"count": 1, "first_seen": "2026-06-23", "last_seen": "2026-06-23", "status": "normal", "example_titles": ["중국, 2조 위안 규모 AI 데이터센터 그리드 추진 — Nvidia·AMD 배제 80% 국산 칩 의무화"]},
-    "kt-k-path-2026-startup": {"count": 1, "first_seen": "2026-06-23", "last_seen": "2026-06-23", "status": "normal", "example_titles": ["KT, AI 스타트업 공동사업 파트너 발굴 'K-PATH 2026' 공모 시작"]},
     "anthropic-ipo-965b-valuation": {"count": 1, "first_seen": "2026-06-24", "last_seen": "2026-06-24", "status": "normal", "example_titles": ["Anthropic IPO 밸류에이션 9,650억 달러 확정 — 2026년 하반기 상장 공식화"]},
     "ai-optimization-framework-codex": {"count": 1, "first_seen": "2026-06-24", "last_seen": "2026-06-24", "status": "normal", "example_titles": ["OpenAI Codex CLI, AI 최적화 오픈소스 프레임워크로 전면 재설계 — 엔터프라이즈 에이전트 확장"]},
     "tech-layoffs-2026-ai-cited": {"count": 1, "first_seen": "2026-06-24", "last_seen": "2026-06-24", "status": "normal", "example_titles": ["빅테크 2026 감원 재개 — AI 자동화 전환 이유로 3만 명 이상 감축 공식화"]},
@@ -54,6 +51,16 @@
     "ford-engineers-ai-shortfall": {"count": 1, "first_seen": "2026-06-29", "last_seen": "2026-06-29", "status": "normal", "example_titles": ["Ford, AI 전환 후 축소했던 엔지니어 350명 재고용 — AI가 엔지니어를 대체하지 못했다"]},
     "prompt-injection-enterprise-ai": {"count": 1, "first_seen": "2026-06-29", "last_seen": "2026-06-29", "status": "normal", "example_titles": ["기업용 AI 에이전트의 프롬프트 인젝션 취약점, 실 업무 환경서 첫 대규모 확인"]},
     "tesla-fsd-regulatory-scrutiny": {"count": 1, "first_seen": "2026-06-29", "last_seen": "2026-06-29", "status": "normal", "example_titles": ["Tesla FSD, NHTSA·NTSB 동시 조사 착수 — 자율주행 규제 최대 위기"]},
-    "korea-physical-ai-startup-map": {"count": 1, "first_seen": "2026-06-30", "last_seen": "2026-06-30", "status": "normal", "example_titles": ["국내 피지컬 AI 스타트업 지도 공개 — 149개사 중 로봇 분야 47% 차지"]}
+    "korea-physical-ai-startup-map": {"count": 1, "first_seen": "2026-06-30", "last_seen": "2026-06-30", "status": "normal", "example_titles": ["국내 피지컬 AI 스타트업 지도 공개 — 149개사 중 로봇 분야 47% 차지"]},
+    "anthropic-claude-sonnet-5": {"count": 1, "first_seen": "2026-07-01", "last_seen": "2026-07-01", "status": "normal", "example_titles": ["Anthropic, 에이전트 실행 비용 40% 낮춘 Claude Sonnet 5 출시"]},
+    "anthropic-claude-science-workbench": {"count": 1, "first_seen": "2026-07-01", "last_seen": "2026-07-01", "status": "normal", "example_titles": ["Anthropic, 과학 연구자를 위한 AI 워크벤치 'Claude Science' 공개"]},
+    "spacex-reflection-ai-compute": {"count": 1, "first_seen": "2026-07-01", "last_seen": "2026-07-01", "status": "normal", "example_titles": ["SpaceX, 자사 AI 자회사 Reflection AI에 콜로서스 데이터센터 컴퓨팅 제공 확인"]},
+    "amazon-fde-org-launch": {"count": 1, "first_seen": "2026-07-01", "last_seen": "2026-07-01", "status": "normal", "example_titles": ["Amazon, 10억 달러 규모 자체 AI 모델 전담 조직 'FDE' 신설 — OpenAI·Anthropic에 도전"]},
+    "korea-lee-mega-project-ai": {"count": 1, "first_seen": "2026-07-01", "last_seen": "2026-07-01", "status": "normal", "example_titles": ["이재명 대선 공약 — AI 주권 3대 메가프로젝트·100조 원 국가 AI 클라우드 제시"]},
+    "okx-ai-agent-economy": {"count": 1, "first_seen": "2026-07-01", "last_seen": "2026-07-01", "status": "normal", "example_titles": ["OKX, AI 에이전트끼리 서로 고용하고 급여 지급하는 '에이전트 경제' 인프라 발표"]},
+    "proton-lumo-ai-chatbot": {"count": 1, "first_seen": "2026-07-01", "last_seen": "2026-07-01", "status": "normal", "example_titles": ["Proton, 프라이버시 AI 챗봇 Lumo 2.0 공개 — 대화 이력 서버 미저장·E2E 암호화 유지"]},
+    "ai-employment-impact-ramp": {"count": 1, "first_seen": "2026-07-01", "last_seen": "2026-07-01", "status": "normal", "example_titles": ["AI 고용 충격 논쟁 격화 — Ramp·Revelio 데이터가 상반된 결론 제시"]},
+    "korea-semiconductor-ai-act-h2": {"count": 1, "first_seen": "2026-07-01", "last_seen": "2026-07-01", "status": "normal", "example_titles": ["국회, AI 반도체 세액공제 35%로 확대한 반도체 특별법 개정안 통과"]},
+    "ridi-ai-builders-platform": {"count": 1, "first_seen": "2026-07-01", "last_seen": "2026-07-01", "status": "normal", "example_titles": ["리디, 독자 대상 AI 창작 지원 서비스 'AI Builders' 출시"]}
   }
 }
