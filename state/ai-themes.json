@@ -1,13 +1,9 @@
 {
   "topic": "ai",
-  "updated": "2026-07-03",
+  "updated": "2026-07-04",
   "version": 1,
   "window_days": 7,
   "themes": {
-    "nvidia-dgx-station-desktop": {"count": 1, "first_seen": "2026-06-26", "last_seen": "2026-06-26", "status": "normal", "example_titles": ["Nvidia, 데스크탑용 DGX Station 2세대 출시 — GB200 탑재 개인용 AI 슈퍼컴"]},
-    "figma-ai-code-layers-update": {"count": 1, "first_seen": "2026-06-26", "last_seen": "2026-06-26", "status": "normal", "example_titles": ["Figma, AI 레이어 자동 코드화·디자인 어시스턴트 기능 대규모 업데이트"]},
-    "blocktrain-decentralized-ai": {"count": 1, "first_seen": "2026-06-26", "last_seen": "2026-06-26", "status": "normal", "example_titles": ["BlockTrain: 블록체인 기반 분산형 AI 학습 프로토콜 실험적 공개"]},
-    "ai-engineer-job-resilience": {"count": 1, "first_seen": "2026-06-26", "last_seen": "2026-06-26", "status": "normal", "example_titles": ["소프트웨어 엔지니어 고용 시장, AI 공포에도 오히려 회복세 — 2분기 채용 공고 14% 증가"]},
     "eu-ai-act-simplification-2026": {"count": 1, "first_seen": "2026-06-27", "last_seen": "2026-06-27", "status": "normal", "example_titles": ["EU, AI법 규제 간소화 합의…누드화 앱은 전면 금지"]},
     "whitehouse-genesis-mission-ai": {"count": 1, "first_seen": "2026-06-27", "last_seen": "2026-06-27", "status": "normal", "example_titles": ["백악관 'AI 맨해튼 프로젝트' 제네시스 미션, 기업 실무 영향 분석"]},
     "thinking-machines-interaction-models": {"count": 1, "first_seen": "2026-06-27", "last_seen": "2026-06-27", "status": "normal", "example_titles": ["Thinking Machines, 준실시간 음성·영상 AI 대화 '인터랙션 모델' 프리뷰 공개"]},
@@ -56,6 +52,14 @@
     "venice-ai-series-a-funding": {"count": 1, "first_seen": "2026-07-03", "last_seen": "2026-07-03", "status": "normal", "example_titles": ["Venice AI, 6,500만 달러 시리즈 A로 유니콘 등극 — 서버 미저장 AI 플랫폼, 사용자 300만·연 매출 700억 원"]},
     "ai-hype-ipo-commentary": {"count": 1, "first_seen": "2026-07-03", "last_seen": "2026-07-03", "status": "normal", "example_titles": ["샌드위치 체인 Jersey Mike's, IPO 서류에 'AI' 22회 언급 — AI 버즈워드 인플레이션 정점 논란"]},
     "un-ai-scientific-panel-report": {"count": 1, "first_seen": "2026-07-03", "last_seen": "2026-07-03", "status": "normal", "example_titles": ["UN 인공지능 독립 과학 패널, AI 거버넌스 예비 보고서 공개 — '규제 창문이 닫힐 수 있다'"]},
-    "korea-ai-privacy-council-2026": {"count": 1, "first_seen": "2026-07-03", "last_seen": "2026-07-03", "status": "normal", "example_titles": ["한국, AI 프라이버시 민·관 정책협의회 출범 — 에이전트 AI·피지컬 AI 확산 대응 3개 분과 운영"]}
+    "korea-ai-privacy-council-2026": {"count": 1, "first_seen": "2026-07-03", "last_seen": "2026-07-03", "status": "normal", "example_titles": ["한국, AI 프라이버시 민·관 정책협의회 출범 — 에이전트 AI·피지컬 AI 확산 대응 3개 분과 운영"]},
+    "meta-ai-agent-slowdown": {"count": 1, "first_seen": "2026-07-04", "last_seen": "2026-07-04", "status": "normal", "example_titles": ["저커버그, 직원들에게 AI 에이전트 진행 속도 기대에 못 미쳐 인정"]},
+    "nadella-ai-globalization-warning": {"count": 1, "first_seen": "2026-07-04", "last_seen": "2026-07-04", "status": "normal", "example_titles": ["나델라 MS CEO, AI가 세계화처럼 산업 전체를 공동화할 수 있다 경고"]},
+    "twelve-labs-series-b-funding": {"count": 1, "first_seen": "2026-07-04", "last_seen": "2026-07-04", "status": "normal", "example_titles": ["한국계 비디오 AI 스타트업 Twelve Labs, 1,500억원 규모 시리즈 B 유치"]},
+    "korea-chaebol-yeongnam-ai-investment": {"count": 1, "first_seen": "2026-07-04", "last_seen": "2026-07-04", "status": "normal", "example_titles": ["6대그룹, 영남권에 향후 5년 312조원 AI·첨단산업 투자 계획 발표"]},
+    "fortytwo-maru-enterprise-ai-symposium": {"count": 1, "first_seen": "2026-07-04", "last_seen": "2026-07-04", "status": "normal", "example_titles": ["포티투마루, '엔터프라이즈 AI 전환' 주제 심포지엄 개최"]},
+    "meta-business-agent-launch": {"count": 1, "first_seen": "2026-07-04", "last_seen": "2026-07-04", "status": "normal", "example_titles": ["Meta, 왓츠앱·인스타그램 연동 비즈니스 AI 에이전트 전 세계 출시"]},
+    "un-ai-for-good-commission": {"count": 1, "first_seen": "2026-07-04", "last_seen": "2026-07-04", "status": "normal", "example_titles": ["UN, AI 글로벌 거버넌스 위한 'AI for Good 위원회' 출범 — 주요 CEO·세계 지도자 참여"]},
+    "seoul-ai-hub-airforce-mou": {"count": 1, "first_seen": "2026-07-04", "last_seen": "2026-07-04", "status": "normal", "example_titles": ["서울 AI 허브, 대한민국 공군과 AI 기술 협력 MOU 체결"]}
   }
 }
