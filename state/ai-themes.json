@@ -1,10 +1,9 @@
 {
   "topic": "ai",
-  "updated": "2026-07-07",
+  "updated": "2026-07-08",
   "version": 1,
   "window_days": 7,
   "themes": {
-    "korea-physical-ai-startup-map": {"count": 1, "first_seen": "2026-06-30", "last_seen": "2026-06-30", "status": "normal", "example_titles": ["국내 피지컬 AI 스타트업 지도 공개 — 149개사 중 로봇 분야 47% 차지"]},
     "openai-gpt56-release-preview": {"count": 8, "first_seen": "2026-06-14", "last_seen": "2026-07-07", "status": "demoted", "example_titles": ["GPT-5.6 출시 확률 83%→18%로 급락 — \"하반기로 연기\" 복수 소식통 확인", "OpenAI, GPT-5.6 Sol·Terra·Luna 모델 제한 파트너사 프리뷰 공개", "GPT-5.6, 미 백악관 AI 프레임워크 연계로 광범위 출시 임박"]},
     "anthropic-claude-sonnet-5": {"count": 2, "first_seen": "2026-07-01", "last_seen": "2026-07-03", "status": "normal", "example_titles": ["Anthropic, 에이전트 실행 비용 40% 낮춘 Claude Sonnet 5 출시", "Anthropic, Claude Sonnet 5를 Free·Pro 기본 모델로 전환 — Opus 4.8 수준 성능에 낮은 비용"]},
     "anthropic-claude-science-workbench": {"count": 1, "first_seen": "2026-07-01", "last_seen": "2026-07-01", "status": "normal", "example_titles": ["Anthropic, 과학 연구자를 위한 AI 워크벤치 'Claude Science' 공개"]},
@@ -42,7 +41,7 @@
     "india-ai-office-suite": {"count": 1, "first_seen": "2026-07-05", "last_seen": "2026-07-05", "status": "normal", "example_titles": ["인도 IT 대기업, AI 탑재 오피스 스위트로 마이크로소프트 M365에 도전"]},
     "un-ai-governance-dialogue-2026": {"count": 3, "first_seen": "2026-07-05", "last_seen": "2026-07-07", "status": "normal", "example_titles": ["유엔, 7월 6일 'AI 거버넌스 글로벌 대화' 개최 — 구속력 있는 국제 프레임워크 초안 공개 예정", "유엔 AI 거버넌스 글로벌 대화 개막 — '재앙적 피해' 경고 속 193개국 집결", "UN AI 거버넌스 대화 2026 결론 도출 — 구속력 없는 공동 원칙 채택"]},
     "anthropic-fable5-subscription-update": {"count": 2, "first_seen": "2026-07-06", "last_seen": "2026-07-07", "status": "normal", "example_titles": ["Anthropic, 7월 7일부터 Fable 5를 사용량 크레딧 모델로 전환 — 구독서 완전 제외 아냐", "Anthropic, 수출 규제 해제로 Fable 5 글로벌 제공 재개"]},
-    "gemini-35-pro-delay": {"count": 2, "first_seen": "2026-07-06", "last_seen": "2026-07-07", "status": "normal", "example_titles": ["Google Gemini 3.5 Pro, 6월 출시 무산 — 7월 목표로 재조정, 여전히 Vertex 한정 프리뷰", "구글 Gemini 3.5 Pro, 단계적 롤아웃 개시"]},
+    "gemini-35-pro-delay": {"count": 3, "first_seen": "2026-07-06", "last_seen": "2026-07-08", "status": "normal", "example_titles": ["구글 Gemini 3.5 Pro, 단계적 롤아웃 개시", "구글, Gemini 3.5 Pro 7월 17일 출시 확정 — 기존 아키텍처 전면 재설계"]},
     "korea-startup-investment-h1-2026": {"count": 1, "first_seen": "2026-07-06", "last_seen": "2026-07-06", "status": "normal", "example_titles": ["한국 상반기 AI·로보틱스 스타트업 투자 7.8조 원 — 2025년 연간 이미 초과"]},
     "h1-2026-global-vc-record": {"count": 1, "first_seen": "2026-07-06", "last_seen": "2026-07-06", "status": "normal", "example_titles": ["H1 2026 글로벌 스타트업 VC 투자 $5,100억 신기록 — AI 붐이 벤처 엑싯 가속"]},
     "ai-for-good-summit-2026": {"count": 2, "first_seen": "2026-07-06", "last_seen": "2026-07-07", "status": "normal", "example_titles": ["AI for Good 글로벌 정상회의, 7월 7-10일 제네바 개막 — AI 거버넌스 대화와 동시 진행", "AI for Good 정상회의 2026 개막 — ITU·UN 주관 글로벌 AI 거버넌스 포럼"]},
@@ -50,6 +49,15 @@
     "poolside-laguna-agentic-coding": {"count": 1, "first_seen": "2026-07-07", "last_seen": "2026-07-07", "status": "normal", "example_titles": ["Poolside, 코딩 에이전트 특화 모델 Laguna XS.2.1 출시"]},
     "anthropic-openai-market-shift": {"count": 1, "first_seen": "2026-07-07", "last_seen": "2026-07-07", "status": "normal", "example_titles": ["Anthropic, 기업 AI 도입에서 OpenAI 첫 추월"]},
     "sam-altman-openai-strategy": {"count": 1, "first_seen": "2026-07-07", "last_seen": "2026-07-07", "status": "normal", "example_titles": ["샘 알트만 \"AI가 만드는 새로운 세계 질서\" — OpenAI 전략 공개"]},
-    "skhynix-hbm-us-factory": {"count": 1, "first_seen": "2026-07-07", "last_seen": "2026-07-07", "status": "normal", "example_titles": ["SK하이닉스, 인디애나에 39억 달러 HBM 공장 착공"]}
+    "skhynix-hbm-us-factory": {"count": 1, "first_seen": "2026-07-07", "last_seen": "2026-07-07", "status": "normal", "example_titles": ["SK하이닉스, 인디애나에 39억 달러 HBM 공장 착공"]},
+    "microsoft-mai-replaces-openai-apps": {"count": 1, "first_seen": "2026-07-08", "last_seen": "2026-07-08", "status": "normal", "example_titles": ["Microsoft, Excel·Outlook에서 OpenAI·Anthropic 대신 자체 MAI 모델 적용 시작"]},
+    "thinking-machines-realtime-ai-interaction": {"count": 1, "first_seen": "2026-07-08", "last_seen": "2026-07-08", "status": "normal", "example_titles": ["Thinking Machines, 200ms 멀티스트림 구조로 준실시간 AI 음성·영상 대화 기술 공개"]},
+    "harness-1-ai-search-agent": {"count": 1, "first_seen": "2026-07-08", "last_seen": "2026-07-08", "status": "normal", "example_titles": ["연구팀, GPT-5.4 능가하는 오픈소스 AI 검색 에이전트 Harness-1 공개"]},
+    "anthropic-terawulf-datacenter-deal": {"count": 1, "first_seen": "2026-07-08", "last_seen": "2026-07-08", "status": "normal", "example_titles": ["Anthropic, TeraWulf와 190억 달러 규모 켄터키 데이터센터 20년 임대 계약 체결"]},
+    "chinese-ai-models-cost-competition": {"count": 1, "first_seen": "2026-07-08", "last_seen": "2026-07-08", "status": "normal", "example_titles": ["중국 AI 모델, 미국 기업에 빠르게 파고들어 — OpenAI·Anthropic 비용 부담 급등이 전환점"]},
+    "norm-ai-law-startup-funding": {"count": 1, "first_seen": "2026-07-08", "last_seen": "2026-07-08", "status": "normal", "example_titles": ["AI 법률 스타트업 Norm, Khosla Ventures 주도 1억 2,000만 달러 조달로 유니콘 등극"]},
+    "samsung-q2-2026-earnings": {"count": 1, "first_seen": "2026-07-08", "last_seen": "2026-07-08", "status": "normal", "example_titles": ["삼성전자, 역대 최대 2분기 실적 발표에도 주가 6.92% 급락 — AI 메모리 쏠림 우려"]},
+    "illinois-ai-safety-act-2026": {"count": 1, "first_seen": "2026-07-08", "last_seen": "2026-07-08", "status": "normal", "example_titles": ["일리노이주 AI 안전 조치법, Pritzker 주지사 서명 — 미국에서 세 번째 주요 AI 주법"]},
+    "anthropic-id-verification-persona": {"count": 1, "first_seen": "2026-07-08", "last_seen": "2026-07-08", "status": "normal", "example_titles": ["Anthropic, 오늘부터 Fable 5 이용 및 일부 고급 기능에 정부 발행 ID 인증 의무화"]}
   }
 }
