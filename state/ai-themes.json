@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-07-09",
+  "updated": "2026-07-10",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -56,6 +56,17 @@
     "microsoft-suleyman-superintelligence-declaration": {"count": 1, "first_seen": "2026-07-09", "last_seen": "2026-07-09", "status": "normal", "example_titles": ["Microsoft AI 수장 무스타파 술레이만 \"OpenAI에서 해방\" — 초지능 독자 개발 선언"]},
     "rebellion-ai-chip-ipo-2027": {"count": 1, "first_seen": "2026-07-09", "last_seen": "2026-07-09", "status": "normal", "example_titles": ["리벨리온, 2027년 1분기 국내 IPO 추진 — 삼성·SK하이닉스 투자 AI칩 팹리스"]},
     "korea-ai-global-supply-imf-upgrade": {"count": 1, "first_seen": "2026-07-09", "last_seen": "2026-07-09", "status": "normal", "example_titles": ["국제기구, 한국을 글로벌 AI 핵심 공급국가로 공인 — IMF·ADB 경제성장률 2.6%로 상향"]},
-    "ai-agents-deployment-chaos-governance": {"count": 1, "first_seen": "2026-07-09", "last_seen": "2026-07-09", "status": "normal", "example_titles": ["AI 에이전트 시대 '카오스' 선언 — Claude·OpenClaw 급부상과 거버넌스 공백"]}
+    "ai-agents-deployment-chaos-governance": {"count": 1, "first_seen": "2026-07-09", "last_seen": "2026-07-09", "status": "normal", "example_titles": ["AI 에이전트 시대 '카오스' 선언 — Claude·OpenClaw 급부상과 거버넌스 공백"]},
+    "eu-ai-act-gp-enforcement-deadline-2026": {"count": 1, "first_seen": "2026-07-10", "last_seen": "2026-07-10", "status": "normal", "example_titles": ["EU AI Act, 7월 고위험 AI 시스템 규제 조항 발효 — 기업 준수 의무 본격 시작"]},
+    "ai-lab-ceo-joint-governance-declaration": {"count": 1, "first_seen": "2026-07-10", "last_seen": "2026-07-10", "status": "normal", "example_titles": ["OpenAI·Anthropic·DeepMind CEO, AI 위험 공동 대응 선언 — '인류 최대 위협' 경고"]},
+    "meta-ai-assistant-major-upgrade-2026": {"count": 1, "first_seen": "2026-07-10", "last_seen": "2026-07-10", "status": "normal", "example_titles": ["Meta AI 어시스턴트, 대폭 업그레이드 — 멀티모달·메모리·개인화 기능 대거 추가"]},
+    "apple-intelligence-expansion-2026": {"count": 1, "first_seen": "2026-07-10", "last_seen": "2026-07-10", "status": "normal", "example_titles": ["애플 인텔리전스, 전 기기·언어로 확장 — AI 기능 글로벌 롤아웃 가속"]},
+    "foundation-model-reasoning-benchmark-2026": {"count": 1, "first_seen": "2026-07-10", "last_seen": "2026-07-10", "status": "normal", "example_titles": ["최신 파운데이션 모델 추론 벤치마크 — GPT-5.6·Fable 5·Gemini 3 비교 분석"]},
+    "ai-agent-safety-research-2026": {"count": 1, "first_seen": "2026-07-10", "last_seen": "2026-07-10", "status": "normal", "example_titles": ["AI 에이전트 안전성 연구 — 오류 전파·경계 준수 실패 패턴 분석"]},
+    "deepmind-talent-exodus-2026": {"count": 1, "first_seen": "2026-07-10", "last_seen": "2026-07-10", "status": "normal", "example_titles": ["구글 딥마인드, 핵심 연구진 대거 이탈 — 스타트업 창업·경쟁사 이직 러시"]},
+    "ai-chip-market-growth-h2-2026": {"count": 1, "first_seen": "2026-07-10", "last_seen": "2026-07-10", "status": "normal", "example_titles": ["글로벌 AI 칩 시장, 2026 하반기 폭발적 성장 — 엔비디아 H200 수요 여전히 초과"]},
+    "ai-startup-funding-wave-q3-2026": {"count": 1, "first_seen": "2026-07-10", "last_seen": "2026-07-10", "status": "normal", "example_titles": ["AI 스타트업 3분기 투자 러시 — 멀티에이전트·멀티모달 스타트업 중심 대형 라운드"]},
+    "china-ai-regulation-strategy-2026": {"count": 1, "first_seen": "2026-07-10", "last_seen": "2026-07-10", "status": "normal", "example_titles": ["중국, AI 서비스 규제 강화 — 생성형 AI 출력물 워터마크 의무화"]},
+    "korea-naver-kai-defense-ai-2026": {"count": 1, "first_seen": "2026-07-10", "last_seen": "2026-07-10", "status": "normal", "example_titles": ["네이버·KAI, 국방 AI 시스템 공동 개발 협력 — 항공·드론 자율화 기술"]}
   }
 }
