@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-07-13",
+  "updated": "2026-07-14",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -31,7 +31,7 @@
     "ai-startup-funding-wave-q3-2026": {"count": 1, "first_seen": "2026-07-10", "last_seen": "2026-07-10", "status": "normal", "example_titles": ["AI 스타트업 3분기 투자 러시 — 멀티에이전트·멀티모달 스타트업 중심 대형 라운드"]},
     "china-ai-regulation-strategy-2026": {"count": 1, "first_seen": "2026-07-10", "last_seen": "2026-07-10", "status": "normal", "example_titles": ["중국, AI 서비스 규제 강화 — 생성형 AI 출력물 워터마크 의무화"]},
     "korea-naver-kai-defense-ai-2026": {"count": 1, "first_seen": "2026-07-10", "last_seen": "2026-07-10", "status": "normal", "example_titles": ["네이버·KAI, 국방 AI 시스템 공동 개발 협력 — 항공·드론 자율화 기술"]},
-    "gemini-35-pro-delay": {"count": 4, "first_seen": "2026-07-06", "last_seen": "2026-07-11", "status": "demoted", "example_titles": ["구글 Gemini 3.5 Pro, 단계적 롤아웃 개시", "구글, Gemini 3.5 Pro 7월 17일 출시 확정 — 기존 아키텍처 전면 재설계", "구글, Gemini 3.5 Pro 출시 7월 17일로 또 연기 — 아키텍처 전면 재설계"]},
+    "gemini-35-pro-delay": {"count": 5, "first_seen": "2026-07-06", "last_seen": "2026-07-14", "status": "demoted", "example_titles": ["구글 Gemini 3.5 Pro, 단계적 롤아웃 개시", "구글, Gemini 3.5 Pro 7월 17일 출시 확정 — 기존 아키텍처 전면 재설계", "구글, Gemini 3.5 Pro 출시 7월 17일로 또 연기 — 아키텍처 전면 재설계", "Google Gemini 3.5 Pro 7월 17일 출시 목표"]},
     "ai-for-good-summit-2026": {"count": 3, "first_seen": "2026-07-06", "last_seen": "2026-07-11", "status": "demoted", "example_titles": ["AI for Good 글로벌 정상회의, 7월 7-10일 제네바 개막 — AI 거버넌스 대화와 동시 진행", "AI for Good 정상회의 2026 개막 — ITU·UN 주관 글로벌 AI 거버넌스 포럼", "UN 'AI for Good' 정상회의 폐막 — '파국적 위협' 경고 속 글로벌 거버넌스 로드맵 채택"]},
     "agi-2027-timeline-forecast": {"count": 2, "first_seen": "2026-07-09", "last_seen": "2026-07-11", "status": "normal", "example_titles": ["2027 AGI 달성 예측 공개 — 24개월 내 인간 수준 AI, 그 직후 초지능 도달", "'2027 AGI 로드맵': 24개월 내 인간 수준 AI, 곧이어 초지능(ASI) 예측"]},
     "ai-lab-ceo-joint-governance-declaration": {"count": 2, "first_seen": "2026-07-10", "last_seen": "2026-07-11", "status": "normal", "example_titles": ["OpenAI·Anthropic·DeepMind CEO, AI 위험 공동 대응 선언 — '인류 최대 위협' 경고", "Anthropic·OpenAI·Google DeepMind CEO, 미국 주도 글로벌 AI 표준 연합 촉구"]},
@@ -41,7 +41,7 @@
     "arbor-ai-coding-optimization": {"count": 1, "first_seen": "2026-07-11", "last_seen": "2026-07-11", "status": "normal", "example_titles": ["AI 최적화 프레임워크 'Arbor', Claude Code·Codex 대비 동일 컴퓨팅으로 2.5배 성능"]},
     "sam-altman-korea-visit-2026": {"count": 1, "first_seen": "2026-07-11", "last_seen": "2026-07-11", "status": "normal", "example_titles": ["샘 알트먼, 다음 주 방한 — 삼성·카카오·네이버와 연쇄 회동 예정"]},
     "sambanova-series-f-jp-morgan": {"count": 1, "first_seen": "2026-07-11", "last_seen": "2026-07-11", "status": "normal", "example_titles": ["SambaNova, AI 칩 펀딩 $10억 완료 — 기업가치 $110억, JP모건 온프레미스 AI 도입"]},
-    "ftc-ai-accuracy-policy-2026": {"count": 2, "first_seen": "2026-07-11", "last_seen": "2026-07-13", "status": "normal", "example_titles": ["FTC, AI 정확성·객관성 정책 의견 수렴 착수 — AI 기업의 행동 조작 우려 겨냥", "미 FTC, AI 정확도 허위 표시 단속 정책 발표 — AI 서비스 과장 광고 제재 본격화"]},
+    "ftc-ai-accuracy-policy-2026": {"count": 3, "first_seen": "2026-07-11", "last_seen": "2026-07-14", "status": "demoted", "example_titles": ["FTC, AI 정확성·객관성 정책 의견 수렴 착수 — AI 기업의 행동 조작 우려 겨냥", "미 FTC, AI 정확도 허위 표시 단속 정책 발표 — AI 서비스 과장 광고 제재 본격화", "미 FTC, AI 정확도 허위표시 단속 정책 의견수렴 — 7월 31일 마감"]},
     "whitehouse-ai-voluntary-review-30day": {"count": 1, "first_seen": "2026-07-11", "last_seen": "2026-07-11", "status": "normal", "example_titles": ["백악관 AI 프레임워크, 전례 없는 '30일 자발적 사전 검토 창구' 포함"]},
     "icml-2026-seoul": {"count": 1, "first_seen": "2026-07-11", "last_seen": "2026-07-11", "status": "normal", "example_titles": ["ICML 2026 서울 폐막 — 역대 최다 2만3918건 제출, AI 에이전트 안전 시대 선언"]},
     "grok-45-xai-release": {"count": 1, "first_seen": "2026-07-12", "last_seen": "2026-07-12", "status": "normal", "example_titles": ["xAI, Grok 4.5 출시 — 엘론 머스크 '오퍼스급 성능' 주장"]},
@@ -53,16 +53,21 @@
     "google-africa-applied-ai-lab": {"count": 1, "first_seen": "2026-07-12", "last_seen": "2026-07-12", "status": "normal", "example_titles": ["구글, 아프리카 응용 AI 연구소 개설 — AI 창업자·연구자 지원 프로그램 모집"]},
     "shield-ai-series-g-defense": {"count": 1, "first_seen": "2026-07-12", "last_seen": "2026-07-12", "status": "normal", "example_titles": ["국방 AI 기업 Shield AI, 시리즈 G로 15억 달러 조달 — 자율 전투 시스템 확대"]},
     "dram-nand-supply-crunch-hbm": {"count": 1, "first_seen": "2026-07-12", "last_seen": "2026-07-12", "status": "normal", "example_titles": ["HBM 수요 폭증으로 일반 DRAM·NAND 공급 부족 심화 — AI 서버 외 장치 가격 상승 경고"]},
-    "eu-ai-act-gp-enforcement-deadline-2026": {"count": 3, "first_seen": "2026-07-10", "last_seen": "2026-07-13", "status": "demoted", "example_titles": ["EU AI Act, 7월 고위험 AI 시스템 규제 조항 발효 — 기업 준수 의무 본격 시작", "EU AI법 고위험 AI 조항, 8월 발효 — 기업들 준수 의무화 시작", "EU AI법 고위험 AI 조항 D-20 — 기업들 준수 체크리스트 공개 시작"]},
+    "eu-ai-act-gp-enforcement-deadline-2026": {"count": 4, "first_seen": "2026-07-10", "last_seen": "2026-07-14", "status": "demoted", "example_titles": ["EU AI Act, 7월 고위험 AI 시스템 규제 조항 발효 — 기업 준수 의무 본격 시작", "EU AI법 고위험 AI 조항, 8월 발효 — 기업들 준수 의무화 시작", "EU AI법 고위험 AI 조항 D-20 — 기업들 준수 체크리스트 공개 시작", "EU AI법 고위험 AI 조항 시행 D-30"]},
     "tencent-hy3-open-source-llm": {"count": 1, "first_seen": "2026-07-13", "last_seen": "2026-07-13", "status": "normal", "example_titles": ["텐센트, 대형 오픈소스 모델 Hy3 공개 — 중국 오픈소스 AI 공세 강화"]},
-    "deepseek-v4-official-launch": {"count": 1, "first_seen": "2026-07-13", "last_seen": "2026-07-13", "status": "normal", "example_titles": ["DeepSeek, V4 공식 출시 — MoE 아키텍처로 추론 비용 70% 절감 주장"]},
+    "deepseek-v4-official-launch": {"count": 2, "first_seen": "2026-07-13", "last_seen": "2026-07-14", "status": "normal", "example_titles": ["DeepSeek, V4 공식 출시 — MoE 아키텍처로 추론 비용 70% 절감 주장", "DeepSeek V4 프로덕션 정식 출시"]},
     "mistral-ocr4-enterprise-document": {"count": 1, "first_seen": "2026-07-13", "last_seen": "2026-07-13", "status": "normal", "example_titles": ["Mistral AI, 기업용 OCR 솔루션 OCR4 출시 — 문서 AI 시장 공략"]},
     "zml-multichip-inference-platform": {"count": 1, "first_seen": "2026-07-13", "last_seen": "2026-07-13", "status": "normal", "example_titles": ["ZML, 멀티칩 분산 추론 플랫폼 출시 — AMD·인텔 GPU에서 LLM 대규모 서빙"]},
-    "naver-ai-search-ad-monetization": {"count": 1, "first_seen": "2026-07-13", "last_seen": "2026-07-13", "status": "normal", "example_titles": ["네이버, AI 검색 광고 수익화 본격 시동 — 생성형 검색에 스폰서드 슬롯 도입"]},
-    "anthropic-j-lens-consciousness-framework": {"count": 1, "first_seen": "2026-07-13", "last_seen": "2026-07-13", "status": "normal", "example_titles": ["Anthropic, J-lens 프레임워크 공개 — AI 의식·정동 연구 방법론 표준화 시도"]},
+    "naver-ai-search-ad-monetization": {"count": 2, "first_seen": "2026-07-13", "last_seen": "2026-07-14", "status": "normal", "example_titles": ["네이버, AI 검색 광고 수익화 본격 시동 — 생성형 검색에 스폰서드 슬롯 도입", "네이버, AI 검색 브리핑에 스폰서드 광고 도입 — 7월 21일 수익화 개시"]},
+    "anthropic-j-lens-consciousness-framework": {"count": 2, "first_seen": "2026-07-13", "last_seen": "2026-07-14", "status": "normal", "example_titles": ["Anthropic, J-lens 프레임워크 공개 — AI 의식·정동 연구 방법론 표준화 시도", "Anthropic J-lens, Claude 내부에서 의식 글로벌 워크스페이스 유사 구조 발견"]},
     "openai-122b-funding-1t-valuation": {"count": 1, "first_seen": "2026-07-13", "last_seen": "2026-07-13", "status": "normal", "example_titles": ["OpenAI, 1,220억 달러 투자 유치 확정 — AI 인프라·AGI 개발 가속화"]},
     "together-ai-series-c-2026": {"count": 1, "first_seen": "2026-07-13", "last_seen": "2026-07-13", "status": "normal", "example_titles": ["Together AI, 시리즈 C 4.5억 달러 조달 — 오픈소스 LLM 클라우드 인프라 확장"]},
     "satya-nadella-ai-productivity-trap-warning": {"count": 1, "first_seen": "2026-07-13", "last_seen": "2026-07-13", "status": "normal", "example_titles": ["사티아 나델라 AI 생산성 함정 될 수 있다 — MS CEO의 AI 과잉 낙관 경고"]},
-    "korea-ai-startup-h1-2026-investment": {"count": 1, "first_seen": "2026-07-13", "last_seen": "2026-07-13", "status": "normal", "example_titles": ["국내 AI 스타트업, 상반기 투자 3조 2,000억 원 — 전년 동기 대비 140% 급증"]}
+    "korea-ai-startup-h1-2026-investment": {"count": 2, "first_seen": "2026-07-13", "last_seen": "2026-07-14", "status": "normal", "example_titles": ["국내 AI 스타트업, 상반기 투자 3조 2,000억 원 — 전년 동기 대비 140% 급증", "한국 AI 스타트업 상반기 투자 7.8조 원 — AI·로보틱스 485% 급증"]},
+    "china-waic-2026-xi-keynote": {"count": 1, "first_seen": "2026-07-14", "last_seen": "2026-07-14", "status": "normal", "example_titles": ["시진핑, WAIC 2026 기조연설 — 중국 AI 글로벌 거버넌스 리더십 본격화"]},
+    "tsmc-q2-2026-record-revenue": {"count": 1, "first_seen": "2026-07-14", "last_seen": "2026-07-14", "status": "normal", "example_titles": ["TSMC Q2 2026 분기 사상 최대 매출 — AI 칩 수요로 36% 증가"]},
+    "apple-openai-trade-secret-lawsuit": {"count": 1, "first_seen": "2026-07-14", "last_seen": "2026-07-14", "status": "normal", "example_titles": ["Apple, OpenAI 상대 영업비밀 침해 소송 — 머스크·알트먼 공개 설전으로 비화"]},
+    "korea-ai-legal-assistant-launch": {"count": 1, "first_seen": "2026-07-14", "last_seen": "2026-07-14", "status": "normal", "example_titles": ["공무원용 AI 법령 비서 7월 14일부터 전 공무원 시범 운영"]},
+    "korea-edu-ai-curriculum-2026": {"count": 1, "first_seen": "2026-07-14", "last_seen": "2026-07-14", "status": "normal", "example_titles": ["교육부, 2026년 대학 AI 기본교육 사업 출범"]}
   }
 }
