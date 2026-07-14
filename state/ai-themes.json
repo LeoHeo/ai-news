@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-07-14",
+  "updated": "2026-07-15",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -31,9 +31,9 @@
     "ai-startup-funding-wave-q3-2026": {"count": 1, "first_seen": "2026-07-10", "last_seen": "2026-07-10", "status": "normal", "example_titles": ["AI 스타트업 3분기 투자 러시 — 멀티에이전트·멀티모달 스타트업 중심 대형 라운드"]},
     "china-ai-regulation-strategy-2026": {"count": 1, "first_seen": "2026-07-10", "last_seen": "2026-07-10", "status": "normal", "example_titles": ["중국, AI 서비스 규제 강화 — 생성형 AI 출력물 워터마크 의무화"]},
     "korea-naver-kai-defense-ai-2026": {"count": 1, "first_seen": "2026-07-10", "last_seen": "2026-07-10", "status": "normal", "example_titles": ["네이버·KAI, 국방 AI 시스템 공동 개발 협력 — 항공·드론 자율화 기술"]},
-    "gemini-35-pro-delay": {"count": 5, "first_seen": "2026-07-06", "last_seen": "2026-07-14", "status": "demoted", "example_titles": ["구글 Gemini 3.5 Pro, 단계적 롤아웃 개시", "구글, Gemini 3.5 Pro 7월 17일 출시 확정 — 기존 아키텍처 전면 재설계", "구글, Gemini 3.5 Pro 출시 7월 17일로 또 연기 — 아키텍처 전면 재설계", "Google Gemini 3.5 Pro 7월 17일 출시 목표"]},
+    "gemini-35-pro-delay": {"count": 6, "first_seen": "2026-07-06", "last_seen": "2026-07-15", "status": "demoted", "example_titles": ["구글 Gemini 3.5 Pro, 단계적 롤아웃 개시", "구글, Gemini 3.5 Pro 7월 17일 출시 확정 — 기존 아키텍처 전면 재설계", "구글, Gemini 3.5 Pro 출시 7월 17일로 또 연기 — 아키텍처 전면 재설계", "Google Gemini 3.5 Pro 7월 17일 출시 목표", "Google Gemini 3.5 Pro, 이틀 앞으로 — 7월 17일 출시 목표 재확인"]},
     "ai-for-good-summit-2026": {"count": 3, "first_seen": "2026-07-06", "last_seen": "2026-07-11", "status": "demoted", "example_titles": ["AI for Good 글로벌 정상회의, 7월 7-10일 제네바 개막 — AI 거버넌스 대화와 동시 진행", "AI for Good 정상회의 2026 개막 — ITU·UN 주관 글로벌 AI 거버넌스 포럼", "UN 'AI for Good' 정상회의 폐막 — '파국적 위협' 경고 속 글로벌 거버넌스 로드맵 채택"]},
-    "agi-2027-timeline-forecast": {"count": 2, "first_seen": "2026-07-09", "last_seen": "2026-07-11", "status": "normal", "example_titles": ["2027 AGI 달성 예측 공개 — 24개월 내 인간 수준 AI, 그 직후 초지능 도달", "'2027 AGI 로드맵': 24개월 내 인간 수준 AI, 곧이어 초지능(ASI) 예측"]},
+    "agi-2027-timeline-forecast": {"count": 3, "first_seen": "2026-07-09", "last_seen": "2026-07-15", "status": "demoted", "example_titles": ["2027 AGI 달성 예측 공개 — 24개월 내 인간 수준 AI, 그 직후 초지능 도달", "'2027 AGI 로드맵': 24개월 내 인간 수준 AI, 곧이어 초지능(ASI) 예측", "AI 2027 팀, AGI 중앙값 예측 2027→2030으로 후퇴 — 일부 영역 진전 예상보다 느려"]},
     "ai-lab-ceo-joint-governance-declaration": {"count": 2, "first_seen": "2026-07-10", "last_seen": "2026-07-11", "status": "normal", "example_titles": ["OpenAI·Anthropic·DeepMind CEO, AI 위험 공동 대응 선언 — '인류 최대 위협' 경고", "Anthropic·OpenAI·Google DeepMind CEO, 미국 주도 글로벌 AI 표준 연합 촉구"]},
     "benchlm-llm-leaderboard-july-2026": {"count": 1, "first_seen": "2026-07-11", "last_seen": "2026-07-11", "status": "normal", "example_titles": ["2026년 7월 LLM 리더보드: Claude Fable 5, 281개 이상 모델 중 종합 1위"]},
     "openai-atlas-browser-shutdown": {"count": 1, "first_seen": "2026-07-11", "last_seen": "2026-07-11", "status": "normal", "example_titles": ["OpenAI, AI 브라우저 'Atlas' 종료 — 더 강력한 브라우저 전략으로 전환 예고"]},
@@ -68,6 +68,14 @@
     "tsmc-q2-2026-record-revenue": {"count": 1, "first_seen": "2026-07-14", "last_seen": "2026-07-14", "status": "normal", "example_titles": ["TSMC Q2 2026 분기 사상 최대 매출 — AI 칩 수요로 36% 증가"]},
     "apple-openai-trade-secret-lawsuit": {"count": 1, "first_seen": "2026-07-14", "last_seen": "2026-07-14", "status": "normal", "example_titles": ["Apple, OpenAI 상대 영업비밀 침해 소송 — 머스크·알트먼 공개 설전으로 비화"]},
     "korea-ai-legal-assistant-launch": {"count": 1, "first_seen": "2026-07-14", "last_seen": "2026-07-14", "status": "normal", "example_titles": ["공무원용 AI 법령 비서 7월 14일부터 전 공무원 시범 운영"]},
-    "korea-edu-ai-curriculum-2026": {"count": 1, "first_seen": "2026-07-14", "last_seen": "2026-07-14", "status": "normal", "example_titles": ["교육부, 2026년 대학 AI 기본교육 사업 출범"]}
+    "korea-edu-ai-curriculum-2026": {"count": 1, "first_seen": "2026-07-14", "last_seen": "2026-07-14", "status": "normal", "example_titles": ["교육부, 2026년 대학 AI 기본교육 사업 출범"]},
+    "china-ai-companion-law-enforcement": {"count": 1, "first_seen": "2026-07-15", "last_seen": "2026-07-15", "status": "normal", "example_titles": ["중국 'AI 동반자 규제' 7월 15일 발효 — 더우바오·Qwen 에이전트 오늘부로 서비스 종료"]},
+    "openai-chatgpt-work-launch": {"count": 1, "first_seen": "2026-07-15", "last_seen": "2026-07-15", "status": "normal", "example_titles": ["OpenAI, ChatGPT Work 출시 — 연결된 앱 전체를 가로질러 작업을 완성하는 AI 에이전트"]},
+    "ms-work-trend-index-2026": {"count": 1, "first_seen": "2026-07-15", "last_seen": "2026-07-15", "status": "normal", "example_titles": ["MS, 'AI 잘 쓰는 사람일수록 AI 의존도 낮아진다' — 2026 업무동향지표 한국 발표"]},
+    "ai-agent-governance-gap-2026": {"count": 1, "first_seen": "2026-07-15", "last_seen": "2026-07-15", "status": "normal", "example_titles": ["IT팀 85%, 모든 AI 에이전트를 관리하고 있다고 답했지만 — 누가 소유자인지 아는 팀은 42%뿐"]},
+    "pixverse-video-ai-series-c": {"count": 1, "first_seen": "2026-07-15", "last_seen": "2026-07-15", "status": "normal", "example_titles": ["영상 생성 AI 스타트업 PixVerse, $4.39억 시리즈 C 완료 — 밸류에이션 $20억 돌파"]},
+    "waic-2026-china-product-debuts": {"count": 1, "first_seen": "2026-07-15", "last_seen": "2026-07-15", "status": "normal", "example_titles": ["WAIC 2026 D-2 — 화웨이 Atlas 950·세계 최초 AI 에이전트폰·MiniMax M3 등 300건 이상 글로벌 데뷔 예고"]},
+    "vbtransform-2026-enterprise-ai": {"count": 1, "first_seen": "2026-07-15", "last_seen": "2026-07-15", "status": "normal", "example_titles": ["VB Transform 2026 폐막 — 에이전틱 AI 파일럿 시대는 끝났다, 규모화 운영으로"]},
+    "korea-ai-basic-act-enforcement-2026": {"count": 1, "first_seen": "2026-07-15", "last_seen": "2026-07-15", "status": "normal", "example_titles": ["과기부, AI기본법 시행령 개정안 입법예고 — 7월 21일 시행 앞두고 세부 기준 확정"]}
   }
 }
