@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-07-14",
+  "updated": "2026-07-15",
   "window_days": 7,
   "themes": [
     {
@@ -175,9 +175,9 @@
     },
     {
       "keyword": "fintech-funding-weekly-icymi",
-      "count": 23,
+      "count": 24,
       "first_seen": "2026-06-15",
-      "last_seen": "2026-07-14",
+      "last_seen": "2026-07-15",
       "articles": [
         "investment-fintech-funding-icymi-june15",
         "investment-icymi-june17",
@@ -201,14 +201,15 @@
         "investment-icymi",
         "investment-fintech-slow-week",
         "investment-weekly-funding-2026-07-12",
-        "investment-icymi-funding-2026-07-14"
+        "investment-icymi-funding-2026-07-14",
+        "investment-icymi-funding"
       ]
     },
     {
       "keyword": "genius-act-stablecoin-deadline",
-      "count": 13,
+      "count": 14,
       "first_seen": "2026-06-16",
-      "last_seen": "2026-07-13",
+      "last_seen": "2026-07-15",
       "articles": [
         "regulation-genius-act-june16",
         "regulation-genius-act-june17",
@@ -222,7 +223,8 @@
         "regulation-occ-genius-act",
         "regulation-genius-act-occ-npm",
         "regulation-occ-genius-act-2026-07-12",
-        "regulation-occ-genius-act-2026-07-13"
+        "regulation-occ-genius-act-2026-07-13",
+        "regulation-genius-act-july18"
       ]
     },
     {
@@ -278,20 +280,6 @@
       ]
     },
     {
-      "keyword": "ousd-stablecoin-coalition",
-      "count": 6,
-      "first_seen": "2026-07-01",
-      "last_seen": "2026-07-07",
-      "articles": [
-        "payments-ousd-stablecoin-2026-07-01",
-        "payments-ousd-stablecoin-2026-07-02",
-        "payments-ousd-2026-07-04",
-        "payments-ousd-coalition",
-        "payments-ousd-ecosystem-battle-2026-07-06",
-        "payments-ousd-consortium-2026-07-07"
-      ]
-    },
-    {
       "keyword": "qonto-secondary-sale",
       "count": 4,
       "first_seen": "2026-07-03",
@@ -318,14 +306,15 @@
     },
     {
       "keyword": "sumup-london-ipo-prep",
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-07-04",
-      "last_seen": "2026-07-10",
+      "last_seen": "2026-07-15",
       "articles": [
         "investment-sumup-ipo-2026-07-04",
         "investment-sumup-ipo",
         "investment-sumup-london-ipo-2026-07-06",
         "investment-2-2026-07-09",
+        "investment-sumup-ipo",
         "investment-sumup-ipo"
       ]
     },
@@ -360,49 +349,43 @@
     },
     {
       "keyword": "fintech-vc-forecast-2026",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-07-14",
+      "last_seen": "2026-07-15",
       "articles": [
         "investment-fintech-crunchbase",
-        "investment-vc-trends-2026-2026-07-14"
+        "investment-vc-trends-2026-2026-07-14",
+        "investment-vc-trends-2026"
       ]
     },
     {
       "keyword": "mica-casps-enforcement-deadline",
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-07-06",
-      "last_seen": "2026-07-13",
+      "last_seen": "2026-07-15",
       "articles": [
         "regulation-mica-enforcement-2026-07-06",
         "regulation-1-2026-07-09",
         "regulation-mica-enforcement",
         "regulation-mica-binance",
         "regulation-mica-casp-2026-07-12",
-        "regulation-mica-casp-2026-07-13"
+        "regulation-mica-casp-2026-07-13",
+        "regulation-mica-casp-enforcement"
       ]
     },
     {
       "keyword": "fca-bnpl-regulation-golive",
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-07-07",
-      "last_seen": "2026-07-13",
+      "last_seen": "2026-07-15",
       "articles": [
         "lending-fca-bnpl-regulation-2026-07-07",
         "regulation-2-2026-07-09",
         "lending-fca-bnpl",
         "regulation-fca-bnpl-golive",
         "lending-fca-bnpl-2026-07-12",
-        "regulation-fca-bnpl-golive-2026-07-13"
-      ]
-    },
-    {
-      "keyword": "regtech-aml-ai-investment",
-      "count": 1,
-      "first_seen": "2026-07-07",
-      "last_seen": "2026-07-07",
-      "articles": [
-        "investment-quantifind-growth-2026-07-07"
+        "regulation-fca-bnpl-golive-2026-07-13",
+        "lending-fca-bnpl-golive"
       ]
     },
     {
@@ -445,15 +428,16 @@
     },
     {
       "keyword": "korea-face-pay-competition",
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-07-09",
-      "last_seen": "2026-07-13",
+      "last_seen": "2026-07-15",
       "articles": [
         "payments-3-2026-07-09",
         "payments-korea-face-pay",
         "payments-korea-face-pay",
         "payments-korea-face-pay-2026-07-12",
-        "payments-korea-face-pay-2026-07-13"
+        "payments-korea-face-pay-2026-07-13",
+        "digital-banking-korea-facepay"
       ]
     },
     {
@@ -517,14 +501,15 @@
     },
     {
       "keyword": "cloud-corebanking-modernization",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-07-10",
-      "last_seen": "2026-07-13",
+      "last_seen": "2026-07-15",
       "articles": [
         "digital-banking-thought-machine",
         "digital-banking-thought-machine",
         "digital-banking-thought-machine-2026-07-12",
-        "digital-banking-thought-machine-2026-07-13"
+        "digital-banking-thought-machine-2026-07-13",
+        "digital-banking-corebanking-modernization"
       ]
     },
     {
@@ -599,29 +584,32 @@
     },
     {
       "keyword": "japan-banks-growth-potential-lending",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-13",
-      "last_seen": "2026-07-13",
+      "last_seen": "2026-07-15",
       "articles": [
-        "lending-japan-growth-2026-07-13"
+        "lending-japan-growth-2026-07-13",
+        "lending-japan-growth-loans"
       ]
     },
     {
       "keyword": "us-obbba-remittance-tax",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-14",
-      "last_seen": "2026-07-14",
+      "last_seen": "2026-07-15",
       "articles": [
-        "remittance-obbba-tax-crossborder-2026-07-14"
+        "remittance-obbba-tax-crossborder-2026-07-14",
+        "remittance-obbba-tax-analysis"
       ]
     },
     {
       "keyword": "digital-payments-ux-shift",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-14",
-      "last_seen": "2026-07-14",
+      "last_seen": "2026-07-15",
       "articles": [
-        "payments-ux-shift-2026-07-14"
+        "payments-ux-shift-2026-07-14",
+        "payments-digital-ux-human"
       ]
     },
     {
@@ -640,6 +628,33 @@
       "last_seen": "2026-07-14",
       "articles": [
         "digital-banking-us-reshape-2026-07-14"
+      ]
+    },
+    {
+      "keyword": "stablecoin-mainstream-july-shift",
+      "count": 1,
+      "first_seen": "2026-07-15",
+      "last_seen": "2026-07-15",
+      "articles": [
+        "payments-stablecoin-mainstream"
+      ]
+    },
+    {
+      "keyword": "photonpay-supply-chain-payments",
+      "count": 1,
+      "first_seen": "2026-07-15",
+      "last_seen": "2026-07-15",
+      "articles": [
+        "payments-photonpay-supply-chain"
+      ]
+    },
+    {
+      "keyword": "redotpay-stablecoin-payments-raise",
+      "count": 1,
+      "first_seen": "2026-07-15",
+      "last_seen": "2026-07-15",
+      "articles": [
+        "investment-redotpay-series-b"
       ]
     }
   ]
