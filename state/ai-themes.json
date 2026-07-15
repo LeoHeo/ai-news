@@ -1,18 +1,9 @@
 {
   "topic": "ai",
-  "updated": "2026-07-15",
+  "updated": "2026-07-16",
   "version": 1,
   "window_days": 7,
   "themes": {
-    "microsoft-mai-replaces-openai-apps": {"count": 1, "first_seen": "2026-07-08", "last_seen": "2026-07-08", "status": "normal", "example_titles": ["Microsoft, Excel·Outlook에서 OpenAI·Anthropic 대신 자체 MAI 모델 적용 시작"]},
-    "thinking-machines-realtime-ai-interaction": {"count": 1, "first_seen": "2026-07-08", "last_seen": "2026-07-08", "status": "normal", "example_titles": ["Thinking Machines, 200ms 멀티스트림 구조로 준실시간 AI 음성·영상 대화 기술 공개"]},
-    "harness-1-ai-search-agent": {"count": 1, "first_seen": "2026-07-08", "last_seen": "2026-07-08", "status": "normal", "example_titles": ["연구팀, GPT-5.4 능가하는 오픈소스 AI 검색 에이전트 Harness-1 공개"]},
-    "anthropic-terawulf-datacenter-deal": {"count": 1, "first_seen": "2026-07-08", "last_seen": "2026-07-08", "status": "normal", "example_titles": ["Anthropic, TeraWulf와 190억 달러 규모 켄터키 데이터센터 20년 임대 계약 체결"]},
-    "chinese-ai-models-cost-competition": {"count": 1, "first_seen": "2026-07-08", "last_seen": "2026-07-08", "status": "normal", "example_titles": ["중국 AI 모델, 미국 기업에 빠르게 파고들어 — OpenAI·Anthropic 비용 부담 급등이 전환점"]},
-    "norm-ai-law-startup-funding": {"count": 1, "first_seen": "2026-07-08", "last_seen": "2026-07-08", "status": "normal", "example_titles": ["AI 법률 스타트업 Norm, Khosla Ventures 주도 1억 2,000만 달러 조달로 유니콘 등극"]},
-    "samsung-q2-2026-earnings": {"count": 1, "first_seen": "2026-07-08", "last_seen": "2026-07-08", "status": "normal", "example_titles": ["삼성전자, 역대 최대 2분기 실적 발표에도 주가 6.92% 급락 — AI 메모리 쏠림 우려"]},
-    "illinois-ai-safety-act-2026": {"count": 1, "first_seen": "2026-07-08", "last_seen": "2026-07-08", "status": "normal", "example_titles": ["일리노이주 AI 안전 조치법, Pritzker 주지사 서명 — 미국에서 세 번째 주요 AI 주법"]},
-    "anthropic-id-verification-persona": {"count": 1, "first_seen": "2026-07-08", "last_seen": "2026-07-08", "status": "normal", "example_titles": ["Anthropic, 오늘부터 Fable 5 이용 및 일부 고급 기능에 정부 발행 ID 인증 의무화"]},
     "openai-gpt56-release-preview": {"count": 9, "first_seen": "2026-06-14", "last_seen": "2026-07-09", "status": "demoted", "example_titles": ["OpenAI, GPT-5.6 Sol·Terra·Luna 모델 제한 파트너사 프리뷰 공개", "GPT-5.6, 미 백악관 AI 프레임워크 연계로 광범위 출시 임박", "OpenAI, GPT-5.6 전 세계 공개 — Sol·Luna·Terra 3개 모델 동시 배포"]},
     "un-ai-governance-dialogue-2026": {"count": 4, "first_seen": "2026-07-05", "last_seen": "2026-07-09", "status": "demoted", "example_titles": ["유엔 AI 거버넌스 글로벌 대화 개막 — '재앙적 피해' 경고 속 193개국 집결", "UN AI 거버넌스 대화 2026 결론 도출 — 구속력 없는 공동 원칙 채택", "UN AI 거버넌스 대화, '재앙적 피해' 경고 속 193개국 공동 원칙 추진"]},
     "openai-gpt-live-fullduplex-voice": {"count": 1, "first_seen": "2026-07-09", "last_seen": "2026-07-09", "status": "normal", "example_titles": ["OpenAI, 전이중통신 음성 모델 GPT-Live 출시 — 동시 듣기·말하기 구현"]},
@@ -26,7 +17,7 @@
     "apple-intelligence-expansion-2026": {"count": 1, "first_seen": "2026-07-10", "last_seen": "2026-07-10", "status": "normal", "example_titles": ["애플 인텔리전스, 전 기기·언어로 확장 — AI 기능 글로벌 롤아웃 가속"]},
     "foundation-model-reasoning-benchmark-2026": {"count": 1, "first_seen": "2026-07-10", "last_seen": "2026-07-10", "status": "normal", "example_titles": ["최신 파운데이션 모델 추론 벤치마크 — GPT-5.6·Fable 5·Gemini 3 비교 분석"]},
     "ai-agent-safety-research-2026": {"count": 1, "first_seen": "2026-07-10", "last_seen": "2026-07-10", "status": "normal", "example_titles": ["AI 에이전트 안전성 연구 — 오류 전파·경계 준수 실패 패턴 분석"]},
-    "deepmind-talent-exodus-2026": {"count": 1, "first_seen": "2026-07-10", "last_seen": "2026-07-10", "status": "normal", "example_titles": ["구글 딥마인드, 핵심 연구진 대거 이탈 — 스타트업 창업·경쟁사 이직 러시"]},
+    "deepmind-talent-exodus-2026": {"count": 2, "first_seen": "2026-07-10", "last_seen": "2026-07-16", "status": "normal", "example_titles": ["구글 딥마인드, 핵심 연구진 대거 이탈 — 스타트업 창업·경쟁사 이직 러시", "Google DeepMind 연구원 이탈 가속 — 전직 VP·시니어 과학자 다수 스타트업·경쟁사로 이동"]},
     "ai-chip-market-growth-h2-2026": {"count": 1, "first_seen": "2026-07-10", "last_seen": "2026-07-10", "status": "normal", "example_titles": ["글로벌 AI 칩 시장, 2026 하반기 폭발적 성장 — 엔비디아 H200 수요 여전히 초과"]},
     "ai-startup-funding-wave-q3-2026": {"count": 1, "first_seen": "2026-07-10", "last_seen": "2026-07-10", "status": "normal", "example_titles": ["AI 스타트업 3분기 투자 러시 — 멀티에이전트·멀티모달 스타트업 중심 대형 라운드"]},
     "china-ai-regulation-strategy-2026": {"count": 1, "first_seen": "2026-07-10", "last_seen": "2026-07-10", "status": "normal", "example_titles": ["중국, AI 서비스 규제 강화 — 생성형 AI 출력물 워터마크 의무화"]},
@@ -76,6 +67,13 @@
     "pixverse-video-ai-series-c": {"count": 1, "first_seen": "2026-07-15", "last_seen": "2026-07-15", "status": "normal", "example_titles": ["영상 생성 AI 스타트업 PixVerse, $4.39억 시리즈 C 완료 — 밸류에이션 $20억 돌파"]},
     "waic-2026-china-product-debuts": {"count": 1, "first_seen": "2026-07-15", "last_seen": "2026-07-15", "status": "normal", "example_titles": ["WAIC 2026 D-2 — 화웨이 Atlas 950·세계 최초 AI 에이전트폰·MiniMax M3 등 300건 이상 글로벌 데뷔 예고"]},
     "vbtransform-2026-enterprise-ai": {"count": 1, "first_seen": "2026-07-15", "last_seen": "2026-07-15", "status": "normal", "example_titles": ["VB Transform 2026 폐막 — 에이전틱 AI 파일럿 시대는 끝났다, 규모화 운영으로"]},
-    "korea-ai-basic-act-enforcement-2026": {"count": 1, "first_seen": "2026-07-15", "last_seen": "2026-07-15", "status": "normal", "example_titles": ["과기부, AI기본법 시행령 개정안 입법예고 — 7월 21일 시행 앞두고 세부 기준 확정"]}
+    "korea-ai-basic-act-enforcement-2026": {"count": 1, "first_seen": "2026-07-15", "last_seen": "2026-07-15", "status": "normal", "example_titles": ["과기부, AI기본법 시행령 개정안 입법예고 — 7월 21일 시행 앞두고 세부 기준 확정"]},
+    "meta-muse-spark-crossmodal": {"count": 1, "first_seen": "2026-07-16", "last_seen": "2026-07-16", "status": "normal", "example_titles": ["Meta, 창작 특화 멀티모달 모델 'Muse Spark' 공개 — 이미지·음악·코드 동시 생성, Llama 아키텍처 기반"]},
+    "chinese-openweight-gpt5-parity": {"count": 1, "first_seen": "2026-07-16", "last_seen": "2026-07-16", "status": "normal", "example_titles": ["중국 오픈웨이트 모델, GPT-5 성능 격차 사실상 소멸 — Qwen 3.5·DeepSeek R3 MMLU 동급 달성"]},
+    "apple-siri-ios27-ondevice-llm": {"count": 1, "first_seen": "2026-07-16", "last_seen": "2026-07-16", "status": "normal", "example_titles": ["Apple, iOS 27 Siri 전면 재설계 공개 — 온디바이스 LLM으로 맥락 인식 대화 가능, 개인 데이터 서버 전송 없음"]},
+    "enterprise-autonomous-coding-agents": {"count": 1, "first_seen": "2026-07-16", "last_seen": "2026-07-16", "status": "normal", "example_titles": ["Zai, 자율 코딩 에이전트 'ZCode' 출시 — 스펙 문서만으로 PR 초안까지 자동 생성"]},
+    "clinical-ai-realworld-benchmark-gap": {"count": 1, "first_seen": "2026-07-16", "last_seen": "2026-07-16", "status": "normal", "example_titles": ["BRIDGE 임상 AI 벤치마크, Nature 게재 — GPT-5·Gemini 2 실제 임상 환경에서 전문의 대비 15~20% 낮은 정확도"]},
+    "chai-discovery-ai-drug-design": {"count": 1, "first_seen": "2026-07-16", "last_seen": "2026-07-16", "status": "normal", "example_titles": ["Chai Discovery, AI 단백질 설계 플랫폼 상업화 — 18개월 만에 신약 후보 3종 임상 1상 진입"]},
+    "stop-ai-moratorium-protest-2026": {"count": 1, "first_seen": "2026-07-16", "last_seen": "2026-07-16", "status": "normal", "example_titles": ["'Stop AI' 글로벌 시위, 14개국 동시 진행 — 개발 일시 중단 요구 서명 100만 돌파"]}
   }
 }
