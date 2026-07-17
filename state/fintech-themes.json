@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updated": "2026-07-16",
+  "updated": "2026-07-17",
   "window_days": 7,
   "themes": [
     {
       "keyword": "us-fintech-regulation",
-      "count": 46,
+      "count": 47,
       "first_seen": "2026-05-24",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-17",
       "articles": [
         "regulation-embedded-regs-june11",
         "embedded-finance-us-regs-june12",
@@ -40,7 +40,8 @@
         "regulation-embedded-finance-us-2026-07-12",
         "regulation-embedded-us-regs-2026-07-14",
         "regulation-us-fintech-july-2026",
-        "regulation-embedded-us-tighter-2026-07-16"
+        "regulation-embedded-us-tighter-2026-07-16",
+        "regulation-embedded-us-tighter-2026-07-17"
       ]
     },
     {
@@ -138,9 +139,9 @@
     },
     {
       "keyword": "embedded-payments",
-      "count": 21,
+      "count": 22,
       "first_seen": "2026-05-24",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-17",
       "articles": [
         "payments-embedded-90pct-june11",
         "embedded-payments-90pct-june12",
@@ -153,14 +154,15 @@
         "regulation-embedded-finance-us-2026-07-07",
         "payments-embedded-90pct-2026-07-14",
         "regulation-embedded-us-tighter-2026-07-16",
-        "payments-embedded-90pct-2026-07-16"
+        "payments-embedded-90pct-2026-07-16",
+        "payments-embedded-90pct-2026-07-17"
       ]
     },
     {
       "keyword": "fintech-funding-weekly-icymi",
-      "count": 25,
+      "count": 26,
       "first_seen": "2026-06-15",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-17",
       "articles": [
         "investment-fintech-funding-icymi-june15",
         "investment-icymi-june17",
@@ -186,7 +188,8 @@
         "investment-weekly-funding-2026-07-12",
         "investment-icymi-funding-2026-07-14",
         "investment-icymi-funding",
-        "investment-icymi-funding-2026-07-16"
+        "investment-icymi-funding-2026-07-16",
+        "investment-fintech-icymi-2026-07-17"
       ]
     },
     {
@@ -213,9 +216,9 @@
     },
     {
       "keyword": "mastercard-agent-pay-machines",
-      "count": 18,
+      "count": 19,
       "first_seen": "2026-06-23",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-17",
       "articles": [
         "payments-mastercard-agent-pay-2026-06-23",
         "payments-mastercard-agent-pay-machines-2026-06-26",
@@ -234,7 +237,8 @@
         "payments-mastercard-stablecoin-2026-07-12",
         "payments-mastercard-stablecoin-2026-07-13",
         "payments-mastercard-ap4m-stablecoin-2026-07-14",
-        "payments-mastercard-ap4m-2026-07-16"
+        "payments-mastercard-ap4m-2026-07-16",
+        "payments-mastercard-ap4m-2026-07-17"
       ]
     },
     {
@@ -293,14 +297,15 @@
     },
     {
       "keyword": "range-stablecoin-compliance-raise",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-07-04",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-17",
       "articles": [
         "investment-range-2026-07-04",
         "investment-range-raise",
         "investment-range-stablecoin-compliance-2026-07-06",
-        "regulation-3-2026-07-09"
+        "regulation-3-2026-07-09",
+        "investment-range-stablecoin-compliance-2026-07-17"
       ]
     },
     {
@@ -324,14 +329,15 @@
     },
     {
       "keyword": "fintech-vc-forecast-2026",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-17",
       "articles": [
         "investment-fintech-crunchbase",
         "investment-vc-trends-2026-2026-07-14",
         "investment-vc-trends-2026",
-        "investment-h1-2026-funding-surge"
+        "investment-h1-2026-funding-surge",
+        "investment-h1-2026-funding-surge-2026-07-17"
       ]
     },
     {
@@ -366,32 +372,15 @@
     },
     {
       "keyword": "china-fintech-patent-lead",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-07-08",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-17",
       "articles": [
         "regulation-china-fintech-patent-lead-2026-07-08",
         "digital-banking-2-2026-07-09",
         "digital-banking-china-patent",
-        "regulation-china-fintech-patent"
-      ]
-    },
-    {
-      "keyword": "osaka-payment-processor-bankruptcy",
-      "count": 1,
-      "first_seen": "2026-07-09",
-      "last_seen": "2026-07-09",
-      "articles": [
-        "payments-1-2026-07-09"
-      ]
-    },
-    {
-      "keyword": "embedded-payments-fintech-race",
-      "count": 1,
-      "first_seen": "2026-07-09",
-      "last_seen": "2026-07-09",
-      "articles": [
-        "payments-2-2026-07-09"
+        "regulation-china-fintech-patent",
+        "regulation-china-fintech-ecosystem-2026-07-17"
       ]
     },
     {
@@ -432,33 +421,6 @@
       ]
     },
     {
-      "keyword": "riverty-bank-launch",
-      "count": 1,
-      "first_seen": "2026-07-09",
-      "last_seen": "2026-07-09",
-      "articles": [
-        "digital-banking-1-2026-07-09"
-      ]
-    },
-    {
-      "keyword": "mexico-bnpl-lending-growth",
-      "count": 1,
-      "first_seen": "2026-07-09",
-      "last_seen": "2026-07-09",
-      "articles": [
-        "lending-1-2026-07-09"
-      ]
-    },
-    {
-      "keyword": "smb-fintech-cross-border-adoption",
-      "count": 1,
-      "first_seen": "2026-07-09",
-      "last_seen": "2026-07-09",
-      "articles": [
-        "remittance-1-2026-07-09"
-      ]
-    },
-    {
       "keyword": "korea-did-mobile-id",
       "count": 1,
       "first_seen": "2026-07-10",
@@ -494,13 +456,14 @@
     },
     {
       "keyword": "toss-financial-conglomerate-designation",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-13",
+      "last_seen": "2026-07-17",
       "articles": [
         "regulation-toss-conglomerate",
         "regulation-toss-conglomerate-2026-07-12",
-        "regulation-toss-conglomerate-2026-07-13"
+        "regulation-toss-conglomerate-2026-07-13",
+        "regulation-toss-kakao-conglomerate-2026-07-17"
       ]
     },
     {
@@ -563,23 +526,25 @@
     },
     {
       "keyword": "us-obbba-remittance-tax",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-07-14",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-17",
       "articles": [
         "remittance-obbba-tax-crossborder-2026-07-14",
         "remittance-obbba-tax-analysis",
-        "remittance-obbba-1pct-fee"
+        "remittance-obbba-1pct-fee",
+        "remittance-obbba-tax-analysis-2026-07-17"
       ]
     },
     {
       "keyword": "digital-payments-ux-shift",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-07-14",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-17",
       "articles": [
         "payments-ux-shift-2026-07-14",
-        "payments-digital-ux-human"
+        "payments-digital-ux-human",
+        "payments-digital-ux-human-2026-07-17"
       ]
     },
     {
@@ -628,6 +593,33 @@
       "articles": [
         "investment-redotpay-series-b",
         "investment-redotpay-series-b-2026-07-16"
+      ]
+    },
+    {
+      "keyword": "visa-stablecoin-platform-launch",
+      "count": 1,
+      "first_seen": "2026-07-17",
+      "last_seen": "2026-07-17",
+      "articles": [
+        "payments-visa-stablecoin-platform"
+      ]
+    },
+    {
+      "keyword": "doordash-tempo-stablecoin-payouts",
+      "count": 1,
+      "first_seen": "2026-07-17",
+      "last_seen": "2026-07-17",
+      "articles": [
+        "payments-doordash-tempo-stablecoin-payouts"
+      ]
+    },
+    {
+      "keyword": "infinite-erebor-stablecoin-banking",
+      "count": 1,
+      "first_seen": "2026-07-17",
+      "last_seen": "2026-07-17",
+      "articles": [
+        "digital-banking-infinite-erebor-stablecoin"
       ]
     }
   ]
