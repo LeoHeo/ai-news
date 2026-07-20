@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-07-19",
+  "updated": "2026-07-20",
   "window_days": 7,
   "themes": [
     {
@@ -81,9 +81,9 @@
     },
     {
       "keyword": "bnpl-debit-card-convergence",
-      "count": 33,
+      "count": 34,
       "first_seen": "2026-05-25",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "articles": [
         "lending-bnpl-debit-june11",
         "bnpl-debit-june12",
@@ -104,14 +104,15 @@
         "lending-bnpl-cards-wallets",
         "lending-bnpl-debit-convergence-2026-07-14",
         "bnpl-cards-wallets",
-        "lending-klarna-bnpl-economics-2026-07-19"
+        "lending-klarna-bnpl-economics-2026-07-19",
+        "lending-bnpl-regulation-july"
       ]
     },
     {
       "keyword": "embedded-payments",
-      "count": 24,
+      "count": 25,
       "first_seen": "2026-05-24",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "articles": [
         "payments-embedded-90pct-june11",
         "embedded-payments-90pct-june12",
@@ -127,14 +128,15 @@
         "payments-embedded-90pct-2026-07-16",
         "payments-embedded-90pct-2026-07-17",
         "embedded-payments-competition",
-        "regulation-embedded-finance-regs-2026-07-19"
+        "regulation-embedded-finance-regs-2026-07-19",
+        "payments-embedded-90pct"
       ]
     },
     {
       "keyword": "fintech-funding-weekly-icymi",
-      "count": 29,
+      "count": 30,
       "first_seen": "2026-06-15",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "articles": [
         "investment-fintech-funding-icymi-june15",
         "investment-icymi-june17",
@@ -164,7 +166,8 @@
         "investment-fintech-icymi-2026-07-17",
         "fintech-weekly-jul18",
         "h1-fintech-funding",
-        "investment-h1-fintech-funding-weekly"
+        "investment-h1-fintech-funding-weekly",
+        "investment-weekly-1pt9bn"
       ]
     },
     {
@@ -261,9 +264,9 @@
     },
     {
       "keyword": "sumup-london-ipo-prep",
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-07-04",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "articles": [
         "investment-sumup-ipo-2026-07-04",
         "investment-sumup-ipo",
@@ -271,7 +274,8 @@
         "investment-2-2026-07-09",
         "investment-sumup-ipo",
         "investment-sumup-ipo",
-        "digital-banking-sumup-consumer-2026-07-19"
+        "digital-banking-sumup-consumer-2026-07-19",
+        "investment-sumup-ipo"
       ]
     },
     {
@@ -311,16 +315,18 @@
     },
     {
       "keyword": "fintech-vc-forecast-2026",
-      "count": 6,
+      "count": 8,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "articles": [
         "investment-fintech-crunchbase",
         "investment-vc-trends-2026-2026-07-14",
         "investment-vc-trends-2026",
         "investment-h1-2026-funding-surge",
         "investment-h1-2026-funding-surge-2026-07-17",
-        "investment-h1-fintech-funding-2026-07-19"
+        "investment-h1-fintech-funding-2026-07-19",
+        "investment-fintech-h1-28bn",
+        "investment-vc-key-trends"
       ]
     },
     {
@@ -355,15 +361,16 @@
     },
     {
       "keyword": "china-fintech-patent-lead",
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-07-08",
-      "last_seen": "2026-07-17",
+      "last_seen": "2026-07-20",
       "articles": [
         "regulation-china-fintech-patent-lead-2026-07-08",
         "digital-banking-2-2026-07-09",
         "digital-banking-china-patent",
         "regulation-china-fintech-patent",
-        "regulation-china-fintech-ecosystem-2026-07-17"
+        "regulation-china-fintech-ecosystem-2026-07-17",
+        "digital-banking-china-ecosystem"
       ]
     },
     {
@@ -409,14 +416,15 @@
     },
     {
       "keyword": "klarna-p2p-digital-bank",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-07-10",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-20",
       "articles": [
         "lending-mexico-bnpl",
         "lending-klarna-p2p-2026-07-13",
         "digital-banking-klarna-p2p-neobank-2026-07-14",
-        "digital-banking-klarna-p2p-neobank-2026-07-16"
+        "digital-banking-klarna-p2p-neobank-2026-07-16",
+        "digital-banking-klarna-p2p"
       ]
     },
     {
@@ -440,15 +448,6 @@
         "digital-banking-klarna-us-bank",
         "digital-banking-klarna-us-bank-2026-07-12",
         "digital-banking-klarna-us-bank-2026-07-13"
-      ]
-    },
-    {
-      "keyword": "infinia-digital-asset-bridge",
-      "count": 1,
-      "first_seen": "2026-07-12",
-      "last_seen": "2026-07-12",
-      "articles": [
-        "investment-infinia-series-a"
       ]
     },
     {
@@ -483,27 +482,29 @@
     },
     {
       "keyword": "us-obbba-remittance-tax",
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-07-14",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "articles": [
         "remittance-obbba-tax-crossborder-2026-07-14",
         "remittance-obbba-tax-analysis",
         "remittance-obbba-1pct-fee",
         "remittance-obbba-tax-analysis-2026-07-17",
-        "remittance-obbba-1pct-fee-2026-07-19"
+        "remittance-obbba-1pct-fee-2026-07-19",
+        "remittance-obbba-1pct"
       ]
     },
     {
       "keyword": "digital-payments-ux-shift",
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-07-14",
-      "last_seen": "2026-07-18",
+      "last_seen": "2026-07-20",
       "articles": [
         "payments-ux-shift-2026-07-14",
         "payments-digital-ux-human",
         "payments-digital-ux-human-2026-07-17",
-        "digital-payments-human"
+        "digital-payments-human",
+        "payments-digital-feel-human"
       ]
     },
     {
@@ -518,12 +519,13 @@
     },
     {
       "keyword": "us-fintech-market-reshaping",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-07-14",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-20",
       "articles": [
         "digital-banking-us-reshape-2026-07-14",
-        "regulation-us-fintech-july-2026"
+        "regulation-us-fintech-july-2026",
+        "regulation-reshaping-american-finance"
       ]
     },
     {
@@ -597,21 +599,23 @@
     },
     {
       "keyword": "obbba-remittance-excise-tax",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-18",
-      "last_seen": "2026-07-18",
+      "last_seen": "2026-07-20",
       "articles": [
-        "obbba-remittance-fee"
+        "obbba-remittance-fee",
+        "remittance-obbba-excise-tax"
       ]
     },
     {
       "keyword": "asia-fintech-tokenization",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-07-18",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "articles": [
         "sea-fintech-tokenization",
-        "payments-sea-fintech-tokenization"
+        "payments-sea-fintech-tokenization",
+        "payments-se-asia-tokenization"
       ]
     },
     {
@@ -648,6 +652,24 @@
       "last_seen": "2026-07-19",
       "articles": [
         "digital-banking-singapore-fintech-lab"
+      ]
+    },
+    {
+      "keyword": "stripe-paypal-acquisition-offer",
+      "count": 1,
+      "first_seen": "2026-07-20",
+      "last_seen": "2026-07-20",
+      "articles": [
+        "investment-stripe-paypal"
+      ]
+    },
+    {
+      "keyword": "open-banking-regulation-us",
+      "count": 1,
+      "first_seen": "2026-07-20",
+      "last_seen": "2026-07-20",
+      "articles": [
+        "regulation-open-banking-states"
       ]
     }
   ]
