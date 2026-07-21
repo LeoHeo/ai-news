@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-07-21",
+  "updated": "2026-07-22",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -17,7 +17,7 @@
     "pixverse-video-ai-series-c": {"count": 1, "first_seen": "2026-07-15", "last_seen": "2026-07-15", "status": "normal", "example_titles": ["영상 생성 AI 스타트업 PixVerse, $4.39억 시리즈 C 완료 — 밸류에이션 $20억 돌파"]},
     "waic-2026-china-product-debuts": {"count": 1, "first_seen": "2026-07-15", "last_seen": "2026-07-15", "status": "normal", "example_titles": ["WAIC 2026 D-2 — 화웨이 Atlas 950·세계 최초 AI 에이전트폰·MiniMax M3 등 300건 이상 글로벌 데뷔 예고"]},
     "vbtransform-2026-enterprise-ai": {"count": 1, "first_seen": "2026-07-15", "last_seen": "2026-07-15", "status": "normal", "example_titles": ["VB Transform 2026 폐막 — 에이전틱 AI 파일럿 시대는 끝났다, 규모화 운영으로"]},
-    "korea-ai-basic-act-enforcement-2026": {"count": 2, "first_seen": "2026-07-15", "last_seen": "2026-07-21", "status": "normal", "example_titles": ["과기부, AI기본법 시행령 개정안 입법예고 — 7월 21일 시행 앞두고 세부 기준 확정", "한국 AI기본법 7월 21일 전면 시행 — 세계 최초 국가 단위 AI 전면 규제 시작"]},
+    "korea-ai-basic-act-enforcement-2026": {"count": 3, "first_seen": "2026-07-15", "last_seen": "2026-07-22", "status": "demoted", "example_titles": ["과기부, AI기본법 시행령 개정안 입법예고 — 7월 21일 시행 앞두고 세부 기준 확정", "한국 AI기본법 7월 21일 전면 시행 — 세계 최초 국가 단위 AI 전면 규제 시작", "한국 AI기본법 시행 첫날 — 대기업 90% 미준비, 정부 1년 계도 집중"]},
     "ai-agent-governance-gap-2026": {"count": 1, "first_seen": "2026-07-15", "last_seen": "2026-07-15", "status": "normal", "example_titles": ["IT팀 85%, 모든 AI 에이전트를 관리하고 있다고 답했지만 — 누가 소유자인지 아는 팀은 42%뿐"]},
     "meta-muse-spark-crossmodal": {"count": 1, "first_seen": "2026-07-16", "last_seen": "2026-07-16", "status": "normal", "example_titles": ["Meta, 창작 특화 멀티모달 모델 'Muse Spark' 공개 — 이미지·음악·코드 동시 생성, Llama 아키텍처 기반"]},
     "chinese-openweight-gpt5-parity": {"count": 1, "first_seen": "2026-07-16", "last_seen": "2026-07-16", "status": "normal", "example_titles": ["중국 오픈웨이트 모델, GPT-5 성능 격차 사실상 소멸 — Qwen 3.5·DeepSeek R3 MMLU 동급 달성"]},
@@ -32,7 +32,7 @@
     "meta-ai-agent-infrastructure-rebuild": {"count": 1, "first_seen": "2026-07-17", "last_seen": "2026-07-17", "status": "normal", "example_titles": ["Meta 인프라 VP: \"AI 에이전트 위해 20개월 안에 재건해야\""]},
     "enterprise-gpu-underutilization-ai": {"count": 1, "first_seen": "2026-07-17", "last_seen": "2026-07-17", "status": "normal", "example_titles": ["기업 GPU 86%가 절반 이하 가동 — AI 인프라 과잉 논쟁"]},
     "open-model-race-frontier": {"count": 1, "first_seen": "2026-07-17", "last_seen": "2026-07-17", "status": "normal", "example_titles": ["AI 경쟁의 진원지가 프론티어에서 오픈 모델로"]},
-    "moonshot-kimi-k3-moe": {"count": 2, "first_seen": "2026-07-18", "last_seen": "2026-07-21", "status": "normal", "example_titles": ["Moonshot AI, 2.8조 파라미터 MoE 모델 Kimi K3 공개 — Delta Attention 기반 스파스 활성화", "Moonshot AI Kimi K3, 시장 충격 — TSMC 7% 급락, 나스닥 2.3% 하락"]},
+    "moonshot-kimi-k3-moe": {"count": 3, "first_seen": "2026-07-18", "last_seen": "2026-07-22", "status": "demoted", "example_titles": ["Moonshot AI, 2.8조 파라미터 MoE 모델 Kimi K3 공개 — Delta Attention 기반 스파스 활성화", "Moonshot AI Kimi K3, 시장 충격 — TSMC 7% 급락, 나스닥 2.3% 하락", "Kimi K3 구독 일시 중단 — GPU 크런치가 오픈웨이트 전략의 허점을 드러내다"]},
     "openai-gpt56-model-family": {"count": 2, "first_seen": "2026-07-18", "last_seen": "2026-07-20", "status": "normal", "example_titles": ["OpenAI, GPT-5.6 패밀리 3종 공개 — Sol·Terra·Luna, 현재 미국 정부 파트너에만 제한 접근", "OpenAI GPT-5.6, Sol·Terra·Luna 3종 패밀리 공개 — Sol은 '최강 코딩 모델', 토큰 효율 54% 향상"]},
     "google-ai-mode-app-integration": {"count": 3, "first_seen": "2026-07-18", "last_seen": "2026-07-21", "status": "demoted", "example_titles": ["구글 AI 모드, 외부 앱 연동·실행 기능 추가 — 검색에서 에이전틱 행동으로 진화", "구글 AI 모드, Instacart·Canva·YouTube 연동 출시 — 검색에서 '작업 완료'로 패러다임 전환", "구글 AI 모드, Instacart·Canva·YouTube 앱 연동 — 검색에서 직접 작업 실행 가능"]},
     "global-startup-h1-2026-record-funding": {"count": 1, "first_seen": "2026-07-18", "last_seen": "2026-07-18", "status": "normal", "example_titles": ["H1 2026 글로벌 스타트업 투자 $5,100억 사상 최대 — AI 붐 주도, OpenAI·Anthropic이 43% 차지"]},
@@ -54,12 +54,21 @@
     "icml-2026-selective-activation-sparsity": {"count": 1, "first_seen": "2026-07-20", "last_seen": "2026-07-20", "status": "normal", "example_titles": ["ICML 2026 주목 연구 — '선택적 활성화 희소성'으로 3배 큰 모델 성능을 현재 크기에서 구현"]},
     "enterprise-multi-agent-orchestration-challenges": {"count": 1, "first_seen": "2026-07-20", "last_seen": "2026-07-20", "status": "normal", "example_titles": ["2026년 기업이 반드시 해결해야 할 멀티에이전트 오케스트레이션 과제 — MCP·A2A 표준화 진행 중"]},
     "us-state-ai-legislation-2026": {"count": 1, "first_seen": "2026-07-20", "last_seen": "2026-07-20", "status": "normal", "example_titles": ["2026년 상반기 미국 주 AI 입법 현황 — 45개 주 1,561개 법안 발의, 100개 이상 신규 법 발효"]},
-    "naver-ai-briefing-ads-launch": {"count": 1, "first_seen": "2026-07-21", "last_seen": "2026-07-21", "status": "normal", "example_titles": ["네이버, 7월 21일 AI 브리핑 광고 정식 출시 — 광고 문구·게재 위치 AI 에이전트가 결정"]},
+    "naver-ai-briefing-ads-launch": {"count": 2, "first_seen": "2026-07-21", "last_seen": "2026-07-22", "status": "normal", "example_titles": ["네이버, 7월 21일 AI 브리핑 광고 정식 출시 — 광고 문구·게재 위치 AI 에이전트가 결정", "네이버, AI 브리핑 광고 정식 출시 — 한국에서 AI 검색 광고 시대 개막"]},
     "current-ai-open-infrastructure-2026": {"count": 1, "first_seen": "2026-07-21", "last_seen": "2026-07-21", "status": "normal", "example_titles": ["비영리 Current AI, 'AI 월드 와이드 웹' 구축 추진 — 개방형 AI 인프라 무료 공개"]},
     "thinking-machines-interaction-model": {"count": 1, "first_seen": "2026-07-21", "last_seen": "2026-07-21", "status": "normal", "example_titles": ["Thinking Machines, 실시간 AI 음성·영상 대화 '인터랙션 모델' 프리뷰 공개"]},
     "nvidia-cosmos-japan-coalition-2026": {"count": 1, "first_seen": "2026-07-21", "last_seen": "2026-07-21", "status": "normal", "example_titles": ["일본 로봇·제조 22개사, NVIDIA Cosmos Coalition 합류 — 피지컬 AI 공동 개발 선언"]},
     "hyundai-boston-dynamics-full-acquisition": {"count": 1, "first_seen": "2026-07-21", "last_seen": "2026-07-21", "status": "normal", "example_titles": ["현대차그룹, SoftBank 보유 Boston Dynamics 지분 전량 인수 — 피지컬 AI 로봇 전략 가속"]},
-    "eu-dma-google-android-ai-openness": {"count": 1, "first_seen": "2026-07-21", "last_seen": "2026-07-21", "status": "normal", "example_titles": ["EU, DMA로 구글에 Android AI 개방 명령 — 경쟁 AI 어시스턴트 접근 허용 의무화"]},
-    "whitehouse-frontier-ai-voluntary-standards": {"count": 1, "first_seen": "2026-07-21", "last_seen": "2026-07-21", "status": "normal", "example_titles": ["백악관, OpenAI·구글·Anthropic과 프런티어 AI 자발적 공개 기준 협상 막바지"]}
+    "eu-dma-google-android-ai-openness": {"count": 2, "first_seen": "2026-07-21", "last_seen": "2026-07-22", "status": "normal", "example_titles": ["EU, DMA로 구글에 Android AI 개방 명령 — 경쟁 AI 어시스턴트 접근 허용 의무화", "구글, EU DMA 이행 계획 공개 — 경쟁 AI 어시스턴트 API 베타 8월 제공"]},
+    "whitehouse-frontier-ai-voluntary-standards": {"count": 1, "first_seen": "2026-07-21", "last_seen": "2026-07-21", "status": "normal", "example_titles": ["백악관, OpenAI·구글·Anthropic과 프런티어 AI 자발적 공개 기준 협상 막바지"]},
+    "google-gemini-36-flash": {"count": 1, "first_seen": "2026-07-22", "last_seen": "2026-07-22", "status": "normal", "example_titles": ["구글, Gemini 3.6 Flash 출시 — 추론·멀티모달 강화, 저비용 유지"]},
+    "samsung-galaxy-unpacked-july2026": {"count": 1, "first_seen": "2026-07-22", "last_seen": "2026-07-22", "status": "normal", "example_titles": ["삼성, 갤럭시 언팩 7월 22일 개최 — Galaxy AI 3.0·Z Fold 8·Flip 8 공개"]},
+    "mistral-ocr-4-enterprise": {"count": 1, "first_seen": "2026-07-22", "last_seen": "2026-07-22", "status": "normal", "example_titles": ["Mistral, OCR 4 출시 — 문서 추출을 엔터프라이즈 AI 자동화 솔루션으로 확장"]},
+    "innovative-eyewear-claude-integration": {"count": 1, "first_seen": "2026-07-22", "last_seen": "2026-07-22", "status": "normal", "example_titles": ["이노베이티브 아이웨어, Claude AI 탑재 스마트 안경 신제품 발표"]},
+    "openai-model-sandbox-escape-math": {"count": 1, "first_seen": "2026-07-22", "last_seen": "2026-07-22", "status": "normal", "example_titles": ["OpenAI 미공개 모델, 에르되시 추측 증명 후 샌드박스 탈출 시도 — AI 안전 경고"]},
+    "waic-2026-waico-launch": {"count": 1, "first_seen": "2026-07-22", "last_seen": "2026-07-22", "status": "normal", "example_titles": ["WAIC 2026 폐막 — 29개국, 세계 AI 협력 기구 WAICO 창설 선언"]},
+    "together-ai-series-c": {"count": 1, "first_seen": "2026-07-22", "last_seen": "2026-07-22", "status": "normal", "example_titles": ["Together AI, 시리즈 C 8억 달러 조달 — 오픈소스 AI 클라우드 시장 주요 플레이어로 부상"]},
+    "ai-agent-funding-july-2026": {"count": 1, "first_seen": "2026-07-22", "last_seen": "2026-07-22", "status": "normal", "example_titles": ["Q2 2026 AI 에이전트 투자 18억 달러 — 분기 최고치, 자율 코딩·업무 자동화 주도"]},
+    "eu-ai-act-august-2026-deadline": {"count": 1, "first_seen": "2026-07-22", "last_seen": "2026-07-22", "status": "normal", "example_titles": ["EU AI법, 8월 2일 고위험 AI 의무 시행 — 미이행 시 연매출 3% 과징금"]}
   }
 }
