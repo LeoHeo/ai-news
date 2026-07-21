@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updated": "2026-07-20",
+  "updated": "2026-07-21",
   "window_days": 7,
   "themes": [
     {
       "keyword": "us-fintech-regulation",
-      "count": 52,
+      "count": 53,
       "first_seen": "2026-05-24",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-21",
       "articles": [
         "regulation-embedded-regs-june11",
         "embedded-finance-us-regs-june12",
@@ -46,7 +46,8 @@
         "finextra-inflection",
         "payments-whitehouse-fintech-rails",
         "regulation-us-reshaping-finance",
-        "regulation-fed-account-access"
+        "regulation-fed-account-access",
+        "regulation-embedded-finance-brace-2026-07-21"
       ]
     },
     {
@@ -81,9 +82,9 @@
     },
     {
       "keyword": "bnpl-debit-card-convergence",
-      "count": 34,
+      "count": 35,
       "first_seen": "2026-05-25",
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-21",
       "articles": [
         "lending-bnpl-debit-june11",
         "bnpl-debit-june12",
@@ -105,7 +106,8 @@
         "lending-bnpl-debit-convergence-2026-07-14",
         "bnpl-cards-wallets",
         "lending-klarna-bnpl-economics-2026-07-19",
-        "lending-bnpl-regulation-july"
+        "lending-bnpl-regulation-july",
+        "lending-bnpl-debit-2026-07-21"
       ]
     },
     {
@@ -264,9 +266,9 @@
     },
     {
       "keyword": "sumup-london-ipo-prep",
-      "count": 8,
+      "count": 9,
       "first_seen": "2026-07-04",
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-21",
       "articles": [
         "investment-sumup-ipo-2026-07-04",
         "investment-sumup-ipo",
@@ -275,7 +277,8 @@
         "investment-sumup-ipo",
         "investment-sumup-ipo",
         "digital-banking-sumup-consumer-2026-07-19",
-        "investment-sumup-ipo"
+        "investment-sumup-ipo",
+        "digital-banking-sumup-consumer-2026-07-21"
       ]
     },
     {
@@ -315,9 +318,9 @@
     },
     {
       "keyword": "fintech-vc-forecast-2026",
-      "count": 8,
+      "count": 9,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-21",
       "articles": [
         "investment-fintech-crunchbase",
         "investment-vc-trends-2026-2026-07-14",
@@ -326,7 +329,8 @@
         "investment-h1-2026-funding-surge-2026-07-17",
         "investment-h1-fintech-funding-2026-07-19",
         "investment-fintech-h1-28bn",
-        "investment-vc-key-trends"
+        "investment-vc-key-trends",
+        "investment-fintech-h1-286bn"
       ]
     },
     {
@@ -416,15 +420,16 @@
     },
     {
       "keyword": "klarna-p2p-digital-bank",
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-07-10",
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-21",
       "articles": [
         "lending-mexico-bnpl",
         "lending-klarna-p2p-2026-07-13",
         "digital-banking-klarna-p2p-neobank-2026-07-14",
         "digital-banking-klarna-p2p-neobank-2026-07-16",
-        "digital-banking-klarna-p2p"
+        "digital-banking-klarna-p2p",
+        "digital-banking-klarna-p2p-2026-07-21"
       ]
     },
     {
@@ -482,29 +487,31 @@
     },
     {
       "keyword": "us-obbba-remittance-tax",
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-07-14",
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-21",
       "articles": [
         "remittance-obbba-tax-crossborder-2026-07-14",
         "remittance-obbba-tax-analysis",
         "remittance-obbba-1pct-fee",
         "remittance-obbba-tax-analysis-2026-07-17",
         "remittance-obbba-1pct-fee-2026-07-19",
-        "remittance-obbba-1pct"
+        "remittance-obbba-1pct",
+        "remittance-obbba-tax-2026-07-21"
       ]
     },
     {
       "keyword": "digital-payments-ux-shift",
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-07-14",
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-21",
       "articles": [
         "payments-ux-shift-2026-07-14",
         "payments-digital-ux-human",
         "payments-digital-ux-human-2026-07-17",
         "digital-payments-human",
-        "payments-digital-feel-human"
+        "payments-digital-feel-human",
+        "payments-digital-feel-human-2026-07-21"
       ]
     },
     {
@@ -559,12 +566,13 @@
     },
     {
       "keyword": "visa-stablecoin-platform-launch",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-07-17",
-      "last_seen": "2026-07-18",
+      "last_seen": "2026-07-21",
       "articles": [
         "payments-visa-stablecoin-platform",
-        "visa-stablecoin-platform"
+        "visa-stablecoin-platform",
+        "payments-visa-stablecoin-2026-07-21"
       ]
     },
     {
@@ -609,13 +617,14 @@
     },
     {
       "keyword": "asia-fintech-tokenization",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-07-18",
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-21",
       "articles": [
         "sea-fintech-tokenization",
         "payments-sea-fintech-tokenization",
-        "payments-se-asia-tokenization"
+        "payments-se-asia-tokenization",
+        "payments-sea-tokenization-2026-07-21"
       ]
     },
     {
@@ -656,11 +665,12 @@
     },
     {
       "keyword": "stripe-paypal-acquisition-offer",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-20",
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-21",
       "articles": [
-        "investment-stripe-paypal"
+        "investment-stripe-paypal",
+        "investment-stripe-paypal-53bn"
       ]
     },
     {
@@ -671,6 +681,34 @@
       "articles": [
         "regulation-open-banking-states"
       ]
+    },
+    {
+      "keyword": "clearinghouse-tokenized-deposit-network",
+      "count": 1,
+      "first_seen": "2026-07-21",
+      "last_seen": "2026-07-21",
+      "articles": ["payments-tch-tokenized-deposit-network-2026-07-21"]
+    },
+    {
+      "keyword": "axos-arc-technologies-acquisition",
+      "count": 1,
+      "first_seen": "2026-07-21",
+      "last_seen": "2026-07-21",
+      "articles": ["investment-axos-arc-acquisition-2026-07-21"]
+    },
+    {
+      "keyword": "natural-agentic-payments-raise",
+      "count": 1,
+      "first_seen": "2026-07-21",
+      "last_seen": "2026-07-21",
+      "articles": ["investment-natural-30m-series-a-2026-07-21"]
+    },
+    {
+      "keyword": "b2b-payments-governance-realtime",
+      "count": 1,
+      "first_seen": "2026-07-21",
+      "last_seen": "2026-07-21",
+      "articles": ["payments-b2b-governance-realtime-2026-07-21"]
     }
   ]
 }
