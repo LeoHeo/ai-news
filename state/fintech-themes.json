@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-07-22",
+  "updated": "2026-07-23",
   "window_days": 7,
   "themes": [
     {
@@ -227,20 +227,6 @@
       ]
     },
     {
-      "keyword": "9fin-europe-unicorn-raise",
-      "count": 6,
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-14",
-      "articles": [
-        "investment-9fin-unicorn-2026-06-30",
-        "investment-9fin-unicorn-2026-07-01",
-        "investment-9fin-unicorn-2026-07-07",
-        "investment-9fin-unicorn-2026-07-08",
-        "investment-9fin-unicorn",
-        "investment-9fin-unicorn-2026-07-14"
-      ]
-    },
-    {
       "keyword": "qonto-secondary-sale",
       "count": 5,
       "first_seen": "2026-07-03",
@@ -323,9 +309,9 @@
     },
     {
       "keyword": "fintech-vc-forecast-2026",
-      "count": 10,
+      "count": 11,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-07-22",
+      "last_seen": "2026-07-23",
       "articles": [
         "investment-fintech-crunchbase",
         "investment-vc-trends-2026-2026-07-14",
@@ -336,37 +322,8 @@
         "investment-fintech-h1-28bn",
         "investment-vc-key-trends",
         "investment-fintech-h1-286bn",
-        "investment-h1-2026-fintech-funding-surge"
-      ]
-    },
-    {
-      "keyword": "mica-casps-enforcement-deadline",
-      "count": 7,
-      "first_seen": "2026-07-06",
-      "last_seen": "2026-07-15",
-      "articles": [
-        "regulation-mica-enforcement-2026-07-06",
-        "regulation-1-2026-07-09",
-        "regulation-mica-enforcement",
-        "regulation-mica-binance",
-        "regulation-mica-casp-2026-07-12",
-        "regulation-mica-casp-2026-07-13",
-        "regulation-mica-casp-enforcement"
-      ]
-    },
-    {
-      "keyword": "fca-bnpl-regulation-golive",
-      "count": 7,
-      "first_seen": "2026-07-07",
-      "last_seen": "2026-07-15",
-      "articles": [
-        "lending-fca-bnpl-regulation-2026-07-07",
-        "regulation-2-2026-07-09",
-        "lending-fca-bnpl",
-        "regulation-fca-bnpl-golive",
-        "lending-fca-bnpl-2026-07-12",
-        "regulation-fca-bnpl-golive-2026-07-13",
-        "lending-fca-bnpl-golive"
+        "investment-h1-2026-fintech-funding-surge",
+        "investment-h1-2026-funding-surge-2026-07-23"
       ]
     },
     {
@@ -385,9 +342,9 @@
     },
     {
       "keyword": "korea-face-pay-competition",
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-07-09",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-23",
       "articles": [
         "payments-3-2026-07-09",
         "payments-korea-face-pay",
@@ -395,33 +352,8 @@
         "payments-korea-face-pay-2026-07-12",
         "payments-korea-face-pay-2026-07-13",
         "digital-banking-korea-facepay",
-        "payments-korea-face-pay-2026-07-19"
-      ]
-    },
-    {
-      "keyword": "worth-fintech-series-a",
-      "count": 5,
-      "first_seen": "2026-07-09",
-      "last_seen": "2026-07-14",
-      "articles": [
-        "investment-3-2026-07-09",
-        "investment-worth-series-a",
-        "investment-worth-series-a-2026-07-12",
-        "investment-worth-series-a-2026-07-13",
-        "investment-worth-series-a-2026-07-14"
-      ]
-    },
-    {
-      "keyword": "cloud-corebanking-modernization",
-      "count": 5,
-      "first_seen": "2026-07-10",
-      "last_seen": "2026-07-15",
-      "articles": [
-        "digital-banking-thought-machine",
-        "digital-banking-thought-machine",
-        "digital-banking-thought-machine-2026-07-12",
-        "digital-banking-thought-machine-2026-07-13",
-        "digital-banking-corebanking-modernization"
+        "payments-korea-face-pay-2026-07-19",
+        "payments-toss-facepay-kr-2026-07-23"
       ]
     },
     {
@@ -453,17 +385,6 @@
       ]
     },
     {
-      "keyword": "klarna-us-bank-charter",
-      "count": 3,
-      "first_seen": "2026-07-11",
-      "last_seen": "2026-07-13",
-      "articles": [
-        "digital-banking-klarna-us-bank",
-        "digital-banking-klarna-us-bank-2026-07-12",
-        "digital-banking-klarna-us-bank-2026-07-13"
-      ]
-    },
-    {
       "keyword": "korea-id-verification-fintech-pact",
       "count": 3,
       "first_seen": "2026-07-13",
@@ -475,29 +396,10 @@
       ]
     },
     {
-      "keyword": "circle-nomura-japan-fx-settlement",
-      "count": 1,
-      "first_seen": "2026-07-13",
-      "last_seen": "2026-07-13",
-      "articles": [
-        "remittance-circle-nomura-2026-07-13"
-      ]
-    },
-    {
-      "keyword": "japan-banks-growth-potential-lending",
-      "count": 2,
-      "first_seen": "2026-07-13",
-      "last_seen": "2026-07-15",
-      "articles": [
-        "lending-japan-growth-2026-07-13",
-        "lending-japan-growth-loans"
-      ]
-    },
-    {
       "keyword": "us-obbba-remittance-tax",
-      "count": 8,
+      "count": 9,
       "first_seen": "2026-07-14",
-      "last_seen": "2026-07-22",
+      "last_seen": "2026-07-23",
       "articles": [
         "remittance-obbba-tax-crossborder-2026-07-14",
         "remittance-obbba-tax-analysis",
@@ -506,14 +408,15 @@
         "remittance-obbba-1pct-fee-2026-07-19",
         "remittance-obbba-1pct",
         "remittance-obbba-tax-2026-07-21",
-        "remittance-obbba-1pct-fee-analysis"
+        "remittance-obbba-1pct-fee-analysis",
+        "remittance-obbba-excise-relief-2026-07-23"
       ]
     },
     {
       "keyword": "digital-payments-ux-shift",
-      "count": 8,
+      "count": 9,
       "first_seen": "2026-07-14",
-      "last_seen": "2026-07-22",
+      "last_seen": "2026-07-23",
       "articles": [
         "payments-ux-shift-2026-07-14",
         "payments-digital-ux-human",
@@ -521,7 +424,8 @@
         "digital-payments-human",
         "payments-digital-feel-human",
         "payments-digital-feel-human-2026-07-21",
-        "payments-digital-payments-feel-human"
+        "payments-digital-payments-feel-human",
+        "payments-digital-feel-human-2026-07-23"
       ]
     },
     {
@@ -546,24 +450,6 @@
       ]
     },
     {
-      "keyword": "stablecoin-mainstream-july-shift",
-      "count": 1,
-      "first_seen": "2026-07-15",
-      "last_seen": "2026-07-15",
-      "articles": [
-        "payments-stablecoin-mainstream"
-      ]
-    },
-    {
-      "keyword": "photonpay-supply-chain-payments",
-      "count": 1,
-      "first_seen": "2026-07-15",
-      "last_seen": "2026-07-15",
-      "articles": [
-        "payments-photonpay-supply-chain"
-      ]
-    },
-    {
       "keyword": "redotpay-stablecoin-payments-raise",
       "count": 3,
       "first_seen": "2026-07-15",
@@ -576,13 +462,14 @@
     },
     {
       "keyword": "visa-stablecoin-platform-launch",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-07-17",
-      "last_seen": "2026-07-21",
+      "last_seen": "2026-07-23",
       "articles": [
         "payments-visa-stablecoin-platform",
         "visa-stablecoin-platform",
-        "payments-visa-stablecoin-2026-07-21"
+        "payments-visa-stablecoin-2026-07-21",
+        "payments-visa-stablecoin-kr-2026-07-23"
       ]
     },
     {
@@ -676,12 +563,13 @@
     },
     {
       "keyword": "stripe-paypal-acquisition-offer",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-07-20",
-      "last_seen": "2026-07-21",
+      "last_seen": "2026-07-23",
       "articles": [
         "investment-stripe-paypal",
-        "investment-stripe-paypal-53bn"
+        "investment-stripe-paypal-53bn",
+        "investment-stripe-paypal-53bn-update-2026-07-23"
       ]
     },
     {
@@ -734,6 +622,55 @@
       "first_seen": "2026-07-22",
       "last_seen": "2026-07-22",
       "articles": ["payments-stablecoin-tokenized-yield-rwa"]
+    },
+    {
+      "keyword": "ramp-stablecoin-b2b-payments",
+      "count": 1,
+      "first_seen": "2026-07-23",
+      "last_seen": "2026-07-23",
+      "articles": ["payments-ramp-stablecoin-b2b"]
+    },
+    {
+      "keyword": "confirmo-stablecoin-subscribe",
+      "count": 1,
+      "first_seen": "2026-07-23",
+      "last_seen": "2026-07-23",
+      "articles": ["payments-confirmo-subscribe"]
+    },
+    {
+      "keyword": "hopae-brazil-digital-id",
+      "count": 1,
+      "first_seen": "2026-07-23",
+      "last_seen": "2026-07-23",
+      "articles": ["payments-hopae-brazil"]
+    },
+    {
+      "keyword": "revolut-australia-banking-license",
+      "count": 1,
+      "first_seen": "2026-07-23",
+      "last_seen": "2026-07-23",
+      "articles": ["digital-banking-revolut-australia"]
+    },
+    {
+      "keyword": "augustus-stablecoin-clearing-bank",
+      "count": 1,
+      "first_seen": "2026-07-23",
+      "last_seen": "2026-07-23",
+      "articles": ["digital-banking-augustus-stablecoin"]
+    },
+    {
+      "keyword": "moonpay-glide-sixth-deal",
+      "count": 1,
+      "first_seen": "2026-07-23",
+      "last_seen": "2026-07-23",
+      "articles": ["investment-moonpay-glide"]
+    },
+    {
+      "keyword": "regtech-ai-investment-trend",
+      "count": 1,
+      "first_seen": "2026-07-23",
+      "last_seen": "2026-07-23",
+      "articles": ["regulation-regtech-ai-trend"]
     }
   ]
 }
