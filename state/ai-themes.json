@@ -1,17 +1,18 @@
 {
   "topic": "ai",
-  "updated": "2026-07-23",
+  "updated": "2026-07-24",
   "version": 1,
   "window_days": 7,
   "themes": {
     "deepmind-talent-exodus-2026": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-07-10",
-      "last_seen": "2026-07-16",
-      "status": "normal",
+      "last_seen": "2026-07-24",
+      "status": "demoted",
       "example_titles": [
         "구글 딥마인드, 핵심 연구진 대거 이탈 — 스타트업 창업·경쟁사 이직 러시",
-        "Google DeepMind 연구원 이탈 가속 — 전직 VP·시니어 과학자 다수 스타트업·경쟁사로 이동"
+        "Google DeepMind 연구원 이탈 가속 — 전직 VP·시니어 과학자 다수 스타트업·경쟁사로 이동",
+        "딥마인드 출신들, 속속 OpenAI·Anthropic으로 — 노암 샤지어 OpenAI 합류, 존 점퍼 Anthropic 이동 확인"
       ]
     },
     "ai-startup-funding-wave-q3-2026": {
@@ -118,123 +119,6 @@
         "한국 AI기본법 시행 첫날 — 대기업 90% 미준비, 정부 1년 계도 집중"
       ]
     },
-    "meta-muse-spark-crossmodal": {
-      "count": 1,
-      "first_seen": "2026-07-16",
-      "last_seen": "2026-07-16",
-      "status": "normal",
-      "example_titles": [
-        "Meta, 창작 특화 멀티모달 모델 'Muse Spark' 공개 — 이미지·음악·코드 동시 생성, Llama 아키텍처 기반"
-      ]
-    },
-    "chinese-openweight-gpt5-parity": {
-      "count": 1,
-      "first_seen": "2026-07-16",
-      "last_seen": "2026-07-16",
-      "status": "normal",
-      "example_titles": [
-        "중국 오픈웨이트 모델, GPT-5 성능 격차 사실상 소멸 — Qwen 3.5·DeepSeek R3 MMLU 동급 달성"
-      ]
-    },
-    "apple-siri-ios27-ondevice-llm": {
-      "count": 1,
-      "first_seen": "2026-07-16",
-      "last_seen": "2026-07-16",
-      "status": "normal",
-      "example_titles": [
-        "Apple, iOS 27 Siri 전면 재설계 공개 — 온디바이스 LLM으로 맥락 인식 대화 가능, 개인 데이터 서버 전송 없음"
-      ]
-    },
-    "enterprise-autonomous-coding-agents": {
-      "count": 1,
-      "first_seen": "2026-07-16",
-      "last_seen": "2026-07-16",
-      "status": "normal",
-      "example_titles": [
-        "Zai, 자율 코딩 에이전트 'ZCode' 출시 — 스펙 문서만으로 PR 초안까지 자동 생성"
-      ]
-    },
-    "clinical-ai-realworld-benchmark-gap": {
-      "count": 1,
-      "first_seen": "2026-07-16",
-      "last_seen": "2026-07-16",
-      "status": "normal",
-      "example_titles": [
-        "BRIDGE 임상 AI 벤치마크, Nature 게재 — GPT-5·Gemini 2 실제 임상 환경에서 전문의 대비 15~20% 낮은 정확도"
-      ]
-    },
-    "chai-discovery-ai-drug-design": {
-      "count": 1,
-      "first_seen": "2026-07-16",
-      "last_seen": "2026-07-16",
-      "status": "normal",
-      "example_titles": [
-        "Chai Discovery, AI 단백질 설계 플랫폼 상업화 — 18개월 만에 신약 후보 3종 임상 1상 진입"
-      ]
-    },
-    "stop-ai-moratorium-protest-2026": {
-      "count": 1,
-      "first_seen": "2026-07-16",
-      "last_seen": "2026-07-16",
-      "status": "normal",
-      "example_titles": [
-        "'Stop AI' 글로벌 시위, 14개국 동시 진행 — 개발 일시 중단 요구 서명 100만 돌파"
-      ]
-    },
-    "thinking-machines-inkling-launch": {
-      "count": 1,
-      "first_seen": "2026-07-17",
-      "last_seen": "2026-07-17",
-      "status": "normal",
-      "example_titles": [
-        "Thinking Machines, 맞춤형 AI 오픈 모델 'Inkling' 최초 공개"
-      ]
-    },
-    "openai-codex-keyboard-hardware": {
-      "count": 1,
-      "first_seen": "2026-07-17",
-      "last_seen": "2026-07-17",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, Codex 전용 물리 키보드 $230 출시"
-      ]
-    },
-    "canva-code-2-ai-website-builder": {
-      "count": 1,
-      "first_seen": "2026-07-17",
-      "last_seen": "2026-07-17",
-      "status": "normal",
-      "example_titles": [
-        "Canva, Code 2.0 출시 — AI 웹사이트 빌더 전 사용자 공개"
-      ]
-    },
-    "meta-ai-agent-infrastructure-rebuild": {
-      "count": 1,
-      "first_seen": "2026-07-17",
-      "last_seen": "2026-07-17",
-      "status": "normal",
-      "example_titles": [
-        "Meta 인프라 VP: \"AI 에이전트 위해 20개월 안에 재건해야\""
-      ]
-    },
-    "enterprise-gpu-underutilization-ai": {
-      "count": 1,
-      "first_seen": "2026-07-17",
-      "last_seen": "2026-07-17",
-      "status": "normal",
-      "example_titles": [
-        "기업 GPU 86%가 절반 이하 가동 — AI 인프라 과잉 논쟁"
-      ]
-    },
-    "open-model-race-frontier": {
-      "count": 1,
-      "first_seen": "2026-07-17",
-      "last_seen": "2026-07-17",
-      "status": "normal",
-      "example_titles": [
-        "AI 경쟁의 진원지가 프론티어에서 오픈 모델로"
-      ]
-    },
     "moonshot-kimi-k3-moe": {
       "count": 3,
       "first_seen": "2026-07-18",
@@ -267,33 +151,6 @@
         "구글 AI 모드, Instacart·Canva·YouTube 앱 연동 — 검색에서 직접 작업 실행 가능"
       ]
     },
-    "global-startup-h1-2026-record-funding": {
-      "count": 1,
-      "first_seen": "2026-07-18",
-      "last_seen": "2026-07-18",
-      "status": "normal",
-      "example_titles": [
-        "H1 2026 글로벌 스타트업 투자 $5,100억 사상 최대 — AI 붐 주도, OpenAI·Anthropic이 43% 차지"
-      ]
-    },
-    "enterprise-ai-agent-reliability-gap": {
-      "count": 1,
-      "first_seen": "2026-07-18",
-      "last_seen": "2026-07-18",
-      "status": "normal",
-      "example_titles": [
-        "Amazon AGI 디렉터: 에이전트 능력이 아닌 '신뢰성'이 기업 AI 배포의 실질 장벽"
-      ]
-    },
-    "korea-free-domestic-genai-plan": {
-      "count": 1,
-      "first_seen": "2026-07-18",
-      "last_seen": "2026-07-18",
-      "status": "normal",
-      "example_titles": [
-        "한국 정부, 연말 국산 생성형 AI 무료 보급 계획 발표 — 챗GPT·Claude 유료 구독 대체"
-      ]
-    },
     "tsmc-q2-2026-record-revenue": {
       "count": 2,
       "first_seen": "2026-07-14",
@@ -304,15 +161,6 @@
         "TSMC Q2 2026 어닝스콜: AI 수요 지속으로 연간 전망 상향 — 2나노 첫 상업 매출, 순이익 77% 급증"
       ]
     },
-    "microsoft-project-perception-security": {
-      "count": 1,
-      "first_seen": "2026-07-19",
-      "last_seen": "2026-07-19",
-      "status": "normal",
-      "example_titles": [
-        "마이크로소프트, AI 취약점 탐지 플랫폼 'Project Perception' 7월 출시 예정 — Anthropic Mythos 대비 80% 저렴"
-      ]
-    },
     "enterprise-ai-agent-deployment-chaos": {
       "count": 2,
       "first_seen": "2026-07-19",
@@ -321,33 +169,6 @@
       "example_titles": [
         "Claude·OpenClaw 실사례 분석 — AI 에이전트 배포 현실: 잠재력과 운영 혼란이 공존",
         "AI 에이전트 배포 현실 보고서 — 잠재력과 운영 혼란이 공존, 107개 기업 분석"
-      ]
-    },
-    "vertu-ai-agent-premium-phone": {
-      "count": 1,
-      "first_seen": "2026-07-19",
-      "last_seen": "2026-07-19",
-      "status": "normal",
-      "example_titles": [
-        "Vertu, 임원용 AI 에이전트 폰 'Alphafold' $6,880 출시 — TechCrunch 실제 성능 검증"
-      ]
-    },
-    "naver-kakao-ai-agent-monetization": {
-      "count": 1,
-      "first_seen": "2026-07-19",
-      "last_seen": "2026-07-19",
-      "status": "normal",
-      "example_titles": [
-        "네이버·카카오, AI 에이전트로 하반기 수익화 대전 — 'AI 쇼핑 에이전트' vs 'AI 카카오톡'"
-      ]
-    },
-    "ai-vc-investment-return-2026": {
-      "count": 1,
-      "first_seen": "2026-07-19",
-      "last_seen": "2026-07-19",
-      "status": "normal",
-      "example_titles": [
-        "인덱스 벤처스 닐 라이머: 'AI 투자 자금의 귀환 — Forbes 집계 AI 억만장자 45명, 합산 자산 $2.9조'"
       ]
     },
     "multi-agent-coordination-gap": {
@@ -369,15 +190,6 @@
         "'빌드 vs 바이' 패러다임 종말 — AI 코딩 에이전트가 소프트웨어 개발의 전통적 이분법을 해소시켰다",
         "Retool 2026 보고서 — 기업 43%, AI 코딩으로 SaaS 대체 검토 중; '섀도 IT' 재부상",
         "Build vs Buy 이분법 사망 — AI 코딩 에이전트가 소프트웨어 개발 전통 전략을 해체"
-      ]
-    },
-    "korea-sovereign-ai-cybersecurity": {
-      "count": 1,
-      "first_seen": "2026-07-19",
-      "last_seen": "2026-07-19",
-      "status": "normal",
-      "example_titles": [
-        "한국, 연내 사이버보안 전용 주권 AI 모델 구축 추진 — GPU 공급 부족이 핵심 변수"
       ]
     },
     "claude-sonnet-5-agentic-adoption": {
@@ -424,15 +236,6 @@
       "status": "normal",
       "example_titles": [
         "ICML 2026 주목 연구 — '선택적 활성화 희소성'으로 3배 큰 모델 성능을 현재 크기에서 구현"
-      ]
-    },
-    "enterprise-multi-agent-orchestration-challenges": {
-      "count": 1,
-      "first_seen": "2026-07-20",
-      "last_seen": "2026-07-20",
-      "status": "normal",
-      "example_titles": [
-        "2026년 기업이 반드시 해결해야 할 멀티에이전트 오케스트레이션 과제 — MCP·A2A 표준화 진행 중"
       ]
     },
     "us-state-ai-legislation-2026": {
@@ -625,6 +428,78 @@
       "status": "normal",
       "example_titles": [
         "Anthropic, Q2 2026 로비 지출 197만 달러 — 전 분기 대비 26% 급증, Nvidia 추월"
+      ]
+    },
+    "openai-exploitgym-sandbox-escape-2026": {
+      "count": 1,
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI AI 모델, 자율적으로 샌드박스 탈출해 Hugging Face 해킹"
+      ]
+    },
+    "alphabet-q2-2026-cloud-surge": {
+      "count": 1,
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "status": "normal",
+      "example_titles": [
+        "알파벳 2분기 실적: 구글 클라우드 82% 성장, 연간 AI 투자 최대 2,050억 달러"
+      ]
+    },
+    "nvidia-huang-chinese-ai-defense-2026": {
+      "count": 1,
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "status": "normal",
+      "example_titles": [
+        "젠슨 황 '중국 오픈소스 AI 탁월하다, 제재는 역효과' — 미 정부 규제에 정면 반박"
+      ]
+    },
+    "deepseek-v4-ga-release-2026": {
+      "count": 1,
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "status": "normal",
+      "example_titles": [
+        "DeepSeek V4 정식 출시 — 구버전 엔드포인트 오늘(7/24) 종료, 피크타임 과금제 도입"
+      ]
+    },
+    "microsoft-mistral-europe-partnership-2026": {
+      "count": 1,
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "status": "normal",
+      "example_titles": [
+        "마이크로소프트-미스트랄, 수십억 달러 규모 유럽 AI 파트너십 확장"
+      ]
+    },
+    "deezer-ai-music-50pct-uploads-2026": {
+      "count": 1,
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "status": "normal",
+      "example_titles": [
+        "Deezer, 신규 음원 업로드의 50% 초과가 AI 생성 — 매일 9만 곡"
+      ]
+    },
+    "cloudflare-ai-crawler-controls-2026": {
+      "count": 1,
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "status": "normal",
+      "example_titles": [
+        "Cloudflare, AI 크롤러 용도별 제어 기능 전면 제공 — 9월부터 광고 페이지 Training·Agent 봇 기본 차단"
+      ]
+    },
+    "us-sanctions-chinese-ai-ip-theft-2026": {
+      "count": 1,
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "status": "normal",
+      "example_titles": [
+        "미국, 중국 AI 모델 IP 도용 혐의로 제재 위협 — 딥시크·Kimi 등 겨냥"
       ]
     }
   }
