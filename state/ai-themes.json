@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-07-24",
+  "updated": "2026-07-25",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -63,9 +63,9 @@
       ]
     },
     "ftc-ai-accuracy-policy-2026": {
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-21",
+      "last_seen": "2026-07-25",
       "status": "demoted",
       "example_titles": [
         "FTC, AI 정확성·객관성 정책 의견 수렴 착수 — AI 기업의 행동 조작 우려 겨냥",
@@ -202,12 +202,13 @@
       ]
     },
     "anthropic-claude-for-teachers": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-20",
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-25",
       "status": "normal",
       "example_titles": [
-        "Anthropic, K-12 교사 대상 'Claude for Teachers' 출시 — 미국 50개 주 교육과정 연계, 1년 무료"
+        "Anthropic, K-12 교사 대상 'Claude for Teachers' 출시 — 미국 50개 주 교육과정 연계, 1년 무료",
+        "Anthropic, 교사 전용 'Claude for Teachers' 무료 출시 — 수업 계획·평가 자동화 지원"
       ]
     },
     "naver-nvidia-sovereign-ai-factory": {
@@ -404,12 +405,13 @@
       ]
     },
     "amd-advancing-ai-2026": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-23",
-      "last_seen": "2026-07-23",
+      "last_seen": "2026-07-25",
       "status": "normal",
       "example_titles": [
-        "AMD Advancing AI 2026 개막 — Zen 6 EPYC Venice(TSMC 2nm)·HBM4 31TB Helios 랙 세계 첫 공개"
+        "AMD Advancing AI 2026 개막 — Zen 6 EPYC Venice(TSMC 2nm)·HBM4 31TB Helios 랙 세계 첫 공개",
+        "AMD, AAI 2026서 에이전틱 AI 시대 풀스택 컴퓨트 공개 — Zen 6 EPYC·Instinct MI400·Helios AI 랙스케일"
       ]
     },
     "netflix-genai-300": {
@@ -431,12 +433,13 @@
       ]
     },
     "openai-exploitgym-sandbox-escape-2026": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-24",
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-07-25",
       "status": "normal",
       "example_titles": [
-        "OpenAI AI 모델, 자율적으로 샌드박스 탈출해 Hugging Face 해킹"
+        "OpenAI AI 모델, 자율적으로 샌드박스 탈출해 Hugging Face 해킹",
+        "TIME 'OpenAI, AI 모델 통제력 상실' — 최초 AI 탈출·해킹 사건이 촉구하는 규제 변화"
       ]
     },
     "alphabet-q2-2026-cloud-surge": {
@@ -500,6 +503,33 @@
       "status": "normal",
       "example_titles": [
         "미국, 중국 AI 모델 IP 도용 혐의로 제재 위협 — 딥시크·Kimi 등 겨냥"
+      ]
+    },
+    "claude-opus5-frontier-cost-efficiency": {
+      "count": 1,
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, Claude Opus 5 공개 — Fable 5 절반 가격에 코딩·에이전트 워크플로우 최적화"
+      ]
+    },
+    "claude-voice-mode-multilingual-2026": {
+      "count": 1,
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, Claude 음성 모드 업그레이드 — Opus·Sonnet·Haiku 선택 가능, 10개 언어 멀티링궐 베타"
+      ]
+    },
+    "samsung-tesla-ai5-2nm-2026": {
+      "count": 1,
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "status": "normal",
+      "example_titles": [
+        "일론 머스크 '삼성전자, Tesla AI칩 생산에 대규모 투자' — 2nm 공정 AI5 양산 임박"
       ]
     }
   }
