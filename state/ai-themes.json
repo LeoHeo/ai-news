@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-07-25",
+  "updated": "2026-07-26",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -24,30 +24,6 @@
         "AI 스타트업 3분기 투자 러시 — 멀티에이전트·멀티모달 스타트업 중심 대형 라운드",
         "H1 2026 글로벌 스타트업 투자 $5,100억 사상 최대",
         "AI 에이전트 스타트업 7월 투자 급증 — 12건 이상 딜에서 총 $18억, 기업 자동화 분야 주도"
-      ]
-    },
-    "gemini-35-pro-delay": {
-      "count": 7,
-      "first_seen": "2026-07-06",
-      "last_seen": "2026-07-17",
-      "status": "demoted",
-      "example_titles": [
-        "구글 Gemini 3.5 Pro, 단계적 롤아웃 개시",
-        "구글, Gemini 3.5 Pro 7월 17일 출시 확정 — 기존 아키텍처 전면 재설계",
-        "구글, Gemini 3.5 Pro 출시 7월 17일로 또 연기 — 아키텍처 전면 재설계",
-        "Google Gemini 3.5 Pro, 7월 17일 정식 출시 — 아키텍처 전면 재설계"
-      ]
-    },
-    "ai-lab-ceo-joint-governance-declaration": {
-      "count": 4,
-      "first_seen": "2026-07-10",
-      "last_seen": "2026-07-18",
-      "status": "demoted",
-      "example_titles": [
-        "OpenAI·Anthropic·DeepMind CEO, AI 위험 공동 대응 선언 — '인류 최대 위협' 경고",
-        "Anthropic·OpenAI·Google DeepMind CEO, 미국 주도 글로벌 AI 표준 연합 촉구",
-        "OpenAI·Anthropic·DeepMind CEO, AI 규제 청사진 최초 수렴",
-        "OpenAI·Anthropic·DeepMind CEO, AI 규제 기본 틀 '사상 첫 서면 수렴' — Axios 분석"
       ]
     },
     "benchlm-llm-leaderboard-july-2026": {
@@ -85,27 +61,6 @@
         "Anthropic, 수출 규제 해제로 Fable 5 글로벌 제공 재개",
         "Anthropic, Fable 5 구독 플랜 종료 — 기업용 계약으로만 접근 가능",
         "Fable 5, 7월 20일부터 Max·Team Premium 영구 포함 — 주간 사용 한도 50% 제공"
-      ]
-    },
-    "satya-nadella-ai-productivity-trap-warning": {
-      "count": 2,
-      "first_seen": "2026-07-13",
-      "last_seen": "2026-07-18",
-      "status": "normal",
-      "example_titles": [
-        "사티아 나델라 AI 생산성 함정 될 수 있다 — MS CEO의 AI 과잉 낙관 경고",
-        "사티아 나델라 경고: 'AI가 세계화처럼 산업 전체를 공동화할 수 있다'"
-      ]
-    },
-    "korea-ai-startup-h1-2026-investment": {
-      "count": 3,
-      "first_seen": "2026-07-13",
-      "last_seen": "2026-07-17",
-      "status": "demoted",
-      "example_titles": [
-        "국내 AI 스타트업, 상반기 투자 3조 2,000억 원 — 전년 동기 대비 140% 급증",
-        "한국 AI 스타트업 상반기 투자 7.8조 원 — AI·로보틱스 485% 급증",
-        "한국 AI·로보틱스 상반기 투자 7.8조, 485% 급증"
       ]
     },
     "korea-ai-basic-act-enforcement-2026": {
@@ -368,20 +323,21 @@
       "count": 2,
       "first_seen": "2026-07-22",
       "last_seen": "2026-07-23",
-      "status": "normal",
+      "status": "demoted",
       "example_titles": [
         "WAIC 2026 폐막 — 29개국, 세계 AI 협력 기구 WAICO 창설 선언",
         "WAIC 2026 폐막 — 29개국, 중국 주도 세계 AI 협력 기구 WAICO 창설; 미국·EU 불참"
       ]
     },
     "together-ai-series-c": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-07-22",
-      "last_seen": "2026-07-23",
-      "status": "normal",
+      "last_seen": "2026-07-26",
+      "status": "demoted",
       "example_titles": [
         "Together AI, 시리즈 C 8억 달러 조달 — 오픈소스 AI 클라우드 시장 주요 플레이어로 부상",
-        "Together AI, 시리즈 C 8억 달러 조달 — 오픈소스 AI 클라우드 독립 플레이어로 부상"
+        "Together AI, 시리즈 C 8억 달러 조달 — 오픈소스 AI 클라우드 독립 플레이어로 부상",
+        "Together AI, 시리즈 C 8억 달러 유치 — 오픈소스 AI 인프라 확장 가속"
       ]
     },
     "ai-agent-funding-july-2026": {
@@ -395,13 +351,14 @@
       ]
     },
     "eu-ai-act-august-2026-deadline": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-07-22",
-      "last_seen": "2026-07-23",
-      "status": "normal",
+      "last_seen": "2026-07-26",
+      "status": "demoted",
       "example_titles": [
         "EU AI법, 8월 2일 고위험 AI 의무 시행 — 미이행 시 연매출 3% 과징금",
-        "EU AI법 8월 2일 시행 — 챗봇·합성 미디어 투명성 의무 적용, 고위험 AI는 2027년 12월로 16개월 유예"
+        "EU AI법 8월 2일 시행 — 챗봇·합성 미디어 투명성 의무 적용, 고위험 AI는 2027년 12월로 16개월 유예",
+        "EU AI Act 8월 2일 D-7 — 고위험 AI 의무 준수 카운트다운"
       ]
     },
     "amd-advancing-ai-2026": {
@@ -433,13 +390,14 @@
       ]
     },
     "openai-exploitgym-sandbox-escape-2026": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-07-24",
-      "last_seen": "2026-07-25",
+      "last_seen": "2026-07-26",
       "status": "normal",
       "example_titles": [
         "OpenAI AI 모델, 자율적으로 샌드박스 탈출해 Hugging Face 해킹",
-        "TIME 'OpenAI, AI 모델 통제력 상실' — 최초 AI 탈출·해킹 사건이 촉구하는 규제 변화"
+        "TIME 'OpenAI, AI 모델 통제력 상실' — 최초 AI 탈출·해킹 사건이 촉구하는 규제 변화",
+        "AI 모델이 허깅페이스 인프라 공격 — 기업이 알아야 할 보안 가이드라인"
       ]
     },
     "alphabet-q2-2026-cloud-surge": {
@@ -530,6 +488,69 @@
       "status": "normal",
       "example_titles": [
         "일론 머스크 '삼성전자, Tesla AI칩 생산에 대규모 투자' — 2nm 공정 AI5 양산 임박"
+      ]
+    },
+    "poolside-laguna-s21-model": {
+      "count": 1,
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "status": "normal",
+      "example_titles": [
+        "Poolside Laguna S 2.1 출시 — 코드 생성 특화 모델 업그레이드"
+      ]
+    },
+    "openai-gpt-live-codex": {
+      "count": 1,
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, Codex에 GPT-Live 음성 기능 통합 — 클라우드 코딩 에이전트 진화"
+      ]
+    },
+    "writer-ai-token-harness": {
+      "count": 1,
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "status": "normal",
+      "example_titles": [
+        "Writer, AI 하네스로 토큰 사용량 40% 절감 — 기업용 AI 비용 혁신"
+      ]
+    },
+    "anthropic-physical-ai-rumor": {
+      "count": 1,
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, 로보틱스 AI 스타트업 Physical Intelligence 인수 협상 — 물리 AI 진출 신호"
+      ]
+    },
+    "enterprise-gpu-utilization-survey": {
+      "count": 1,
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "status": "normal",
+      "example_titles": [
+        "기업 GPU 83% 유휴: AI 인프라 투자 낭비 실태 보고서"
+      ]
+    },
+    "bespoke-labs-agent-env": {
+      "count": 1,
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "status": "normal",
+      "example_titles": [
+        "Bespoke Labs, 시리즈 A 4000만 달러 유치 — AI 에이전트 환경 테스팅 플랫폼"
+      ]
+    },
+    "us-openweight-ai-restrictions": {
+      "count": 1,
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "status": "normal",
+      "example_titles": [
+        "미국 오픈웨이트 AI 규제안에 빅테크 반발 — '혁신 저해' 공개 반론"
       ]
     }
   }
