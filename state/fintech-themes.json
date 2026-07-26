@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updated": "2026-07-25",
+  "updated": "2026-07-26",
   "window_days": 7,
   "themes": [
     {
       "keyword": "us-fintech-regulation",
-      "count": 56,
+      "count": 57,
       "first_seen": "2026-05-24",
-      "last_seen": "2026-07-25",
+      "last_seen": "2026-07-26",
       "articles": [
         "regulation-embedded-regs-june11",
         "embedded-finance-us-regs-june12",
@@ -50,14 +50,15 @@
         "regulation-embedded-finance-brace-2026-07-21",
         "regulation-embedded-finance-us-regs",
         "regulation-embedded-finance-2026-07-24",
-        "regulation-embedded-finance-occ-2026-07-25"
+        "regulation-embedded-finance-occ-2026-07-25",
+        "regulation-embedded-finance-us-2026-07-26"
       ]
     },
     {
       "keyword": "bnpl-debit-card-convergence",
-      "count": 38,
+      "count": 39,
       "first_seen": "2026-05-25",
-      "last_seen": "2026-07-25",
+      "last_seen": "2026-07-26",
       "articles": [
         "lending-bnpl-debit-june11",
         "bnpl-debit-june12",
@@ -83,7 +84,8 @@
         "lending-bnpl-debit-2026-07-21",
         "lending-bnpl-rules-2026",
         "lending-bnpl-card-linked-2026-07-24",
-        "lending-bnpl-debit-convergence-2026-07-25"
+        "lending-bnpl-debit-convergence-2026-07-25",
+        "regulation-fca-bnpl-2026-07-26"
       ]
     },
     {
@@ -150,33 +152,10 @@
       ]
     },
     {
-      "keyword": "genius-act-stablecoin-deadline",
-      "count": 15,
-      "first_seen": "2026-06-16",
-      "last_seen": "2026-07-18",
-      "articles": [
-        "regulation-genius-act-june16",
-        "regulation-genius-act-june17",
-        "regulation-genius-act-senate-2026-06-22",
-        "regulation-occ-genius-act-npr-2026-06-24",
-        "regulation-genius-act-npr-2026-06-28",
-        "regulation-genius-act-2026-06-29",
-        "regulation-occ-genius-act-2026-06-30",
-        "regulation-genius-act-occ-npr-2026-07-01",
-        "regulation-occ-genius-act-2026-07-07",
-        "regulation-occ-genius-act",
-        "regulation-genius-act-occ-npm",
-        "regulation-occ-genius-act-2026-07-12",
-        "regulation-occ-genius-act-2026-07-13",
-        "regulation-genius-act-july18",
-        "genius-act-deadline"
-      ]
-    },
-    {
       "keyword": "mastercard-agent-pay-machines",
-      "count": 20,
+      "count": 21,
       "first_seen": "2026-06-23",
-      "last_seen": "2026-07-18",
+      "last_seen": "2026-07-26",
       "articles": [
         "payments-mastercard-agent-pay-2026-06-23",
         "payments-mastercard-agent-pay-machines-2026-06-26",
@@ -197,7 +176,8 @@
         "payments-mastercard-ap4m-stablecoin-2026-07-14",
         "payments-mastercard-ap4m-2026-07-16",
         "payments-mastercard-ap4m-2026-07-17",
-        "mastercard-agent-pay"
+        "mastercard-agent-pay",
+        "payments-mastercard-ap4m-2026-07-26"
       ]
     },
     {
@@ -217,9 +197,9 @@
     },
     {
       "keyword": "sumup-london-ipo-prep",
-      "count": 10,
+      "count": 11,
       "first_seen": "2026-07-04",
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-07-26",
       "articles": [
         "investment-sumup-ipo-2026-07-04",
         "investment-sumup-ipo",
@@ -230,7 +210,8 @@
         "digital-banking-sumup-consumer-2026-07-19",
         "investment-sumup-ipo",
         "digital-banking-sumup-consumer-2026-07-21",
-        "investment-sumup-ipo-2026-07-24"
+        "investment-sumup-ipo-2026-07-24",
+        "investment-sumup-ipo-2026-07-26"
       ]
     },
     {
@@ -275,9 +256,9 @@
     },
     {
       "keyword": "fintech-vc-forecast-2026",
-      "count": 13,
+      "count": 14,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-07-25",
+      "last_seen": "2026-07-26",
       "articles": [
         "investment-fintech-crunchbase",
         "investment-vc-trends-2026-2026-07-14",
@@ -291,7 +272,8 @@
         "investment-h1-2026-fintech-funding-surge",
         "investment-h1-2026-funding-surge-2026-07-23",
         "investment-h1-fintech-funding-2026-07-24",
-        "investment-h1-fintech-funding-2026-07-25"
+        "investment-h1-fintech-funding-2026-07-25",
+        "investment-h1-fintech-funding-2026-07-26"
       ]
     },
     {
@@ -311,9 +293,9 @@
     },
     {
       "keyword": "korea-face-pay-competition",
-      "count": 10,
+      "count": 11,
       "first_seen": "2026-07-09",
-      "last_seen": "2026-07-25",
+      "last_seen": "2026-07-26",
       "articles": [
         "payments-3-2026-07-09",
         "payments-korea-face-pay",
@@ -324,7 +306,8 @@
         "payments-korea-face-pay-2026-07-19",
         "payments-toss-facepay-kr-2026-07-23",
         "payments-toss-facepay-2026-07-24",
-        "payments-korea-face-pay-2026-07-25"
+        "payments-korea-face-pay-2026-07-25",
+        "payments-toss-facepay-2026-07-26"
       ]
     },
     {
@@ -355,17 +338,6 @@
         "regulation-toss-conglomerate-2026-07-13",
         "regulation-toss-kakao-conglomerate-2026-07-17",
         "regulation-kakao-toss-conglomerate-kr"
-      ]
-    },
-    {
-      "keyword": "korea-id-verification-fintech-pact",
-      "count": 3,
-      "first_seen": "2026-07-13",
-      "last_seen": "2026-07-18",
-      "articles": [
-        "payments-korea-id-verification-2026-07-13",
-        "payments-korea-id-verification-2026-07-14",
-        "kr-naver-kakao-toss-id"
       ]
     },
     {
@@ -416,17 +388,6 @@
       ]
     },
     {
-      "keyword": "redotpay-stablecoin-payments-raise",
-      "count": 3,
-      "first_seen": "2026-07-15",
-      "last_seen": "2026-07-18",
-      "articles": [
-        "investment-redotpay-series-b",
-        "investment-redotpay-series-b-2026-07-16",
-        "redotpay-series-b"
-      ]
-    },
-    {
       "keyword": "visa-stablecoin-platform-launch",
       "count": 5,
       "first_seen": "2026-07-17",
@@ -440,16 +401,6 @@
       ]
     },
     {
-      "keyword": "doordash-tempo-stablecoin-payouts",
-      "count": 2,
-      "first_seen": "2026-07-17",
-      "last_seen": "2026-07-18",
-      "articles": [
-        "payments-doordash-tempo-stablecoin-payouts",
-        "doordash-tempo-payouts"
-      ]
-    },
-    {
       "keyword": "infinite-erebor-stablecoin-banking",
       "count": 3,
       "first_seen": "2026-07-17",
@@ -458,15 +409,6 @@
         "digital-banking-infinite-erebor-stablecoin",
         "infinite-erebor-banking",
         "digital-banking-infinite-erebor-2026-07-19"
-      ]
-    },
-    {
-      "keyword": "genius-act-treasury-rules",
-      "count": 1,
-      "first_seen": "2026-07-18",
-      "last_seen": "2026-07-18",
-      "articles": [
-        "treasury-genius-rules"
       ]
     },
     {
@@ -568,12 +510,13 @@
     },
     {
       "keyword": "natural-agentic-payments-raise",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-07-21",
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-07-26",
       "articles": [
         "investment-natural-30m-series-a-2026-07-21",
-        "payments-natural-agentic-2026-07-24"
+        "payments-natural-agentic-2026-07-24",
+        "payments-natural-agentic-2026-07-26"
       ]
     },
     {
@@ -620,24 +563,26 @@
     },
     {
       "keyword": "revolut-australia-banking-license",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-07-23",
-      "last_seen": "2026-07-25",
+      "last_seen": "2026-07-26",
       "articles": [
         "digital-banking-revolut-australia",
         "digital-banking-revolut-australia-2026-07-24",
-        "digital-banking-revolut-australia-2026-07-25"
+        "digital-banking-revolut-australia-2026-07-25",
+        "digital-banking-revolut-australia-2026-07-26"
       ]
     },
     {
       "keyword": "augustus-stablecoin-clearing-bank",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-07-23",
-      "last_seen": "2026-07-25",
+      "last_seen": "2026-07-26",
       "articles": [
         "digital-banking-augustus-stablecoin",
         "investment-augustus-series-b-2026-07-24",
-        "investment-augustus-series-b-2026-07-25"
+        "investment-augustus-series-b-2026-07-25",
+        "investment-augustus-series-b-2026-07-26"
       ]
     },
     {
@@ -656,12 +601,13 @@
     },
     {
       "keyword": "ant-international-global-expansion",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-07-24",
-      "last_seen": "2026-07-25",
+      "last_seen": "2026-07-26",
       "articles": [
         "investment-ant-international-2026-07-24",
-        "investment-ant-international-2026-07-25"
+        "investment-ant-international-2026-07-25",
+        "investment-ant-international-2026-07-26"
       ]
     },
     {
@@ -677,6 +623,27 @@
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "articles": ["regulation-kakao-toss-circle-mou-2026-07-25"]
+    },
+    {
+      "keyword": "lemfi-bvnk-stablecoin-remittance",
+      "count": 1,
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "articles": ["remittance-lemfi-bvnk-stablecoin-2026-07-26"]
+    },
+    {
+      "keyword": "nubank-brazil-bank-acquisition",
+      "count": 1,
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "articles": ["digital-banking-nubank-porto-real-2026-07-26"]
+    },
+    {
+      "keyword": "gradient-labs-ai-finance",
+      "count": 1,
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "articles": ["investment-gradient-labs-series-a-2026-07-26"]
     }
   ]
 }
