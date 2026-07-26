@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-07-26",
+  "updated": "2026-07-27",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -16,14 +16,15 @@
       ]
     },
     "ai-startup-funding-wave-q3-2026": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-07-10",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-27",
       "status": "demoted",
       "example_titles": [
         "AI 스타트업 3분기 투자 러시 — 멀티에이전트·멀티모달 스타트업 중심 대형 라운드",
         "H1 2026 글로벌 스타트업 투자 $5,100억 사상 최대",
-        "AI 에이전트 스타트업 7월 투자 급증 — 12건 이상 딜에서 총 $18억, 기업 자동화 분야 주도"
+        "AI 에이전트 스타트업 7월 투자 급증 — 12건 이상 딜에서 총 $18억, 기업 자동화 분야 주도",
+        "Q3 2026 AI 스타트업 펀딩 물결 — 3분기 첫 달만 80억 달러 신규 라운드"
       ]
     },
     "benchlm-llm-leaderboard-july-2026": {
@@ -75,14 +76,15 @@
       ]
     },
     "moonshot-kimi-k3-moe": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-07-18",
-      "last_seen": "2026-07-22",
+      "last_seen": "2026-07-27",
       "status": "demoted",
       "example_titles": [
         "Moonshot AI, 2.8조 파라미터 MoE 모델 Kimi K3 공개 — Delta Attention 기반 스파스 활성화",
         "Moonshot AI Kimi K3, 시장 충격 — TSMC 7% 급락, 나스닥 2.3% 하락",
-        "Kimi K3 구독 일시 중단 — GPU 크런치가 오픈웨이트 전략의 허점을 드러내다"
+        "Kimi K3 구독 일시 중단 — GPU 크런치가 오픈웨이트 전략의 허점을 드러내다",
+        "Moonshot AI, Kimi K3 오픈웨이트 전격 공개 — 671B MoE 모델 무료 다운로드"
       ]
     },
     "openai-gpt56-model-family": {
@@ -104,16 +106,6 @@
         "구글 AI 모드, 외부 앱 연동·실행 기능 추가 — 검색에서 에이전틱 행동으로 진화",
         "구글 AI 모드, Instacart·Canva·YouTube 연동 출시 — 검색에서 '작업 완료'로 패러다임 전환",
         "구글 AI 모드, Instacart·Canva·YouTube 앱 연동 — 검색에서 직접 작업 실행 가능"
-      ]
-    },
-    "tsmc-q2-2026-record-revenue": {
-      "count": 2,
-      "first_seen": "2026-07-14",
-      "last_seen": "2026-07-19",
-      "status": "normal",
-      "example_titles": [
-        "TSMC Q2 2026 분기 사상 최대 매출 — AI 칩 수요로 36% 증가",
-        "TSMC Q2 2026 어닝스콜: AI 수요 지속으로 연간 전망 상향 — 2나노 첫 상업 매출, 순이익 77% 급증"
       ]
     },
     "enterprise-ai-agent-deployment-chaos": {
@@ -351,14 +343,15 @@
       ]
     },
     "eu-ai-act-august-2026-deadline": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-07-22",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-07-27",
       "status": "demoted",
       "example_titles": [
         "EU AI법, 8월 2일 고위험 AI 의무 시행 — 미이행 시 연매출 3% 과징금",
         "EU AI법 8월 2일 시행 — 챗봇·합성 미디어 투명성 의무 적용, 고위험 AI는 2027년 12월로 16개월 유예",
-        "EU AI Act 8월 2일 D-7 — 고위험 AI 의무 준수 카운트다운"
+        "EU AI Act 8월 2일 D-7 — 고위험 AI 의무 준수 카운트다운",
+        "EU AI Act D-6 — 고위험 AI 최종 점검 체크리스트 공개"
       ]
     },
     "amd-advancing-ai-2026": {
@@ -390,14 +383,15 @@
       ]
     },
     "openai-exploitgym-sandbox-escape-2026": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-07-24",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-07-27",
       "status": "normal",
       "example_titles": [
         "OpenAI AI 모델, 자율적으로 샌드박스 탈출해 Hugging Face 해킹",
         "TIME 'OpenAI, AI 모델 통제력 상실' — 최초 AI 탈출·해킹 사건이 촉구하는 규제 변화",
-        "AI 모델이 허깅페이스 인프라 공격 — 기업이 알아야 할 보안 가이드라인"
+        "AI 모델이 허깅페이스 인프라 공격 — 기업이 알아야 할 보안 가이드라인",
+        "GPT-5.6 Sol, HuggingFace 샌드박스 탈출 확인 — CEO 직접 대응 성명"
       ]
     },
     "alphabet-q2-2026-cloud-surge": {
@@ -551,6 +545,60 @@
       "status": "normal",
       "example_titles": [
         "미국 오픈웨이트 AI 규제안에 빅테크 반발 — '혁신 저해' 공개 반론"
+      ]
+    },
+    "korea-ai-government-contracts": {
+      "count": 1,
+      "first_seen": "2026-07-27",
+      "last_seen": "2026-07-27",
+      "status": "normal",
+      "example_titles": [
+        "한국 정부 AI 계약 4조원 규모 — 삼성·LG·카카오 수주 경쟁 본격화"
+      ]
+    },
+    "nathan-lambert-ai-benchmark-analysis": {
+      "count": 1,
+      "first_seen": "2026-07-27",
+      "last_seen": "2026-07-27",
+      "status": "normal",
+      "example_titles": [
+        "Nathan Lambert: 현재 벤치마크는 실제 AI 능력을 측정하지 못한다"
+      ]
+    },
+    "google-gemini-flash-20-update": {
+      "count": 1,
+      "first_seen": "2026-07-27",
+      "last_seen": "2026-07-27",
+      "status": "normal",
+      "example_titles": [
+        "Google Gemini 2.0 Flash 업데이트 — 멀티모달 추론 속도 2배 향상"
+      ]
+    },
+    "china-bio-ai-protein-2026": {
+      "count": 1,
+      "first_seen": "2026-07-27",
+      "last_seen": "2026-07-27",
+      "status": "normal",
+      "example_titles": [
+        "중국 연구팀, AI 기반 단백질 설계로 항암 후보물질 발굴 — Nature 게재"
+      ]
+    },
+    "ai-h1-2026-investment-report": {
+      "count": 1,
+      "first_seen": "2026-07-27",
+      "last_seen": "2026-07-27",
+      "status": "normal",
+      "example_titles": [
+        "2026 상반기 AI 투자 2,340억 달러 기록 — 전년比 61% 급증, 에이전트 AI 주도"
+      ]
+    },
+    "naver-hyperclova-x-enterprise": {
+      "count": 1,
+      "first_seen": "2026-07-27",
+      "last_seen": "2026-07-27",
+      "status": "normal",
+      "example_titles": [
+        "네이버 HyperCLOVA X 엔터프라이즈 버전 출시 — 국내 최초 온프레미스 LLM 패키지"
       ]
     }
   }
