@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updated": "2026-07-27",
+  "updated": "2026-07-28",
   "window_days": 7,
   "themes": [
     {
       "keyword": "us-fintech-regulation",
-      "count": 58,
+      "count": 59,
       "first_seen": "2026-05-24",
-      "last_seen": "2026-07-27",
+      "last_seen": "2026-07-28",
       "articles": [
         "regulation-embedded-regs-june11",
         "embedded-finance-us-regs-june12",
@@ -52,14 +52,15 @@
         "regulation-embedded-finance-2026-07-24",
         "regulation-embedded-finance-occ-2026-07-25",
         "regulation-embedded-finance-us-2026-07-26",
-        "regulation-embedded-finance-us-2026-07-27"
+        "regulation-embedded-finance-us-2026-07-27",
+        "regulation-embedded-finance-us-2026-07-28"
       ]
     },
     {
       "keyword": "bnpl-debit-card-convergence",
-      "count": 40,
+      "count": 41,
       "first_seen": "2026-05-25",
-      "last_seen": "2026-07-27",
+      "last_seen": "2026-07-28",
       "articles": [
         "lending-bnpl-debit-june11",
         "bnpl-debit-june12",
@@ -87,38 +88,15 @@
         "lending-bnpl-card-linked-2026-07-24",
         "lending-bnpl-debit-convergence-2026-07-25",
         "regulation-fca-bnpl-2026-07-26",
-        "regulation-fca-bnpl-2026-07-27"
-      ]
-    },
-    {
-      "keyword": "embedded-payments",
-      "count": 25,
-      "first_seen": "2026-05-24",
-      "last_seen": "2026-07-20",
-      "articles": [
-        "payments-embedded-90pct-june11",
-        "embedded-payments-90pct-june12",
-        "payments-embedded-h1-growth-2026-06-22",
-        "payments-embedded-90pct-2026-06-25",
-        "payments-embedded-90pct-2026-06-30",
-        "regulation-embedded-finance-us-2026-07-01",
-        "payments-embedded-90pct-2026-07-03",
-        "payments-embedded-2026-07-04",
-        "regulation-embedded-finance-us-2026-07-07",
-        "payments-embedded-90pct-2026-07-14",
-        "regulation-embedded-us-tighter-2026-07-16",
-        "payments-embedded-90pct-2026-07-16",
-        "payments-embedded-90pct-2026-07-17",
-        "embedded-payments-competition",
-        "regulation-embedded-finance-regs-2026-07-19",
-        "payments-embedded-90pct"
+        "regulation-fca-bnpl-2026-07-27",
+        "lending-bnpl-card-linked-2026-07-28"
       ]
     },
     {
       "keyword": "fintech-funding-weekly-icymi",
-      "count": 31,
+      "count": 32,
       "first_seen": "2026-06-15",
-      "last_seen": "2026-07-22",
+      "last_seen": "2026-07-28",
       "articles": [
         "investment-fintech-funding-icymi-june15",
         "investment-icymi-june17",
@@ -150,14 +128,15 @@
         "h1-fintech-funding",
         "investment-h1-fintech-funding-weekly",
         "investment-weekly-1pt9bn",
-        "investment-icymi-trovy-ground-centsight"
+        "investment-icymi-trovy-ground-centsight",
+        "investment-icymi-funding-2026-07-28"
       ]
     },
     {
       "keyword": "mastercard-agent-pay-machines",
-      "count": 22,
+      "count": 23,
       "first_seen": "2026-06-23",
-      "last_seen": "2026-07-27",
+      "last_seen": "2026-07-28",
       "articles": [
         "payments-mastercard-agent-pay-2026-06-23",
         "payments-mastercard-agent-pay-machines-2026-06-26",
@@ -180,7 +159,8 @@
         "payments-mastercard-ap4m-2026-07-17",
         "mastercard-agent-pay",
         "payments-mastercard-ap4m-2026-07-26",
-        "payments-mastercard-ap4m-2026-07-27"
+        "payments-mastercard-ap4m-2026-07-27",
+        "payments-mastercard-ap4m-2026-07-28"
       ]
     },
     {
@@ -220,9 +200,9 @@
     },
     {
       "keyword": "range-stablecoin-compliance-raise",
-      "count": 9,
+      "count": 10,
       "first_seen": "2026-07-04",
-      "last_seen": "2026-07-27",
+      "last_seen": "2026-07-28",
       "articles": [
         "investment-range-2026-07-04",
         "investment-range-raise",
@@ -232,14 +212,15 @@
         "investment-range-series-a-2026-07-19",
         "investment-range-stablecoin-2026-07-24",
         "investment-range-stablecoin-2026-07-25",
-        "investment-range-stablecoin-2026-07-27"
+        "investment-range-stablecoin-2026-07-27",
+        "investment-range-stablecoin-2026-07-28"
       ]
     },
     {
       "keyword": "smb-crossborder-fintech-savings",
-      "count": 17,
+      "count": 18,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-07-27",
+      "last_seen": "2026-07-28",
       "articles": [
         "remittance-smb-fintech-growth",
         "remittance-smb-crossborder-2026-07-06",
@@ -257,14 +238,15 @@
         "remittance-smb-crossborder-fintechs",
         "remittance-smb-crossborder-2026-07-24",
         "remittance-smb-36pct-2026-07-25",
-        "payments-smb-36pct-2026-07-27"
+        "payments-smb-36pct-2026-07-27",
+        "payments-smb-36pct-2026-07-28"
       ]
     },
     {
       "keyword": "fintech-vc-forecast-2026",
-      "count": 15,
+      "count": 16,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-07-27",
+      "last_seen": "2026-07-28",
       "articles": [
         "investment-fintech-crunchbase",
         "investment-vc-trends-2026-2026-07-14",
@@ -280,7 +262,8 @@
         "investment-h1-fintech-funding-2026-07-24",
         "investment-h1-fintech-funding-2026-07-25",
         "investment-h1-fintech-funding-2026-07-26",
-        "investment-h1-fintech-funding-2026-07-27"
+        "investment-h1-fintech-funding-2026-07-27",
+        "investment-european-fintech-h1-2026-07-28"
       ]
     },
     {
@@ -350,9 +333,9 @@
     },
     {
       "keyword": "us-obbba-remittance-tax",
-      "count": 12,
+      "count": 13,
       "first_seen": "2026-07-14",
-      "last_seen": "2026-07-27",
+      "last_seen": "2026-07-28",
       "articles": [
         "remittance-obbba-tax-crossborder-2026-07-14",
         "remittance-obbba-tax-analysis",
@@ -365,14 +348,15 @@
         "remittance-obbba-excise-relief-2026-07-23",
         "remittance-obbba-tax-2026-07-24",
         "remittance-obbba-tax-2026-07-25",
-        "remittance-obbba-tax-2026-07-27"
+        "remittance-obbba-tax-2026-07-27",
+        "remittance-obbba-tax-2026-07-28"
       ]
     },
     {
       "keyword": "digital-payments-ux-shift",
-      "count": 11,
+      "count": 12,
       "first_seen": "2026-07-14",
-      "last_seen": "2026-07-27",
+      "last_seen": "2026-07-28",
       "articles": [
         "payments-ux-shift-2026-07-14",
         "payments-digital-ux-human",
@@ -383,18 +367,8 @@
         "payments-digital-payments-feel-human",
         "payments-digital-feel-human-2026-07-23",
         "payments-digital-ux-2026-07-24",
-        "payments-digital-ux-2026-07-27"
-      ]
-    },
-    {
-      "keyword": "us-fintech-market-reshaping",
-      "count": 3,
-      "first_seen": "2026-07-14",
-      "last_seen": "2026-07-20",
-      "articles": [
-        "digital-banking-us-reshape-2026-07-14",
-        "regulation-us-fintech-july-2026",
-        "regulation-reshaping-american-finance"
+        "payments-digital-ux-2026-07-27",
+        "payments-digital-ux-shift-2026-07-28"
       ]
     },
     {
@@ -409,16 +383,6 @@
         "payments-visa-stablecoin-kr-2026-07-23",
         "payments-visa-stablecoin-2026-07-24",
         "regulation-visa-stablecoin-2026-07-27"
-      ]
-    },
-    {
-      "keyword": "obbba-remittance-excise-tax",
-      "count": 2,
-      "first_seen": "2026-07-18",
-      "last_seen": "2026-07-20",
-      "articles": [
-        "obbba-remittance-fee",
-        "remittance-obbba-excise-tax"
       ]
     },
     {
@@ -493,20 +457,24 @@
     },
     {
       "keyword": "temasek-b2b-payments-acquisition",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-07-22",
-      "last_seen": "2026-07-27",
+      "last_seen": "2026-07-28",
       "articles": [
         "investment-temasek-b2b-acquisition",
-        "investment-temasek-b2b-2026-07-27"
+        "investment-temasek-b2b-2026-07-27",
+        "investment-temasek-b2b-2026-07-28"
       ]
     },
     {
       "keyword": "stablecoin-tokenized-yield-rwa",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-22",
-      "last_seen": "2026-07-22",
-      "articles": ["payments-stablecoin-tokenized-yield-rwa"]
+      "last_seen": "2026-07-28",
+      "articles": [
+        "payments-stablecoin-tokenized-yield-rwa",
+        "payments-stablecoin-yield-rwa-2026-07-28"
+      ]
     },
     {
       "keyword": "ramp-stablecoin-b2b-payments",
@@ -570,14 +538,15 @@
     },
     {
       "keyword": "ant-international-global-expansion",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-07-24",
-      "last_seen": "2026-07-27",
+      "last_seen": "2026-07-28",
       "articles": [
         "investment-ant-international-2026-07-24",
         "investment-ant-international-2026-07-25",
         "investment-ant-international-2026-07-26",
-        "remittance-ant-international-2026-07-27"
+        "remittance-ant-international-2026-07-27",
+        "investment-ant-international-2026-07-28"
       ]
     },
     {
@@ -624,6 +593,20 @@
       "first_seen": "2026-07-27",
       "last_seen": "2026-07-27",
       "articles": ["regulation-stablecoin-yield-rwa-2026-07-27"]
+    },
+    {
+      "keyword": "doordash-tempo-stablecoin-payouts",
+      "count": 1,
+      "first_seen": "2026-07-28",
+      "last_seen": "2026-07-28",
+      "articles": ["payments-doordash-tempo-stablecoin-2026-07-28"]
+    },
+    {
+      "keyword": "kulipa-stablecoin-card-seed",
+      "count": 1,
+      "first_seen": "2026-07-28",
+      "last_seen": "2026-07-28",
+      "articles": ["investment-kulipa-stablecoin-card-2026-07-28"]
     }
   ]
 }
