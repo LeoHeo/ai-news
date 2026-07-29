@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-07-29",
+  "updated": "2026-07-30",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -29,9 +29,9 @@
       ]
     },
     "ftc-ai-accuracy-policy-2026": {
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-29",
+      "last_seen": "2026-07-30",
       "status": "demoted",
       "example_titles": [
         "FTC, AI 정확성·객관성 정책 의견 수렴 착수 — AI 기업의 행동 조작 우려 겨냥",
@@ -39,18 +39,8 @@
         "미 FTC, AI 정확도 허위표시 단속 정책 의견수렴 — 7월 31일 마감",
         "FTC, AI 정확도 허위 표시 단속 정책 의견수렴 — 7월 31일 마감",
         "미 FTC, AI 정확도 허위표시 단속 정책 의견수렴 — 7월 31일 마감",
-        "FTC AI 정확도·투명성 가이드라인 마감 D-2 — 기업 컴플라이언스 막판 점검"
-      ]
-    },
-    "korea-ai-basic-act-enforcement-2026": {
-      "count": 3,
-      "first_seen": "2026-07-15",
-      "last_seen": "2026-07-22",
-      "status": "demoted",
-      "example_titles": [
-        "과기부, AI기본법 시행령 개정안 입법예고 — 7월 21일 시행 앞두고 세부 기준 확정",
-        "한국 AI기본법 7월 21일 전면 시행 — 세계 최초 국가 단위 AI 전면 규제 시작",
-        "한국 AI기본법 시행 첫날 — 대기업 90% 미준비, 정부 1년 계도 집중"
+        "FTC AI 정확도·투명성 가이드라인 마감 D-2 — 기업 컴플라이언스 막판 점검",
+        "FTC AI 정확도 정책 의견수렴 내일(7월 31일) 마감 — 기업 AI 허위표시 단속 방향 결정"
       ]
     },
     "moonshot-kimi-k3-moe": {
@@ -220,15 +210,16 @@
       ]
     },
     "openai-exploitgym-sandbox-escape-2026": {
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-07-24",
-      "last_seen": "2026-07-27",
+      "last_seen": "2026-07-30",
       "status": "normal",
       "example_titles": [
         "OpenAI AI 모델, 자율적으로 샌드박스 탈출해 Hugging Face 해킹",
         "TIME 'OpenAI, AI 모델 통제력 상실' — 최초 AI 탈출·해킹 사건이 촉구하는 규제 변화",
         "AI 모델이 허깅페이스 인프라 공격 — 기업이 알아야 할 보안 가이드라인",
-        "GPT-5.6 Sol, HuggingFace 샌드박스 탈출 확인 — CEO 직접 대응 성명"
+        "GPT-5.6 Sol, HuggingFace 샌드박스 탈출 확인 — CEO 직접 대응 성명",
+        "OpenAI AI 에이전트, 미래 버전 위한 안전 제약 우회 '탈출 메모' 작성 발견"
       ]
     },
     "alphabet-q2-2026-cloud-surge": {
@@ -358,12 +349,13 @@
       ]
     },
     "enterprise-gpu-utilization-survey": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-26",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-07-30",
       "status": "normal",
       "example_titles": [
-        "기업 GPU 83% 유휴: AI 인프라 투자 낭비 실태 보고서"
+        "기업 GPU 83% 유휴: AI 인프라 투자 낭비 실태 보고서",
+        "기업 GPU 83%, 유휴율 50% 이하 — AI 인프라 투자 대비 실활용률 보고서"
       ]
     },
     "bespoke-labs-agent-env": {
@@ -482,6 +474,69 @@
       "status": "normal",
       "example_titles": [
         "Nvidia-OpenAI, 미국 내 대규모 데이터센터 공동 구축 협력 추진"
+      ]
+    },
+    "pacing-frontier-ai-letter": {
+      "count": 1,
+      "first_seen": "2026-07-30",
+      "last_seen": "2026-07-30",
+      "status": "normal",
+      "example_titles": [
+        "1,178명 AI 업계 종사자, 국제 AI 개발 속도 조절 메커니즘 구축 촉구 서한 발표"
+      ]
+    },
+    "mcp-2026-spec-update": {
+      "count": 1,
+      "first_seen": "2026-07-30",
+      "last_seen": "2026-07-30",
+      "status": "normal",
+      "example_titles": [
+        "MCP 2026-07-28 사양 출시 — 출시 이래 최대 규모 개정, stateless 전환·하위 호환성 없는 변경"
+      ]
+    },
+    "naver-kakao-q2-ai-results": {
+      "count": 1,
+      "first_seen": "2026-07-30",
+      "last_seen": "2026-07-30",
+      "status": "normal",
+      "example_titles": [
+        "네이버·카카오 2분기 실적 희비 — AI 수익화 성패가 하반기 기업가치 결정"
+      ]
+    },
+    "claude-fable-jacobian-conjecture": {
+      "count": 1,
+      "first_seen": "2026-07-30",
+      "last_seen": "2026-07-30",
+      "status": "normal",
+      "example_titles": [
+        "테런스 타오, Claude Fable 5의 야코비안 추측 반증 사례 ChatGPT로 심층 분석 공개"
+      ]
+    },
+    "amd-core-scientific-datacenter": {
+      "count": 1,
+      "first_seen": "2026-07-30",
+      "last_seen": "2026-07-30",
+      "status": "normal",
+      "example_titles": [
+        "AMD, Core Scientific와 530MW AI 데이터센터 15년 계약 — 140억 달러 규모"
+      ]
+    },
+    "naver-skt-samsung-sds-ai-expand": {
+      "count": 1,
+      "first_seen": "2026-07-30",
+      "last_seen": "2026-07-30",
+      "status": "normal",
+      "example_titles": [
+        "네이버·SKT·삼성SDS, AI 사업 전방위 확대 — AI 팩토리·인프라·기업용 AI 동시 가속"
+      ]
+    },
+    "ai-search-deep-pages-behavior": {
+      "count": 1,
+      "first_seen": "2026-07-30",
+      "last_seen": "2026-07-30",
+      "status": "normal",
+      "example_titles": [
+        "AI는 깊은 페이지를 인용하지만 방문자는 홈으로 유도 — 웹사이트 구조의 역설"
       ]
     }
   }
