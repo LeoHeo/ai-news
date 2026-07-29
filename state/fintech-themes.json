@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updated": "2026-07-28",
+  "updated": "2026-07-29",
   "window_days": 7,
   "themes": [
     {
       "keyword": "us-fintech-regulation",
-      "count": 59,
+      "count": 60,
       "first_seen": "2026-05-24",
-      "last_seen": "2026-07-28",
+      "last_seen": "2026-07-29",
       "articles": [
         "regulation-embedded-regs-june11",
         "embedded-finance-us-regs-june12",
@@ -53,14 +53,15 @@
         "regulation-embedded-finance-occ-2026-07-25",
         "regulation-embedded-finance-us-2026-07-26",
         "regulation-embedded-finance-us-2026-07-27",
-        "regulation-embedded-finance-us-2026-07-28"
+        "regulation-embedded-finance-us-2026-07-28",
+        "regulation-embedded-finance-us-2026-07-29"
       ]
     },
     {
       "keyword": "bnpl-debit-card-convergence",
-      "count": 41,
+      "count": 42,
       "first_seen": "2026-05-25",
-      "last_seen": "2026-07-28",
+      "last_seen": "2026-07-29",
       "articles": [
         "lending-bnpl-debit-june11",
         "bnpl-debit-june12",
@@ -89,7 +90,8 @@
         "lending-bnpl-debit-convergence-2026-07-25",
         "regulation-fca-bnpl-2026-07-26",
         "regulation-fca-bnpl-2026-07-27",
-        "lending-bnpl-card-linked-2026-07-28"
+        "lending-bnpl-card-linked-2026-07-28",
+        "lending-bnpl-card-linked-2026-07-29"
       ]
     },
     {
@@ -134,9 +136,9 @@
     },
     {
       "keyword": "mastercard-agent-pay-machines",
-      "count": 23,
+      "count": 24,
       "first_seen": "2026-06-23",
-      "last_seen": "2026-07-28",
+      "last_seen": "2026-07-29",
       "articles": [
         "payments-mastercard-agent-pay-2026-06-23",
         "payments-mastercard-agent-pay-machines-2026-06-26",
@@ -160,7 +162,8 @@
         "mastercard-agent-pay",
         "payments-mastercard-ap4m-2026-07-26",
         "payments-mastercard-ap4m-2026-07-27",
-        "payments-mastercard-ap4m-2026-07-28"
+        "payments-mastercard-ap4m-2026-07-28",
+        "payments-mastercard-agent-pay-2026-07-29"
       ]
     },
     {
@@ -200,9 +203,9 @@
     },
     {
       "keyword": "range-stablecoin-compliance-raise",
-      "count": 10,
+      "count": 11,
       "first_seen": "2026-07-04",
-      "last_seen": "2026-07-28",
+      "last_seen": "2026-07-29",
       "articles": [
         "investment-range-2026-07-04",
         "investment-range-raise",
@@ -213,7 +216,8 @@
         "investment-range-stablecoin-2026-07-24",
         "investment-range-stablecoin-2026-07-25",
         "investment-range-stablecoin-2026-07-27",
-        "investment-range-stablecoin-2026-07-28"
+        "investment-range-stablecoin-2026-07-28",
+        "investment-range-stablecoin-8m-2026-07-29"
       ]
     },
     {
@@ -244,9 +248,9 @@
     },
     {
       "keyword": "fintech-vc-forecast-2026",
-      "count": 16,
+      "count": 17,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-07-28",
+      "last_seen": "2026-07-29",
       "articles": [
         "investment-fintech-crunchbase",
         "investment-vc-trends-2026-2026-07-14",
@@ -263,7 +267,8 @@
         "investment-h1-fintech-funding-2026-07-25",
         "investment-h1-fintech-funding-2026-07-26",
         "investment-h1-fintech-funding-2026-07-27",
-        "investment-european-fintech-h1-2026-07-28"
+        "investment-european-fintech-h1-2026-07-28",
+        "investment-h1-2026-fintech-28b-2026-07-29"
       ]
     },
     {
@@ -283,9 +288,9 @@
     },
     {
       "keyword": "korea-face-pay-competition",
-      "count": 12,
+      "count": 13,
       "first_seen": "2026-07-09",
-      "last_seen": "2026-07-27",
+      "last_seen": "2026-07-29",
       "articles": [
         "payments-3-2026-07-09",
         "payments-korea-face-pay",
@@ -298,7 +303,8 @@
         "payments-toss-facepay-2026-07-24",
         "payments-korea-face-pay-2026-07-25",
         "payments-toss-facepay-2026-07-26",
-        "digital-banking-toss-facepay-2026-07-27"
+        "digital-banking-toss-facepay-2026-07-27",
+        "payments-toss-facepay-40-2026-07-29"
       ]
     },
     {
@@ -333,9 +339,9 @@
     },
     {
       "keyword": "us-obbba-remittance-tax",
-      "count": 13,
+      "count": 14,
       "first_seen": "2026-07-14",
-      "last_seen": "2026-07-28",
+      "last_seen": "2026-07-29",
       "articles": [
         "remittance-obbba-tax-crossborder-2026-07-14",
         "remittance-obbba-tax-analysis",
@@ -349,7 +355,8 @@
         "remittance-obbba-tax-2026-07-24",
         "remittance-obbba-tax-2026-07-25",
         "remittance-obbba-tax-2026-07-27",
-        "remittance-obbba-tax-2026-07-28"
+        "remittance-obbba-tax-2026-07-28",
+        "remittance-obbba-1pct-tax-2026-07-29"
       ]
     },
     {
@@ -423,20 +430,6 @@
       ]
     },
     {
-      "keyword": "clearinghouse-tokenized-deposit-network",
-      "count": 1,
-      "first_seen": "2026-07-21",
-      "last_seen": "2026-07-21",
-      "articles": ["payments-tch-tokenized-deposit-network-2026-07-21"]
-    },
-    {
-      "keyword": "axos-arc-technologies-acquisition",
-      "count": 1,
-      "first_seen": "2026-07-21",
-      "last_seen": "2026-07-21",
-      "articles": ["investment-axos-arc-acquisition-2026-07-21"]
-    },
-    {
       "keyword": "natural-agentic-payments-raise",
       "count": 4,
       "first_seen": "2026-07-21",
@@ -449,21 +442,15 @@
       ]
     },
     {
-      "keyword": "b2b-payments-governance-realtime",
-      "count": 1,
-      "first_seen": "2026-07-21",
-      "last_seen": "2026-07-21",
-      "articles": ["payments-b2b-governance-realtime-2026-07-21"]
-    },
-    {
       "keyword": "temasek-b2b-payments-acquisition",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-07-22",
-      "last_seen": "2026-07-28",
+      "last_seen": "2026-07-29",
       "articles": [
         "investment-temasek-b2b-acquisition",
         "investment-temasek-b2b-2026-07-27",
-        "investment-temasek-b2b-2026-07-28"
+        "investment-temasek-b2b-2026-07-28",
+        "investment-temasek-b2b-uk-2026-07-29"
       ]
     },
     {
@@ -579,27 +566,34 @@
     },
     {
       "keyword": "gradient-labs-ai-finance",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-07-26",
-      "last_seen": "2026-07-27",
+      "last_seen": "2026-07-29",
       "articles": [
         "investment-gradient-labs-series-a-2026-07-26",
-        "investment-gradient-labs-2026-07-27"
+        "investment-gradient-labs-2026-07-27",
+        "investment-gradient-labs-26m-2026-07-29"
       ]
     },
     {
       "keyword": "stablecoin-yield-prohibition-rwa",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-27",
-      "last_seen": "2026-07-27",
-      "articles": ["regulation-stablecoin-yield-rwa-2026-07-27"]
+      "last_seen": "2026-07-29",
+      "articles": [
+        "regulation-stablecoin-yield-rwa-2026-07-27",
+        "regulation-stablecoin-yield-prohibition-2026-07-29"
+      ]
     },
     {
       "keyword": "doordash-tempo-stablecoin-payouts",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-28",
-      "last_seen": "2026-07-28",
-      "articles": ["payments-doordash-tempo-stablecoin-2026-07-28"]
+      "last_seen": "2026-07-29",
+      "articles": [
+        "payments-doordash-tempo-stablecoin-2026-07-28",
+        "payments-doordash-tempo-stablecoin-2026-07-29"
+      ]
     },
     {
       "keyword": "kulipa-stablecoin-card-seed",
@@ -607,6 +601,27 @@
       "first_seen": "2026-07-28",
       "last_seen": "2026-07-28",
       "articles": ["investment-kulipa-stablecoin-card-2026-07-28"]
+    },
+    {
+      "keyword": "paypal-q2-2026-earnings",
+      "count": 1,
+      "first_seen": "2026-07-29",
+      "last_seen": "2026-07-29",
+      "articles": ["payments-paypal-q2-2026-07-29"]
+    },
+    {
+      "keyword": "fintech-embedded-payments-survey",
+      "count": 1,
+      "first_seen": "2026-07-29",
+      "last_seen": "2026-07-29",
+      "articles": ["payments-embedded-fintech-survey-2026-07-29"]
+    },
+    {
+      "keyword": "b2b-stablecoin-infinite-erebor",
+      "count": 1,
+      "first_seen": "2026-07-29",
+      "last_seen": "2026-07-29",
+      "articles": ["digital-banking-infinite-erebor-2026-07-29"]
     }
   ]
 }
