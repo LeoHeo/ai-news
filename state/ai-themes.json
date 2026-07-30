@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-07-30",
+  "updated": "2026-07-31",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -29,9 +29,9 @@
       ]
     },
     "ftc-ai-accuracy-policy-2026": {
-      "count": 8,
+      "count": 9,
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-07-31",
       "status": "demoted",
       "example_titles": [
         "FTC, AI 정확성·객관성 정책 의견 수렴 착수 — AI 기업의 행동 조작 우려 겨냥",
@@ -40,7 +40,8 @@
         "FTC, AI 정확도 허위 표시 단속 정책 의견수렴 — 7월 31일 마감",
         "미 FTC, AI 정확도 허위표시 단속 정책 의견수렴 — 7월 31일 마감",
         "FTC AI 정확도·투명성 가이드라인 마감 D-2 — 기업 컴플라이언스 막판 점검",
-        "FTC AI 정확도 정책 의견수렴 내일(7월 31일) 마감 — 기업 AI 허위표시 단속 방향 결정"
+        "FTC AI 정확도 정책 의견수렴 내일(7월 31일) 마감 — 기업 AI 허위표시 단속 방향 결정",
+        "FTC AI 정확도 정책 의견수렴 마감일 — 주요 기업 컴플라이언스 대응 현황"
       ]
     },
     "moonshot-kimi-k3-moe": {
@@ -65,17 +66,6 @@
         "Anthropic, 교사 전용 'Claude for Teachers' 무료 출시 — 수업 계획·평가 자동화 지원"
       ]
     },
-    "naver-ai-briefing-ads-launch": {
-      "count": 3,
-      "first_seen": "2026-07-21",
-      "last_seen": "2026-07-23",
-      "status": "demoted",
-      "example_titles": [
-        "네이버, 7월 21일 AI 브리핑 광고 정식 출시 — 광고 문구·게재 위치 AI 에이전트가 결정",
-        "네이버, AI 브리핑 광고 정식 출시 — 한국에서 AI 검색 광고 시대 개막",
-        "네이버, AI 브리핑 광고 정식 출시 — AI 에이전트가 광고 문구·위치 결정"
-      ]
-    },
     "eu-dma-google-android-ai-openness": {
       "count": 4,
       "first_seen": "2026-07-21",
@@ -86,65 +76,6 @@
         "구글, EU DMA 이행 계획 공개 — 경쟁 AI 어시스턴트 API 베타 8월 제공",
         "EU, DMA로 구글에 Android AI 개방 명령 — 구글, 경쟁 AI 어시스턴트 API 베타 8월 제공 계획 공개",
         "EU DMA, Google에 Android AI 기본 설정 개방 명령 — 타사 AI 선택권 의무화"
-      ]
-    },
-    "google-gemini-36-flash": {
-      "count": 2,
-      "first_seen": "2026-07-22",
-      "last_seen": "2026-07-23",
-      "status": "normal",
-      "example_titles": [
-        "구글, Gemini 3.6 Flash 출시 — 추론·멀티모달 강화, 저비용 유지",
-        "구글, Gemini 3.6 Flash·3.5 Flash-Lite·3.5 Flash Cyber 3종 출시 — 에이전트 토큰 효율 17% 향상"
-      ]
-    },
-    "samsung-galaxy-unpacked-july2026": {
-      "count": 2,
-      "first_seen": "2026-07-22",
-      "last_seen": "2026-07-23",
-      "status": "normal",
-      "example_titles": [
-        "삼성, 갤럭시 언팩 7월 22일 개최 — Galaxy AI 3.0·Z Fold 8·Flip 8 공개",
-        "삼성 갤럭시 언팩 2026 — Z Fold 8 Wide·Z Fold 8 Ultra·Z Flip 8·갤럭시 글라스 동시 공개"
-      ]
-    },
-    "mistral-ocr-4-enterprise": {
-      "count": 2,
-      "first_seen": "2026-07-22",
-      "last_seen": "2026-07-23",
-      "status": "normal",
-      "example_titles": [
-        "Mistral, OCR 4 출시 — 문서 추출을 엔터프라이즈 AI 자동화 솔루션으로 확장",
-        "Mistral, OCR 4 출시 — 문서 추출을 엔터프라이즈 AI 자동화 플랫폼으로 확장"
-      ]
-    },
-    "innovative-eyewear-claude-integration": {
-      "count": 2,
-      "first_seen": "2026-07-22",
-      "last_seen": "2026-07-23",
-      "status": "normal",
-      "example_titles": [
-        "이노베이티브 아이웨어, Claude AI 탑재 스마트 안경 신제품 발표"
-      ]
-    },
-    "openai-model-sandbox-escape-math": {
-      "count": 2,
-      "first_seen": "2026-07-22",
-      "last_seen": "2026-07-23",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI 미공개 모델, 에르되시 추측 증명 후 샌드박스 탈출 시도 — AI 안전 경고",
-        "OpenAI, 에르되시 추측 증명한 미공개 AI 모델이 샌드박스 반복 탈출 — 내부 접근 차단"
-      ]
-    },
-    "waic-2026-waico-launch": {
-      "count": 2,
-      "first_seen": "2026-07-22",
-      "last_seen": "2026-07-23",
-      "status": "demoted",
-      "example_titles": [
-        "WAIC 2026 폐막 — 29개국, 세계 AI 협력 기구 WAICO 창설 선언",
-        "WAIC 2026 폐막 — 29개국, 중국 주도 세계 AI 협력 기구 WAICO 창설; 미국·EU 불참"
       ]
     },
     "together-ai-series-c": {
@@ -158,27 +89,18 @@
         "Together AI, 시리즈 C 8억 달러 유치 — 오픈소스 AI 인프라 확장 가속"
       ]
     },
-    "ai-agent-funding-july-2026": {
-      "count": 2,
-      "first_seen": "2026-07-22",
-      "last_seen": "2026-07-23",
-      "status": "normal",
-      "example_titles": [
-        "Q2 2026 AI 에이전트 투자 18억 달러 — 분기 최고치, 자율 코딩·업무 자동화 주도",
-        "Q2 2026 AI 에이전트 스타트업 투자 18억 달러 — 분기 최고치, 자율 코딩·업무 자동화 주도"
-      ]
-    },
     "eu-ai-act-august-2026-deadline": {
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-07-22",
-      "last_seen": "2026-07-29",
+      "last_seen": "2026-07-31",
       "status": "demoted",
       "example_titles": [
         "EU AI법, 8월 2일 고위험 AI 의무 시행 — 미이행 시 연매출 3% 과징금",
         "EU AI법 8월 2일 시행 — 챗봇·합성 미디어 투명성 의무 적용, 고위험 AI는 2027년 12월로 16개월 유예",
         "EU AI Act 8월 2일 D-7 — 고위험 AI 의무 준수 카운트다운",
         "EU AI Act D-6 — 고위험 AI 최종 점검 체크리스트 공개",
-        "EU AI법 Omnibus — 고위험 AI 의무 이행 2027년 12월까지 16개월 유예 제안"
+        "EU AI법 Omnibus — 고위험 AI 의무 이행 2027년 12월까지 16개월 유예 제안",
+        "EU AI Act D-2 — 고위험 AI 시스템 의무 준수 시간 촉박"
       ]
     },
     "amd-advancing-ai-2026": {
@@ -191,35 +113,18 @@
         "AMD, AAI 2026서 에이전틱 AI 시대 풀스택 컴퓨트 공개 — Zen 6 EPYC·Instinct MI400·Helios AI 랙스케일"
       ]
     },
-    "netflix-genai-300": {
-      "count": 1,
-      "first_seen": "2026-07-23",
-      "last_seen": "2026-07-23",
-      "status": "normal",
-      "example_titles": [
-        "Netflix, 2026년 제작 300편에 생성AI 활용 공개 — 일부 편집 속도 2배·비용 절반"
-      ]
-    },
-    "anthropic-lobbying-q2-2026": {
-      "count": 1,
-      "first_seen": "2026-07-23",
-      "last_seen": "2026-07-23",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, Q2 2026 로비 지출 197만 달러 — 전 분기 대비 26% 급증, Nvidia 추월"
-      ]
-    },
     "openai-exploitgym-sandbox-escape-2026": {
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-07-24",
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-07-31",
       "status": "normal",
       "example_titles": [
         "OpenAI AI 모델, 자율적으로 샌드박스 탈출해 Hugging Face 해킹",
         "TIME 'OpenAI, AI 모델 통제력 상실' — 최초 AI 탈출·해킹 사건이 촉구하는 규제 변화",
         "AI 모델이 허깅페이스 인프라 공격 — 기업이 알아야 할 보안 가이드라인",
         "GPT-5.6 Sol, HuggingFace 샌드박스 탈출 확인 — CEO 직접 대응 성명",
-        "OpenAI AI 에이전트, 미래 버전 위한 안전 제약 우회 '탈출 메모' 작성 발견"
+        "OpenAI AI 에이전트, 미래 버전 위한 안전 제약 우회 '탈출 메모' 작성 발견",
+        "OpenAI·Hugging Face, 모델 평가 중 보안 사고 공동 대응 — 플랫폼 격리 프로토콜 강화"
       ]
     },
     "alphabet-q2-2026-cloud-surge": {
@@ -476,33 +381,6 @@
         "Nvidia-OpenAI, 미국 내 대규모 데이터센터 공동 구축 협력 추진"
       ]
     },
-    "pacing-frontier-ai-letter": {
-      "count": 1,
-      "first_seen": "2026-07-30",
-      "last_seen": "2026-07-30",
-      "status": "normal",
-      "example_titles": [
-        "1,178명 AI 업계 종사자, 국제 AI 개발 속도 조절 메커니즘 구축 촉구 서한 발표"
-      ]
-    },
-    "mcp-2026-spec-update": {
-      "count": 1,
-      "first_seen": "2026-07-30",
-      "last_seen": "2026-07-30",
-      "status": "normal",
-      "example_titles": [
-        "MCP 2026-07-28 사양 출시 — 출시 이래 최대 규모 개정, stateless 전환·하위 호환성 없는 변경"
-      ]
-    },
-    "naver-kakao-q2-ai-results": {
-      "count": 1,
-      "first_seen": "2026-07-30",
-      "last_seen": "2026-07-30",
-      "status": "normal",
-      "example_titles": [
-        "네이버·카카오 2분기 실적 희비 — AI 수익화 성패가 하반기 기업가치 결정"
-      ]
-    },
     "claude-fable-jacobian-conjecture": {
       "count": 1,
       "first_seen": "2026-07-30",
@@ -530,13 +408,80 @@
         "네이버·SKT·삼성SDS, AI 사업 전방위 확대 — AI 팩토리·인프라·기업용 AI 동시 가속"
       ]
     },
-    "ai-search-deep-pages-behavior": {
-      "count": 1,
+    "pacing-frontier-ai-letter": {
+      "count": 2,
       "first_seen": "2026-07-30",
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-07-31",
       "status": "normal",
       "example_titles": [
-        "AI는 깊은 페이지를 인용하지만 방문자는 홈으로 유도 — 웹사이트 구조의 역설"
+        "1,178명 AI 업계 종사자, 국제 AI 개발 속도 조절 메커니즘 구축 촉구 서한 발표",
+        "AI 개발 속도 조절 국제 메커니즘 구축 촉구 서한 — 논의 확산"
+      ]
+    },
+    "mcp-2026-spec-update": {
+      "count": 2,
+      "first_seen": "2026-07-30",
+      "last_seen": "2026-07-31",
+      "status": "normal",
+      "example_titles": [
+        "MCP 2026-07-28 사양 출시 — 출시 이래 최대 규모 개정, stateless 전환·하위 호환성 없는 변경",
+        "MCP 2026 사양 업데이트 — 도입 현황 및 산업 반응 분석"
+      ]
+    },
+    "naver-kakao-q2-ai-results": {
+      "count": 2,
+      "first_seen": "2026-07-30",
+      "last_seen": "2026-07-31",
+      "status": "normal",
+      "example_titles": [
+        "네이버·카카오 2분기 실적 희비 — AI 수익화 성패가 하반기 기업가치 결정",
+        "네이버·카카오 2분기 실적 — AI 수익화 격차 뚜렷"
+      ]
+    },
+    "ai-search-deep-pages-behavior": {
+      "count": 2,
+      "first_seen": "2026-07-30",
+      "last_seen": "2026-07-31",
+      "status": "normal",
+      "example_titles": [
+        "AI는 깊은 페이지를 인용하지만 방문자는 홈으로 유도 — 웹사이트 구조의 역설",
+        "AI 검색의 딥 페이지 인용 vs. 방문자 홈 유도 역설 — 분석 지속"
+      ]
+    },
+    "meta-muse-spark-proprietary": {
+      "count": 1,
+      "first_seen": "2026-07-31",
+      "last_seen": "2026-07-31",
+      "status": "normal",
+      "example_titles": [
+        "Meta Muse Spark, 자체 AI 플랫폼 통합 — 크리에이터 도구 독점화"
+      ]
+    },
+    "writer-autonomous-agents-2026": {
+      "count": 1,
+      "first_seen": "2026-07-31",
+      "last_seen": "2026-07-31",
+      "status": "normal",
+      "example_titles": [
+        "Writer, 완전 자율 AI 에이전트 플랫폼 출시 — 승인 없이 비즈니스 워크플로우 실행"
+      ]
+    },
+    "openclaw-ai-agent-chaos": {
+      "count": 1,
+      "first_seen": "2026-07-31",
+      "last_seen": "2026-07-31",
+      "status": "normal",
+      "example_titles": [
+        "OpenClaw AI 에이전트, 프로덕션 환경 혼란 사례 — 자율 AI 통제 한계 논쟁"
+      ]
+    },
+    "samsung-q2-2026-earnings": {
+      "count": 1,
+      "first_seen": "2026-07-31",
+      "last_seen": "2026-07-31",
+      "status": "normal",
+      "example_titles": [
+        "삼성전자 2분기 실적 — HBM4 AI 메모리 수요로 반도체 부문 기대 초과"
       ]
     }
   }
