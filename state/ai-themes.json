@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-07-31",
+  "updated": "2026-08-01",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -36,8 +36,6 @@
       "example_titles": [
         "FTC, AI 정확성·객관성 정책 의견 수렴 착수 — AI 기업의 행동 조작 우려 겨냥",
         "미 FTC, AI 정확도 허위 표시 단속 정책 발표 — AI 서비스 과장 광고 제재 본격화",
-        "미 FTC, AI 정확도 허위표시 단속 정책 의견수렴 — 7월 31일 마감",
-        "FTC, AI 정확도 허위 표시 단속 정책 의견수렴 — 7월 31일 마감",
         "미 FTC, AI 정확도 허위표시 단속 정책 의견수렴 — 7월 31일 마감",
         "FTC AI 정확도·투명성 가이드라인 마감 D-2 — 기업 컴플라이언스 막판 점검",
         "FTC AI 정확도 정책 의견수렴 내일(7월 31일) 마감 — 기업 AI 허위표시 단속 방향 결정",
@@ -90,17 +88,17 @@
       ]
     },
     "eu-ai-act-august-2026-deadline": {
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-07-22",
-      "last_seen": "2026-07-31",
+      "last_seen": "2026-08-01",
       "status": "demoted",
       "example_titles": [
         "EU AI법, 8월 2일 고위험 AI 의무 시행 — 미이행 시 연매출 3% 과징금",
         "EU AI법 8월 2일 시행 — 챗봇·합성 미디어 투명성 의무 적용, 고위험 AI는 2027년 12월로 16개월 유예",
         "EU AI Act 8월 2일 D-7 — 고위험 AI 의무 준수 카운트다운",
-        "EU AI Act D-6 — 고위험 AI 최종 점검 체크리스트 공개",
         "EU AI법 Omnibus — 고위험 AI 의무 이행 2027년 12월까지 16개월 유예 제안",
-        "EU AI Act D-2 — 고위험 AI 시스템 의무 준수 시간 촉박"
+        "EU AI Act D-2 — 고위험 AI 시스템 의무 준수 시간 촉박",
+        "EU AI법 8월 2일 투명성 의무 D-1 — 고위험 AI 유예됐어도 챗봇·합성 미디어 준수 기한은 내일"
       ]
     },
     "amd-advancing-ai-2026": {
@@ -127,76 +125,14 @@
         "OpenAI·Hugging Face, 모델 평가 중 보안 사고 공동 대응 — 플랫폼 격리 프로토콜 강화"
       ]
     },
-    "alphabet-q2-2026-cloud-surge": {
-      "count": 1,
-      "first_seen": "2026-07-24",
-      "last_seen": "2026-07-24",
-      "status": "normal",
-      "example_titles": [
-        "알파벳 2분기 실적: 구글 클라우드 82% 성장, 연간 AI 투자 최대 2,050억 달러"
-      ]
-    },
-    "nvidia-huang-chinese-ai-defense-2026": {
-      "count": 1,
-      "first_seen": "2026-07-24",
-      "last_seen": "2026-07-24",
-      "status": "normal",
-      "example_titles": [
-        "젠슨 황 '중국 오픈소스 AI 탁월하다, 제재는 역효과' — 미 정부 규제에 정면 반박"
-      ]
-    },
-    "deepseek-v4-ga-release-2026": {
-      "count": 1,
-      "first_seen": "2026-07-24",
-      "last_seen": "2026-07-24",
-      "status": "normal",
-      "example_titles": [
-        "DeepSeek V4 정식 출시 — 구버전 엔드포인트 오늘(7/24) 종료, 피크타임 과금제 도입"
-      ]
-    },
-    "microsoft-mistral-europe-partnership-2026": {
-      "count": 1,
-      "first_seen": "2026-07-24",
-      "last_seen": "2026-07-24",
-      "status": "normal",
-      "example_titles": [
-        "마이크로소프트-미스트랄, 수십억 달러 규모 유럽 AI 파트너십 확장"
-      ]
-    },
-    "deezer-ai-music-50pct-uploads-2026": {
-      "count": 1,
-      "first_seen": "2026-07-24",
-      "last_seen": "2026-07-24",
-      "status": "normal",
-      "example_titles": [
-        "Deezer, 신규 음원 업로드의 50% 초과가 AI 생성 — 매일 9만 곡"
-      ]
-    },
-    "cloudflare-ai-crawler-controls-2026": {
-      "count": 1,
-      "first_seen": "2026-07-24",
-      "last_seen": "2026-07-24",
-      "status": "normal",
-      "example_titles": [
-        "Cloudflare, AI 크롤러 용도별 제어 기능 전면 제공 — 9월부터 광고 페이지 Training·Agent 봇 기본 차단"
-      ]
-    },
-    "us-sanctions-chinese-ai-ip-theft-2026": {
-      "count": 1,
-      "first_seen": "2026-07-24",
-      "last_seen": "2026-07-24",
-      "status": "normal",
-      "example_titles": [
-        "미국, 중국 AI 모델 IP 도용 혐의로 제재 위협 — 딥시크·Kimi 등 겨냥"
-      ]
-    },
     "claude-opus5-frontier-cost-efficiency": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
+      "last_seen": "2026-08-01",
       "status": "normal",
       "example_titles": [
-        "Anthropic, Claude Opus 5 공개 — Fable 5 절반 가격에 코딩·에이전트 워크플로우 최적화"
+        "Anthropic, Claude Opus 5 공개 — Fable 5 절반 가격에 코딩·에이전트 워크플로우 최적화",
+        "Anthropic, Claude Opus 5 출시 — Fable 5 절반 가격에 에이전틱 코딩 1위, ARC-AGI 3 차순위 3배"
       ]
     },
     "claude-voice-mode-multilingual-2026": {
@@ -319,12 +255,13 @@
       ]
     },
     "ai-h1-2026-investment-report": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-27",
-      "last_seen": "2026-07-27",
+      "last_seen": "2026-08-01",
       "status": "normal",
       "example_titles": [
-        "2026 상반기 AI 투자 2,340억 달러 기록 — 전년比 61% 급증, 에이전트 AI 주도"
+        "2026 상반기 AI 투자 2,340억 달러 기록 — 전년比 61% 급증, 에이전트 AI 주도",
+        "2026년 상반기 글로벌 VC 5,100억 달러 사상 최대 — AI가 미국 벤처 자본의 86% 흡수"
       ]
     },
     "naver-hyperclova-x-enterprise": {
@@ -482,6 +419,87 @@
       "status": "normal",
       "example_titles": [
         "삼성전자 2분기 실적 — HBM4 AI 메모리 수요로 반도체 부문 기대 초과"
+      ]
+    },
+    "great-american-ai-act-2026": {
+      "count": 1,
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-08-01",
+      "status": "normal",
+      "example_titles": [
+        "미국 '대미국 AI법(GAAIA)' 양당 초안 공개 — 연방 단일 규제, 3년간 주(州)법 선점 논란"
+      ]
+    },
+    "skt-ax-k2-model": {
+      "count": 1,
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-08-01",
+      "status": "normal",
+      "example_titles": [
+        "SK텔레콤 A.X K2 688B 공개 — 한국 최대 주권 AI 모델, AIME26 97.1%·Apache 2.0 오픈소스"
+      ]
+    },
+    "grok-45-coding-model": {
+      "count": 1,
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-08-01",
+      "status": "normal",
+      "example_titles": [
+        "xAI, Grok 4.5 코딩 특화 모델 출시 — Cursor 개발 데이터로 훈련, 235 tok/s 최고 속도"
+      ]
+    },
+    "openai-presence-platform": {
+      "count": 1,
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-08-01",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI Presence 출시 — 기업용 음성·채팅 AI 에이전트, 고객 응대 75% 자동 처리"
+      ]
+    },
+    "chatgpt-health-feature": {
+      "count": 1,
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-08-01",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, ChatGPT Health 출시 — 증상 탐색·의사 방문 전 건강 정보 특화 전용 기능"
+      ]
+    },
+    "meta-blackrock-datacenter-2026": {
+      "count": 1,
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-08-01",
+      "status": "normal",
+      "example_titles": [
+        "Meta·BlackRock, 140억 달러 엘파소 AI 데이터센터 합작 — BlackRock 80% 지분, Meta 운영권"
+      ]
+    },
+    "skhynix-q2-2026-earnings": {
+      "count": 1,
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-08-01",
+      "status": "normal",
+      "example_titles": [
+        "SK하이닉스 2분기 매출 79.3조·영업이익률 76% 사상 최대 — HBM4 양산 개시"
+      ]
+    },
+    "ai-datacenter-buildout-2026": {
+      "count": 1,
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-08-01",
+      "status": "normal",
+      "example_titles": [
+        "글로벌 AI 데이터센터 건설 용량 23GW 돌파 — 연간 투자 7,500억 달러, 전력·냉각 병목 임박"
+      ]
+    },
+    "un-ai-scientific-panel-2026": {
+      "count": 1,
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-08-01",
+      "status": "normal",
+      "example_titles": [
+        "UN 독립 AI 과학패널 예비 보고서 — \"AI 안전 장치, 역량 성장 속도 따라가지 못해\""
       ]
     }
   }
