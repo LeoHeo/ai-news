@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updated": "2026-07-30",
+  "updated": "2026-07-31",
   "window_days": 7,
   "themes": [
     {
       "keyword": "us-fintech-regulation",
-      "count": 61,
+      "count": 62,
       "first_seen": "2026-05-24",
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-07-31",
       "articles": [
         "regulation-embedded-regs-june11",
         "embedded-finance-us-regs-june12",
@@ -55,7 +55,8 @@
         "regulation-embedded-finance-us-2026-07-27",
         "regulation-embedded-finance-us-2026-07-28",
         "regulation-embedded-finance-us-2026-07-29",
-        "regulation-embedded-finance-us-2026-07-30"
+        "regulation-embedded-finance-us-2026-07-30",
+        "regulation-embedded-finance-us-2026-07-31"
       ]
     },
     {
@@ -137,9 +138,9 @@
     },
     {
       "keyword": "mastercard-agent-pay-machines",
-      "count": 25,
+      "count": 26,
       "first_seen": "2026-06-23",
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-07-31",
       "articles": [
         "payments-mastercard-agent-pay-2026-06-23",
         "payments-mastercard-agent-pay-machines-2026-06-26",
@@ -165,22 +166,8 @@
         "payments-mastercard-ap4m-2026-07-27",
         "payments-mastercard-ap4m-2026-07-28",
         "payments-mastercard-agent-pay-2026-07-29",
-        "payments-mastercard-ap4m-stablecoin-2026-07-30"
-      ]
-    },
-    {
-      "keyword": "fintech-infrastructure-shift",
-      "count": 7,
-      "first_seen": "2026-07-03",
-      "last_seen": "2026-07-22",
-      "articles": [
-        "digital-banking-fintech-infrastructure-2026-07-03",
-        "digital-banking-infra-shift-2026-07-04",
-        "digital-banking-fintech-infra",
-        "digital-banking-fintech-infrastructure-shift-2026-07-06",
-        "digital-banking-infra-shift-2026-07-14",
-        "digital-banking-fintech-infra-2026-07-19",
-        "digital-banking-b2b-crossborder-infra"
+        "payments-mastercard-ap4m-stablecoin-2026-07-30",
+        "payments-mastercard-agent-pay-machines-ap4m-2026-07-31"
       ]
     },
     {
@@ -205,9 +192,9 @@
     },
     {
       "keyword": "range-stablecoin-compliance-raise",
-      "count": 12,
+      "count": 13,
       "first_seen": "2026-07-04",
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-07-31",
       "articles": [
         "investment-range-2026-07-04",
         "investment-range-raise",
@@ -220,14 +207,15 @@
         "investment-range-stablecoin-2026-07-27",
         "investment-range-stablecoin-2026-07-28",
         "investment-range-stablecoin-8m-2026-07-29",
-        "investment-range-stablecoin-2026-07-30"
+        "investment-range-stablecoin-2026-07-30",
+        "investment-range-stablecoin-2026-07-31"
       ]
     },
     {
       "keyword": "smb-crossborder-fintech-savings",
-      "count": 19,
+      "count": 20,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-07-31",
       "articles": [
         "remittance-smb-fintech-growth",
         "remittance-smb-crossborder-2026-07-06",
@@ -247,7 +235,8 @@
         "remittance-smb-36pct-2026-07-25",
         "payments-smb-36pct-2026-07-27",
         "payments-smb-36pct-2026-07-28",
-        "remittance-smb-36pct-2026-07-30"
+        "remittance-smb-36pct-2026-07-30",
+        "remittance-smb-36pct-2026-07-31"
       ]
     },
     {
@@ -265,7 +254,7 @@
         "investment-fintech-h1-28bn",
         "investment-vc-key-trends",
         "investment-fintech-h1-286bn",
-        "investment-h1-2026-fintech-funding-surge",
+        "investment-h1-2026-funding-surge",
         "investment-h1-2026-funding-surge-2026-07-23",
         "investment-h1-fintech-funding-2026-07-24",
         "investment-h1-fintech-funding-2026-07-25",
@@ -293,9 +282,9 @@
     },
     {
       "keyword": "korea-face-pay-competition",
-      "count": 14,
+      "count": 15,
       "first_seen": "2026-07-09",
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-07-31",
       "articles": [
         "payments-3-2026-07-09",
         "payments-korea-face-pay",
@@ -310,7 +299,8 @@
         "payments-toss-facepay-2026-07-26",
         "digital-banking-toss-facepay-2026-07-27",
         "payments-toss-facepay-40-2026-07-29",
-        "payments-toss-facepay-40-2026-07-30"
+        "payments-toss-facepay-40-2026-07-30",
+        "payments-toss-facepay-400k-2026-07-31"
       ]
     },
     {
@@ -328,19 +318,6 @@
         "digital-banking-klarna-p2p-neobank",
         "digital-banking-klarna-p2p-2026-07-24",
         "digital-banking-klarna-p2p-2026-07-25"
-      ]
-    },
-    {
-      "keyword": "toss-financial-conglomerate-designation",
-      "count": 5,
-      "first_seen": "2026-07-11",
-      "last_seen": "2026-07-22",
-      "articles": [
-        "regulation-toss-conglomerate",
-        "regulation-toss-conglomerate-2026-07-12",
-        "regulation-toss-conglomerate-2026-07-13",
-        "regulation-toss-kakao-conglomerate-2026-07-17",
-        "regulation-kakao-toss-conglomerate-kr"
       ]
     },
     {
@@ -367,9 +344,9 @@
     },
     {
       "keyword": "digital-payments-ux-shift",
-      "count": 13,
+      "count": 14,
       "first_seen": "2026-07-14",
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-07-31",
       "articles": [
         "payments-ux-shift-2026-07-14",
         "payments-digital-ux-human",
@@ -382,7 +359,8 @@
         "payments-digital-ux-2026-07-24",
         "payments-digital-ux-2026-07-27",
         "payments-digital-ux-shift-2026-07-28",
-        "payments-digital-feel-human-2026-07-30"
+        "payments-digital-feel-human-2026-07-30",
+        "payments-digital-feel-human-2026-07-31"
       ]
     },
     {
@@ -401,9 +379,9 @@
     },
     {
       "keyword": "asia-fintech-tokenization",
-      "count": 8,
+      "count": 9,
       "first_seen": "2026-07-18",
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-07-31",
       "articles": [
         "sea-fintech-tokenization",
         "payments-sea-fintech-tokenization",
@@ -412,18 +390,8 @@
         "payments-sea-fintech-tokenization-2026-07-22",
         "payments-sea-tokenization-2026-07-24",
         "investment-sea-fintech-tokenization-2026-07-25",
-        "payments-sea-fintech-tokenization-2026-07-30"
-      ]
-    },
-    {
-      "keyword": "stripe-paypal-acquisition-offer",
-      "count": 3,
-      "first_seen": "2026-07-20",
-      "last_seen": "2026-07-23",
-      "articles": [
-        "investment-stripe-paypal",
-        "investment-stripe-paypal-53bn",
-        "investment-stripe-paypal-53bn-update-2026-07-23"
+        "payments-sea-fintech-tokenization-2026-07-30",
+        "digital-banking-sea-fintech-tokenization-2026-07-31"
       ]
     },
     {
@@ -451,15 +419,16 @@
     },
     {
       "keyword": "temasek-b2b-payments-acquisition",
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-07-22",
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-07-31",
       "articles": [
         "investment-temasek-b2b-acquisition",
         "investment-temasek-b2b-2026-07-27",
         "investment-temasek-b2b-2026-07-28",
         "investment-temasek-b2b-uk-2026-07-29",
-        "investment-temasek-b2b-uk-2026-07-30"
+        "investment-temasek-b2b-uk-2026-07-30",
+        "investment-temasek-nium-ixaris-2026-07-31"
       ]
     },
     {
@@ -471,27 +440,6 @@
         "payments-stablecoin-tokenized-yield-rwa",
         "payments-stablecoin-yield-rwa-2026-07-28"
       ]
-    },
-    {
-      "keyword": "ramp-stablecoin-b2b-payments",
-      "count": 1,
-      "first_seen": "2026-07-23",
-      "last_seen": "2026-07-23",
-      "articles": ["payments-ramp-stablecoin-b2b"]
-    },
-    {
-      "keyword": "confirmo-stablecoin-subscribe",
-      "count": 1,
-      "first_seen": "2026-07-23",
-      "last_seen": "2026-07-23",
-      "articles": ["payments-confirmo-subscribe"]
-    },
-    {
-      "keyword": "hopae-brazil-digital-id",
-      "count": 1,
-      "first_seen": "2026-07-23",
-      "last_seen": "2026-07-23",
-      "articles": ["payments-hopae-brazil"]
     },
     {
       "keyword": "revolut-australia-banking-license",
@@ -517,20 +465,6 @@
         "investment-augustus-series-b-2026-07-25",
         "investment-augustus-series-b-2026-07-26"
       ]
-    },
-    {
-      "keyword": "moonpay-glide-sixth-deal",
-      "count": 1,
-      "first_seen": "2026-07-23",
-      "last_seen": "2026-07-23",
-      "articles": ["investment-moonpay-glide"]
-    },
-    {
-      "keyword": "regtech-ai-investment-trend",
-      "count": 1,
-      "first_seen": "2026-07-23",
-      "last_seen": "2026-07-23",
-      "articles": ["regulation-regtech-ai-trend"]
     },
     {
       "keyword": "ant-international-global-expansion",
@@ -586,33 +520,36 @@
     },
     {
       "keyword": "stablecoin-yield-prohibition-rwa",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-07-27",
-      "last_seen": "2026-07-29",
+      "last_seen": "2026-07-31",
       "articles": [
         "regulation-stablecoin-yield-rwa-2026-07-27",
-        "regulation-stablecoin-yield-prohibition-2026-07-29"
+        "regulation-stablecoin-yield-prohibition-2026-07-29",
+        "regulation-stablecoin-yield-prohibition-oxford-2026-07-31"
       ]
     },
     {
       "keyword": "doordash-tempo-stablecoin-payouts",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-07-28",
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-07-31",
       "articles": [
         "payments-doordash-tempo-stablecoin-2026-07-28",
         "payments-doordash-tempo-stablecoin-2026-07-29",
-        "payments-doordash-tempo-stablecoin-2026-07-30"
+        "payments-doordash-tempo-stablecoin-2026-07-30",
+        "payments-doordash-tempo-stablecoin-2026-07-31"
       ]
     },
     {
       "keyword": "kulipa-stablecoin-card-seed",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-07-28",
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-07-31",
       "articles": [
         "investment-kulipa-stablecoin-card-2026-07-28",
-        "investment-kulipa-stablecoin-card-2026-07-30"
+        "investment-kulipa-stablecoin-card-2026-07-30",
+        "investment-kulipa-stablecoin-card-2026-07-31"
       ]
     },
     {
@@ -631,12 +568,13 @@
     },
     {
       "keyword": "b2b-stablecoin-infinite-erebor",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-07-29",
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-07-31",
       "articles": [
         "digital-banking-infinite-erebor-2026-07-29",
-        "digital-banking-infinite-erebor-2026-07-30"
+        "digital-banking-infinite-erebor-2026-07-30",
+        "digital-banking-infinite-erebor-2026-07-31"
       ]
     },
     {
@@ -645,6 +583,20 @@
       "first_seen": "2026-07-30",
       "last_seen": "2026-07-30",
       "articles": ["regulation-bloomberg-stablecoin-brief-2026-07-30"]
+    },
+    {
+      "keyword": "increase-bank-fintech-expansion",
+      "count": 1,
+      "first_seen": "2026-07-31",
+      "last_seen": "2026-07-31",
+      "articles": ["digital-banking-increase-bank-fintech-2026-07-31"]
+    },
+    {
+      "keyword": "fintech-ma-july-2026-roundup",
+      "count": 1,
+      "first_seen": "2026-07-31",
+      "last_seen": "2026-07-31",
+      "articles": ["investment-fintech-ma-july-roundup-2026-07-31"]
     }
   ]
 }
