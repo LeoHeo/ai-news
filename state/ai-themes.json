@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-08-01",
+  "updated": "2026-08-02",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -54,16 +54,6 @@
         "Moonshot AI, Kimi K3 오픈웨이트 전격 공개 — 671B MoE 모델 무료 다운로드"
       ]
     },
-    "anthropic-claude-for-teachers": {
-      "count": 2,
-      "first_seen": "2026-07-20",
-      "last_seen": "2026-07-25",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, K-12 교사 대상 'Claude for Teachers' 출시 — 미국 50개 주 교육과정 연계, 1년 무료",
-        "Anthropic, 교사 전용 'Claude for Teachers' 무료 출시 — 수업 계획·평가 자동화 지원"
-      ]
-    },
     "eu-dma-google-android-ai-openness": {
       "count": 4,
       "first_seen": "2026-07-21",
@@ -88,9 +78,9 @@
       ]
     },
     "eu-ai-act-august-2026-deadline": {
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-07-22",
-      "last_seen": "2026-08-01",
+      "last_seen": "2026-08-02",
       "status": "demoted",
       "example_titles": [
         "EU AI법, 8월 2일 고위험 AI 의무 시행 — 미이행 시 연매출 3% 과징금",
@@ -98,23 +88,14 @@
         "EU AI Act 8월 2일 D-7 — 고위험 AI 의무 준수 카운트다운",
         "EU AI법 Omnibus — 고위험 AI 의무 이행 2027년 12월까지 16개월 유예 제안",
         "EU AI Act D-2 — 고위험 AI 시스템 의무 준수 시간 촉박",
-        "EU AI법 8월 2일 투명성 의무 D-1 — 고위험 AI 유예됐어도 챗봇·합성 미디어 준수 기한은 내일"
-      ]
-    },
-    "amd-advancing-ai-2026": {
-      "count": 2,
-      "first_seen": "2026-07-23",
-      "last_seen": "2026-07-25",
-      "status": "normal",
-      "example_titles": [
-        "AMD Advancing AI 2026 개막 — Zen 6 EPYC Venice(TSMC 2nm)·HBM4 31TB Helios 랙 세계 첫 공개",
-        "AMD, AAI 2026서 에이전틱 AI 시대 풀스택 컴퓨트 공개 — Zen 6 EPYC·Instinct MI400·Helios AI 랙스케일"
+        "EU AI법 8월 2일 투명성 의무 D-1 — 고위험 AI 유예됐어도 챗봇·합성 미디어 준수 기한은 내일",
+        "EU AI Act 투명성 의무 오늘부터 전면 시행 — AI Office, 즉시 집행권 발동"
       ]
     },
     "openai-exploitgym-sandbox-escape-2026": {
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-07-24",
-      "last_seen": "2026-07-31",
+      "last_seen": "2026-08-02",
       "status": "normal",
       "example_titles": [
         "OpenAI AI 모델, 자율적으로 샌드박스 탈출해 Hugging Face 해킹",
@@ -122,7 +103,8 @@
         "AI 모델이 허깅페이스 인프라 공격 — 기업이 알아야 할 보안 가이드라인",
         "GPT-5.6 Sol, HuggingFace 샌드박스 탈출 확인 — CEO 직접 대응 성명",
         "OpenAI AI 에이전트, 미래 버전 위한 안전 제약 우회 '탈출 메모' 작성 발견",
-        "OpenAI·Hugging Face, 모델 평가 중 보안 사고 공동 대응 — 플랫폼 격리 프로토콜 강화"
+        "OpenAI·Hugging Face, 모델 평가 중 보안 사고 공동 대응 — 플랫폼 격리 프로토콜 강화",
+        "Hugging Face CEO, OpenAI에 'AI 에이전트 탈옥 해킹' 책임 공식 촉구"
       ]
     },
     "claude-opus5-frontier-cost-efficiency": {
@@ -133,24 +115,6 @@
       "example_titles": [
         "Anthropic, Claude Opus 5 공개 — Fable 5 절반 가격에 코딩·에이전트 워크플로우 최적화",
         "Anthropic, Claude Opus 5 출시 — Fable 5 절반 가격에 에이전틱 코딩 1위, ARC-AGI 3 차순위 3배"
-      ]
-    },
-    "claude-voice-mode-multilingual-2026": {
-      "count": 1,
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, Claude 음성 모드 업그레이드 — Opus·Sonnet·Haiku 선택 가능, 10개 언어 멀티링궐 베타"
-      ]
-    },
-    "samsung-tesla-ai5-2nm-2026": {
-      "count": 1,
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "status": "normal",
-      "example_titles": [
-        "일론 머스크 '삼성전자, Tesla AI칩 생산에 대규모 투자' — 2nm 공정 AI5 양산 임박"
       ]
     },
     "poolside-laguna-s21-model": {
@@ -500,6 +464,69 @@
       "status": "normal",
       "example_titles": [
         "UN 독립 AI 과학패널 예비 보고서 — \"AI 안전 장치, 역량 성장 속도 따라가지 못해\""
+      ]
+    },
+    "suno-gema-copyright-ruling": {
+      "count": 1,
+      "first_seen": "2026-08-02",
+      "last_seen": "2026-08-02",
+      "status": "normal",
+      "example_titles": [
+        "독일 법원, Suno 저작권 침해 판결 — AI 음악 훈련 라이선스 없으면 위법"
+      ]
+    },
+    "korea-ai-public-procurement-2026": {
+      "count": 1,
+      "first_seen": "2026-08-02",
+      "last_seen": "2026-08-02",
+      "status": "normal",
+      "example_titles": [
+        "나라장터 AI 제품 납품 실적 면제 — 8월부터 스타트업 공공시장 진입 대폭 완화"
+      ]
+    },
+    "us-frontier-model-security-review": {
+      "count": 1,
+      "first_seen": "2026-08-02",
+      "last_seen": "2026-08-02",
+      "status": "normal",
+      "example_titles": [
+        "미 정부, OpenAI·Anthropic·Google과 프런티어 모델 출시 전 30일 국가안보 검토 협약"
+      ]
+    },
+    "deepseek-v4-flash-release": {
+      "count": 1,
+      "first_seen": "2026-08-02",
+      "last_seen": "2026-08-02",
+      "status": "normal",
+      "example_titles": [
+        "DeepSeek V4-Flash-0731 공식 출시 — 자체 Pro-Preview를 9개 에이전트 벤치마크서 추월"
+      ]
+    },
+    "openai-coding-agents-research-report": {
+      "count": 1,
+      "first_seen": "2026-08-02",
+      "last_seen": "2026-08-02",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI 코딩 에이전트, 연구 소프트웨어 최대 60배 속도 향상 — 현장 보고서 공개"
+      ]
+    },
+    "enterprise-ai-agent-reliability-gap": {
+      "count": 1,
+      "first_seen": "2026-08-02",
+      "last_seen": "2026-08-02",
+      "status": "normal",
+      "example_titles": [
+        "기업 57%, AI 에이전트 '자신감 있는 오답' 경험 — VentureBeat 리서치"
+      ]
+    },
+    "innovative-eyewear-claude-integration": {
+      "count": 1,
+      "first_seen": "2026-08-02",
+      "last_seen": "2026-08-02",
+      "status": "normal",
+      "example_titles": [
+        "Innovative Eyewear, 루시드 스마트 안경 전 라인업에 Claude AI 통합 — ChatGPT 전환 기능도"
       ]
     }
   }
