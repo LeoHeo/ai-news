@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-08-02",
+  "updated": "2026-08-03",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -66,21 +66,10 @@
         "EU DMA, Google에 Android AI 기본 설정 개방 명령 — 타사 AI 선택권 의무화"
       ]
     },
-    "together-ai-series-c": {
-      "count": 3,
-      "first_seen": "2026-07-22",
-      "last_seen": "2026-07-26",
-      "status": "demoted",
-      "example_titles": [
-        "Together AI, 시리즈 C 8억 달러 조달 — 오픈소스 AI 클라우드 시장 주요 플레이어로 부상",
-        "Together AI, 시리즈 C 8억 달러 조달 — 오픈소스 AI 클라우드 독립 플레이어로 부상",
-        "Together AI, 시리즈 C 8억 달러 유치 — 오픈소스 AI 인프라 확장 가속"
-      ]
-    },
     "eu-ai-act-august-2026-deadline": {
-      "count": 8,
+      "count": 9,
       "first_seen": "2026-07-22",
-      "last_seen": "2026-08-02",
+      "last_seen": "2026-08-03",
       "status": "demoted",
       "example_titles": [
         "EU AI법, 8월 2일 고위험 AI 의무 시행 — 미이행 시 연매출 3% 과징금",
@@ -89,7 +78,8 @@
         "EU AI법 Omnibus — 고위험 AI 의무 이행 2027년 12월까지 16개월 유예 제안",
         "EU AI Act D-2 — 고위험 AI 시스템 의무 준수 시간 촉박",
         "EU AI법 8월 2일 투명성 의무 D-1 — 고위험 AI 유예됐어도 챗봇·합성 미디어 준수 기한은 내일",
-        "EU AI Act 투명성 의무 오늘부터 전면 시행 — AI Office, 즉시 집행권 발동"
+        "EU AI Act 투명성 의무 오늘부터 전면 시행 — AI Office, 즉시 집행권 발동",
+        "EU AI법 8월 2일 투명성 의무 전면 시행 — 챗봇·합성 미디어, AI 출처 표시 즉시 의무화"
       ]
     },
     "openai-exploitgym-sandbox-escape-2026": {
@@ -117,42 +107,6 @@
         "Anthropic, Claude Opus 5 출시 — Fable 5 절반 가격에 에이전틱 코딩 1위, ARC-AGI 3 차순위 3배"
       ]
     },
-    "poolside-laguna-s21-model": {
-      "count": 1,
-      "first_seen": "2026-07-26",
-      "last_seen": "2026-07-26",
-      "status": "normal",
-      "example_titles": [
-        "Poolside Laguna S 2.1 출시 — 코드 생성 특화 모델 업그레이드"
-      ]
-    },
-    "openai-gpt-live-codex": {
-      "count": 1,
-      "first_seen": "2026-07-26",
-      "last_seen": "2026-07-26",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, Codex에 GPT-Live 음성 기능 통합 — 클라우드 코딩 에이전트 진화"
-      ]
-    },
-    "writer-ai-token-harness": {
-      "count": 1,
-      "first_seen": "2026-07-26",
-      "last_seen": "2026-07-26",
-      "status": "normal",
-      "example_titles": [
-        "Writer, AI 하네스로 토큰 사용량 40% 절감 — 기업용 AI 비용 혁신"
-      ]
-    },
-    "anthropic-physical-ai-rumor": {
-      "count": 1,
-      "first_seen": "2026-07-26",
-      "last_seen": "2026-07-26",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, 로보틱스 AI 스타트업 Physical Intelligence 인수 협상 — 물리 AI 진출 신호"
-      ]
-    },
     "enterprise-gpu-utilization-survey": {
       "count": 2,
       "first_seen": "2026-07-26",
@@ -163,15 +117,6 @@
         "기업 GPU 83%, 유휴율 50% 이하 — AI 인프라 투자 대비 실활용률 보고서"
       ]
     },
-    "bespoke-labs-agent-env": {
-      "count": 1,
-      "first_seen": "2026-07-26",
-      "last_seen": "2026-07-26",
-      "status": "normal",
-      "example_titles": [
-        "Bespoke Labs, 시리즈 A 4000만 달러 유치 — AI 에이전트 환경 테스팅 플랫폼"
-      ]
-    },
     "us-openweight-ai-restrictions": {
       "count": 2,
       "first_seen": "2026-07-26",
@@ -180,70 +125,6 @@
       "example_titles": [
         "미국 오픈웨이트 AI 규제안에 빅테크 반발 — '혁신 저해' 공개 반론",
         "미국 오픈웨이트 AI 규제안에 빅테크 반발 — 혁신 저해 vs. 안보 우선 충돌"
-      ]
-    },
-    "korea-ai-government-contracts": {
-      "count": 1,
-      "first_seen": "2026-07-27",
-      "last_seen": "2026-07-27",
-      "status": "normal",
-      "example_titles": [
-        "한국 정부 AI 계약 4조원 규모 — 삼성·LG·카카오 수주 경쟁 본격화"
-      ]
-    },
-    "nathan-lambert-ai-benchmark-analysis": {
-      "count": 1,
-      "first_seen": "2026-07-27",
-      "last_seen": "2026-07-27",
-      "status": "normal",
-      "example_titles": [
-        "Nathan Lambert: 현재 벤치마크는 실제 AI 능력을 측정하지 못한다"
-      ]
-    },
-    "google-gemini-flash-20-update": {
-      "count": 1,
-      "first_seen": "2026-07-27",
-      "last_seen": "2026-07-27",
-      "status": "normal",
-      "example_titles": [
-        "Google Gemini 2.0 Flash 업데이트 — 멀티모달 추론 속도 2배 향상"
-      ]
-    },
-    "china-bio-ai-protein-2026": {
-      "count": 1,
-      "first_seen": "2026-07-27",
-      "last_seen": "2026-07-27",
-      "status": "normal",
-      "example_titles": [
-        "중국 연구팀, AI 기반 단백질 설계로 항암 후보물질 발굴 — Nature 게재"
-      ]
-    },
-    "ai-h1-2026-investment-report": {
-      "count": 2,
-      "first_seen": "2026-07-27",
-      "last_seen": "2026-08-01",
-      "status": "normal",
-      "example_titles": [
-        "2026 상반기 AI 투자 2,340억 달러 기록 — 전년比 61% 급증, 에이전트 AI 주도",
-        "2026년 상반기 글로벌 VC 5,100억 달러 사상 최대 — AI가 미국 벤처 자본의 86% 흡수"
-      ]
-    },
-    "naver-hyperclova-x-enterprise": {
-      "count": 1,
-      "first_seen": "2026-07-27",
-      "last_seen": "2026-07-27",
-      "status": "normal",
-      "example_titles": [
-        "네이버 HyperCLOVA X 엔터프라이즈 버전 출시 — 국내 최초 온프레미스 LLM 패키지"
-      ]
-    },
-    "sam-altman-ai-singularity": {
-      "count": 1,
-      "first_seen": "2026-07-29",
-      "last_seen": "2026-07-29",
-      "status": "normal",
-      "example_titles": [
-        "샘 올트먼 \"AI, 특이점(싱귤래리티)에 진입했다\" 선언 — 우려와 기대 교차"
       ]
     },
     "openai-sol-metr-safety-test": {
@@ -413,12 +294,13 @@
       ]
     },
     "openai-presence-platform": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-01",
-      "last_seen": "2026-08-01",
+      "last_seen": "2026-08-03",
       "status": "normal",
       "example_titles": [
-        "OpenAI Presence 출시 — 기업용 음성·채팅 AI 에이전트, 고객 응대 75% 자동 처리"
+        "OpenAI Presence 출시 — 기업용 음성·채팅 AI 에이전트, 고객 응대 75% 자동 처리",
+        "OpenAI, 기업용 실시간 음성·채팅 AI 에이전트 플랫폼 'Presence' 출시 — 고객 문의 75% 자동 처리"
       ]
     },
     "chatgpt-health-feature": {
@@ -464,6 +346,16 @@
       "status": "normal",
       "example_titles": [
         "UN 독립 AI 과학패널 예비 보고서 — \"AI 안전 장치, 역량 성장 속도 따라가지 못해\""
+      ]
+    },
+    "ai-h1-2026-investment-report": {
+      "count": 2,
+      "first_seen": "2026-07-27",
+      "last_seen": "2026-08-01",
+      "status": "normal",
+      "example_titles": [
+        "2026 상반기 AI 투자 2,340억 달러 기록 — 전년比 61% 급증, 에이전트 AI 주도",
+        "2026년 상반기 글로벌 VC 5,100억 달러 사상 최대 — AI가 미국 벤처 자본의 86% 흡수"
       ]
     },
     "suno-gema-copyright-ruling": {
@@ -527,6 +419,78 @@
       "status": "normal",
       "example_titles": [
         "Innovative Eyewear, 루시드 스마트 안경 전 라인업에 Claude AI 통합 — ChatGPT 전환 기능도"
+      ]
+    },
+    "openai-astra-model-family": {
+      "count": 1,
+      "first_seen": "2026-08-03",
+      "last_seen": "2026-08-03",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, 차세대 모델 패밀리 'Astra' 공식 발표 — 10년 미해결 수학 난제 10건 증명으로 데뷔"
+      ]
+    },
+    "anthropic-claude-ctf-breach": {
+      "count": 1,
+      "first_seen": "2026-08-03",
+      "last_seen": "2026-08-03",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, Claude 모델이 사이버 보안 평가 중 3개 기관 무단 침입한 사실 공개"
+      ]
+    },
+    "google-ai-studio-app-canceled": {
+      "count": 1,
+      "first_seen": "2026-08-03",
+      "last_seen": "2026-08-03",
+      "status": "normal",
+      "example_titles": [
+        "구글, 80만 사전예약에도 AI Studio 모바일 앱 출시 하루 전 돌연 취소 — Gemini 통합"
+      ]
+    },
+    "lg-k-exaone-2-model": {
+      "count": 1,
+      "first_seen": "2026-08-03",
+      "last_seen": "2026-08-03",
+      "status": "normal",
+      "example_titles": [
+        "LG AI Research, 750B 파라미터 오픈소스 K-EXAONE 2.0 공개 — 한국 최대 프런티어 AI"
+      ]
+    },
+    "tsimerman-openai-ai-safety": {
+      "count": 1,
+      "first_seen": "2026-08-03",
+      "last_seen": "2026-08-03",
+      "status": "normal",
+      "example_titles": [
+        "2026 필즈상 수상자 야콥 치메르만, OpenAI 합류 — AI 안전 연구 전념 선언"
+      ]
+    },
+    "us-eo-frontier-model-deadline": {
+      "count": 1,
+      "first_seen": "2026-08-03",
+      "last_seen": "2026-08-03",
+      "status": "normal",
+      "example_titles": [
+        "미 정부, 행정명령 14409 '프런티어 모델' 정의 8월 1일 데드라인 불이행 — AI 규제 불확실성 심화"
+      ]
+    },
+    "ai-compute-spot-price-surge": {
+      "count": 1,
+      "first_seen": "2026-08-03",
+      "last_seen": "2026-08-03",
+      "status": "normal",
+      "example_titles": [
+        "AI 컴퓨트 스팟 가격 2월 대비 40%↑ — 비용 10~15배 급등 시 클라우드 AI 시장 재편 가속"
+      ]
+    },
+    "kakao-kakaotalk-ai-agent": {
+      "count": 1,
+      "first_seen": "2026-08-03",
+      "last_seen": "2026-08-03",
+      "status": "normal",
+      "example_titles": [
+        "카카오, 8월 카카오톡 내 AI 에이전트 출시 예정 — 검색·추천·결제 통합 워크플로우"
       ]
     }
   }
