@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-08-03",
+  "updated": "2026-08-04",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -16,18 +16,6 @@
         "Google DeepMind 노벨상 수상자 존 점퍼, Anthropic으로 이직"
       ]
     },
-    "ai-startup-funding-wave-q3-2026": {
-      "count": 4,
-      "first_seen": "2026-07-10",
-      "last_seen": "2026-07-27",
-      "status": "demoted",
-      "example_titles": [
-        "AI 스타트업 3분기 투자 러시 — 멀티에이전트·멀티모달 스타트업 중심 대형 라운드",
-        "H1 2026 글로벌 스타트업 투자 $5,100억 사상 최대",
-        "AI 에이전트 스타트업 7월 투자 급증 — 12건 이상 딜에서 총 $18억, 기업 자동화 분야 주도",
-        "Q3 2026 AI 스타트업 펀딩 물결 — 3분기 첫 달만 80억 달러 신규 라운드"
-      ]
-    },
     "ftc-ai-accuracy-policy-2026": {
       "count": 9,
       "first_seen": "2026-07-11",
@@ -40,18 +28,6 @@
         "FTC AI 정확도·투명성 가이드라인 마감 D-2 — 기업 컴플라이언스 막판 점검",
         "FTC AI 정확도 정책 의견수렴 내일(7월 31일) 마감 — 기업 AI 허위표시 단속 방향 결정",
         "FTC AI 정확도 정책 의견수렴 마감일 — 주요 기업 컴플라이언스 대응 현황"
-      ]
-    },
-    "moonshot-kimi-k3-moe": {
-      "count": 4,
-      "first_seen": "2026-07-18",
-      "last_seen": "2026-07-27",
-      "status": "demoted",
-      "example_titles": [
-        "Moonshot AI, 2.8조 파라미터 MoE 모델 Kimi K3 공개 — Delta Attention 기반 스파스 활성화",
-        "Moonshot AI Kimi K3, 시장 충격 — TSMC 7% 급락, 나스닥 2.3% 하락",
-        "Kimi K3 구독 일시 중단 — GPU 크런치가 오픈웨이트 전략의 허점을 드러내다",
-        "Moonshot AI, Kimi K3 오픈웨이트 전격 공개 — 671B MoE 모델 무료 다운로드"
       ]
     },
     "eu-dma-google-android-ai-openness": {
@@ -376,24 +352,6 @@
         "나라장터 AI 제품 납품 실적 면제 — 8월부터 스타트업 공공시장 진입 대폭 완화"
       ]
     },
-    "us-frontier-model-security-review": {
-      "count": 1,
-      "first_seen": "2026-08-02",
-      "last_seen": "2026-08-02",
-      "status": "normal",
-      "example_titles": [
-        "미 정부, OpenAI·Anthropic·Google과 프런티어 모델 출시 전 30일 국가안보 검토 협약"
-      ]
-    },
-    "deepseek-v4-flash-release": {
-      "count": 1,
-      "first_seen": "2026-08-02",
-      "last_seen": "2026-08-02",
-      "status": "normal",
-      "example_titles": [
-        "DeepSeek V4-Flash-0731 공식 출시 — 자체 Pro-Preview를 9개 에이전트 벤치마크서 추월"
-      ]
-    },
     "openai-coding-agents-research-report": {
       "count": 1,
       "first_seen": "2026-08-02",
@@ -491,6 +449,89 @@
       "status": "normal",
       "example_titles": [
         "카카오, 8월 카카오톡 내 AI 에이전트 출시 예정 — 검색·추천·결제 통합 워크플로우"
+      ]
+    },
+    "deepseek-v4-flash-release": {
+      "count": 2,
+      "first_seen": "2026-08-02",
+      "last_seen": "2026-08-04",
+      "status": "normal",
+      "example_titles": [
+        "DeepSeek V4-Flash-0731 공식 출시 — 자체 Pro-Preview를 9개 에이전트 벤치마크서 추월",
+        "DeepSeek V4-Flash-0731 정식 출시 — Terminal-Bench 82.7%로 자사 1.6T Pro 추월"
+      ]
+    },
+    "us-frontier-model-security-review": {
+      "count": 2,
+      "first_seen": "2026-08-02",
+      "last_seen": "2026-08-04",
+      "status": "normal",
+      "example_titles": [
+        "미 정부, OpenAI·Anthropic·Google과 프런티어 모델 출시 전 30일 국가안보 검토 협약",
+        "OpenAI·Anthropic, 경쟁사 AI 출시 기준 직접 설계 — 연방 프런티어 AI 심사 임계값 논란"
+      ]
+    },
+    "xai-grok-voice-2-speech": {
+      "count": 1,
+      "first_seen": "2026-08-04",
+      "last_seen": "2026-08-04",
+      "status": "normal",
+      "example_titles": [
+        "xAI Grok Voice Think Fast 2.0 출시 — 음성 AI 전사 정확도 1.5~2배 향상"
+      ]
+    },
+    "ant-ling-flash-opensource": {
+      "count": 1,
+      "first_seen": "2026-08-04",
+      "last_seen": "2026-08-04",
+      "status": "normal",
+      "example_titles": [
+        "Ant Group Ling-3.0-Flash, 오픈소스 공개 임박 — 124B MoE로 자사 1T 플래그십 능가"
+      ]
+    },
+    "openai-chatgpt-academic-researchers": {
+      "count": 1,
+      "first_seen": "2026-08-04",
+      "last_seen": "2026-08-04",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, 학술 연구자 10만 명에 GPT-5.6 Sol Pro 무료 제공 — 2,500억 달러 과학 지원 약정"
+      ]
+    },
+    "openai-anthropic-joint-safety-eval": {
+      "count": 1,
+      "first_seen": "2026-08-04",
+      "last_seen": "2026-08-04",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI·Anthropic, 경쟁사 AI 모델 상호 안전 평가 공개 — 업계 최초 교차 정렬 검증"
+      ]
+    },
+    "ai4-2026-conference-hinton-ng": {
+      "count": 1,
+      "first_seen": "2026-08-04",
+      "last_seen": "2026-08-04",
+      "status": "normal",
+      "example_titles": [
+        "Ai4 2026 개막 — Hinton·Li·Ng 역사상 첫 3인 공동 무대, 1만 2천 명 라스베이거스 집결"
+      ]
+    },
+    "alibaba-deepseek-us-market-2026": {
+      "count": 1,
+      "first_seen": "2026-08-04",
+      "last_seen": "2026-08-04",
+      "status": "normal",
+      "example_titles": [
+        "중국 AI 모델, 미국 기업 채택 가속 — DeepSeek·Alibaba, OpenAI·Anthropic 비용 급등 틈새 공략"
+      ]
+    },
+    "california-ai-transparency-act-2026": {
+      "count": 1,
+      "first_seen": "2026-08-04",
+      "last_seen": "2026-08-04",
+      "status": "normal",
+      "example_titles": [
+        "캘리포니아 AI 투명성법 8월 시행 — 챗봇·AI 생성 콘텐츠 출처 표시 의무화"
       ]
     }
   }
