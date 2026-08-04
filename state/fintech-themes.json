@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updated": "2026-08-03",
+  "updated": "2026-08-04",
   "window_days": 7,
   "themes": [
     {
       "keyword": "us-fintech-regulation",
-      "count": 65,
+      "count": 66,
       "first_seen": "2026-05-24",
-      "last_seen": "2026-08-03",
+      "last_seen": "2026-08-04",
       "articles": [
         "regulation-embedded-regs-june11",
         "embedded-finance-us-regs-june12",
@@ -59,7 +59,8 @@
         "regulation-embedded-finance-us-2026-07-31",
         "regulation-embedded-finance-us-2026-08-01",
         "regulation-embedded-finance-us-2026-08-02",
-        "regulation-embedded-finance-us-2026-08-03"
+        "regulation-embedded-finance-us-2026-08-03",
+        "regulation-embedded-finance-us-2026-08-04"
       ]
     },
     {
@@ -101,9 +102,9 @@
     },
     {
       "keyword": "fintech-funding-weekly-icymi",
-      "count": 35,
+      "count": 36,
       "first_seen": "2026-06-15",
-      "last_seen": "2026-08-03",
+      "last_seen": "2026-08-04",
       "articles": [
         "investment-fintech-funding-icymi-june15",
         "investment-icymi-june17",
@@ -139,7 +140,8 @@
         "investment-icymi-funding-2026-07-28",
         "investment-icymi-funding-2026-08-01",
         "investment-icymi-funding-2026-08-02",
-        "investment-icymi-funding-2026-08-03"
+        "investment-icymi-funding-2026-08-03",
+        "investment-icymi-curant-ai-2026-08-04"
       ]
     },
     {
@@ -201,9 +203,9 @@
     },
     {
       "keyword": "range-stablecoin-compliance-raise",
-      "count": 15,
+      "count": 16,
       "first_seen": "2026-07-04",
-      "last_seen": "2026-08-02",
+      "last_seen": "2026-08-04",
       "articles": [
         "investment-range-2026-07-04",
         "investment-range-raise",
@@ -219,14 +221,15 @@
         "investment-range-stablecoin-2026-07-30",
         "investment-range-stablecoin-2026-07-31",
         "investment-range-stablecoin-2026-08-01",
-        "investment-range-stablecoin-2026-08-02"
+        "investment-range-stablecoin-2026-08-02",
+        "investment-range-stablecoin-2026-08-04"
       ]
     },
     {
       "keyword": "smb-crossborder-fintech-savings",
-      "count": 23,
+      "count": 24,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-08-03",
+      "last_seen": "2026-08-04",
       "articles": [
         "remittance-smb-fintech-growth",
         "remittance-smb-crossborder-2026-07-06",
@@ -250,7 +253,8 @@
         "remittance-smb-36pct-2026-07-31",
         "remittance-smb-36pct-2026-08-01",
         "remittance-smb-36pct-2026-08-02",
-        "remittance-smb-36pct-2026-08-03"
+        "remittance-smb-36pct-2026-08-03",
+        "payments-smb-crossborder-2026-08-04"
       ]
     },
     {
@@ -281,9 +285,9 @@
     },
     {
       "keyword": "korea-face-pay-competition",
-      "count": 16,
+      "count": 17,
       "first_seen": "2026-07-09",
-      "last_seen": "2026-08-03",
+      "last_seen": "2026-08-04",
       "articles": [
         "payments-3-2026-07-09",
         "payments-korea-face-pay",
@@ -300,7 +304,8 @@
         "payments-toss-facepay-40-2026-07-29",
         "payments-toss-facepay-40-2026-07-30",
         "payments-toss-facepay-400k-2026-07-31",
-        "payments-toss-facepay-2026-08-03"
+        "payments-toss-facepay-2026-08-03",
+        "payments-toss-facepay-2026-08-04"
       ]
     },
     {
@@ -327,9 +332,9 @@
     },
     {
       "keyword": "digital-payments-ux-shift",
-      "count": 16,
+      "count": 17,
       "first_seen": "2026-07-14",
-      "last_seen": "2026-08-02",
+      "last_seen": "2026-08-04",
       "articles": [
         "payments-ux-shift-2026-07-14",
         "payments-digital-ux-human",
@@ -345,7 +350,8 @@
         "payments-digital-feel-human-2026-07-30",
         "payments-digital-feel-human-2026-07-31",
         "payments-digital-feel-human-2026-08-01",
-        "payments-digital-feel-human-2026-08-02"
+        "payments-digital-feel-human-2026-08-02",
+        "payments-digital-ux-2026-08-04"
       ]
     },
     {
@@ -364,9 +370,9 @@
     },
     {
       "keyword": "asia-fintech-tokenization",
-      "count": 12,
+      "count": 13,
       "first_seen": "2026-07-18",
-      "last_seen": "2026-08-03",
+      "last_seen": "2026-08-04",
       "articles": [
         "sea-fintech-tokenization",
         "payments-sea-fintech-tokenization",
@@ -379,7 +385,8 @@
         "digital-banking-sea-fintech-tokenization-2026-07-31",
         "digital-banking-sea-fintech-tokenization-2026-08-01",
         "digital-banking-sea-tokenization-2026-08-02",
-        "digital-banking-sea-tokenization-2026-08-03"
+        "digital-banking-sea-tokenization-2026-08-03",
+        "digital-banking-sea-tokenization-2026-08-04"
       ]
     },
     {
@@ -396,9 +403,9 @@
     },
     {
       "keyword": "temasek-b2b-payments-acquisition",
-      "count": 8,
+      "count": 9,
       "first_seen": "2026-07-22",
-      "last_seen": "2026-08-02",
+      "last_seen": "2026-08-04",
       "articles": [
         "investment-temasek-b2b-acquisition",
         "investment-temasek-b2b-2026-07-27",
@@ -407,7 +414,8 @@
         "investment-temasek-b2b-uk-2026-07-30",
         "investment-temasek-nium-ixaris-2026-07-31",
         "investment-nium-ixaris-2026-08-01",
-        "investment-nium-ixaris-2026-08-02"
+        "investment-nium-ixaris-2026-08-02",
+        "investment-nium-2026-08-04"
       ]
     },
     {
@@ -566,10 +574,10 @@
     },
     {
       "keyword": "smfg-sbi-digital-finance",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-03",
-      "last_seen": "2026-08-03",
-      "articles": ["digital-banking-smfg-sbi-2026-08-03"]
+      "last_seen": "2026-08-04",
+      "articles": ["digital-banking-smfg-sbi-2026-08-03", "digital-banking-smfg-sbi-2026-08-04"]
     },
     {
       "keyword": "ice-marketaxess-acquisition",
@@ -591,6 +599,13 @@
       "first_seen": "2026-08-03",
       "last_seen": "2026-08-03",
       "articles": ["investment-seoul-fintech-lab-2026-08-03"]
+    },
+    {
+      "keyword": "india-upi-japan-expansion",
+      "count": 1,
+      "first_seen": "2026-08-04",
+      "last_seen": "2026-08-04",
+      "articles": ["remittance-upi-japan-2026-08-04"]
     }
   ]
 }
