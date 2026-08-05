@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updated": "2026-08-04",
+  "updated": "2026-08-05",
   "window_days": 7,
   "themes": [
     {
       "keyword": "us-fintech-regulation",
-      "count": 66,
+      "count": 67,
       "first_seen": "2026-05-24",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "articles": [
         "regulation-embedded-regs-june11",
         "embedded-finance-us-regs-june12",
@@ -60,7 +60,8 @@
         "regulation-embedded-finance-us-2026-08-01",
         "regulation-embedded-finance-us-2026-08-02",
         "regulation-embedded-finance-us-2026-08-03",
-        "regulation-embedded-finance-us-2026-08-04"
+        "regulation-embedded-finance-us-2026-08-04",
+        "regulation-embedded-finance-us-2026-08-05"
       ]
     },
     {
@@ -102,9 +103,9 @@
     },
     {
       "keyword": "fintech-funding-weekly-icymi",
-      "count": 36,
+      "count": 37,
       "first_seen": "2026-06-15",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "articles": [
         "investment-fintech-funding-icymi-june15",
         "investment-icymi-june17",
@@ -141,14 +142,15 @@
         "investment-icymi-funding-2026-08-01",
         "investment-icymi-funding-2026-08-02",
         "investment-icymi-funding-2026-08-03",
-        "investment-icymi-curant-ai-2026-08-04"
+        "investment-icymi-curant-ai-2026-08-04",
+        "investment-icymi-funding-2026-08-05"
       ]
     },
     {
       "keyword": "mastercard-agent-pay-machines",
-      "count": 29,
+      "count": 30,
       "first_seen": "2026-06-23",
-      "last_seen": "2026-08-03",
+      "last_seen": "2026-08-05",
       "articles": [
         "payments-mastercard-agent-pay-2026-06-23",
         "payments-mastercard-agent-pay-machines-2026-06-26",
@@ -178,27 +180,8 @@
         "payments-mastercard-agent-pay-machines-ap4m-2026-07-31",
         "payments-mastercard-ap4m-stablecoin-2026-08-01",
         "payments-mastercard-ap4m-stablecoin-2026-08-02",
-        "payments-mastercard-ap4m-stablecoin-2026-08-03"
-      ]
-    },
-    {
-      "keyword": "sumup-london-ipo-prep",
-      "count": 12,
-      "first_seen": "2026-07-04",
-      "last_seen": "2026-07-27",
-      "articles": [
-        "investment-sumup-ipo-2026-07-04",
-        "investment-sumup-ipo",
-        "investment-sumup-london-ipo-2026-07-06",
-        "investment-2-2026-07-09",
-        "investment-sumup-ipo",
-        "investment-sumup-ipo",
-        "digital-banking-sumup-consumer-2026-07-19",
-        "investment-sumup-ipo",
-        "digital-banking-sumup-consumer-2026-07-21",
-        "investment-sumup-ipo-2026-07-24",
-        "investment-sumup-ipo-2026-07-26",
-        "digital-banking-sumup-ipo-2026-07-27"
+        "payments-mastercard-ap4m-stablecoin-2026-08-03",
+        "payments-mastercard-bvnk-2026-08-05"
       ]
     },
     {
@@ -227,9 +210,9 @@
     },
     {
       "keyword": "smb-crossborder-fintech-savings",
-      "count": 24,
+      "count": 25,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "articles": [
         "remittance-smb-fintech-growth",
         "remittance-smb-crossborder-2026-07-06",
@@ -254,7 +237,8 @@
         "remittance-smb-36pct-2026-08-01",
         "remittance-smb-36pct-2026-08-02",
         "remittance-smb-36pct-2026-08-03",
-        "payments-smb-crossborder-2026-08-04"
+        "payments-smb-crossborder-2026-08-04",
+        "remittance-smb-crossborder-2026-08-05"
       ]
     },
     {
@@ -285,9 +269,9 @@
     },
     {
       "keyword": "korea-face-pay-competition",
-      "count": 17,
+      "count": 18,
       "first_seen": "2026-07-09",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "articles": [
         "payments-3-2026-07-09",
         "payments-korea-face-pay",
@@ -305,7 +289,8 @@
         "payments-toss-facepay-40-2026-07-30",
         "payments-toss-facepay-400k-2026-07-31",
         "payments-toss-facepay-2026-08-03",
-        "payments-toss-facepay-2026-08-04"
+        "payments-toss-facepay-2026-08-04",
+        "payments-toss-facepay-2026-08-05"
       ]
     },
     {
@@ -332,9 +317,9 @@
     },
     {
       "keyword": "digital-payments-ux-shift",
-      "count": 17,
+      "count": 18,
       "first_seen": "2026-07-14",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "articles": [
         "payments-ux-shift-2026-07-14",
         "payments-digital-ux-human",
@@ -351,28 +336,15 @@
         "payments-digital-feel-human-2026-07-31",
         "payments-digital-feel-human-2026-08-01",
         "payments-digital-feel-human-2026-08-02",
-        "payments-digital-ux-2026-08-04"
-      ]
-    },
-    {
-      "keyword": "visa-stablecoin-platform-launch",
-      "count": 6,
-      "first_seen": "2026-07-17",
-      "last_seen": "2026-07-27",
-      "articles": [
-        "payments-visa-stablecoin-platform",
-        "visa-stablecoin-platform",
-        "payments-visa-stablecoin-2026-07-21",
-        "payments-visa-stablecoin-kr-2026-07-23",
-        "payments-visa-stablecoin-2026-07-24",
-        "regulation-visa-stablecoin-2026-07-27"
+        "payments-digital-ux-2026-08-04",
+        "payments-digital-ux-2026-08-05"
       ]
     },
     {
       "keyword": "asia-fintech-tokenization",
-      "count": 13,
+      "count": 14,
       "first_seen": "2026-07-18",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "articles": [
         "sea-fintech-tokenization",
         "payments-sea-fintech-tokenization",
@@ -386,26 +358,15 @@
         "digital-banking-sea-fintech-tokenization-2026-08-01",
         "digital-banking-sea-tokenization-2026-08-02",
         "digital-banking-sea-tokenization-2026-08-03",
-        "digital-banking-sea-tokenization-2026-08-04"
-      ]
-    },
-    {
-      "keyword": "natural-agentic-payments-raise",
-      "count": 4,
-      "first_seen": "2026-07-21",
-      "last_seen": "2026-07-27",
-      "articles": [
-        "investment-natural-30m-series-a-2026-07-21",
-        "payments-natural-agentic-2026-07-24",
-        "payments-natural-agentic-2026-07-26",
-        "payments-natural-agentic-2026-07-27"
+        "digital-banking-sea-tokenization-2026-08-04",
+        "digital-banking-sea-tokenization-2026-08-05"
       ]
     },
     {
       "keyword": "temasek-b2b-payments-acquisition",
-      "count": 9,
+      "count": 10,
       "first_seen": "2026-07-22",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "articles": [
         "investment-temasek-b2b-acquisition",
         "investment-temasek-b2b-2026-07-27",
@@ -415,43 +376,8 @@
         "investment-temasek-nium-ixaris-2026-07-31",
         "investment-nium-ixaris-2026-08-01",
         "investment-nium-ixaris-2026-08-02",
-        "investment-nium-2026-08-04"
-      ]
-    },
-    {
-      "keyword": "stablecoin-tokenized-yield-rwa",
-      "count": 2,
-      "first_seen": "2026-07-22",
-      "last_seen": "2026-07-28",
-      "articles": [
-        "payments-stablecoin-tokenized-yield-rwa",
-        "payments-stablecoin-yield-rwa-2026-07-28"
-      ]
-    },
-    {
-      "keyword": "revolut-australia-banking-license",
-      "count": 5,
-      "first_seen": "2026-07-23",
-      "last_seen": "2026-07-27",
-      "articles": [
-        "digital-banking-revolut-australia",
-        "digital-banking-revolut-australia-2026-07-24",
-        "digital-banking-revolut-australia-2026-07-25",
-        "digital-banking-revolut-australia-2026-07-26",
-        "digital-banking-revolut-australia-2026-07-27"
-      ]
-    },
-    {
-      "keyword": "ant-international-global-expansion",
-      "count": 5,
-      "first_seen": "2026-07-24",
-      "last_seen": "2026-07-28",
-      "articles": [
-        "investment-ant-international-2026-07-24",
-        "investment-ant-international-2026-07-25",
-        "investment-ant-international-2026-07-26",
-        "remittance-ant-international-2026-07-27",
-        "investment-ant-international-2026-07-28"
+        "investment-nium-2026-08-04",
+        "investment-nium-ixaris-2026-08-05"
       ]
     },
     {
@@ -556,13 +482,14 @@
     },
     {
       "keyword": "sokin-b2b-fintech-raise",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-08-01",
-      "last_seen": "2026-08-03",
+      "last_seen": "2026-08-05",
       "articles": [
         "investment-sokin-50m-2026-08-01",
         "investment-sokin-50m-2026-08-02",
-        "investment-sokin-50m-2026-08-03"
+        "investment-sokin-50m-2026-08-03",
+        "investment-sokin-50m-2026-08-05"
       ]
     },
     {
@@ -574,10 +501,14 @@
     },
     {
       "keyword": "smfg-sbi-digital-finance",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-03",
-      "last_seen": "2026-08-04",
-      "articles": ["digital-banking-smfg-sbi-2026-08-03", "digital-banking-smfg-sbi-2026-08-04"]
+      "last_seen": "2026-08-05",
+      "articles": [
+        "digital-banking-smfg-sbi-2026-08-03",
+        "digital-banking-smfg-sbi-2026-08-04",
+        "digital-banking-smfg-sbi-2026-08-05"
+      ]
     },
     {
       "keyword": "ice-marketaxess-acquisition",
@@ -602,10 +533,13 @@
     },
     {
       "keyword": "india-upi-japan-expansion",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-04",
-      "articles": ["remittance-upi-japan-2026-08-04"]
+      "last_seen": "2026-08-05",
+      "articles": [
+        "remittance-upi-japan-2026-08-04",
+        "remittance-india-upi-japan-2026-08-05"
+      ]
     }
   ]
 }
