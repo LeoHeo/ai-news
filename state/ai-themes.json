@@ -1,21 +1,9 @@
 {
   "topic": "ai",
-  "updated": "2026-08-05",
+  "updated": "2026-08-06",
   "version": 1,
   "window_days": 7,
   "themes": {
-    "deepmind-talent-exodus-2026": {
-      "count": 4,
-      "first_seen": "2026-07-10",
-      "last_seen": "2026-07-29",
-      "status": "demoted",
-      "example_titles": [
-        "구글 딥마인드, 핵심 연구진 대거 이탈 — 스타트업 창업·경쟁사 이직 러시",
-        "Google DeepMind 연구원 이탈 가속 — 전직 VP·시니어 과학자 다수 스타트업·경쟁사로 이동",
-        "딥마인드 출신들, 속속 OpenAI·Anthropic으로 — 노암 샤지어 OpenAI 합류, 존 점퍼 Anthropic 이동 확인",
-        "Google DeepMind 노벨상 수상자 존 점퍼, Anthropic으로 이직"
-      ]
-    },
     "ftc-ai-accuracy-policy-2026": {
       "count": 9,
       "first_seen": "2026-07-11",
@@ -28,18 +16,6 @@
         "FTC AI 정확도·투명성 가이드라인 마감 D-2 — 기업 컴플라이언스 막판 점검",
         "FTC AI 정확도 정책 의견수렴 내일(7월 31일) 마감 — 기업 AI 허위표시 단속 방향 결정",
         "FTC AI 정확도 정책 의견수렴 마감일 — 주요 기업 컴플라이언스 대응 현황"
-      ]
-    },
-    "eu-dma-google-android-ai-openness": {
-      "count": 4,
-      "first_seen": "2026-07-21",
-      "last_seen": "2026-07-29",
-      "status": "demoted",
-      "example_titles": [
-        "EU, DMA로 구글에 Android AI 개방 명령 — 경쟁 AI 어시스턴트 접근 허용 의무화",
-        "구글, EU DMA 이행 계획 공개 — 경쟁 AI 어시스턴트 API 베타 8월 제공",
-        "EU, DMA로 구글에 Android AI 개방 명령 — 구글, 경쟁 AI 어시스턴트 API 베타 8월 제공 계획 공개",
-        "EU DMA, Google에 Android AI 기본 설정 개방 명령 — 타사 AI 선택권 의무화"
       ]
     },
     "eu-ai-act-august-2026-deadline": {
@@ -92,52 +68,6 @@
       "example_titles": [
         "기업 GPU 83% 유휴: AI 인프라 투자 낭비 실태 보고서",
         "기업 GPU 83%, 유휴율 50% 이하 — AI 인프라 투자 대비 실활용률 보고서"
-      ]
-    },
-    "us-openweight-ai-restrictions": {
-      "count": 2,
-      "first_seen": "2026-07-26",
-      "last_seen": "2026-07-29",
-      "status": "normal",
-      "example_titles": [
-        "미국 오픈웨이트 AI 규제안에 빅테크 반발 — '혁신 저해' 공개 반론",
-        "미국 오픈웨이트 AI 규제안에 빅테크 반발 — 혁신 저해 vs. 안보 우선 충돌"
-      ]
-    },
-    "openai-sol-metr-safety-test": {
-      "count": 1,
-      "first_seen": "2026-07-29",
-      "last_seen": "2026-07-29",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI Sol, METR 자율성 평가 '게이밍' 논란 — AI 안전 테스트 신뢰성 도전"
-      ]
-    },
-    "upstage-solar-open-2": {
-      "count": 1,
-      "first_seen": "2026-07-29",
-      "last_seen": "2026-07-29",
-      "status": "normal",
-      "example_titles": [
-        "업스테이지, 자율 작업 특화 오픈웨이트 모델 'Solar Open 2' 공개"
-      ]
-    },
-    "grok-leaderboard-july-2026": {
-      "count": 1,
-      "first_seen": "2026-07-29",
-      "last_seen": "2026-07-29",
-      "status": "normal",
-      "example_titles": [
-        "Grok 4.3, LMArena 리더보드 1위 등극 — GPT-4o·Gemini 2.5 Pro 제쳐"
-      ]
-    },
-    "nvidia-openai-datacenter-2026": {
-      "count": 1,
-      "first_seen": "2026-07-29",
-      "last_seen": "2026-07-29",
-      "status": "normal",
-      "example_titles": [
-        "Nvidia-OpenAI, 미국 내 대규모 데이터센터 공동 구축 협력 추진"
       ]
     },
     "claude-fable-jacobian-conjecture": {
@@ -329,7 +259,7 @@
       "count": 3,
       "first_seen": "2026-07-27",
       "last_seen": "2026-08-05",
-      "status": "normal",
+      "status": "demoted",
       "example_titles": [
         "2026 상반기 AI 투자 2,340억 달러 기록 — 전년比 61% 급증, 에이전트 AI 주도",
         "2026년 상반기 글로벌 VC 5,100억 달러 사상 최대 — AI가 미국 벤처 자본의 86% 흡수",
@@ -606,6 +536,96 @@
       "status": "normal",
       "example_titles": [
         "인천국제공항공사, AI 혁신 이끌 유망 스타트업 집중 육성 나서"
+      ]
+    },
+    "google-deepmind-hassabis-chairman": {
+      "count": 1,
+      "first_seen": "2026-08-06",
+      "last_seen": "2026-08-06",
+      "status": "normal",
+      "example_titles": [
+        "구글 딥마인드 CEO 하사비스, 의장직으로 이동 — 27년 구글 베테랑 제프 딘도 퇴사"
+      ]
+    },
+    "perplexity-amazon-ninth-circuit": {
+      "count": 1,
+      "first_seen": "2026-08-06",
+      "last_seen": "2026-08-06",
+      "status": "normal",
+      "example_titles": [
+        "미 제9항소법원, 퍼플렉시티 AI 에이전트의 아마존 접근 금지 가처분 파기 — 미국 첫 AI 에이전트 웹 접근권 판결"
+      ]
+    },
+    "apple-openai-trade-secrets-injunction": {
+      "count": 1,
+      "first_seen": "2026-08-06",
+      "last_seen": "2026-08-06",
+      "status": "normal",
+      "example_titles": [
+        "애플, 오픈AI 상대 가처분 신청 — 영업비밀 소송에 전직 직원 11명 추가"
+      ]
+    },
+    "qwen38-max-alibaba": {
+      "count": 1,
+      "first_seen": "2026-08-06",
+      "last_seen": "2026-08-06",
+      "status": "normal",
+      "example_titles": [
+        "알리바바, 2.4조 파라미터 Qwen3.8-Max 공개 — 오픈소스 예정, 1M 토큰 컨텍스트"
+      ]
+    },
+    "samsung-zhbm-3d-memory-fms2026": {
+      "count": 1,
+      "first_seen": "2026-08-06",
+      "last_seen": "2026-08-06",
+      "status": "normal",
+      "example_titles": [
+        "삼성, FMS 2026서 차세대 3D 메모리 zHBM 로드맵 공개 — HBM5 대비 성능 8배"
+      ]
+    },
+    "skhynix-sandisk-hbf-standard": {
+      "count": 1,
+      "first_seen": "2026-08-06",
+      "last_seen": "2026-08-06",
+      "status": "normal",
+      "example_titles": [
+        "SK하이닉스·샌디스크, 세계 최초 HBF(고대역 플래시) 표준 공개 — HBM과 SSD 사이 새 AI 메모리 계층"
+      ]
+    },
+    "anthropic-global-cuellar": {
+      "count": 1,
+      "first_seen": "2026-08-06",
+      "last_seen": "2026-08-06",
+      "status": "normal",
+      "example_titles": [
+        "앤트로픽, 前 캘리포니아 대법관 티노 쿠에야르를 초대 최고글로벌담당관(CGAO)으로 임명"
+      ]
+    },
+    "novee-blackhat-coding-agent-flaws": {
+      "count": 1,
+      "first_seen": "2026-08-06",
+      "last_seen": "2026-08-06",
+      "status": "normal",
+      "example_titles": [
+        "보안 스타트업 Novee, 블랙햇에서 클로드 코드·Gemini CLI·OpenAI Codex의 RCE·정보 유출 취약점 공개"
+      ]
+    },
+    "korea-ai-education-conference-2026": {
+      "count": 1,
+      "first_seen": "2026-08-06",
+      "last_seen": "2026-08-06",
+      "status": "normal",
+      "example_titles": [
+        "교육부, 부산 벡스코서 'AI 활용 교육 콘퍼런스' 개최 — 전국 교원 1만 명 참가"
+      ]
+    },
+    "blackhat-2026-ai-security-products": {
+      "count": 1,
+      "first_seen": "2026-08-06",
+      "last_seen": "2026-08-06",
+      "status": "normal",
+      "example_titles": [
+        "블랙햇 USA 2026 AI 보안 제품 출시 라운드업: Acalvio·Zero Networks·Snyk"
       ]
     }
   }
