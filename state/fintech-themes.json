@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updated": "2026-08-05",
+  "updated": "2026-08-06",
   "window_days": 7,
   "themes": [
     {
       "keyword": "us-fintech-regulation",
-      "count": 67,
+      "count": 68,
       "first_seen": "2026-05-24",
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-08-06",
       "articles": [
         "regulation-embedded-regs-june11",
         "embedded-finance-us-regs-june12",
@@ -61,7 +61,8 @@
         "regulation-embedded-finance-us-2026-08-02",
         "regulation-embedded-finance-us-2026-08-03",
         "regulation-embedded-finance-us-2026-08-04",
-        "regulation-embedded-finance-us-2026-08-05"
+        "regulation-embedded-finance-us-2026-08-05",
+        "regulation-embedded-finance-us-2026-08-06"
       ]
     },
     {
@@ -148,9 +149,9 @@
     },
     {
       "keyword": "mastercard-agent-pay-machines",
-      "count": 30,
+      "count": 31,
       "first_seen": "2026-06-23",
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-08-06",
       "articles": [
         "payments-mastercard-agent-pay-2026-06-23",
         "payments-mastercard-agent-pay-machines-2026-06-26",
@@ -181,14 +182,15 @@
         "payments-mastercard-ap4m-stablecoin-2026-08-01",
         "payments-mastercard-ap4m-stablecoin-2026-08-02",
         "payments-mastercard-ap4m-stablecoin-2026-08-03",
-        "payments-mastercard-bvnk-2026-08-05"
+        "payments-mastercard-bvnk-2026-08-05",
+        "payments-mastercard-ap4m-2026-08-06"
       ]
     },
     {
       "keyword": "range-stablecoin-compliance-raise",
-      "count": 16,
+      "count": 17,
       "first_seen": "2026-07-04",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-06",
       "articles": [
         "investment-range-2026-07-04",
         "investment-range-raise",
@@ -205,14 +207,15 @@
         "investment-range-stablecoin-2026-07-31",
         "investment-range-stablecoin-2026-08-01",
         "investment-range-stablecoin-2026-08-02",
-        "investment-range-stablecoin-2026-08-04"
+        "investment-range-stablecoin-2026-08-04",
+        "investment-range-stablecoin-2026-08-06"
       ]
     },
     {
       "keyword": "smb-crossborder-fintech-savings",
-      "count": 25,
+      "count": 26,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-08-06",
       "articles": [
         "remittance-smb-fintech-growth",
         "remittance-smb-crossborder-2026-07-06",
@@ -238,14 +241,15 @@
         "remittance-smb-36pct-2026-08-02",
         "remittance-smb-36pct-2026-08-03",
         "payments-smb-crossborder-2026-08-04",
-        "remittance-smb-crossborder-2026-08-05"
+        "remittance-smb-crossborder-2026-08-05",
+        "remittance-smb-crossborder-2026-08-06"
       ]
     },
     {
       "keyword": "fintech-vc-forecast-2026",
-      "count": 18,
+      "count": 19,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-08-06",
       "articles": [
         "investment-fintech-crunchbase",
         "investment-vc-trends-2026-2026-07-14",
@@ -264,14 +268,15 @@
         "investment-h1-fintech-funding-2026-07-27",
         "investment-european-fintech-h1-2026-07-28",
         "investment-h1-2026-fintech-28b-2026-07-29",
-        "investment-h1-fintech-funding-2026-07-30"
+        "investment-h1-fintech-funding-2026-07-30",
+        "investment-h1-fintech-funding-2026-08-06"
       ]
     },
     {
       "keyword": "korea-face-pay-competition",
-      "count": 18,
+      "count": 19,
       "first_seen": "2026-07-09",
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-08-06",
       "articles": [
         "payments-3-2026-07-09",
         "payments-korea-face-pay",
@@ -290,29 +295,8 @@
         "payments-toss-facepay-400k-2026-07-31",
         "payments-toss-facepay-2026-08-03",
         "payments-toss-facepay-2026-08-04",
-        "payments-toss-facepay-2026-08-05"
-      ]
-    },
-    {
-      "keyword": "us-obbba-remittance-tax",
-      "count": 14,
-      "first_seen": "2026-07-14",
-      "last_seen": "2026-07-29",
-      "articles": [
-        "remittance-obbba-tax-crossborder-2026-07-14",
-        "remittance-obbba-tax-analysis",
-        "remittance-obbba-1pct-fee",
-        "remittance-obbba-tax-analysis-2026-07-17",
-        "remittance-obbba-1pct-fee-2026-07-19",
-        "remittance-obbba-1pct",
-        "remittance-obbba-tax-2026-07-21",
-        "remittance-obbba-1pct-fee-analysis",
-        "remittance-obbba-excise-relief-2026-07-23",
-        "remittance-obbba-tax-2026-07-24",
-        "remittance-obbba-tax-2026-07-25",
-        "remittance-obbba-tax-2026-07-27",
-        "remittance-obbba-tax-2026-07-28",
-        "remittance-obbba-1pct-tax-2026-07-29"
+        "payments-toss-facepay-2026-08-05",
+        "payments-toss-facepay-2026-08-06"
       ]
     },
     {
@@ -342,9 +326,9 @@
     },
     {
       "keyword": "asia-fintech-tokenization",
-      "count": 14,
+      "count": 15,
       "first_seen": "2026-07-18",
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-08-06",
       "articles": [
         "sea-fintech-tokenization",
         "payments-sea-fintech-tokenization",
@@ -359,7 +343,8 @@
         "digital-banking-sea-tokenization-2026-08-02",
         "digital-banking-sea-tokenization-2026-08-03",
         "digital-banking-sea-tokenization-2026-08-04",
-        "digital-banking-sea-tokenization-2026-08-05"
+        "digital-banking-sea-tokenization-2026-08-05",
+        "digital-banking-sea-tokenization-2026-08-06"
       ]
     },
     {
@@ -533,13 +518,63 @@
     },
     {
       "keyword": "india-upi-japan-expansion",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-08-06",
       "articles": [
         "remittance-upi-japan-2026-08-04",
-        "remittance-india-upi-japan-2026-08-05"
+        "remittance-india-upi-japan-2026-08-05",
+        "remittance-upi-japan-expansion-2026-08-06"
       ]
+    },
+    {
+      "keyword": "visa-biocatch-acquisition",
+      "count": 1,
+      "first_seen": "2026-08-06",
+      "last_seen": "2026-08-06",
+      "articles": ["investment-visa-biocatch-2026-08-06"]
+    },
+    {
+      "keyword": "palmpay-hk-ipo",
+      "count": 1,
+      "first_seen": "2026-08-06",
+      "last_seen": "2026-08-06",
+      "articles": ["investment-palmpay-hk-ipo-2026-08-06"]
+    },
+    {
+      "keyword": "n5deal-fintechs-outacquire",
+      "count": 1,
+      "first_seen": "2026-08-06",
+      "last_seen": "2026-08-06",
+      "articles": ["investment-n5deal-outacquire-2026-08-06"]
+    },
+    {
+      "keyword": "malaysia-rtp-security-ai",
+      "count": 1,
+      "first_seen": "2026-08-06",
+      "last_seen": "2026-08-06",
+      "articles": ["payments-malaysia-rtp-security-2026-08-06"]
+    },
+    {
+      "keyword": "afinit-vietnam-partnership",
+      "count": 1,
+      "first_seen": "2026-08-06",
+      "last_seen": "2026-08-06",
+      "articles": ["lending-afinit-vietnam-2026-08-06"]
+    },
+    {
+      "keyword": "fintechos-profitability-us",
+      "count": 1,
+      "first_seen": "2026-08-06",
+      "last_seen": "2026-08-06",
+      "articles": ["digital-banking-fintechos-2026-08-06"]
+    },
+    {
+      "keyword": "dakota-bank-charter-stablecoin",
+      "count": 1,
+      "first_seen": "2026-08-06",
+      "last_seen": "2026-08-06",
+      "articles": ["regulation-dakota-bank-charter-2026-08-06"]
     }
   ]
 }
