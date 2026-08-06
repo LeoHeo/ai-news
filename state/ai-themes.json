@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-08-06",
+  "updated": "2026-08-07",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -50,6 +50,17 @@
         "자율 AI 해킹 법적 책임, 제조사·운영자·사용자 중 누가?"
       ]
     },
+    "ai-h1-2026-investment-report": {
+      "count": 3,
+      "first_seen": "2026-07-27",
+      "last_seen": "2026-08-05",
+      "status": "demoted",
+      "example_titles": [
+        "2026 상반기 AI 투자 2,340억 달러 기록 — 전년比 61% 급증, 에이전트 AI 주도",
+        "2026년 상반기 글로벌 VC 5,100억 달러 사상 최대 — AI가 미국 벤처 자본의 86% 흡수",
+        "2026 상반기 북미 스타트업 투자 3,920억 달러 사상 최대 — AI가 주도"
+      ]
+    },
     "claude-opus5-frontier-cost-efficiency": {
       "count": 2,
       "first_seen": "2026-07-25",
@@ -58,43 +69,6 @@
       "example_titles": [
         "Anthropic, Claude Opus 5 공개 — Fable 5 절반 가격에 코딩·에이전트 워크플로우 최적화",
         "Anthropic, Claude Opus 5 출시 — Fable 5 절반 가격에 에이전틱 코딩 1위, ARC-AGI 3 차순위 3배"
-      ]
-    },
-    "enterprise-gpu-utilization-survey": {
-      "count": 2,
-      "first_seen": "2026-07-26",
-      "last_seen": "2026-07-30",
-      "status": "normal",
-      "example_titles": [
-        "기업 GPU 83% 유휴: AI 인프라 투자 낭비 실태 보고서",
-        "기업 GPU 83%, 유휴율 50% 이하 — AI 인프라 투자 대비 실활용률 보고서"
-      ]
-    },
-    "claude-fable-jacobian-conjecture": {
-      "count": 1,
-      "first_seen": "2026-07-30",
-      "last_seen": "2026-07-30",
-      "status": "normal",
-      "example_titles": [
-        "테런스 타오, Claude Fable 5의 야코비안 추측 반증 사례 ChatGPT로 심층 분석 공개"
-      ]
-    },
-    "amd-core-scientific-datacenter": {
-      "count": 1,
-      "first_seen": "2026-07-30",
-      "last_seen": "2026-07-30",
-      "status": "normal",
-      "example_titles": [
-        "AMD, Core Scientific와 530MW AI 데이터센터 15년 계약 — 140억 달러 규모"
-      ]
-    },
-    "naver-skt-samsung-sds-ai-expand": {
-      "count": 1,
-      "first_seen": "2026-07-30",
-      "last_seen": "2026-07-30",
-      "status": "normal",
-      "example_titles": [
-        "네이버·SKT·삼성SDS, AI 사업 전방위 확대 — AI 팩토리·인프라·기업용 AI 동시 가속"
       ]
     },
     "pacing-frontier-ai-letter": {
@@ -255,17 +229,6 @@
         "UN 독립 AI 과학패널 예비 보고서 — \"AI 안전 장치, 역량 성장 속도 따라가지 못해\""
       ]
     },
-    "ai-h1-2026-investment-report": {
-      "count": 3,
-      "first_seen": "2026-07-27",
-      "last_seen": "2026-08-05",
-      "status": "demoted",
-      "example_titles": [
-        "2026 상반기 AI 투자 2,340억 달러 기록 — 전년比 61% 급증, 에이전트 AI 주도",
-        "2026년 상반기 글로벌 VC 5,100억 달러 사상 최대 — AI가 미국 벤처 자본의 86% 흡수",
-        "2026 상반기 북미 스타트업 투자 3,920억 달러 사상 최대 — AI가 주도"
-      ]
-    },
     "suno-gema-copyright-ruling": {
       "count": 1,
       "first_seen": "2026-08-02",
@@ -309,6 +272,26 @@
       "status": "normal",
       "example_titles": [
         "Innovative Eyewear, 루시드 스마트 안경 전 라인업에 Claude AI 통합 — ChatGPT 전환 기능도"
+      ]
+    },
+    "deepseek-v4-flash-release": {
+      "count": 2,
+      "first_seen": "2026-08-02",
+      "last_seen": "2026-08-04",
+      "status": "normal",
+      "example_titles": [
+        "DeepSeek V4-Flash-0731 공식 출시 — 자체 Pro-Preview를 9개 에이전트 벤치마크서 추월",
+        "DeepSeek V4-Flash-0731 정식 출시 — Terminal-Bench 82.7%로 자사 1.6T Pro 추월"
+      ]
+    },
+    "us-frontier-model-security-review": {
+      "count": 2,
+      "first_seen": "2026-08-02",
+      "last_seen": "2026-08-04",
+      "status": "normal",
+      "example_titles": [
+        "미 정부, OpenAI·Anthropic·Google과 프런티어 모델 출시 전 30일 국가안보 검토 협약",
+        "OpenAI·Anthropic, 경쟁사 AI 출시 기준 직접 설계 — 연방 프런티어 AI 심사 임계값 논란"
       ]
     },
     "openai-astra-model-family": {
@@ -381,26 +364,6 @@
       "status": "normal",
       "example_titles": [
         "카카오, 8월 카카오톡 내 AI 에이전트 출시 예정 — 검색·추천·결제 통합 워크플로우"
-      ]
-    },
-    "deepseek-v4-flash-release": {
-      "count": 2,
-      "first_seen": "2026-08-02",
-      "last_seen": "2026-08-04",
-      "status": "normal",
-      "example_titles": [
-        "DeepSeek V4-Flash-0731 공식 출시 — 자체 Pro-Preview를 9개 에이전트 벤치마크서 추월",
-        "DeepSeek V4-Flash-0731 정식 출시 — Terminal-Bench 82.7%로 자사 1.6T Pro 추월"
-      ]
-    },
-    "us-frontier-model-security-review": {
-      "count": 2,
-      "first_seen": "2026-08-02",
-      "last_seen": "2026-08-04",
-      "status": "normal",
-      "example_titles": [
-        "미 정부, OpenAI·Anthropic·Google과 프런티어 모델 출시 전 30일 국가안보 검토 협약",
-        "OpenAI·Anthropic, 경쟁사 AI 출시 기준 직접 설계 — 연방 프런티어 AI 심사 임계값 논란"
       ]
     },
     "xai-grok-voice-2-speech": {
@@ -476,12 +439,13 @@
       ]
     },
     "poolside-laguna-xs-21": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-08-07",
       "status": "normal",
       "example_titles": [
-        "Poolside, 에이전틱 코딩 모델 Laguna XS 2.1 업데이트 공개"
+        "Poolside, 에이전틱 코딩 모델 Laguna XS 2.1 업데이트 공개",
+        "Poolside, Laguna XS 2.1 오픈소스 공개 — 33B MoE, 단일 GPU로 경쟁 10배 규모 모델 능가"
       ]
     },
     "benioff-ai-deployment-startup": {
@@ -539,12 +503,13 @@
       ]
     },
     "google-deepmind-hassabis-chairman": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-06",
-      "last_seen": "2026-08-06",
+      "last_seen": "2026-08-07",
       "status": "normal",
       "example_titles": [
-        "구글 딥마인드 CEO 하사비스, 의장직으로 이동 — 27년 구글 베테랑 제프 딘도 퇴사"
+        "구글 딥마인드 CEO 하사비스, 의장직으로 이동 — 27년 구글 베테랑 제프 딘도 퇴사",
+        "구글 DeepMind 인사 대지진 — Hassabis 의장 전환, Gemini 수장 Shazeer→OpenAI·AlphaFold 수장 Jumper→Anthropic"
       ]
     },
     "perplexity-amazon-ninth-circuit": {
@@ -626,6 +591,51 @@
       "status": "normal",
       "example_titles": [
         "블랙햇 USA 2026 AI 보안 제품 출시 라운드업: Acalvio·Zero Networks·Snyk"
+      ]
+    },
+    "jeff-dean-discovery-loop": {
+      "count": 1,
+      "first_seen": "2026-08-07",
+      "last_seen": "2026-08-07",
+      "status": "normal",
+      "example_titles": [
+        "구글 AI 전설 Jeff Dean 등 4인, 퇴사 후 Discovery Loop 창업 — AI로 과학적 발견 자동화"
+      ]
+    },
+    "meta-muse-code-launch": {
+      "count": 1,
+      "first_seen": "2026-08-07",
+      "last_seen": "2026-08-07",
+      "status": "normal",
+      "example_titles": [
+        "Meta, 터미널 코딩 에이전트 Muse Code 베타 출시 — 비동기 지속 멀티에이전트 조율, Muse Spark 1.2 기반"
+      ]
+    },
+    "ai-agent-multi-agent-coordination": {
+      "count": 1,
+      "first_seen": "2026-08-07",
+      "last_seen": "2026-08-07",
+      "status": "normal",
+      "example_titles": [
+        "VentureBeat: AI의 다음 병목은 모델이 아닌 에이전트 간 협업 능력"
+      ]
+    },
+    "ai-post-summer-industry-outlook": {
+      "count": 1,
+      "first_seen": "2026-08-07",
+      "last_seen": "2026-08-07",
+      "status": "normal",
+      "example_titles": [
+        "VentureBeat: AI 여름 이후 — 인공지능 산업의 다음 과제는 추론·에이전트·에너지·노동"
+      ]
+    },
+    "korea-kstartup-ai-league-2026": {
+      "count": 1,
+      "first_seen": "2026-08-07",
+      "last_seen": "2026-08-07",
+      "status": "normal",
+      "example_titles": [
+        "올해의 K-스타트업 2026 개막 — AI 리그 신설로 국내 AI 스타트업 육성 전면화"
       ]
     }
   }
