@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updated": "2026-08-06",
+  "updated": "2026-08-07",
   "window_days": 7,
   "themes": [
     {
       "keyword": "us-fintech-regulation",
-      "count": 68,
+      "count": 69,
       "first_seen": "2026-05-24",
-      "last_seen": "2026-08-06",
+      "last_seen": "2026-08-07",
       "articles": [
         "regulation-embedded-regs-june11",
         "embedded-finance-us-regs-june12",
@@ -62,44 +62,48 @@
         "regulation-embedded-finance-us-2026-08-03",
         "regulation-embedded-finance-us-2026-08-04",
         "regulation-embedded-finance-us-2026-08-05",
-        "regulation-embedded-finance-us-2026-08-06"
+        "regulation-embedded-finance-us-2026-08-06",
+        "us-embedded-finance-regulation-2026-08-07"
       ]
     },
     {
-      "keyword": "bnpl-debit-card-convergence",
-      "count": 42,
-      "first_seen": "2026-05-25",
-      "last_seen": "2026-07-29",
+      "keyword": "mastercard-agent-pay-machines",
+      "count": 32,
+      "first_seen": "2026-06-23",
+      "last_seen": "2026-08-07",
       "articles": [
-        "lending-bnpl-debit-june11",
-        "bnpl-debit-june12",
-        "lending-bnpl-card-linked-2026-06-19",
-        "lending-bnpl-debit-convergence-2026-06-22",
-        "lending-bnpl-debit-2026-06-24",
-        "lending-bnpl-debit-fiserv-2026-06-25",
-        "lending-bnpl-debit-convergence-2026-06-26",
-        "lending-bnpl-debit-2026-06-27",
-        "lending-bnpl-debit-2026-06-28",
-        "lending-bnpl-fiserv-affirm-2026-06-30",
-        "lending-bnpl-debit-2026-07-01",
-        "lending-bnpl-debit-2026-07-02",
-        "lending-bnpl-debit",
-        "lending-bnpl-debit-convergence-2026-07-06",
-        "lending-fca-bnpl-regulation-2026-07-07",
-        "lending-2-2026-07-09",
-        "lending-bnpl-cards-wallets",
-        "lending-bnpl-debit-convergence-2026-07-14",
-        "bnpl-cards-wallets",
-        "lending-klarna-bnpl-economics-2026-07-19",
-        "lending-bnpl-regulation-july",
-        "lending-bnpl-debit-2026-07-21",
-        "lending-bnpl-rules-2026",
-        "lending-bnpl-card-linked-2026-07-24",
-        "lending-bnpl-debit-convergence-2026-07-25",
-        "regulation-fca-bnpl-2026-07-26",
-        "regulation-fca-bnpl-2026-07-27",
-        "lending-bnpl-card-linked-2026-07-28",
-        "lending-bnpl-card-linked-2026-07-29"
+        "payments-mastercard-agent-pay-2026-06-23",
+        "payments-mastercard-agent-pay-machines-2026-06-26",
+        "payments-mastercard-agent-pay-2026-06-27",
+        "payments-mastercard-ap4m-2026-06-28",
+        "payments-mastercard-ap4m-2026-06-29",
+        "payments-mastercard-ap4m-2026-06-30",
+        "payments-mastercard-ap4m-2026-07-01",
+        "payments-mastercard-ap4m-2026-07-02",
+        "payments-mastercard-ap4m-2026-07-04",
+        "payments-mastercard-ap4m",
+        "payments-mastercard-ap4m-2026-07-06",
+        "payments-mastercard-ap4m-2026-07-07",
+        "payments-mastercard-ap4m-2026-07-08",
+        "payments-bbva-caixabank-agentic",
+        "payments-mastercard-stablecoin-2026-07-12",
+        "payments-mastercard-stablecoin-2026-07-13",
+        "payments-mastercard-ap4m-stablecoin-2026-07-14",
+        "payments-mastercard-ap4m-2026-07-16",
+        "payments-mastercard-ap4m-2026-07-17",
+        "mastercard-agent-pay",
+        "payments-mastercard-ap4m-2026-07-26",
+        "payments-mastercard-ap4m-2026-07-27",
+        "payments-mastercard-ap4m-2026-07-28",
+        "payments-mastercard-agent-pay-2026-07-29",
+        "payments-mastercard-ap4m-stablecoin-2026-07-30",
+        "payments-mastercard-agent-pay-machines-ap4m-2026-07-31",
+        "payments-mastercard-ap4m-stablecoin-2026-08-01",
+        "payments-mastercard-ap4m-stablecoin-2026-08-02",
+        "payments-mastercard-ap4m-stablecoin-2026-08-03",
+        "payments-mastercard-bvnk-2026-08-05",
+        "payments-mastercard-ap4m-2026-08-06",
+        "mastercard-ap4m-stablecoin-2026-08-07"
       ]
     },
     {
@@ -148,49 +152,10 @@
       ]
     },
     {
-      "keyword": "mastercard-agent-pay-machines",
-      "count": 31,
-      "first_seen": "2026-06-23",
-      "last_seen": "2026-08-06",
-      "articles": [
-        "payments-mastercard-agent-pay-2026-06-23",
-        "payments-mastercard-agent-pay-machines-2026-06-26",
-        "payments-mastercard-agent-pay-2026-06-27",
-        "payments-mastercard-ap4m-2026-06-28",
-        "payments-mastercard-ap4m-2026-06-29",
-        "payments-mastercard-ap4m-2026-06-30",
-        "payments-mastercard-ap4m-2026-07-01",
-        "payments-mastercard-ap4m-2026-07-02",
-        "payments-mastercard-ap4m-2026-07-04",
-        "payments-mastercard-ap4m",
-        "payments-mastercard-ap4m-2026-07-06",
-        "payments-mastercard-ap4m-2026-07-07",
-        "payments-mastercard-ap4m-2026-07-08",
-        "payments-bbva-caixabank-agentic",
-        "payments-mastercard-stablecoin-2026-07-12",
-        "payments-mastercard-stablecoin-2026-07-13",
-        "payments-mastercard-ap4m-stablecoin-2026-07-14",
-        "payments-mastercard-ap4m-2026-07-16",
-        "payments-mastercard-ap4m-2026-07-17",
-        "mastercard-agent-pay",
-        "payments-mastercard-ap4m-2026-07-26",
-        "payments-mastercard-ap4m-2026-07-27",
-        "payments-mastercard-ap4m-2026-07-28",
-        "payments-mastercard-agent-pay-2026-07-29",
-        "payments-mastercard-ap4m-stablecoin-2026-07-30",
-        "payments-mastercard-agent-pay-machines-ap4m-2026-07-31",
-        "payments-mastercard-ap4m-stablecoin-2026-08-01",
-        "payments-mastercard-ap4m-stablecoin-2026-08-02",
-        "payments-mastercard-ap4m-stablecoin-2026-08-03",
-        "payments-mastercard-bvnk-2026-08-05",
-        "payments-mastercard-ap4m-2026-08-06"
-      ]
-    },
-    {
       "keyword": "range-stablecoin-compliance-raise",
-      "count": 17,
+      "count": 18,
       "first_seen": "2026-07-04",
-      "last_seen": "2026-08-06",
+      "last_seen": "2026-08-07",
       "articles": [
         "investment-range-2026-07-04",
         "investment-range-raise",
@@ -208,14 +173,15 @@
         "investment-range-stablecoin-2026-08-01",
         "investment-range-stablecoin-2026-08-02",
         "investment-range-stablecoin-2026-08-04",
-        "investment-range-stablecoin-2026-08-06"
+        "investment-range-stablecoin-2026-08-06",
+        "range-stablecoin-compliance-2026-08-07"
       ]
     },
     {
       "keyword": "smb-crossborder-fintech-savings",
-      "count": 26,
+      "count": 27,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-08-06",
+      "last_seen": "2026-08-07",
       "articles": [
         "remittance-smb-fintech-growth",
         "remittance-smb-crossborder-2026-07-06",
@@ -242,14 +208,15 @@
         "remittance-smb-36pct-2026-08-03",
         "payments-smb-crossborder-2026-08-04",
         "remittance-smb-crossborder-2026-08-05",
-        "remittance-smb-crossborder-2026-08-06"
+        "remittance-smb-crossborder-2026-08-06",
+        "smb-crossborder-36pct-2026-08-07"
       ]
     },
     {
       "keyword": "fintech-vc-forecast-2026",
-      "count": 19,
+      "count": 20,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-08-06",
+      "last_seen": "2026-08-07",
       "articles": [
         "investment-fintech-crunchbase",
         "investment-vc-trends-2026-2026-07-14",
@@ -269,14 +236,15 @@
         "investment-european-fintech-h1-2026-07-28",
         "investment-h1-2026-fintech-28b-2026-07-29",
         "investment-h1-fintech-funding-2026-07-30",
-        "investment-h1-fintech-funding-2026-08-06"
+        "investment-h1-fintech-funding-2026-08-06",
+        "h1-fintech-funding-286bn-2026-08-07"
       ]
     },
     {
       "keyword": "korea-face-pay-competition",
-      "count": 19,
+      "count": 20,
       "first_seen": "2026-07-09",
-      "last_seen": "2026-08-06",
+      "last_seen": "2026-08-07",
       "articles": [
         "payments-3-2026-07-09",
         "payments-korea-face-pay",
@@ -296,7 +264,8 @@
         "payments-toss-facepay-2026-08-03",
         "payments-toss-facepay-2026-08-04",
         "payments-toss-facepay-2026-08-05",
-        "payments-toss-facepay-2026-08-06"
+        "payments-toss-facepay-2026-08-06",
+        "toss-facepay-600m-2026-08-07"
       ]
     },
     {
@@ -326,9 +295,9 @@
     },
     {
       "keyword": "asia-fintech-tokenization",
-      "count": 15,
+      "count": 16,
       "first_seen": "2026-07-18",
-      "last_seen": "2026-08-06",
+      "last_seen": "2026-08-07",
       "articles": [
         "sea-fintech-tokenization",
         "payments-sea-fintech-tokenization",
@@ -344,7 +313,8 @@
         "digital-banking-sea-tokenization-2026-08-03",
         "digital-banking-sea-tokenization-2026-08-04",
         "digital-banking-sea-tokenization-2026-08-05",
-        "digital-banking-sea-tokenization-2026-08-06"
+        "digital-banking-sea-tokenization-2026-08-06",
+        "sea-fintech-tokenization-2026-08-07"
       ]
     },
     {
@@ -366,15 +336,18 @@
       ]
     },
     {
-      "keyword": "gradient-labs-ai-finance",
-      "count": 3,
-      "first_seen": "2026-07-26",
-      "last_seen": "2026-07-29",
-      "articles": [
-        "investment-gradient-labs-series-a-2026-07-26",
-        "investment-gradient-labs-2026-07-27",
-        "investment-gradient-labs-26m-2026-07-29"
-      ]
+      "keyword": "increase-bank-fintech-expansion",
+      "count": 1,
+      "first_seen": "2026-07-31",
+      "last_seen": "2026-07-31",
+      "articles": ["digital-banking-increase-bank-fintech-2026-07-31"]
+    },
+    {
+      "keyword": "fintech-ma-july-2026-roundup",
+      "count": 1,
+      "first_seen": "2026-07-31",
+      "last_seen": "2026-07-31",
+      "articles": ["investment-fintech-ma-july-roundup-2026-07-31"]
     },
     {
       "keyword": "stablecoin-yield-prohibition-rwa",
@@ -418,20 +391,6 @@
       ]
     },
     {
-      "keyword": "paypal-q2-2026-earnings",
-      "count": 1,
-      "first_seen": "2026-07-29",
-      "last_seen": "2026-07-29",
-      "articles": ["payments-paypal-q2-2026-07-29"]
-    },
-    {
-      "keyword": "fintech-embedded-payments-survey",
-      "count": 1,
-      "first_seen": "2026-07-29",
-      "last_seen": "2026-07-29",
-      "articles": ["payments-embedded-fintech-survey-2026-07-29"]
-    },
-    {
       "keyword": "b2b-stablecoin-infinite-erebor",
       "count": 5,
       "first_seen": "2026-07-29",
@@ -443,27 +402,6 @@
         "digital-banking-infinite-erebor-2026-08-01",
         "digital-banking-infinite-erebor-2026-08-02"
       ]
-    },
-    {
-      "keyword": "stablecoin-ai-global-regulatory-brief",
-      "count": 1,
-      "first_seen": "2026-07-30",
-      "last_seen": "2026-07-30",
-      "articles": ["regulation-bloomberg-stablecoin-brief-2026-07-30"]
-    },
-    {
-      "keyword": "increase-bank-fintech-expansion",
-      "count": 1,
-      "first_seen": "2026-07-31",
-      "last_seen": "2026-07-31",
-      "articles": ["digital-banking-increase-bank-fintech-2026-07-31"]
-    },
-    {
-      "keyword": "fintech-ma-july-2026-roundup",
-      "count": 1,
-      "first_seen": "2026-07-31",
-      "last_seen": "2026-07-31",
-      "articles": ["investment-fintech-ma-july-roundup-2026-07-31"]
     },
     {
       "keyword": "sokin-b2b-fintech-raise",
@@ -486,13 +424,14 @@
     },
     {
       "keyword": "smfg-sbi-digital-finance",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-08-03",
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-08-07",
       "articles": [
         "digital-banking-smfg-sbi-2026-08-03",
         "digital-banking-smfg-sbi-2026-08-04",
-        "digital-banking-smfg-sbi-2026-08-05"
+        "digital-banking-smfg-sbi-2026-08-05",
+        "smfg-sbi-solana-japan-2026-08-07"
       ]
     },
     {
@@ -518,13 +457,14 @@
     },
     {
       "keyword": "india-upi-japan-expansion",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-06",
+      "last_seen": "2026-08-07",
       "articles": [
         "remittance-upi-japan-2026-08-04",
         "remittance-india-upi-japan-2026-08-05",
-        "remittance-upi-japan-expansion-2026-08-06"
+        "remittance-upi-japan-expansion-2026-08-06",
+        "india-upi-japan-expansion-2026-08-07"
       ]
     },
     {
@@ -543,10 +483,13 @@
     },
     {
       "keyword": "n5deal-fintechs-outacquire",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-06",
-      "last_seen": "2026-08-06",
-      "articles": ["investment-n5deal-outacquire-2026-08-06"]
+      "last_seen": "2026-08-07",
+      "articles": [
+        "investment-n5deal-outacquire-2026-08-06",
+        "n5deal-fintechs-outacquire-2026-08-07"
+      ]
     },
     {
       "keyword": "malaysia-rtp-security-ai",
@@ -575,6 +518,41 @@
       "first_seen": "2026-08-06",
       "last_seen": "2026-08-06",
       "articles": ["regulation-dakota-bank-charter-2026-08-06"]
+    },
+    {
+      "keyword": "klarna-jpmorgan-payments-live",
+      "count": 1,
+      "first_seen": "2026-08-07",
+      "last_seen": "2026-08-07",
+      "articles": ["klarna-jpmorgan-payments-live-2026-08-07"]
+    },
+    {
+      "keyword": "fnz-bank-advent-sale",
+      "count": 1,
+      "first_seen": "2026-08-07",
+      "last_seen": "2026-08-07",
+      "articles": ["fnz-bank-advent-sale-2026-08-07"]
+    },
+    {
+      "keyword": "circle-usdc-q2-earnings",
+      "count": 1,
+      "first_seen": "2026-08-07",
+      "last_seen": "2026-08-07",
+      "articles": ["circle-usdc-q2-earnings-2026-08-07"]
+    },
+    {
+      "keyword": "revolut-australia-adi-license",
+      "count": 1,
+      "first_seen": "2026-08-07",
+      "last_seen": "2026-08-07",
+      "articles": ["revolut-australia-adi-license-2026-08-07"]
+    },
+    {
+      "keyword": "flipkart-supermoney-splitstore",
+      "count": 1,
+      "first_seen": "2026-08-07",
+      "last_seen": "2026-08-07",
+      "articles": ["flipkart-supermoney-splitstore-2026-08-07"]
     }
   ]
 }
