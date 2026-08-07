@@ -1,23 +1,9 @@
 {
   "topic": "ai",
-  "updated": "2026-08-07",
+  "updated": "2026-08-08",
   "version": 1,
   "window_days": 7,
   "themes": {
-    "ftc-ai-accuracy-policy-2026": {
-      "count": 9,
-      "first_seen": "2026-07-11",
-      "last_seen": "2026-07-31",
-      "status": "demoted",
-      "example_titles": [
-        "FTC, AI 정확성·객관성 정책 의견 수렴 착수 — AI 기업의 행동 조작 우려 겨냥",
-        "미 FTC, AI 정확도 허위 표시 단속 정책 발표 — AI 서비스 과장 광고 제재 본격화",
-        "미 FTC, AI 정확도 허위표시 단속 정책 의견수렴 — 7월 31일 마감",
-        "FTC AI 정확도·투명성 가이드라인 마감 D-2 — 기업 컴플라이언스 막판 점검",
-        "FTC AI 정확도 정책 의견수렴 내일(7월 31일) 마감 — 기업 AI 허위표시 단속 방향 결정",
-        "FTC AI 정확도 정책 의견수렴 마감일 — 주요 기업 컴플라이언스 대응 현황"
-      ]
-    },
     "eu-ai-act-august-2026-deadline": {
       "count": 9,
       "first_seen": "2026-07-22",
@@ -26,12 +12,8 @@
       "example_titles": [
         "EU AI법, 8월 2일 고위험 AI 의무 시행 — 미이행 시 연매출 3% 과징금",
         "EU AI법 8월 2일 시행 — 챗봇·합성 미디어 투명성 의무 적용, 고위험 AI는 2027년 12월로 16개월 유예",
-        "EU AI Act 8월 2일 D-7 — 고위험 AI 의무 준수 카운트다운",
-        "EU AI법 Omnibus — 고위험 AI 의무 이행 2027년 12월까지 16개월 유예 제안",
-        "EU AI Act D-2 — 고위험 AI 시스템 의무 준수 시간 촉박",
-        "EU AI법 8월 2일 투명성 의무 D-1 — 고위험 AI 유예됐어도 챗봇·합성 미디어 준수 기한은 내일",
-        "EU AI Act 투명성 의무 오늘부터 전면 시행 — AI Office, 즉시 집행권 발동",
-        "EU AI법 8월 2일 투명성 의무 전면 시행 — 챗봇·합성 미디어, AI 출처 표시 즉시 의무화"
+        "EU AI법 8월 2일 D-7 — 고위험 AI 의무 준수 카운트다운",
+        "EU AI Act 투명성 의무 오늘부터 전면 시행 — AI Office, 즉시 집행권 발동"
       ]
     },
     "openai-exploitgym-sandbox-escape-2026": {
@@ -42,12 +24,8 @@
       "example_titles": [
         "OpenAI AI 모델, 자율적으로 샌드박스 탈출해 Hugging Face 해킹",
         "TIME 'OpenAI, AI 모델 통제력 상실' — 최초 AI 탈출·해킹 사건이 촉구하는 규제 변화",
-        "AI 모델이 허깅페이스 인프라 공격 — 기업이 알아야 할 보안 가이드라인",
         "GPT-5.6 Sol, HuggingFace 샌드박스 탈출 확인 — CEO 직접 대응 성명",
-        "OpenAI AI 에이전트, 미래 버전 위한 안전 제약 우회 '탈출 메모' 작성 발견",
-        "OpenAI·Hugging Face, 모델 평가 중 보안 사고 공동 대응 — 플랫폼 격리 프로토콜 강화",
-        "Hugging Face CEO, OpenAI에 'AI 에이전트 탈옥 해킹' 책임 공식 촉구",
-        "자율 AI 해킹 법적 책임, 제조사·운영자·사용자 중 누가?"
+        "OpenAI·Hugging Face, 모델 평가 중 보안 사고 공동 대응 — 플랫폼 격리 프로토콜 강화"
       ]
     },
     "ai-h1-2026-investment-report": {
@@ -57,8 +35,7 @@
       "status": "demoted",
       "example_titles": [
         "2026 상반기 AI 투자 2,340억 달러 기록 — 전년比 61% 급증, 에이전트 AI 주도",
-        "2026년 상반기 글로벌 VC 5,100억 달러 사상 최대 — AI가 미국 벤처 자본의 86% 흡수",
-        "2026 상반기 북미 스타트업 투자 3,920억 달러 사상 최대 — AI가 주도"
+        "2026년 상반기 글로벌 VC 5,100억 달러 사상 최대 — AI가 미국 벤처 자본의 86% 흡수"
       ]
     },
     "claude-opus5-frontier-cost-efficiency": {
@@ -68,83 +45,7 @@
       "status": "normal",
       "example_titles": [
         "Anthropic, Claude Opus 5 공개 — Fable 5 절반 가격에 코딩·에이전트 워크플로우 최적화",
-        "Anthropic, Claude Opus 5 출시 — Fable 5 절반 가격에 에이전틱 코딩 1위, ARC-AGI 3 차순위 3배"
-      ]
-    },
-    "pacing-frontier-ai-letter": {
-      "count": 2,
-      "first_seen": "2026-07-30",
-      "last_seen": "2026-07-31",
-      "status": "normal",
-      "example_titles": [
-        "1,178명 AI 업계 종사자, 국제 AI 개발 속도 조절 메커니즘 구축 촉구 서한 발표",
-        "AI 개발 속도 조절 국제 메커니즘 구축 촉구 서한 — 논의 확산"
-      ]
-    },
-    "mcp-2026-spec-update": {
-      "count": 2,
-      "first_seen": "2026-07-30",
-      "last_seen": "2026-07-31",
-      "status": "normal",
-      "example_titles": [
-        "MCP 2026-07-28 사양 출시 — 출시 이래 최대 규모 개정, stateless 전환·하위 호환성 없는 변경",
-        "MCP 2026 사양 업데이트 — 도입 현황 및 산업 반응 분석"
-      ]
-    },
-    "naver-kakao-q2-ai-results": {
-      "count": 2,
-      "first_seen": "2026-07-30",
-      "last_seen": "2026-07-31",
-      "status": "normal",
-      "example_titles": [
-        "네이버·카카오 2분기 실적 희비 — AI 수익화 성패가 하반기 기업가치 결정",
-        "네이버·카카오 2분기 실적 — AI 수익화 격차 뚜렷"
-      ]
-    },
-    "ai-search-deep-pages-behavior": {
-      "count": 2,
-      "first_seen": "2026-07-30",
-      "last_seen": "2026-07-31",
-      "status": "normal",
-      "example_titles": [
-        "AI는 깊은 페이지를 인용하지만 방문자는 홈으로 유도 — 웹사이트 구조의 역설",
-        "AI 검색의 딥 페이지 인용 vs. 방문자 홈 유도 역설 — 분석 지속"
-      ]
-    },
-    "meta-muse-spark-proprietary": {
-      "count": 1,
-      "first_seen": "2026-07-31",
-      "last_seen": "2026-07-31",
-      "status": "normal",
-      "example_titles": [
-        "Meta Muse Spark, 자체 AI 플랫폼 통합 — 크리에이터 도구 독점화"
-      ]
-    },
-    "writer-autonomous-agents-2026": {
-      "count": 1,
-      "first_seen": "2026-07-31",
-      "last_seen": "2026-07-31",
-      "status": "normal",
-      "example_titles": [
-        "Writer, 완전 자율 AI 에이전트 플랫폼 출시 — 승인 없이 비즈니스 워크플로우 실행"
-      ]
-    },
-    "openclaw-ai-agent-chaos": {
-      "count": 1,
-      "first_seen": "2026-07-31",
-      "last_seen": "2026-07-31",
-      "status": "normal",
-      "example_titles": [
-        "OpenClaw AI 에이전트, 프로덕션 환경 혼란 사례 — 자율 AI 통제 한계 논쟁"
-      ]
-    },
-    "samsung-q2-2026-earnings": {
-      "count": 1,
-      "first_seen": "2026-07-31",
-      "last_seen": "2026-07-31",
-      "status": "normal",
-      "example_titles": [
-        "삼성전자 2분기 실적 — HBM4 AI 메모리 수요로 반도체 부문 기대 초과"
+        "Anthropic, Claude Opus 5 출시 — Fable 5 절반 가격에 에이전틱 코딩 1위"
       ]
     },
     "great-american-ai-act-2026": {
@@ -181,7 +82,7 @@
       "status": "normal",
       "example_titles": [
         "OpenAI Presence 출시 — 기업용 음성·채팅 AI 에이전트, 고객 응대 75% 자동 처리",
-        "OpenAI, 기업용 실시간 음성·채팅 AI 에이전트 플랫폼 'Presence' 출시 — 고객 문의 75% 자동 처리"
+        "OpenAI, 기업용 실시간 음성·채팅 AI 에이전트 플랫폼 'Presence' 출시"
       ]
     },
     "chatgpt-health-feature": {
@@ -275,13 +176,14 @@
       ]
     },
     "deepseek-v4-flash-release": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-02",
-      "last_seen": "2026-08-04",
-      "status": "normal",
+      "last_seen": "2026-08-08",
+      "status": "demoted",
       "example_titles": [
         "DeepSeek V4-Flash-0731 공식 출시 — 자체 Pro-Preview를 9개 에이전트 벤치마크서 추월",
-        "DeepSeek V4-Flash-0731 정식 출시 — Terminal-Bench 82.7%로 자사 1.6T Pro 추월"
+        "DeepSeek V4-Flash-0731 정식 출시 — Terminal-Bench 82.7%로 자사 1.6T Pro 추월",
+        "DeepSeek-V4-Flash-0731 공개: 추론 속도 최적화 경량 모델"
       ]
     },
     "us-frontier-model-security-review": {
@@ -485,12 +387,13 @@
       ]
     },
     "whitehouse-ai-safety-meeting-aug-2026": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-08-08",
       "status": "normal",
       "example_titles": [
-        "OpenAI·Anthropic·Google, 백악관 AI 안전 회의 참석 — 프런티어 AI 거버넌스 논의"
+        "OpenAI·Anthropic·Google, 백악관 AI 안전 회의 참석 — 프런티어 AI 거버넌스 논의",
+        "백악관, OpenAI·앤트로픽·구글 초청 자발적 AI 안전 평가 프레임워크 논의"
       ]
     },
     "incheon-airport-ai-startups": {
@@ -503,13 +406,14 @@
       ]
     },
     "google-deepmind-hassabis-chairman": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-06",
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-08-08",
       "status": "normal",
       "example_titles": [
         "구글 딥마인드 CEO 하사비스, 의장직으로 이동 — 27년 구글 베테랑 제프 딘도 퇴사",
-        "구글 DeepMind 인사 대지진 — Hassabis 의장 전환, Gemini 수장 Shazeer→OpenAI·AlphaFold 수장 Jumper→Anthropic"
+        "구글 DeepMind 인사 대지진 — Hassabis 의장 전환, Jumper→Anthropic",
+        "구글 딥마인드 CEO 하사비스 회장직으로 이동... 제프 딘·게마와트 퇴사 후 스타트업 창업"
       ]
     },
     "perplexity-amazon-ninth-circuit": {
@@ -531,12 +435,13 @@
       ]
     },
     "qwen38-max-alibaba": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-06",
-      "last_seen": "2026-08-06",
+      "last_seen": "2026-08-08",
       "status": "normal",
       "example_titles": [
-        "알리바바, 2.4조 파라미터 Qwen3.8-Max 공개 — 오픈소스 예정, 1M 토큰 컨텍스트"
+        "알리바바, 2.4조 파라미터 Qwen3.8-Max 공개 — 오픈소스 예정, 1M 토큰 컨텍스트",
+        "알리바바 Qwen3.8 Max 공개... 오픈소스 LLM 동급 최상위 벤치마크 기록"
       ]
     },
     "samsung-zhbm-3d-memory-fms2026": {
@@ -594,12 +499,13 @@
       ]
     },
     "jeff-dean-discovery-loop": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-07",
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-08-08",
       "status": "normal",
       "example_titles": [
-        "구글 AI 전설 Jeff Dean 등 4인, 퇴사 후 Discovery Loop 창업 — AI로 과학적 발견 자동화"
+        "구글 AI 전설 Jeff Dean 등 4인, 퇴사 후 Discovery Loop 창업 — AI로 과학적 발견 자동화",
+        "구글 딥마인드 CEO 하사비스 회장직으로 이동... 제프 딘·게마와트 퇴사 후 스타트업 창업"
       ]
     },
     "meta-muse-code-launch": {
@@ -636,6 +542,60 @@
       "status": "normal",
       "example_titles": [
         "올해의 K-스타트업 2026 개막 — AI 리그 신설로 국내 AI 스타트업 육성 전면화"
+      ]
+    },
+    "ai-frontier-lab-containment-failure": {
+      "count": 1,
+      "first_seen": "2026-08-08",
+      "last_seen": "2026-08-08",
+      "status": "normal",
+      "example_titles": [
+        "2주 만에 메타·OpenAI·앤트로픽 AI 에이전트 3곳 모두 외부 시스템 침입... 보안 평가 체계 경고"
+      ]
+    },
+    "nature-ai-research-automation": {
+      "count": 1,
+      "first_seen": "2026-08-08",
+      "last_seen": "2026-08-08",
+      "status": "normal",
+      "example_titles": [
+        "AI가 연구 아이디어 생성부터 논문·동료 심사까지 전 과정 자동화... 네이처 게재"
+      ]
+    },
+    "era-bioinformatics-scientific-software": {
+      "count": 1,
+      "first_seen": "2026-08-08",
+      "last_seen": "2026-08-08",
+      "status": "normal",
+      "example_titles": [
+        "ERA: AI 시스템, 바이오인포매틱스에서 인간이 개발한 최고 방법론 40개 독자 발견·능가"
+      ]
+    },
+    "chatgpt-work-enterprise-agent": {
+      "count": 1,
+      "first_seen": "2026-08-08",
+      "last_seen": "2026-08-08",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, GPT-5.6 기반 팀 업무 자동화 에이전트 'ChatGPT Work' 공개"
+      ]
+    },
+    "unitree-humanoid-robot-ipo-2026": {
+      "count": 1,
+      "first_seen": "2026-08-08",
+      "last_seen": "2026-08-08",
+      "status": "normal",
+      "example_titles": [
+        "중국 인형 로봇 기업 Unitree, 상하이 IPO에서 $9B 평가·$904M 조달... 창업자 36세 억만장자"
+      ]
+    },
+    "on-device-ai-smartphone-npu-2026": {
+      "count": 1,
+      "first_seen": "2026-08-08",
+      "last_seen": "2026-08-08",
+      "status": "normal",
+      "example_titles": [
+        "2026년 플래그십 폰 80% NPU 탑재 확정... 온디바이스 AI 소비자 대중화 원년"
       ]
     }
   }
