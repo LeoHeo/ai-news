@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updated": "2026-08-07",
+  "updated": "2026-08-08",
   "window_days": 7,
   "themes": [
     {
       "keyword": "us-fintech-regulation",
-      "count": 69,
+      "count": 70,
       "first_seen": "2026-05-24",
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-08-08",
       "articles": [
         "regulation-embedded-regs-june11",
         "embedded-finance-us-regs-june12",
@@ -63,7 +63,8 @@
         "regulation-embedded-finance-us-2026-08-04",
         "regulation-embedded-finance-us-2026-08-05",
         "regulation-embedded-finance-us-2026-08-06",
-        "us-embedded-finance-regulation-2026-08-07"
+        "us-embedded-finance-regulation-2026-08-07",
+        "regulation-us-embedded-finance-2026-08-08"
       ]
     },
     {
@@ -108,9 +109,9 @@
     },
     {
       "keyword": "fintech-funding-weekly-icymi",
-      "count": 37,
+      "count": 38,
       "first_seen": "2026-06-15",
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-08-08",
       "articles": [
         "investment-fintech-funding-icymi-june15",
         "investment-icymi-june17",
@@ -148,14 +149,15 @@
         "investment-icymi-funding-2026-08-02",
         "investment-icymi-funding-2026-08-03",
         "investment-icymi-curant-ai-2026-08-04",
-        "investment-icymi-funding-2026-08-05"
+        "investment-icymi-funding-2026-08-05",
+        "investment-icymi-multifi-2026-08-08"
       ]
     },
     {
       "keyword": "range-stablecoin-compliance-raise",
-      "count": 18,
+      "count": 19,
       "first_seen": "2026-07-04",
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-08-08",
       "articles": [
         "investment-range-2026-07-04",
         "investment-range-raise",
@@ -174,14 +176,15 @@
         "investment-range-stablecoin-2026-08-02",
         "investment-range-stablecoin-2026-08-04",
         "investment-range-stablecoin-2026-08-06",
-        "range-stablecoin-compliance-2026-08-07"
+        "range-stablecoin-compliance-2026-08-07",
+        "investment-range-stablecoin-2026-08-08"
       ]
     },
     {
       "keyword": "smb-crossborder-fintech-savings",
-      "count": 27,
+      "count": 28,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-08-08",
       "articles": [
         "remittance-smb-fintech-growth",
         "remittance-smb-crossborder-2026-07-06",
@@ -209,14 +212,15 @@
         "payments-smb-crossborder-2026-08-04",
         "remittance-smb-crossborder-2026-08-05",
         "remittance-smb-crossborder-2026-08-06",
-        "smb-crossborder-36pct-2026-08-07"
+        "smb-crossborder-36pct-2026-08-07",
+        "smb-crossborder-36pct-2026-08-08"
       ]
     },
     {
       "keyword": "fintech-vc-forecast-2026",
-      "count": 20,
+      "count": 21,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-08-08",
       "articles": [
         "investment-fintech-crunchbase",
         "investment-vc-trends-2026-2026-07-14",
@@ -237,14 +241,15 @@
         "investment-h1-2026-fintech-28b-2026-07-29",
         "investment-h1-fintech-funding-2026-07-30",
         "investment-h1-fintech-funding-2026-08-06",
-        "h1-fintech-funding-286bn-2026-08-07"
+        "h1-fintech-funding-286bn-2026-08-07",
+        "investment-us-q2-fintech-2026-08-08"
       ]
     },
     {
       "keyword": "korea-face-pay-competition",
-      "count": 20,
+      "count": 21,
       "first_seen": "2026-07-09",
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-08-08",
       "articles": [
         "payments-3-2026-07-09",
         "payments-korea-face-pay",
@@ -265,7 +270,8 @@
         "payments-toss-facepay-2026-08-04",
         "payments-toss-facepay-2026-08-05",
         "payments-toss-facepay-2026-08-06",
-        "toss-facepay-600m-2026-08-07"
+        "toss-facepay-600m-2026-08-07",
+        "payments-toss-facepay-2026-08-08"
       ]
     },
     {
@@ -334,20 +340,6 @@
         "investment-nium-2026-08-04",
         "investment-nium-ixaris-2026-08-05"
       ]
-    },
-    {
-      "keyword": "increase-bank-fintech-expansion",
-      "count": 1,
-      "first_seen": "2026-07-31",
-      "last_seen": "2026-07-31",
-      "articles": ["digital-banking-increase-bank-fintech-2026-07-31"]
-    },
-    {
-      "keyword": "fintech-ma-july-2026-roundup",
-      "count": 1,
-      "first_seen": "2026-07-31",
-      "last_seen": "2026-07-31",
-      "articles": ["investment-fintech-ma-july-roundup-2026-07-31"]
     },
     {
       "keyword": "stablecoin-yield-prohibition-rwa",
@@ -424,14 +416,15 @@
     },
     {
       "keyword": "smfg-sbi-digital-finance",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-08-03",
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-08-08",
       "articles": [
         "digital-banking-smfg-sbi-2026-08-03",
         "digital-banking-smfg-sbi-2026-08-04",
         "digital-banking-smfg-sbi-2026-08-05",
-        "smfg-sbi-solana-japan-2026-08-07"
+        "smfg-sbi-solana-japan-2026-08-07",
+        "digital-banking-smfg-sbi-2026-08-08"
       ]
     },
     {
@@ -450,29 +443,36 @@
     },
     {
       "keyword": "seoul-fintech-lab-h2-2026",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-03",
-      "last_seen": "2026-08-03",
-      "articles": ["investment-seoul-fintech-lab-2026-08-03"]
+      "last_seen": "2026-08-08",
+      "articles": [
+        "investment-seoul-fintech-lab-2026-08-03",
+        "investment-seoul-fintech-lab-2026-08-08"
+      ]
     },
     {
       "keyword": "india-upi-japan-expansion",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-08-08",
       "articles": [
         "remittance-upi-japan-2026-08-04",
         "remittance-india-upi-japan-2026-08-05",
         "remittance-upi-japan-expansion-2026-08-06",
-        "india-upi-japan-expansion-2026-08-07"
+        "india-upi-japan-expansion-2026-08-07",
+        "remittance-india-upi-japan-2026-08-08"
       ]
     },
     {
       "keyword": "visa-biocatch-acquisition",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-06",
-      "last_seen": "2026-08-06",
-      "articles": ["investment-visa-biocatch-2026-08-06"]
+      "last_seen": "2026-08-08",
+      "articles": [
+        "investment-visa-biocatch-2026-08-06",
+        "investment-visa-biocatch-2026-08-08"
+      ]
     },
     {
       "keyword": "palmpay-hk-ipo",
@@ -483,12 +483,13 @@
     },
     {
       "keyword": "n5deal-fintechs-outacquire",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-06",
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-08-08",
       "articles": [
         "investment-n5deal-outacquire-2026-08-06",
-        "n5deal-fintechs-outacquire-2026-08-07"
+        "n5deal-fintechs-outacquire-2026-08-07",
+        "investment-n5deal-outacquire-2026-08-08"
       ]
     },
     {
@@ -521,10 +522,13 @@
     },
     {
       "keyword": "klarna-jpmorgan-payments-live",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-07",
-      "last_seen": "2026-08-07",
-      "articles": ["klarna-jpmorgan-payments-live-2026-08-07"]
+      "last_seen": "2026-08-08",
+      "articles": [
+        "klarna-jpmorgan-payments-live-2026-08-07",
+        "payments-klarna-jpmorgan-2026-08-08"
+      ]
     },
     {
       "keyword": "fnz-bank-advent-sale",
@@ -535,24 +539,33 @@
     },
     {
       "keyword": "circle-usdc-q2-earnings",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-07",
-      "last_seen": "2026-08-07",
-      "articles": ["circle-usdc-q2-earnings-2026-08-07"]
+      "last_seen": "2026-08-08",
+      "articles": [
+        "circle-usdc-q2-earnings-2026-08-07",
+        "payments-circle-q2-2026-08-08"
+      ]
     },
     {
       "keyword": "revolut-australia-adi-license",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-07",
-      "last_seen": "2026-08-07",
-      "articles": ["revolut-australia-adi-license-2026-08-07"]
+      "last_seen": "2026-08-08",
+      "articles": [
+        "revolut-australia-adi-license-2026-08-07",
+        "digital-banking-revolut-australia-2026-08-08"
+      ]
     },
     {
       "keyword": "flipkart-supermoney-splitstore",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-07",
-      "last_seen": "2026-08-07",
-      "articles": ["flipkart-supermoney-splitstore-2026-08-07"]
+      "last_seen": "2026-08-08",
+      "articles": [
+        "flipkart-supermoney-splitstore-2026-08-07",
+        "lending-flipkart-splitstore-2026-08-08"
+      ]
     }
   ]
 }
