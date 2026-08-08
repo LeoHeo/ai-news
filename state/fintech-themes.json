@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updated": "2026-08-08",
+  "updated": "2026-08-09",
   "window_days": 7,
   "themes": [
     {
       "keyword": "us-fintech-regulation",
-      "count": 70,
+      "count": 71,
       "first_seen": "2026-05-24",
-      "last_seen": "2026-08-08",
+      "last_seen": "2026-08-09",
       "articles": [
         "regulation-embedded-regs-june11",
         "embedded-finance-us-regs-june12",
@@ -64,14 +64,15 @@
         "regulation-embedded-finance-us-2026-08-05",
         "regulation-embedded-finance-us-2026-08-06",
         "us-embedded-finance-regulation-2026-08-07",
-        "regulation-us-embedded-finance-2026-08-08"
+        "regulation-us-embedded-finance-2026-08-08",
+        "regulation-embedded-finance-us-2026-08-09"
       ]
     },
     {
       "keyword": "mastercard-agent-pay-machines",
-      "count": 32,
+      "count": 33,
       "first_seen": "2026-06-23",
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-08-09",
       "articles": [
         "payments-mastercard-agent-pay-2026-06-23",
         "payments-mastercard-agent-pay-machines-2026-06-26",
@@ -104,14 +105,15 @@
         "payments-mastercard-ap4m-stablecoin-2026-08-03",
         "payments-mastercard-bvnk-2026-08-05",
         "payments-mastercard-ap4m-2026-08-06",
-        "mastercard-ap4m-stablecoin-2026-08-07"
+        "mastercard-ap4m-stablecoin-2026-08-07",
+        "payments-mastercard-bvnk-2026-08-09"
       ]
     },
     {
       "keyword": "fintech-funding-weekly-icymi",
-      "count": 38,
+      "count": 39,
       "first_seen": "2026-06-15",
-      "last_seen": "2026-08-08",
+      "last_seen": "2026-08-09",
       "articles": [
         "investment-fintech-funding-icymi-june15",
         "investment-icymi-june17",
@@ -150,7 +152,8 @@
         "investment-icymi-funding-2026-08-03",
         "investment-icymi-curant-ai-2026-08-04",
         "investment-icymi-funding-2026-08-05",
-        "investment-icymi-multifi-2026-08-08"
+        "investment-icymi-multifi-2026-08-08",
+        "investment-icymi-multifi-2026-08-09"
       ]
     },
     {
@@ -182,9 +185,9 @@
     },
     {
       "keyword": "smb-crossborder-fintech-savings",
-      "count": 28,
+      "count": 29,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-08-08",
+      "last_seen": "2026-08-09",
       "articles": [
         "remittance-smb-fintech-growth",
         "remittance-smb-crossborder-2026-07-06",
@@ -213,14 +216,15 @@
         "remittance-smb-crossborder-2026-08-05",
         "remittance-smb-crossborder-2026-08-06",
         "smb-crossborder-36pct-2026-08-07",
-        "smb-crossborder-36pct-2026-08-08"
+        "smb-crossborder-36pct-2026-08-08",
+        "remittance-smb-36pct-2026-08-09"
       ]
     },
     {
       "keyword": "fintech-vc-forecast-2026",
-      "count": 21,
+      "count": 22,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-08-08",
+      "last_seen": "2026-08-09",
       "articles": [
         "investment-fintech-crunchbase",
         "investment-vc-trends-2026-2026-07-14",
@@ -242,7 +246,8 @@
         "investment-h1-fintech-funding-2026-07-30",
         "investment-h1-fintech-funding-2026-08-06",
         "h1-fintech-funding-286bn-2026-08-07",
-        "investment-us-q2-fintech-2026-08-08"
+        "investment-us-q2-fintech-2026-08-08",
+        "investment-h1-2026-funding-2026-08-09"
       ]
     },
     {
@@ -276,9 +281,9 @@
     },
     {
       "keyword": "digital-payments-ux-shift",
-      "count": 18,
+      "count": 19,
       "first_seen": "2026-07-14",
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-08-09",
       "articles": [
         "payments-ux-shift-2026-07-14",
         "payments-digital-ux-human",
@@ -296,14 +301,15 @@
         "payments-digital-feel-human-2026-08-01",
         "payments-digital-feel-human-2026-08-02",
         "payments-digital-ux-2026-08-04",
-        "payments-digital-ux-2026-08-05"
+        "payments-digital-ux-2026-08-05",
+        "payments-digital-feel-human-2026-08-09"
       ]
     },
     {
       "keyword": "asia-fintech-tokenization",
-      "count": 16,
+      "count": 17,
       "first_seen": "2026-07-18",
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-08-09",
       "articles": [
         "sea-fintech-tokenization",
         "payments-sea-fintech-tokenization",
@@ -320,7 +326,8 @@
         "digital-banking-sea-tokenization-2026-08-04",
         "digital-banking-sea-tokenization-2026-08-05",
         "digital-banking-sea-tokenization-2026-08-06",
-        "sea-fintech-tokenization-2026-08-07"
+        "sea-fintech-tokenization-2026-08-07",
+        "digital-banking-sea-tokenization-2026-08-09"
       ]
     },
     {
@@ -412,19 +419,22 @@
       "count": 1,
       "first_seen": "2026-08-03",
       "last_seen": "2026-08-03",
-      "articles": ["payments-lloyds-agora-2026-08-03"]
+      "articles": [
+        "payments-lloyds-agora-2026-08-03"
+      ]
     },
     {
       "keyword": "smfg-sbi-digital-finance",
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-08-03",
-      "last_seen": "2026-08-08",
+      "last_seen": "2026-08-09",
       "articles": [
         "digital-banking-smfg-sbi-2026-08-03",
         "digital-banking-smfg-sbi-2026-08-04",
         "digital-banking-smfg-sbi-2026-08-05",
         "smfg-sbi-solana-japan-2026-08-07",
-        "digital-banking-smfg-sbi-2026-08-08"
+        "digital-banking-smfg-sbi-2026-08-08",
+        "digital-banking-smfg-sbi-2026-08-09"
       ]
     },
     {
@@ -432,46 +442,53 @@
       "count": 1,
       "first_seen": "2026-08-03",
       "last_seen": "2026-08-03",
-      "articles": ["investment-ice-marketaxess-2026-08-03"]
+      "articles": [
+        "investment-ice-marketaxess-2026-08-03"
+      ]
     },
     {
       "keyword": "lemonedge-fund-accounting-raise",
       "count": 1,
       "first_seen": "2026-08-03",
       "last_seen": "2026-08-03",
-      "articles": ["investment-lemonedge-21m-2026-08-03"]
+      "articles": [
+        "investment-lemonedge-21m-2026-08-03"
+      ]
     },
     {
       "keyword": "seoul-fintech-lab-h2-2026",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-03",
-      "last_seen": "2026-08-08",
+      "last_seen": "2026-08-09",
       "articles": [
         "investment-seoul-fintech-lab-2026-08-03",
-        "investment-seoul-fintech-lab-2026-08-08"
+        "investment-seoul-fintech-lab-2026-08-08",
+        "investment-seoul-fintech-lab-2026-08-09"
       ]
     },
     {
       "keyword": "india-upi-japan-expansion",
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-08",
+      "last_seen": "2026-08-09",
       "articles": [
         "remittance-upi-japan-2026-08-04",
         "remittance-india-upi-japan-2026-08-05",
         "remittance-upi-japan-expansion-2026-08-06",
         "india-upi-japan-expansion-2026-08-07",
-        "remittance-india-upi-japan-2026-08-08"
+        "remittance-india-upi-japan-2026-08-08",
+        "remittance-india-upi-japan-2026-08-09"
       ]
     },
     {
       "keyword": "visa-biocatch-acquisition",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-06",
-      "last_seen": "2026-08-08",
+      "last_seen": "2026-08-09",
       "articles": [
         "investment-visa-biocatch-2026-08-06",
-        "investment-visa-biocatch-2026-08-08"
+        "investment-visa-biocatch-2026-08-08",
+        "investment-visa-biocatch-2026-08-09"
       ]
     },
     {
@@ -479,17 +496,20 @@
       "count": 1,
       "first_seen": "2026-08-06",
       "last_seen": "2026-08-06",
-      "articles": ["investment-palmpay-hk-ipo-2026-08-06"]
+      "articles": [
+        "investment-palmpay-hk-ipo-2026-08-06"
+      ]
     },
     {
       "keyword": "n5deal-fintechs-outacquire",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-08-06",
-      "last_seen": "2026-08-08",
+      "last_seen": "2026-08-09",
       "articles": [
         "investment-n5deal-outacquire-2026-08-06",
         "n5deal-fintechs-outacquire-2026-08-07",
-        "investment-n5deal-outacquire-2026-08-08"
+        "investment-n5deal-outacquire-2026-08-08",
+        "investment-n5deal-outacquire-2026-08-09"
       ]
     },
     {
@@ -497,28 +517,37 @@
       "count": 1,
       "first_seen": "2026-08-06",
       "last_seen": "2026-08-06",
-      "articles": ["payments-malaysia-rtp-security-2026-08-06"]
+      "articles": [
+        "payments-malaysia-rtp-security-2026-08-06"
+      ]
     },
     {
       "keyword": "afinit-vietnam-partnership",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-06",
-      "last_seen": "2026-08-06",
-      "articles": ["lending-afinit-vietnam-2026-08-06"]
+      "last_seen": "2026-08-09",
+      "articles": [
+        "lending-afinit-vietnam-2026-08-06",
+        "lending-afinit-vietnam-2026-08-09"
+      ]
     },
     {
       "keyword": "fintechos-profitability-us",
       "count": 1,
       "first_seen": "2026-08-06",
       "last_seen": "2026-08-06",
-      "articles": ["digital-banking-fintechos-2026-08-06"]
+      "articles": [
+        "digital-banking-fintechos-2026-08-06"
+      ]
     },
     {
       "keyword": "dakota-bank-charter-stablecoin",
       "count": 1,
       "first_seen": "2026-08-06",
       "last_seen": "2026-08-06",
-      "articles": ["regulation-dakota-bank-charter-2026-08-06"]
+      "articles": [
+        "regulation-dakota-bank-charter-2026-08-06"
+      ]
     },
     {
       "keyword": "klarna-jpmorgan-payments-live",
@@ -535,26 +564,30 @@
       "count": 1,
       "first_seen": "2026-08-07",
       "last_seen": "2026-08-07",
-      "articles": ["fnz-bank-advent-sale-2026-08-07"]
+      "articles": [
+        "fnz-bank-advent-sale-2026-08-07"
+      ]
     },
     {
       "keyword": "circle-usdc-q2-earnings",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-07",
-      "last_seen": "2026-08-08",
+      "last_seen": "2026-08-09",
       "articles": [
         "circle-usdc-q2-earnings-2026-08-07",
-        "payments-circle-q2-2026-08-08"
+        "payments-circle-q2-2026-08-08",
+        "payments-circle-q2-2026-08-09"
       ]
     },
     {
       "keyword": "revolut-australia-adi-license",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-07",
-      "last_seen": "2026-08-08",
+      "last_seen": "2026-08-09",
       "articles": [
         "revolut-australia-adi-license-2026-08-07",
-        "digital-banking-revolut-australia-2026-08-08"
+        "digital-banking-revolut-australia-2026-08-08",
+        "digital-banking-revolut-australia-2026-08-09"
       ]
     },
     {
