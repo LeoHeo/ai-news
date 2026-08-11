@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updated": "2026-08-10",
+  "updated": "2026-08-11",
   "window_days": 7,
   "themes": [
     {
       "keyword": "us-fintech-regulation",
-      "count": 72,
+      "count": 73,
       "first_seen": "2026-05-24",
-      "last_seen": "2026-08-10",
+      "last_seen": "2026-08-11",
       "articles": [
         "regulation-embedded-regs-june11",
         "embedded-finance-us-regs-june12",
@@ -66,14 +66,15 @@
         "us-embedded-finance-regulation-2026-08-07",
         "regulation-us-embedded-finance-2026-08-08",
         "regulation-embedded-finance-us-2026-08-09",
-        "regulation-embedded-us-aug10"
+        "regulation-embedded-us-aug10",
+        "regulation-embedded-finance-us-2026-08-11"
       ]
     },
     {
       "keyword": "mastercard-agent-pay-machines",
-      "count": 33,
+      "count": 34,
       "first_seen": "2026-06-23",
-      "last_seen": "2026-08-09",
+      "last_seen": "2026-08-11",
       "articles": [
         "payments-mastercard-agent-pay-2026-06-23",
         "payments-mastercard-agent-pay-machines-2026-06-26",
@@ -107,14 +108,15 @@
         "payments-mastercard-bvnk-2026-08-05",
         "payments-mastercard-ap4m-2026-08-06",
         "mastercard-ap4m-stablecoin-2026-08-07",
-        "payments-mastercard-bvnk-2026-08-09"
+        "payments-mastercard-bvnk-2026-08-09",
+        "payments-mastercard-ap4m-2026-08-11"
       ]
     },
     {
       "keyword": "fintech-funding-weekly-icymi",
-      "count": 40,
+      "count": 41,
       "first_seen": "2026-06-15",
-      "last_seen": "2026-08-10",
+      "last_seen": "2026-08-11",
       "articles": [
         "investment-fintech-funding-icymi-june15",
         "investment-icymi-june17",
@@ -155,14 +157,15 @@
         "investment-icymi-funding-2026-08-05",
         "investment-icymi-multifi-2026-08-08",
         "investment-icymi-multifi-2026-08-09",
-        "investment-icymi-multifi-aug10"
+        "investment-icymi-multifi-aug10",
+        "investment-icymi-multifi-aug11"
       ]
     },
     {
       "keyword": "range-stablecoin-compliance-raise",
-      "count": 19,
+      "count": 20,
       "first_seen": "2026-07-04",
-      "last_seen": "2026-08-08",
+      "last_seen": "2026-08-11",
       "articles": [
         "investment-range-2026-07-04",
         "investment-range-raise",
@@ -182,14 +185,15 @@
         "investment-range-stablecoin-2026-08-04",
         "investment-range-stablecoin-2026-08-06",
         "range-stablecoin-compliance-2026-08-07",
-        "investment-range-stablecoin-2026-08-08"
+        "investment-range-stablecoin-2026-08-08",
+        "investment-range-stablecoin-2026-08-11"
       ]
     },
     {
       "keyword": "smb-crossborder-fintech-savings",
-      "count": 30,
+      "count": 31,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-08-10",
+      "last_seen": "2026-08-11",
       "articles": [
         "remittance-smb-fintech-growth",
         "remittance-smb-crossborder-2026-07-06",
@@ -220,7 +224,8 @@
         "smb-crossborder-36pct-2026-08-07",
         "smb-crossborder-36pct-2026-08-08",
         "remittance-smb-36pct-2026-08-09",
-        "remittance-smb-aug10"
+        "remittance-smb-aug10",
+        "remittance-smb-36pct-aug11"
       ]
     },
     {
@@ -286,9 +291,9 @@
     },
     {
       "keyword": "digital-payments-ux-shift",
-      "count": 20,
+      "count": 21,
       "first_seen": "2026-07-14",
-      "last_seen": "2026-08-10",
+      "last_seen": "2026-08-11",
       "articles": [
         "payments-ux-shift-2026-07-14",
         "payments-digital-ux-human",
@@ -308,7 +313,8 @@
         "payments-digital-ux-2026-08-04",
         "payments-digital-ux-2026-08-05",
         "payments-digital-feel-human-2026-08-09",
-        "payments-digital-ux-aug10"
+        "payments-digital-ux-aug10",
+        "payments-digital-ux-aug11"
       ]
     },
     {
@@ -392,9 +398,9 @@
     },
     {
       "keyword": "smfg-sbi-digital-finance",
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-08-03",
-      "last_seen": "2026-08-10",
+      "last_seen": "2026-08-11",
       "articles": [
         "digital-banking-smfg-sbi-2026-08-03",
         "digital-banking-smfg-sbi-2026-08-04",
@@ -402,7 +408,8 @@
         "smfg-sbi-solana-japan-2026-08-07",
         "digital-banking-smfg-sbi-2026-08-08",
         "digital-banking-smfg-sbi-2026-08-09",
-        "digital-banking-smfg-sbi-aug10"
+        "digital-banking-smfg-sbi-aug10",
+        "digital-banking-smfg-sbi-2026-08-11"
       ]
     },
     {
@@ -425,21 +432,22 @@
     },
     {
       "keyword": "seoul-fintech-lab-h2-2026",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-08-03",
-      "last_seen": "2026-08-10",
+      "last_seen": "2026-08-11",
       "articles": [
         "investment-seoul-fintech-lab-2026-08-03",
         "investment-seoul-fintech-lab-2026-08-08",
         "investment-seoul-fintech-lab-2026-08-09",
-        "investment-seoul-fintech-lab-aug10"
+        "investment-seoul-fintech-lab-aug10",
+        "investment-seoul-fintech-lab-2026-08-11"
       ]
     },
     {
       "keyword": "india-upi-japan-expansion",
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-10",
+      "last_seen": "2026-08-11",
       "articles": [
         "remittance-upi-japan-2026-08-04",
         "remittance-india-upi-japan-2026-08-05",
@@ -447,7 +455,8 @@
         "india-upi-japan-expansion-2026-08-07",
         "remittance-india-upi-japan-2026-08-08",
         "remittance-india-upi-japan-2026-08-09",
-        "remittance-upi-japan-aug10"
+        "remittance-upi-japan-aug10",
+        "remittance-india-upi-japan-2026-08-11"
       ]
     },
     {
@@ -473,15 +482,16 @@
     },
     {
       "keyword": "n5deal-fintechs-outacquire",
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-08-06",
-      "last_seen": "2026-08-10",
+      "last_seen": "2026-08-11",
       "articles": [
         "investment-n5deal-outacquire-2026-08-06",
         "n5deal-fintechs-outacquire-2026-08-07",
         "investment-n5deal-outacquire-2026-08-08",
         "investment-n5deal-outacquire-2026-08-09",
-        "investment-n5deal-aug10"
+        "investment-n5deal-aug10",
+        "investment-n5deal-outacquire-2026-08-11"
       ]
     },
     {
@@ -573,6 +583,24 @@
       "articles": [
         "flipkart-supermoney-splitstore-2026-08-07",
         "lending-flipkart-splitstore-2026-08-08"
+      ]
+    },
+    {
+      "keyword": "circle-usdc-settlement-rails",
+      "count": 1,
+      "first_seen": "2026-08-11",
+      "last_seen": "2026-08-11",
+      "articles": [
+        "payments-circle-usdc-settlement-rails-2026-08-11"
+      ]
+    },
+    {
+      "keyword": "revolut-french-banking-license",
+      "count": 1,
+      "first_seen": "2026-08-11",
+      "last_seen": "2026-08-11",
+      "articles": [
+        "digital-banking-revolut-french-license-2026-08-11"
       ]
     }
   ]
