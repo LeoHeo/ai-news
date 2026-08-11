@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-08-11",
+  "updated": "2026-08-12",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -32,96 +32,14 @@
       ]
     },
     "openai-astra-model-family": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-03",
-      "last_seen": "2026-08-10",
+      "last_seen": "2026-08-12",
       "status": "normal",
       "example_titles": [
         "OpenAI, 차세대 모델 패밀리 'Astra' 공식 발표 — 10년 미해결 수학 난제 10건 증명으로 데뷔",
-        "OpenAI Astra 출시 무기한 지연 — '임계 사이버 능력 배제 불가'"
-      ]
-    },
-    "deepseek-v4-flash-release": {
-      "count": 2,
-      "first_seen": "2026-08-02",
-      "last_seen": "2026-08-04",
-      "status": "normal",
-      "example_titles": [
-        "DeepSeek V4-Flash-0731 공식 출시 — 자체 Pro-Preview를 9개 에이전트 벤치마크서 추월",
-        "DeepSeek V4-Flash-0731 정식 출시 — Terminal-Bench 82.7%로 자사 1.6T Pro 추월"
-      ]
-    },
-    "us-frontier-model-security-review": {
-      "count": 2,
-      "first_seen": "2026-08-02",
-      "last_seen": "2026-08-04",
-      "status": "normal",
-      "example_titles": [
-        "미 정부, OpenAI·Anthropic·Google과 프런티어 모델 출시 전 30일 국가안보 검토 협약",
-        "OpenAI·Anthropic, 경쟁사 AI 출시 기준 직접 설계 — 연방 프런티어 AI 심사 임계값 논란"
-      ]
-    },
-    "xai-grok-voice-2-speech": {
-      "count": 1,
-      "first_seen": "2026-08-04",
-      "last_seen": "2026-08-04",
-      "status": "normal",
-      "example_titles": [
-        "xAI Grok Voice Think Fast 2.0 출시 — 음성 AI 전사 정확도 1.5~2배 향상"
-      ]
-    },
-    "ant-ling-flash-opensource": {
-      "count": 1,
-      "first_seen": "2026-08-04",
-      "last_seen": "2026-08-04",
-      "status": "normal",
-      "example_titles": [
-        "Ant Group Ling-3.0-Flash, 오픈소스 공개 임박 — 124B MoE로 자사 1T 플래그십 능가"
-      ]
-    },
-    "openai-chatgpt-academic-researchers": {
-      "count": 1,
-      "first_seen": "2026-08-04",
-      "last_seen": "2026-08-04",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, 학술 연구자 10만 명에 GPT-5.6 Sol Pro 무료 제공 — 2,500억 달러 과학 지원 약정"
-      ]
-    },
-    "openai-anthropic-joint-safety-eval": {
-      "count": 1,
-      "first_seen": "2026-08-04",
-      "last_seen": "2026-08-04",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI·Anthropic, 경쟁사 AI 모델 상호 안전 평가 공개 — 업계 최초 교차 정렬 검증"
-      ]
-    },
-    "ai4-2026-conference-hinton-ng": {
-      "count": 1,
-      "first_seen": "2026-08-04",
-      "last_seen": "2026-08-04",
-      "status": "normal",
-      "example_titles": [
-        "Ai4 2026 개막 — Hinton·Li·Ng 역사상 첫 3인 공동 무대, 1만 2천 명 라스베이거스 집결"
-      ]
-    },
-    "alibaba-deepseek-us-market-2026": {
-      "count": 1,
-      "first_seen": "2026-08-04",
-      "last_seen": "2026-08-04",
-      "status": "normal",
-      "example_titles": [
-        "중국 AI 모델, 미국 기업 채택 가속 — DeepSeek·Alibaba, OpenAI·Anthropic 비용 급등 틈새 공략"
-      ]
-    },
-    "california-ai-transparency-act-2026": {
-      "count": 1,
-      "first_seen": "2026-08-04",
-      "last_seen": "2026-08-04",
-      "status": "normal",
-      "example_titles": [
-        "캘리포니아 AI 투명성법 8월 시행 — 챗봇·AI 생성 콘텐츠 출처 표시 의무화"
+        "OpenAI Astra 출시 무기한 지연 — '임계 사이버 능력 배제 불가'",
+        "OpenAI, Astra 개발 전면 중단 — 준비도 프레임워크 '임계 사이버 능력' 기준 사상 첫 도달 모델"
       ]
     },
     "open-weight-ai-safety-gap": {
@@ -225,14 +143,15 @@
       ]
     },
     "qwen38-max-alibaba": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-08-06",
-      "last_seen": "2026-08-11",
+      "last_seen": "2026-08-12",
       "status": "demoted",
       "example_titles": [
         "알리바바, 2.4조 파라미터 Qwen3.8-Max 공개 — 오픈소스 예정, 1M 토큰 컨텍스트",
         "알리바바 Qwen3.8-Max & Qwen3.8-27B 오픈웨이트 공개",
-        "알리바바 Qwen3.8-Max·27B 정식 공개 — 100만 토큰 컨텍스트·119개 언어"
+        "알리바바 Qwen3.8-Max·27B 정식 공개 — 100만 토큰 컨텍스트·119개 언어",
+        "Qwen 오픈웨이트 8월 배포 논란 — 알리바바, 출시 약속 이행 지연·라이선스 미공개"
       ]
     },
     "samsung-zhbm-3d-memory-fms2026": {
@@ -317,12 +236,13 @@
       ]
     },
     "enterprise-ai-agent-governance-chaos": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-10",
-      "last_seen": "2026-08-10",
+      "last_seen": "2026-08-12",
       "status": "normal",
       "example_titles": [
-        "VentureBeat: AI 에이전트 현장 도입 혼돈 — 거버넌스 공백이 문제"
+        "VentureBeat: AI 에이전트 현장 도입 혼돈 — 거버넌스 공백이 문제",
+        "Claude, OpenClaw and the new reality: AI agents are here — and so is the chaos"
       ]
     },
     "ai-coding-agent-leaderboard-aug2026": {
@@ -476,6 +396,69 @@
       "status": "normal",
       "example_titles": [
         "엔비디아, 네이버에 약 10억 달러 투자 — 아시아 기업 최초 NVIDIA 직접 전략 투자"
+      ]
+    },
+    "openai-gpt56-luna-free": {
+      "count": 1,
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI GPT-5.6 Luna, ChatGPT 무료 티어 기본 모델 전환 — 텍스트 채팅 제한 전면 폐지"
+      ]
+    },
+    "openai-daybreak-cyber-model": {
+      "count": 1,
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, AI 공격 급증 속 사이버 방어 서비스 Daybreak 확장 — 전용 사이버 AI 모델 공개"
+      ]
+    },
+    "llm-leaderboard-aug2026": {
+      "count": 1,
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "status": "normal",
+      "example_titles": [
+        "LLM 리더보드 2026년 8월 업데이트 — 381개 모델 비교, Claude Fable 5 100점·고전 벤치마크 포화 수렴"
+      ]
+    },
+    "anthropic-us-lobbying-q2-2026": {
+      "count": 1,
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, Q2 2026 미국 로비 지출 197만 달러 — 분기 대비 26% 급증, Nvidia 추월"
+      ]
+    },
+    "naver-ai-factory-2026": {
+      "count": 1,
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "status": "normal",
+      "example_titles": [
+        "네이버, AI탭 MAU 1,000만 돌파·AI 팩토리 55MW 2027년 가동 — GW급 AI 인프라 로드맵 공개"
+      ]
+    },
+    "eu-ai-act-enforcement-2026": {
+      "count": 1,
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "status": "normal",
+      "example_titles": [
+        "EU AI법 집행 전격 개시 — OpenAI·Anthropic·Google, 연매출 3% 과태료 가능·양자 협의 돌입"
+      ]
+    },
+    "eu-dma-google-android-ai": {
+      "count": 1,
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "status": "normal",
+      "example_titles": [
+        "EU DMA 집행 결정 — 구글, 2027년 1월부터 검색 데이터 공유·Android에 경쟁 AI 허용 의무화"
       ]
     }
   }
