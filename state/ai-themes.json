@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-08-13",
+  "updated": "2026-08-14",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -13,24 +13,6 @@
         "OpenAI, 차세대 모델 패밀리 'Astra' 공식 발표 — 10년 미해결 수학 난제 10건 증명으로 데뷔",
         "OpenAI Astra 출시 무기한 지연 — '임계 사이버 능력 배제 불가'",
         "OpenAI, Astra 개발 전면 중단 — 준비도 프레임워크 '임계 사이버 능력' 기준 사상 첫 도달 모델"
-      ]
-    },
-    "google-deepmind-hassabis-chairman": {
-      "count": 1,
-      "first_seen": "2026-08-06",
-      "last_seen": "2026-08-06",
-      "status": "normal",
-      "example_titles": [
-        "구글 딥마인드 CEO 하사비스, 의장직으로 이동 — 27년 구글 베테랑 제프 딘도 퇴사"
-      ]
-    },
-    "perplexity-amazon-ninth-circuit": {
-      "count": 1,
-      "first_seen": "2026-08-06",
-      "last_seen": "2026-08-06",
-      "status": "normal",
-      "example_titles": [
-        "미 제9항소법원, 퍼플렉시티 AI 에이전트의 아마존 접근 금지 가처분 파기 — 미국 첫 AI 에이전트 웹 접근권 판결"
       ]
     },
     "apple-openai-trade-secrets-injunction": {
@@ -53,60 +35,6 @@
         "알리바바 Qwen3.8-Max & Qwen3.8-27B 오픈웨이트 공개",
         "알리바바 Qwen3.8-Max·27B 정식 공개 — 100만 토큰 컨텍스트·119개 언어",
         "Qwen 오픈웨이트 8월 배포 논란 — 알리바바, 출시 약속 이행 지연·라이선스 미공개"
-      ]
-    },
-    "samsung-zhbm-3d-memory-fms2026": {
-      "count": 1,
-      "first_seen": "2026-08-06",
-      "last_seen": "2026-08-06",
-      "status": "normal",
-      "example_titles": [
-        "삼성, FMS 2026서 차세대 3D 메모리 zHBM 로드맵 공개 — HBM5 대비 성능 8배"
-      ]
-    },
-    "skhynix-sandisk-hbf-standard": {
-      "count": 1,
-      "first_seen": "2026-08-06",
-      "last_seen": "2026-08-06",
-      "status": "normal",
-      "example_titles": [
-        "SK하이닉스·샌디스크, 세계 최초 HBF(고대역 플래시) 표준 공개 — HBM과 SSD 사이 새 AI 메모리 계층"
-      ]
-    },
-    "anthropic-global-cuellar": {
-      "count": 1,
-      "first_seen": "2026-08-06",
-      "last_seen": "2026-08-06",
-      "status": "normal",
-      "example_titles": [
-        "앤트로픽, 前 캘리포니아 대법관 티노 쿠에야르를 초대 최고글로벌담당관(CGAO)으로 임명"
-      ]
-    },
-    "novee-blackhat-coding-agent-flaws": {
-      "count": 1,
-      "first_seen": "2026-08-06",
-      "last_seen": "2026-08-06",
-      "status": "normal",
-      "example_titles": [
-        "보안 스타트업 Novee, 블랙햇에서 클로드 코드·Gemini CLI·OpenAI Codex의 RCE·정보 유출 취약점 공개"
-      ]
-    },
-    "korea-ai-education-conference-2026": {
-      "count": 1,
-      "first_seen": "2026-08-06",
-      "last_seen": "2026-08-06",
-      "status": "normal",
-      "example_titles": [
-        "교육부, 부산 벡스코서 'AI 활용 교육 콘퍼런스' 개최 — 전국 교원 1만 명 참가"
-      ]
-    },
-    "blackhat-2026-ai-security-products": {
-      "count": 1,
-      "first_seen": "2026-08-06",
-      "last_seen": "2026-08-06",
-      "status": "normal",
-      "example_titles": [
-        "블랙햇 USA 2026 AI 보안 제품 출시 라운드업: Acalvio·Zero Networks·Snyk"
       ]
     },
     "grok-xai-lmarena-elo": {
@@ -450,6 +378,96 @@
       "status": "normal",
       "example_titles": [
         "2026 AI 법 업데이트: 주요 규제 현황과 실무 가이드"
+      ]
+    },
+    "openai-luna-price-cut": {
+      "count": 1,
+      "first_seen": "2026-08-14",
+      "last_seen": "2026-08-14",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, GPT-5.6 Luna 가격 80% 인하…AI 가격 전쟁 본격화"
+      ]
+    },
+    "google-gemini-flash-aug2026": {
+      "count": 1,
+      "first_seen": "2026-08-14",
+      "last_seen": "2026-08-14",
+      "status": "normal",
+      "example_titles": [
+        "구글, 코딩·에이전트 특화 Gemini Flash 신모델 출시"
+      ]
+    },
+    "openai-ultrafast-gpt56-sol": {
+      "count": 1,
+      "first_seen": "2026-08-14",
+      "last_seen": "2026-08-14",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, GPT-5.6 Sol에 초당 750토큰 '울트라패스트' 모드 추가"
+      ]
+    },
+    "spacexai-grok-bot": {
+      "count": 1,
+      "first_seen": "2026-08-14",
+      "last_seen": "2026-08-14",
+      "status": "normal",
+      "example_titles": [
+        "SpaceXAI, 月 120달러 '그록봇' 출시 — 앱을 24시간 대신 운영하는 AI 코워커"
+      ]
+    },
+    "microsoft-copilot-merge": {
+      "count": 1,
+      "first_seen": "2026-08-14",
+      "last_seen": "2026-08-14",
+      "status": "normal",
+      "example_titles": [
+        "마이크로소프트, 실패한 AI 기능 종료·Copilot 앱 통합 발표"
+      ]
+    },
+    "canva-code-20": {
+      "count": 1,
+      "first_seen": "2026-08-14",
+      "last_seen": "2026-08-14",
+      "status": "normal",
+      "example_titles": [
+        "캔바, 무료 사용자 포함 전 고객에 AI 웹사이트 빌더 'Code 2.0' 오픈"
+      ]
+    },
+    "aws-continuum-ai-security": {
+      "count": 1,
+      "first_seen": "2026-08-14",
+      "last_seen": "2026-08-14",
+      "status": "normal",
+      "example_titles": [
+        "AWS, 보안 플랫폼 Continuum에 Claude Code·OpenAI Codex 통합 — 블랙햇 발표"
+      ]
+    },
+    "deepseek-harness-agent": {
+      "count": 1,
+      "first_seen": "2026-08-14",
+      "last_seen": "2026-08-14",
+      "status": "normal",
+      "example_titles": [
+        "딥시크, AI 에이전트 전담 조직 'Harness' 공식화…대규모 채용 시작"
+      ]
+    },
+    "naver-pantalasa-datacenter": {
+      "count": 1,
+      "first_seen": "2026-08-14",
+      "last_seen": "2026-08-14",
+      "status": "normal",
+      "example_titles": [
+        "네이버, 파도 에너지 부유식 AI 데이터센터 스타트업 Pantalasa에 투자"
+      ]
+    },
+    "skan-ai-series-c": {
+      "count": 1,
+      "first_seen": "2026-08-14",
+      "last_seen": "2026-08-14",
+      "status": "normal",
+      "example_titles": [
+        "직원 업무 관찰 AI 스타트업 Skan AI, 시리즈 C 6,300만 달러 유치"
       ]
     }
   }
