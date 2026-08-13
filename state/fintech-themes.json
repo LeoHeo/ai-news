@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-12",
+  "updated": "2026-08-13",
   "window_days": 7,
   "themes": [
     {
@@ -72,9 +72,9 @@
     },
     {
       "keyword": "mastercard-agent-pay-machines",
-      "count": 35,
+      "count": 36,
       "first_seen": "2026-06-23",
-      "last_seen": "2026-08-12",
+      "last_seen": "2026-08-13",
       "articles": [
         "payments-mastercard-agent-pay-2026-06-23",
         "payments-mastercard-agent-pay-machines-2026-06-26",
@@ -110,14 +110,15 @@
         "mastercard-ap4m-stablecoin-2026-08-07",
         "payments-mastercard-bvnk-2026-08-09",
         "payments-mastercard-ap4m-2026-08-11",
-        "payments-mastercard-stablecoin-credential-2026-08-12"
+        "payments-mastercard-stablecoin-credential-2026-08-12",
+        "mastercard-agent-pay-machines-2026-08-13"
       ]
     },
     {
       "keyword": "fintech-funding-weekly-icymi",
-      "count": 42,
+      "count": 43,
       "first_seen": "2026-06-15",
-      "last_seen": "2026-08-12",
+      "last_seen": "2026-08-13",
       "articles": [
         "investment-fintech-funding-icymi-june15",
         "investment-icymi-june17",
@@ -160,7 +161,8 @@
         "investment-icymi-multifi-2026-08-09",
         "investment-icymi-multifi-aug10",
         "investment-icymi-multifi-aug11",
-        "investment-fintech-weekly-funding-2026-08-12"
+        "investment-fintech-weekly-funding-2026-08-12",
+        "investment-icymi-funding-2026-08-13"
       ]
     },
     {
@@ -233,9 +235,9 @@
     },
     {
       "keyword": "fintech-vc-forecast-2026",
-      "count": 24,
+      "count": 25,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-08-12",
+      "last_seen": "2026-08-13",
       "articles": [
         "investment-fintech-crunchbase",
         "investment-vc-trends-2026-2026-07-14",
@@ -260,7 +262,8 @@
         "investment-us-q2-fintech-2026-08-08",
         "investment-h1-2026-funding-2026-08-09",
         "investment-h1-funding-aug10",
-        "investment-eu-fintech-h1-ai-native-2026-08-12"
+        "investment-eu-fintech-h1-ai-native-2026-08-12",
+        "investment-eu-h1-ai-native-2026-08-13"
       ]
     },
     {
@@ -350,36 +353,6 @@
       ]
     },
     {
-      "keyword": "temasek-b2b-payments-acquisition",
-      "count": 10,
-      "first_seen": "2026-07-22",
-      "last_seen": "2026-08-05",
-      "articles": [
-        "investment-temasek-b2b-acquisition",
-        "investment-temasek-b2b-2026-07-27",
-        "investment-temasek-b2b-2026-07-28",
-        "investment-temasek-b2b-uk-2026-07-29",
-        "investment-temasek-b2b-uk-2026-07-30",
-        "investment-temasek-nium-ixaris-2026-07-31",
-        "investment-nium-ixaris-2026-08-01",
-        "investment-nium-ixaris-2026-08-02",
-        "investment-nium-2026-08-04",
-        "investment-nium-ixaris-2026-08-05"
-      ]
-    },
-    {
-      "keyword": "sokin-b2b-fintech-raise",
-      "count": 4,
-      "first_seen": "2026-08-01",
-      "last_seen": "2026-08-05",
-      "articles": [
-        "investment-sokin-50m-2026-08-01",
-        "investment-sokin-50m-2026-08-02",
-        "investment-sokin-50m-2026-08-03",
-        "investment-sokin-50m-2026-08-05"
-      ]
-    },
-    {
       "keyword": "smfg-sbi-digital-finance",
       "count": 8,
       "first_seen": "2026-08-03",
@@ -397,16 +370,17 @@
     },
     {
       "keyword": "seoul-fintech-lab-h2-2026",
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-08-03",
-      "last_seen": "2026-08-12",
+      "last_seen": "2026-08-13",
       "articles": [
         "investment-seoul-fintech-lab-2026-08-03",
         "investment-seoul-fintech-lab-2026-08-08",
         "investment-seoul-fintech-lab-2026-08-09",
         "investment-seoul-fintech-lab-aug10",
         "investment-seoul-fintech-lab-2026-08-11",
-        "investment-seoul-fintech-growth-2026-08-12"
+        "investment-seoul-fintech-growth-2026-08-12",
+        "investment-seoul-fintech-lab-2026-08-13"
       ]
     },
     {
@@ -562,21 +536,23 @@
     },
     {
       "keyword": "revolut-french-banking-license",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-11",
-      "last_seen": "2026-08-12",
+      "last_seen": "2026-08-13",
       "articles": [
         "digital-banking-revolut-french-license-2026-08-11",
-        "digital-banking-revolut-french-license-2026-08-12"
+        "digital-banking-revolut-french-license-2026-08-12",
+        "digital-banking-revolut-french-license-2026-08-13"
       ]
     },
     {
       "keyword": "coinbase-ai-agent-payments",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
+      "last_seen": "2026-08-13",
       "articles": [
-        "payments-coinbase-ai-agent-2026-08-12"
+        "payments-coinbase-ai-agent-2026-08-12",
+        "payments-coinbase-ai-agent-2026-08-13"
       ]
     },
     {
@@ -590,56 +566,71 @@
     },
     {
       "keyword": "moss-b2b-unicorn-europe",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
+      "last_seen": "2026-08-13",
       "articles": [
-        "investment-moss-unicorn-2026-08-12"
+        "investment-moss-unicorn-2026-08-12",
+        "investment-moss-b2b-unicorn-2026-08-13"
       ]
     },
     {
       "keyword": "alkami-digital-banking-ma",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
+      "last_seen": "2026-08-13",
       "articles": [
-        "investment-alkami-sale-2026-08-12"
+        "investment-alkami-sale-2026-08-12",
+        "investment-alkami-digital-banking-2026-08-13"
       ]
     },
     {
       "keyword": "movement-mexico-stablecoin-remittance",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
+      "last_seen": "2026-08-13",
       "articles": [
-        "remittance-movement-mexico-digital-dollar-2026-08-12"
+        "remittance-movement-mexico-digital-dollar-2026-08-12",
+        "remittance-movement-mexico-digital-dollar-2026-08-13"
       ]
     },
     {
       "keyword": "korea-crypto-banking-regulation",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
+      "last_seen": "2026-08-13",
       "articles": [
-        "regulation-korea-crypto-banking-2026-08-12"
+        "regulation-korea-crypto-banking-2026-08-12",
+        "regulation-korea-fsc-bok-stablecoin-2026-08-13"
       ]
     },
     {
       "keyword": "accel-india-fintech-fund",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
+      "last_seen": "2026-08-13",
       "articles": [
-        "investment-accel-india-fund-2026-08-12"
+        "investment-accel-india-fund-2026-08-12",
+        "investment-accel-india-fund-2026-08-13"
       ]
     },
     {
       "keyword": "nigeria-cbn-fintech-sandbox",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
+      "last_seen": "2026-08-13",
       "articles": [
-        "regulation-cbn-nigeria-sandbox-2026-08-12"
+        "regulation-cbn-nigeria-sandbox-2026-08-12",
+        "regulation-nigeria-cbn-sandbox-2026-08-13"
+      ]
+    },
+    {
+      "keyword": "embedded-payments-b2b-platform",
+      "count": 1,
+      "first_seen": "2026-08-13",
+      "last_seen": "2026-08-13",
+      "articles": [
+        "embedded-payments-competition-2026-08-13"
       ]
     }
   ]
