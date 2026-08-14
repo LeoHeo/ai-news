@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-08-14",
+  "updated": "2026-08-15",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -138,12 +138,13 @@
       ]
     },
     "meta-muse-code-agent": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-11",
-      "last_seen": "2026-08-11",
+      "last_seen": "2026-08-15",
       "status": "normal",
       "example_titles": [
-        "Meta Muse Code 출시 — Muse Spark 탑재 터미널 기반 AI 코딩 에이전트"
+        "Meta Muse Code 출시 — Muse Spark 탑재 터미널 기반 AI 코딩 에이전트",
+        "Meta, AI 코딩 전쟁 본격 참전 — Muse Spark 1.2·영구 비동기 에이전트 탑재 Muse Code 공개"
       ]
     },
     "google-gemini-robotics-2": {
@@ -192,12 +193,13 @@
       ]
     },
     "google-deepmind-discovery-loop": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-11",
-      "last_seen": "2026-08-11",
+      "last_seen": "2026-08-15",
       "status": "normal",
       "example_titles": [
-        "Google 딥마인드 핵심 인재 대거 이탈 — 제프 딘 등 Discovery Loop 창업"
+        "Google 딥마인드 핵심 인재 대거 이탈 — 제프 딘 등 Discovery Loop 창업",
+        "구글 딥마인드 핵심 AI 연구자들, 경쟁 심화 속 OpenAI·Anthropic으로 대거 이탈"
       ]
     },
     "anthropic-compute-71b-commitment": {
@@ -318,12 +320,13 @@
       ]
     },
     "naver-kakao-q2-agentic-strategy-2026": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-13",
-      "last_seen": "2026-08-13",
+      "last_seen": "2026-08-15",
       "status": "normal",
       "example_titles": [
-        "2026년 2분기 네이버·카카오 AI 전략 분석 — 에이전틱 AI 전환 속 실적 희비 갈려"
+        "2026년 2분기 네이버·카카오 AI 전략 분석 — 에이전틱 AI 전환 속 실적 희비 갈려",
+        "네이버·카카오 2026년 승부수: AI 에이전트부터 스테이블코인까지 신사업 격전"
       ]
     },
     "ai-startup-funding-aug2026-trend": {
@@ -468,6 +471,69 @@
       "status": "normal",
       "example_titles": [
         "직원 업무 관찰 AI 스타트업 Skan AI, 시리즈 C 6,300만 달러 유치"
+      ]
+    },
+    "meta-muse-spark-proprietary": {
+      "count": 1,
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-08-15",
+      "status": "normal",
+      "example_titles": [
+        "Llama에 작별? Meta, Superintelligence Labs 체제 첫 독점 AI 모델 Muse Spark 출시"
+      ]
+    },
+    "google-gemini-1b-mau": {
+      "count": 1,
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-08-15",
+      "status": "normal",
+      "example_titles": [
+        "Google Gemini 앱, 월간 활성 사용자 10억 명 돌파"
+      ]
+    },
+    "llm-enterprise-comparison-2026": {
+      "count": 1,
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-08-15",
+      "status": "normal",
+      "example_titles": [
+        "2026년 LLM 비교 가이드: 30개 이상 모델 벤치마크·기업 선택 기준 정리"
+      ]
+    },
+    "manus-meta-acquisition-unwind": {
+      "count": 1,
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-08-15",
+      "status": "normal",
+      "example_titles": [
+        "中 베이징 정부 명령으로 Meta의 Manus 인수 무효 — Manus 독립사로 복귀"
+      ]
+    },
+    "ai-h1-2026-funding-record": {
+      "count": 1,
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-08-15",
+      "status": "normal",
+      "example_titles": [
+        "2026년 상반기 글로벌 스타트업 투자, AI 주도로 사상 최대 5,100억 달러 달성"
+      ]
+    },
+    "sk-group-ax-transformation-2026": {
+      "count": 1,
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-08-15",
+      "status": "normal",
+      "example_titles": [
+        "SK그룹 최태원 회장, 2026 뉴이천포럼서 전사적 AI 전환(AX) 본격 선언"
+      ]
+    },
+    "anthropic-risk-report-aug2026": {
+      "count": 1,
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-08-15",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, 2026년 8월 AI 위험 평가 문서 공개 — Hacker News에서 대규모 토론"
       ]
     }
   }
