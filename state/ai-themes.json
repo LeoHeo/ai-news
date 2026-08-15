@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-08-15",
+  "updated": "2026-08-16",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -320,13 +320,14 @@
       ]
     },
     "naver-kakao-q2-agentic-strategy-2026": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-13",
-      "last_seen": "2026-08-15",
-      "status": "normal",
+      "last_seen": "2026-08-16",
+      "status": "demoted",
       "example_titles": [
         "2026년 2분기 네이버·카카오 AI 전략 분석 — 에이전틱 AI 전환 속 실적 희비 갈려",
-        "네이버·카카오 2026년 승부수: AI 에이전트부터 스테이블코인까지 신사업 격전"
+        "네이버·카카오 2026년 승부수: AI 에이전트부터 스테이블코인까지 신사업 격전",
+        "네이버·카카오 2Q 실적 발표…AI 에이전트 전략이 수익성 지표 갈랐다"
       ]
     },
     "ai-startup-funding-aug2026-trend": {
@@ -366,12 +367,13 @@
       ]
     },
     "california-ai-bills-vote-aug13-2026": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-13",
-      "last_seen": "2026-08-13",
+      "last_seen": "2026-08-16",
       "status": "normal",
       "example_titles": [
-        "캘리포니아 AI 법안 30건 이상, 8월 13일 양원 표결 예정 — 미국 최대 규모 AI 입법 분수령"
+        "캘리포니아 AI 법안 30건 이상, 8월 13일 양원 표결 예정 — 미국 최대 규모 AI 입법 분수령",
+        "캘리포니아 AI 법안 30건 이상 표결 예정…빅테크 규제 포위망 좁혀지나"
       ]
     },
     "us-state-ai-laws-2026": {
@@ -534,6 +536,78 @@
       "status": "normal",
       "example_titles": [
         "Anthropic, 2026년 8월 AI 위험 평가 문서 공개 — Hacker News에서 대규모 토론"
+      ]
+    },
+    "grok-4-6-benchmark-aug2026": {
+      "count": 1,
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16",
+      "status": "normal",
+      "example_titles": [
+        "xAI, Grok 4.6 공개…MATH·GPQA 벤치마크서 GPT-5·Gemini 3.7 제쳐"
+      ]
+    },
+    "anthropic-q2-profit-2026": {
+      "count": 1,
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, 창사 이래 첫 분기 흑자 달성…2026년 2Q 영업이익 흑자 전환"
+      ]
+    },
+    "anthropic-riot-games-deal": {
+      "count": 1,
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, 라이엇 게임즈와 멀티년 파트너십…Claude, 게임 AI NPC에 도입"
+      ]
+    },
+    "meta-nvidia-llama4-optimization": {
+      "count": 1,
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16",
+      "status": "normal",
+      "example_titles": [
+        "Meta·Nvidia, 오픈 웨이트 LLM 공동 최적화 발표…Llama 4 성능 30% 향상"
+      ]
+    },
+    "samsung-skhynix-hbm4-rally": {
+      "count": 1,
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16",
+      "status": "normal",
+      "example_titles": [
+        "삼성전자·SK하이닉스, AI 수요 기대에 반등…HBM4 수주 확대 전망"
+      ]
+    },
+    "enterprise-gpu-utilization-2026": {
+      "count": 1,
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16",
+      "status": "normal",
+      "example_titles": [
+        "기업 GPU 활용률 조사 '보유 GPU 42%가 유휴 상태'…AI 인프라 낭비 경고"
+      ]
+    },
+    "agentic-memory-token-maxxing": {
+      "count": 1,
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16",
+      "status": "normal",
+      "example_titles": [
+        "'에이전트 메모리 + 토큰 최대화'…장기 AI 에이전트 성능의 새 연구 프레임"
+      ]
+    },
+    "anthropic-global-affairs-chief": {
+      "count": 1,
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, 글로벌 공공정책 총괄 영입…정부 규제 대응 조직 강화"
       ]
     }
   }
