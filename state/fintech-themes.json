@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updated": "2026-08-14",
+  "updated": "2026-08-15",
   "window_days": 7,
   "themes": [
     {
       "keyword": "us-fintech-regulation",
-      "count": 74,
+      "count": 73,
       "first_seen": "2026-05-24",
-      "last_seen": "2026-08-14",
+      "last_seen": "2026-08-11",
       "articles": [
         "regulation-embedded-regs-june11",
         "embedded-finance-us-regs-june12",
@@ -67,8 +67,7 @@
         "regulation-us-embedded-finance-2026-08-08",
         "regulation-embedded-finance-us-2026-08-09",
         "regulation-embedded-us-aug10",
-        "regulation-embedded-finance-us-2026-08-11",
-        "regulation-embedded-finance-us-2026-08-14"
+        "regulation-embedded-finance-us-2026-08-11"
       ]
     },
     {
@@ -117,9 +116,9 @@
     },
     {
       "keyword": "fintech-funding-weekly-icymi",
-      "count": 44,
+      "count": 45,
       "first_seen": "2026-06-15",
-      "last_seen": "2026-08-14",
+      "last_seen": "2026-08-15",
       "articles": [
         "investment-fintech-funding-icymi-june15",
         "investment-icymi-june17",
@@ -164,14 +163,15 @@
         "investment-icymi-multifi-aug11",
         "investment-fintech-weekly-funding-2026-08-12",
         "investment-icymi-funding-2026-08-13",
-        "investment-icymi-funding-2026-08-14"
+        "investment-icymi-funding-2026-08-14",
+        "investment-fintech-funding-808m-2026-08-15"
       ]
     },
     {
       "keyword": "range-stablecoin-compliance-raise",
-      "count": 21,
+      "count": 20,
       "first_seen": "2026-07-04",
-      "last_seen": "2026-08-14",
+      "last_seen": "2026-08-11",
       "articles": [
         "investment-range-2026-07-04",
         "investment-range-raise",
@@ -192,15 +192,14 @@
         "investment-range-stablecoin-2026-08-06",
         "range-stablecoin-compliance-2026-08-07",
         "investment-range-stablecoin-2026-08-08",
-        "investment-range-stablecoin-2026-08-11",
-        "investment-range-stablecoin-2026-08-14"
+        "investment-range-stablecoin-2026-08-11"
       ]
     },
     {
       "keyword": "smb-crossborder-fintech-savings",
-      "count": 33,
+      "count": 32,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-08-14",
+      "last_seen": "2026-08-12",
       "articles": [
         "remittance-smb-fintech-growth",
         "remittance-smb-crossborder-2026-07-06",
@@ -233,8 +232,7 @@
         "remittance-smb-36pct-2026-08-09",
         "remittance-smb-aug10",
         "remittance-smb-36pct-aug11",
-        "remittance-movement-mexico-2026-08-12",
-        "remittance-smb-36pct-2026-08-14"
+        "remittance-movement-mexico-2026-08-12"
       ]
     },
     {
@@ -332,9 +330,9 @@
     },
     {
       "keyword": "asia-fintech-tokenization",
-      "count": 19,
+      "count": 18,
       "first_seen": "2026-07-18",
-      "last_seen": "2026-08-14",
+      "last_seen": "2026-08-10",
       "articles": [
         "sea-fintech-tokenization",
         "payments-sea-fintech-tokenization",
@@ -353,8 +351,7 @@
         "digital-banking-sea-tokenization-2026-08-06",
         "sea-fintech-tokenization-2026-08-07",
         "digital-banking-sea-tokenization-2026-08-09",
-        "digital-banking-sea-tokenization-aug10",
-        "digital-banking-sea-tokenization-2026-08-14"
+        "digital-banking-sea-tokenization-aug10"
       ]
     },
     {
@@ -417,18 +414,35 @@
       ]
     },
     {
-      "keyword": "n5deal-fintechs-outacquire",
-      "count": 7,
+      "keyword": "palmpay-hk-ipo",
+      "count": 1,
       "first_seen": "2026-08-06",
-      "last_seen": "2026-08-14",
+      "last_seen": "2026-08-06",
+      "articles": [
+        "investment-palmpay-hk-ipo-2026-08-06"
+      ]
+    },
+    {
+      "keyword": "n5deal-fintechs-outacquire",
+      "count": 6,
+      "first_seen": "2026-08-06",
+      "last_seen": "2026-08-11",
       "articles": [
         "investment-n5deal-outacquire-2026-08-06",
         "n5deal-fintechs-outacquire-2026-08-07",
         "investment-n5deal-outacquire-2026-08-08",
         "investment-n5deal-outacquire-2026-08-09",
         "investment-n5deal-aug10",
-        "investment-n5deal-outacquire-2026-08-11",
-        "investment-n5deal-outacquire-2026-08-14"
+        "investment-n5deal-outacquire-2026-08-11"
+      ]
+    },
+    {
+      "keyword": "malaysia-rtp-security-ai",
+      "count": 1,
+      "first_seen": "2026-08-06",
+      "last_seen": "2026-08-06",
+      "articles": [
+        "payments-malaysia-rtp-security-2026-08-06"
       ]
     },
     {
@@ -443,6 +457,24 @@
       ]
     },
     {
+      "keyword": "fintechos-profitability-us",
+      "count": 1,
+      "first_seen": "2026-08-06",
+      "last_seen": "2026-08-06",
+      "articles": [
+        "digital-banking-fintechos-2026-08-06"
+      ]
+    },
+    {
+      "keyword": "dakota-bank-charter-stablecoin",
+      "count": 1,
+      "first_seen": "2026-08-06",
+      "last_seen": "2026-08-06",
+      "articles": [
+        "regulation-dakota-bank-charter-2026-08-06"
+      ]
+    },
+    {
       "keyword": "klarna-jpmorgan-payments-live",
       "count": 2,
       "first_seen": "2026-08-07",
@@ -450,15 +482,6 @@
       "articles": [
         "klarna-jpmorgan-payments-live-2026-08-07",
         "payments-klarna-jpmorgan-2026-08-08"
-      ]
-    },
-    {
-      "keyword": "fnz-bank-advent-sale",
-      "count": 1,
-      "first_seen": "2026-08-07",
-      "last_seen": "2026-08-07",
-      "articles": [
-        "fnz-bank-advent-sale-2026-08-07"
       ]
     },
     {
@@ -536,13 +559,12 @@
     },
     {
       "keyword": "moss-b2b-unicorn-europe",
-      "count": 3,
+      "count": 2,
       "first_seen": "2026-08-12",
-      "last_seen": "2026-08-14",
+      "last_seen": "2026-08-13",
       "articles": [
         "investment-moss-unicorn-2026-08-12",
-        "investment-moss-b2b-unicorn-2026-08-13",
-        "investment-moss-b2b-unicorn-2026-08-14"
+        "investment-moss-b2b-unicorn-2026-08-13"
       ]
     },
     {
@@ -597,66 +619,83 @@
     },
     {
       "keyword": "embedded-payments-b2b-platform",
-      "count": 2,
+      "count": 1,
       "first_seen": "2026-08-13",
-      "last_seen": "2026-08-14",
+      "last_seen": "2026-08-13",
       "articles": [
-        "embedded-payments-competition-2026-08-13",
-        "payments-embedded-b2b-competition-2026-08-14"
+        "embedded-payments-competition-2026-08-13"
       ]
     },
     {
-      "keyword": "doordash-stablecoin-tempo-payouts",
+      "keyword": "tether-kpmg-first-audit",
       "count": 1,
-      "first_seen": "2026-08-14",
-      "last_seen": "2026-08-14",
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-08-15",
       "articles": [
-        "payments-doordash-stablecoin-tempo-2026-08-14"
+        "payments-tether-kpmg-first-audit"
       ]
     },
     {
-      "keyword": "infinite-erebor-stablecoin-banking",
+      "keyword": "stablecoin-distribution-competition",
       "count": 1,
-      "first_seen": "2026-08-14",
-      "last_seen": "2026-08-14",
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-08-15",
       "articles": [
-        "payments-infinite-erebor-stablecoin-2026-08-14"
+        "payments-stablecoin-distribution-competition"
       ]
     },
     {
-      "keyword": "fintechs-trade-finance-banks",
+      "keyword": "stablecoin-card-infra-business",
       "count": 1,
-      "first_seen": "2026-08-14",
-      "last_seen": "2026-08-14",
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-08-15",
       "articles": [
-        "payments-fintechs-trade-finance-2026-08-14"
+        "payments-stablecoin-card-infra"
       ]
     },
     {
-      "keyword": "nubank-record-profit-q2",
+      "keyword": "pymnts-stablecoin-weekly-aug15",
       "count": 1,
-      "first_seen": "2026-08-14",
-      "last_seen": "2026-08-14",
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-08-15",
       "articles": [
-        "digital-banking-nubank-1bn-profit-2026-08-14"
+        "payments-stablecoin-weekly"
       ]
     },
     {
-      "keyword": "n26-wero-europe-payments",
+      "keyword": "chime-stablecoin-exploration",
       "count": 1,
-      "first_seen": "2026-08-14",
-      "last_seen": "2026-08-14",
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-08-15",
       "articles": [
-        "digital-banking-n26-wero-2026-08-14"
+        "digital-banking-chime-stablecoin"
       ]
     },
     {
-      "keyword": "eu-bnpl-credit-directive",
+      "keyword": "citi-kard-rewards-acquisition",
       "count": 1,
-      "first_seen": "2026-08-14",
-      "last_seen": "2026-08-14",
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-08-15",
       "articles": [
-        "lending-eu-bnpl-rules-2026-08-14"
+        "investment-citi-kard-acquisition"
+      ]
+    },
+    {
+      "keyword": "bank-stablecoin-regulation-ai",
+      "count": 1,
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-08-15",
+      "articles": [
+        "regulation-bank-stablecoin-ai"
+      ]
+    },
+    {
+      "keyword": "polygon-boe-digital-pound",
+      "count": 1,
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-08-15",
+      "articles": [
+        "regulation-polygon-boe-digital-pound"
       ]
     }
   ]
