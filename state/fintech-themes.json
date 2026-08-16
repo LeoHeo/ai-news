@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-15",
+  "updated": "2026-08-16",
   "window_days": 7,
   "themes": [
     {
@@ -116,9 +116,9 @@
     },
     {
       "keyword": "fintech-funding-weekly-icymi",
-      "count": 45,
+      "count": 47,
       "first_seen": "2026-06-15",
-      "last_seen": "2026-08-15",
+      "last_seen": "2026-08-16",
       "articles": [
         "investment-fintech-funding-icymi-june15",
         "investment-icymi-june17",
@@ -164,7 +164,9 @@
         "investment-fintech-weekly-funding-2026-08-12",
         "investment-icymi-funding-2026-08-13",
         "investment-icymi-funding-2026-08-14",
-        "investment-fintech-funding-808m-2026-08-15"
+        "investment-fintech-funding-808m-2026-08-15",
+        "investment-fintech-funding-808m-2026-08-16",
+        "investment-icymi-ellis-naran-2026-08-16"
       ]
     },
     {
@@ -197,9 +199,9 @@
     },
     {
       "keyword": "smb-crossborder-fintech-savings",
-      "count": 32,
+      "count": 33,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-08-12",
+      "last_seen": "2026-08-16",
       "articles": [
         "remittance-smb-fintech-growth",
         "remittance-smb-crossborder-2026-07-06",
@@ -232,14 +234,15 @@
         "remittance-smb-36pct-2026-08-09",
         "remittance-smb-aug10",
         "remittance-smb-36pct-aug11",
-        "remittance-movement-mexico-2026-08-12"
+        "remittance-movement-mexico-2026-08-12",
+        "payments-smb-36pct-2026-08-16"
       ]
     },
     {
       "keyword": "fintech-vc-forecast-2026",
-      "count": 25,
+      "count": 26,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-08-13",
+      "last_seen": "2026-08-16",
       "articles": [
         "investment-fintech-crunchbase",
         "investment-vc-trends-2026-2026-07-14",
@@ -265,7 +268,8 @@
         "investment-h1-2026-funding-2026-08-09",
         "investment-h1-funding-aug10",
         "investment-eu-fintech-h1-ai-native-2026-08-12",
-        "investment-eu-h1-ai-native-2026-08-13"
+        "investment-eu-h1-ai-native-2026-08-13",
+        "investment-eu-h1-lowest-deals-2026-08-16"
       ]
     },
     {
@@ -300,9 +304,9 @@
     },
     {
       "keyword": "digital-payments-ux-shift",
-      "count": 22,
+      "count": 23,
       "first_seen": "2026-07-14",
-      "last_seen": "2026-08-12",
+      "last_seen": "2026-08-16",
       "articles": [
         "payments-ux-shift-2026-07-14",
         "payments-digital-ux-human",
@@ -325,7 +329,8 @@
         "payments-digital-ux-aug10",
         "payments-digital-ux-aug11",
         "payments-square-universal-card-2026-08-12",
-        "payments-agentic-payments-growth-2026-08-12"
+        "payments-agentic-payments-growth-2026-08-12",
+        "payments-digital-feel-human-2026-08-16"
       ]
     },
     {
@@ -520,22 +525,24 @@
     },
     {
       "keyword": "circle-usdc-settlement-rails",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-11",
-      "last_seen": "2026-08-11",
+      "last_seen": "2026-08-16",
       "articles": [
-        "payments-circle-usdc-settlement-rails-2026-08-11"
+        "payments-circle-usdc-settlement-rails-2026-08-11",
+        "payments-circle-usdc-platform-2026-08-16"
       ]
     },
     {
       "keyword": "revolut-french-banking-license",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-08-11",
-      "last_seen": "2026-08-13",
+      "last_seen": "2026-08-16",
       "articles": [
         "digital-banking-revolut-french-license-2026-08-11",
         "digital-banking-revolut-french-license-2026-08-12",
-        "digital-banking-revolut-french-license-2026-08-13"
+        "digital-banking-revolut-french-license-2026-08-13",
+        "digital-banking-revolut-french-license-2026-08-16"
       ]
     },
     {
@@ -559,12 +566,13 @@
     },
     {
       "keyword": "moss-b2b-unicorn-europe",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-12",
-      "last_seen": "2026-08-13",
+      "last_seen": "2026-08-16",
       "articles": [
         "investment-moss-unicorn-2026-08-12",
-        "investment-moss-b2b-unicorn-2026-08-13"
+        "investment-moss-b2b-unicorn-2026-08-13",
+        "investment-moss-unicorn-2026-08-16"
       ]
     },
     {
@@ -696,6 +704,51 @@
       "last_seen": "2026-08-15",
       "articles": [
         "regulation-polygon-boe-digital-pound"
+      ]
+    },
+    {
+      "keyword": "fintech-trade-finance-banks",
+      "count": 1,
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16",
+      "articles": [
+        "payments-fintech-trade-finance-2026-08-16"
+      ]
+    },
+    {
+      "keyword": "kb-jpmorgan-blockchain-remittance",
+      "count": 1,
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16",
+      "articles": [
+        "remittance-kb-jpmorgan-kinexis-2026-08-16"
+      ]
+    },
+    {
+      "keyword": "korea-fintech-record-results",
+      "count": 1,
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16",
+      "articles": [
+        "digital-banking-korea-fintech-record-2026-08-16"
+      ]
+    },
+    {
+      "keyword": "bunq-occ-charter-denied",
+      "count": 1,
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16",
+      "articles": [
+        "regulation-bunq-occ-denied-2026-08-16"
+      ]
+    },
+    {
+      "keyword": "eu-ai-act-fintech-compliance",
+      "count": 1,
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16",
+      "articles": [
+        "regulation-eu-ai-act-fintech-2026-08-16"
       ]
     }
   ]
