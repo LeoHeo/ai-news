@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-08-17",
+  "updated": "2026-08-18",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -37,33 +37,6 @@
         "Qwen 오픈웨이트 8월 배포 논란 — 알리바바, 출시 약속 이행 지연·라이선스 미공개"
       ]
     },
-    "grok-xai-lmarena-elo": {
-      "count": 1,
-      "first_seen": "2026-08-10",
-      "last_seen": "2026-08-10",
-      "status": "normal",
-      "example_titles": [
-        "Grok 4.3, LMArena 블라인드 평가 Elo 1위 등극"
-      ]
-    },
-    "anthropic-agentic-coding-report-2026": {
-      "count": 1,
-      "first_seen": "2026-08-10",
-      "last_seen": "2026-08-10",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic 2026 에이전트 코딩 트렌드 보고서 공개"
-      ]
-    },
-    "microsoft-ai-token-budget-roi": {
-      "count": 1,
-      "first_seen": "2026-08-10",
-      "last_seen": "2026-08-10",
-      "status": "normal",
-      "example_titles": [
-        "Microsoft, 사업부별 AI 토큰 예산 및 ROI 목표 도입"
-      ]
-    },
     "enterprise-ai-agent-governance-chaos": {
       "count": 2,
       "first_seen": "2026-08-10",
@@ -72,42 +45,6 @@
       "example_titles": [
         "VentureBeat: AI 에이전트 현장 도입 혼돈 — 거버넌스 공백이 문제",
         "Claude, OpenClaw and the new reality: AI agents are here — and so is the chaos"
-      ]
-    },
-    "ai-coding-agent-leaderboard-aug2026": {
-      "count": 1,
-      "first_seen": "2026-08-10",
-      "last_seen": "2026-08-10",
-      "status": "normal",
-      "example_titles": [
-        "AI 코딩 에이전트 리더보드 2026-08 — Claude Code·Devin 2.0·Cursor 상위권"
-      ]
-    },
-    "google-deepmind-weathernext": {
-      "count": 1,
-      "first_seen": "2026-08-10",
-      "last_seen": "2026-08-10",
-      "status": "normal",
-      "example_titles": [
-        "구글 딥마인드, 차세대 AI 기상 예측 모델 WeatherNext 공개"
-      ]
-    },
-    "poscodx-ai-native-company": {
-      "count": 1,
-      "first_seen": "2026-08-10",
-      "last_seen": "2026-08-10",
-      "status": "normal",
-      "example_titles": [
-        "POSCO DX, 'AI 네이티브 컴퍼니' 전환 선언"
-      ]
-    },
-    "korea-ai-startup-ranking-2026": {
-      "count": 1,
-      "first_seen": "2026-08-10",
-      "last_seen": "2026-08-10",
-      "status": "normal",
-      "example_titles": [
-        "국내 AI 스타트업 TOP 10 (2026) — 업스테이지·뤼튼·딥노이드 선두"
       ]
     },
     "meta-muse-glimmer-model": {
@@ -539,12 +476,13 @@
       ]
     },
     "grok-4-6-benchmark-aug2026": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-16",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "status": "normal",
       "example_titles": [
-        "xAI, Grok 4.6 공개…MATH·GPQA 벤치마크서 GPT-5·Gemini 3.7 제쳐"
+        "xAI, Grok 4.6 공개…MATH·GPQA 벤치마크서 GPT-5·Gemini 3.7 제쳐",
+        "SpaceXAI, Grok 4.6 출시 — Kimi K3 제치고 세계 3위 등극"
       ]
     },
     "anthropic-q2-profit-2026": {
@@ -584,12 +522,13 @@
       ]
     },
     "enterprise-gpu-utilization-2026": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-16",
-      "last_seen": "2026-08-17",
-      "status": "normal",
+      "last_seen": "2026-08-18",
+      "status": "demoted",
       "example_titles": [
-        "기업 GPU 활용률 조사 '보유 GPU 42%가 유휴 상태'…AI 인프라 낭비 경고"
+        "기업 GPU 활용률 조사 '보유 GPU 42%가 유휴 상태'…AI 인프라 낭비 경고",
+        "기업 GPU의 86%가 50% 이하 가동 — AI 투자 효율 위기"
       ]
     },
     "agentic-memory-token-maxxing": {
@@ -647,12 +586,13 @@
       ]
     },
     "deepseek-v4-flash-agent-failure-2026": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "status": "normal",
       "example_titles": [
-        "DeepSeek V4 Flash, 실제 에이전트 과제에서 성능 저하 — 가격 급등 논란 동반"
+        "DeepSeek V4 Flash, 실제 에이전트 과제에서 성능 저하 — 가격 급등 논란 동반",
+        "최상위 평가의 DeepSeek V4 Flash, 실제 에이전트 작업엔 절반만 성공 — 가격 11배 급등"
       ]
     },
     "multi-agent-coordination-research-2026": {
@@ -665,48 +605,80 @@
       ]
     },
     "stripe-openrouter-acquisition-2026": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "status": "normal",
       "example_titles": [
-        "Stripe, AI 게이트웨이 스타트업 OpenRouter 70억 달러 이상에 인수 추진"
+        "Stripe, AI 게이트웨이 스타트업 OpenRouter 70억 달러 이상에 인수 추진",
+        "스트라이프, OpenRouter를 70억 달러 이상에 인수 — AI 결제 인프라 장악"
       ]
     },
     "openai-revenue-run-rate-40b-2026": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "status": "normal",
       "example_titles": [
-        "OpenAI 연간 매출 달성률 400억 달러 돌파 — IPO 전 재무 건전성 확인"
+        "OpenAI 연간 매출 달성률 400억 달러 돌파 — IPO 전 재무 건전성 확인",
+        "OpenAI 연매출 400억 달러 돌파 — IPO S-1 제출 임박"
       ]
     },
     "satya-nadella-ai-hollowing-2026": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "status": "normal",
       "example_titles": [
-        "사티아 나델라 \"AI, 글로벌화처럼 산업 공동화 위험\" 공개 경고"
+        "사티아 나델라 \"AI, 글로벌화처럼 산업 공동화 위험\" 공개 경고",
+        "나델라 CEO \"AI가 소프트웨어를 공동화하고 있다\" — MS 에이전트 중심 재편"
       ]
     },
     "anthropic-ceo-trust-crisis-2026": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "status": "normal",
       "example_titles": [
-        "앤트로픽 CEO \"AI 반발은 근본적으로 신뢰의 위기\" — 공개 발언"
+        "앤트로픽 CEO \"AI 반발은 근본적으로 신뢰의 위기\" — 공개 발언",
+        "다리오 아모데이 \"AI는 근본적으로 신뢰 위기\" — 규제·오픈소스 긴장 고조"
       ]
     },
     "eu-ai-act-transparency-live-2026": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "status": "normal",
       "example_titles": [
-        "유럽, 대륙 전역 AI 규정 최초 발효 — AI 시스템 신원 공개 의무화"
+        "유럽, 대륙 전역 AI 규정 최초 발효 — AI 시스템 신원 공개 의무화",
+        "EU AI 사무소, 기반모델 8종 위험 등급 판정 — 월간 리스크 보고 의무화"
+      ]
+    },
+    "glm53-zai-coding-aug2026": {
+      "count": 1,
+      "first_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
+      "status": "normal",
+      "example_titles": [
+        "Z.ai, GLM-5.3 공개 — 장기 코딩·사이버보안 특화 743B 모델"
+      ]
+    },
+    "google-imagen4-api-shutdown-2026": {
+      "count": 1,
+      "first_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
+      "status": "normal",
+      "example_titles": [
+        "구글, Imagen 4 API 3종 종료 — 대체 모델 가격 최대 3배"
+      ]
+    },
+    "etri-ai-explainability-itu-2026": {
+      "count": 1,
+      "first_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
+      "status": "normal",
+      "example_titles": [
+        "ETRI, AI 설명가능성 ITU 국제표준 채택 — 국내 최초"
       ]
     }
   }
