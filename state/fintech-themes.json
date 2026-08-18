@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updated": "2026-08-17",
+  "updated": "2026-08-18",
   "window_days": 7,
   "themes": [
     {
       "keyword": "us-fintech-regulation",
-      "count": 74,
+      "count": 76,
       "first_seen": "2026-05-24",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "articles": [
         "regulation-embedded-regs-june11",
         "embedded-finance-us-regs-june12",
@@ -68,7 +68,9 @@
         "regulation-embedded-finance-us-2026-08-09",
         "regulation-embedded-us-aug10",
         "regulation-embedded-finance-us-2026-08-11",
-        "regulation-whitehouse-fintech-rails-2026-08-17"
+        "regulation-whitehouse-fintech-rails-2026-08-17",
+        "regulation-federal-deadline-2026-08-18",
+        "regulation-embedded-finance-2026-08-18"
       ]
     },
     {
@@ -200,9 +202,9 @@
     },
     {
       "keyword": "smb-crossborder-fintech-savings",
-      "count": 33,
+      "count": 34,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-08-16",
+      "last_seen": "2026-08-18",
       "articles": [
         "remittance-smb-fintech-growth",
         "remittance-smb-crossborder-2026-07-06",
@@ -236,14 +238,15 @@
         "remittance-smb-aug10",
         "remittance-smb-36pct-aug11",
         "remittance-movement-mexico-2026-08-12",
-        "payments-smb-36pct-2026-08-16"
+        "payments-smb-36pct-2026-08-16",
+        "remittance-smb-36pct-2026-08-18"
       ]
     },
     {
       "keyword": "fintech-vc-forecast-2026",
-      "count": 27,
+      "count": 28,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "articles": [
         "investment-fintech-crunchbase",
         "investment-vc-trends-2026-2026-07-14",
@@ -271,44 +274,15 @@
         "investment-eu-fintech-h1-ai-native-2026-08-12",
         "investment-eu-h1-ai-native-2026-08-13",
         "investment-eu-h1-lowest-deals-2026-08-16",
-        "investment-h1-fintech-funding-2026-08-17"
-      ]
-    },
-    {
-      "keyword": "korea-face-pay-competition",
-      "count": 22,
-      "first_seen": "2026-07-09",
-      "last_seen": "2026-08-10",
-      "articles": [
-        "payments-3-2026-07-09",
-        "payments-korea-face-pay",
-        "payments-korea-face-pay",
-        "payments-korea-face-pay-2026-07-12",
-        "payments-korea-face-pay-2026-07-13",
-        "digital-banking-korea-facepay",
-        "payments-korea-face-pay-2026-07-19",
-        "payments-toss-facepay-kr-2026-07-23",
-        "payments-toss-facepay-2026-07-24",
-        "payments-korea-face-pay-2026-07-25",
-        "payments-toss-facepay-2026-07-26",
-        "digital-banking-toss-facepay-2026-07-27",
-        "payments-toss-facepay-40-2026-07-29",
-        "payments-toss-facepay-40-2026-07-30",
-        "payments-toss-facepay-400k-2026-07-31",
-        "payments-toss-facepay-2026-08-03",
-        "payments-toss-facepay-2026-08-04",
-        "payments-toss-facepay-2026-08-05",
-        "payments-toss-facepay-2026-08-06",
-        "toss-facepay-600m-2026-08-07",
-        "payments-toss-facepay-2026-08-08",
-        "payments-toss-facepay-aug10"
+        "investment-h1-fintech-funding-2026-08-17",
+        "investment-eu-h1-2026-08-18"
       ]
     },
     {
       "keyword": "digital-payments-ux-shift",
-      "count": 23,
+      "count": 24,
       "first_seen": "2026-07-14",
-      "last_seen": "2026-08-16",
+      "last_seen": "2026-08-18",
       "articles": [
         "payments-ux-shift-2026-07-14",
         "payments-digital-ux-human",
@@ -332,33 +306,8 @@
         "payments-digital-ux-aug11",
         "payments-square-universal-card-2026-08-12",
         "payments-agentic-payments-growth-2026-08-12",
-        "payments-digital-feel-human-2026-08-16"
-      ]
-    },
-    {
-      "keyword": "asia-fintech-tokenization",
-      "count": 18,
-      "first_seen": "2026-07-18",
-      "last_seen": "2026-08-10",
-      "articles": [
-        "sea-fintech-tokenization",
-        "payments-sea-fintech-tokenization",
-        "payments-se-asia-tokenization",
-        "payments-sea-tokenization-2026-07-21",
-        "payments-sea-fintech-tokenization-2026-07-22",
-        "payments-sea-tokenization-2026-07-24",
-        "investment-sea-fintech-tokenization-2026-07-25",
-        "payments-sea-fintech-tokenization-2026-07-30",
-        "digital-banking-sea-fintech-tokenization-2026-07-31",
-        "digital-banking-sea-fintech-tokenization-2026-08-01",
-        "digital-banking-sea-tokenization-2026-08-02",
-        "digital-banking-sea-tokenization-2026-08-03",
-        "digital-banking-sea-tokenization-2026-08-04",
-        "digital-banking-sea-tokenization-2026-08-05",
-        "digital-banking-sea-tokenization-2026-08-06",
-        "sea-fintech-tokenization-2026-08-07",
-        "digital-banking-sea-tokenization-2026-08-09",
-        "digital-banking-sea-tokenization-aug10"
+        "payments-digital-feel-human-2026-08-16",
+        "payments-digital-human-2026-08-18"
       ]
     },
     {
@@ -394,9 +343,9 @@
     },
     {
       "keyword": "india-upi-japan-expansion",
-      "count": 9,
+      "count": 10,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "articles": [
         "remittance-upi-japan-2026-08-04",
         "remittance-india-upi-japan-2026-08-05",
@@ -406,26 +355,15 @@
         "remittance-india-upi-japan-2026-08-09",
         "remittance-upi-japan-aug10",
         "remittance-india-upi-japan-2026-08-11",
-        "remittance-india-upi-japan-2026-08-17"
-      ]
-    },
-    {
-      "keyword": "visa-biocatch-acquisition",
-      "count": 4,
-      "first_seen": "2026-08-06",
-      "last_seen": "2026-08-10",
-      "articles": [
-        "investment-visa-biocatch-2026-08-06",
-        "investment-visa-biocatch-2026-08-08",
-        "investment-visa-biocatch-2026-08-09",
-        "investment-visa-biocatch-aug10"
+        "remittance-india-upi-japan-2026-08-17",
+        "remittance-india-upi-japan-2026-08-18"
       ]
     },
     {
       "keyword": "n5deal-fintechs-outacquire",
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-08-06",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "articles": [
         "investment-n5deal-outacquire-2026-08-06",
         "n5deal-fintechs-outacquire-2026-08-07",
@@ -433,52 +371,19 @@
         "investment-n5deal-outacquire-2026-08-09",
         "investment-n5deal-aug10",
         "investment-n5deal-outacquire-2026-08-11",
-        "investment-n5deal-outacquire-2026-08-17"
+        "investment-n5deal-outacquire-2026-08-17",
+        "investment-n5deal-ma-2026-08-18"
       ]
     },
     {
       "keyword": "malaysia-rtp-security-ai",
-      "count": 2,
-      "first_seen": "2026-08-06",
-      "last_seen": "2026-08-17",
-      "articles": [
-        "payments-malaysia-rtp-security-2026-08-06",
-        "payments-malaysia-rtp-2026-08-17"
-      ]
-    },
-    {
-      "keyword": "afinit-vietnam-partnership",
       "count": 3,
       "first_seen": "2026-08-06",
-      "last_seen": "2026-08-10",
+      "last_seen": "2026-08-18",
       "articles": [
-        "lending-afinit-vietnam-2026-08-06",
-        "lending-afinit-vietnam-2026-08-09",
-        "lending-afinit-vietnam-aug10"
-      ]
-    },
-    {
-      "keyword": "circle-usdc-q2-earnings",
-      "count": 4,
-      "first_seen": "2026-08-07",
-      "last_seen": "2026-08-10",
-      "articles": [
-        "circle-usdc-q2-earnings-2026-08-07",
-        "payments-circle-q2-2026-08-08",
-        "payments-circle-q2-2026-08-09",
-        "payments-circle-q2-aug10"
-      ]
-    },
-    {
-      "keyword": "revolut-australia-adi-license",
-      "count": 4,
-      "first_seen": "2026-08-07",
-      "last_seen": "2026-08-10",
-      "articles": [
-        "revolut-australia-adi-license-2026-08-07",
-        "digital-banking-revolut-australia-2026-08-08",
-        "digital-banking-revolut-australia-2026-08-09",
-        "digital-banking-revolut-australia-aug10"
+        "payments-malaysia-rtp-security-2026-08-06",
+        "payments-malaysia-rtp-2026-08-17",
+        "payments-malaysia-rtp-2026-08-18"
       ]
     },
     {
@@ -524,14 +429,15 @@
     },
     {
       "keyword": "moss-b2b-unicorn-europe",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-08-12",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "articles": [
         "investment-moss-unicorn-2026-08-12",
         "investment-moss-b2b-unicorn-2026-08-13",
         "investment-moss-unicorn-2026-08-16",
-        "investment-moss-unicorn-2026-08-17"
+        "investment-moss-unicorn-2026-08-17",
+        "investment-moss-unicorn-2026-08-18"
       ]
     },
     {
@@ -586,11 +492,12 @@
     },
     {
       "keyword": "embedded-payments-b2b-platform",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-13",
-      "last_seen": "2026-08-13",
+      "last_seen": "2026-08-18",
       "articles": [
-        "embedded-payments-competition-2026-08-13"
+        "embedded-payments-competition-2026-08-13",
+        "payments-embedded-90pct-2026-08-18"
       ]
     },
     {
@@ -667,12 +574,13 @@
     },
     {
       "keyword": "fintech-trade-finance-banks",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-16",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "articles": [
         "payments-fintech-trade-finance-2026-08-16",
-        "payments-fintech-trade-finance-2026-08-17"
+        "payments-fintech-trade-finance-2026-08-17",
+        "payments-trade-finance-2026-08-18"
       ]
     },
     {
@@ -713,38 +621,42 @@
     },
     {
       "keyword": "ant-international-global-expansion",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "articles": [
-        "investment-ant-international-2026-08-17"
+        "investment-ant-international-2026-08-17",
+        "investment-ant-international-2026-08-18"
       ]
     },
     {
       "keyword": "intuit-fintech-empire",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "articles": [
-        "investment-intuit-fintech-empire-2026-08-17"
+        "investment-intuit-fintech-empire-2026-08-17",
+        "investment-intuit-empire-2026-08-18"
       ]
     },
     {
       "keyword": "fintech-bank-competition-2026",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "articles": [
-        "investment-fintech-outrun-banks-2026-08-17"
+        "investment-fintech-outrun-banks-2026-08-17",
+        "investment-fintech-outrun-banks-2026-08-18"
       ]
     },
     {
       "keyword": "sea-fintech-tokenization-ai",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "articles": [
-        "payments-sea-tokenization-ai-2026-08-17"
+        "payments-sea-tokenization-ai-2026-08-17",
+        "payments-sea-tokenization-ai-2026-08-18"
       ]
     },
     {
@@ -758,11 +670,12 @@
     },
     {
       "keyword": "revolut-us-bank-charter",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "articles": [
-        "digital-banking-revolut-us-bet-2026-08-17"
+        "digital-banking-revolut-us-bet-2026-08-17",
+        "digital-banking-revolut-us-2026-08-18"
       ]
     },
     {
@@ -781,6 +694,15 @@
       "last_seen": "2026-08-17",
       "articles": [
         "lending-fintech-cashflow-shift-2026-08-17"
+      ]
+    },
+    {
+      "keyword": "increase-bank-fintech-infra",
+      "count": 1,
+      "first_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
+      "articles": [
+        "digital-banking-increase-bank-2026-08-18"
       ]
     }
   ]
