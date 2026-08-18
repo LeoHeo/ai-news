@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updated": "2026-08-18",
+  "updated": "2026-08-19",
   "window_days": 7,
   "themes": [
     {
       "keyword": "us-fintech-regulation",
-      "count": 76,
+      "count": 78,
       "first_seen": "2026-05-24",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-19",
       "articles": [
         "regulation-embedded-regs-june11",
         "embedded-finance-us-regs-june12",
@@ -70,7 +70,9 @@
         "regulation-embedded-finance-us-2026-08-11",
         "regulation-whitehouse-fintech-rails-2026-08-17",
         "regulation-federal-deadline-2026-08-18",
-        "regulation-embedded-finance-2026-08-18"
+        "regulation-embedded-finance-2026-08-18",
+        "regulation-federal-deadline-aug19",
+        "regulation-embedded-finance-aug19"
       ]
     },
     {
@@ -119,9 +121,9 @@
     },
     {
       "keyword": "fintech-funding-weekly-icymi",
-      "count": 47,
+      "count": 48,
       "first_seen": "2026-06-15",
-      "last_seen": "2026-08-16",
+      "last_seen": "2026-08-19",
       "articles": [
         "investment-fintech-funding-icymi-june15",
         "investment-icymi-june17",
@@ -169,42 +171,15 @@
         "investment-icymi-funding-2026-08-14",
         "investment-fintech-funding-808m-2026-08-15",
         "investment-fintech-funding-808m-2026-08-16",
-        "investment-icymi-ellis-naran-2026-08-16"
-      ]
-    },
-    {
-      "keyword": "range-stablecoin-compliance-raise",
-      "count": 20,
-      "first_seen": "2026-07-04",
-      "last_seen": "2026-08-11",
-      "articles": [
-        "investment-range-2026-07-04",
-        "investment-range-raise",
-        "investment-range-stablecoin-compliance-2026-07-06",
-        "regulation-3-2026-07-09",
-        "investment-range-stablecoin-compliance-2026-07-17",
-        "investment-range-series-a-2026-07-19",
-        "investment-range-stablecoin-2026-07-24",
-        "investment-range-stablecoin-2026-07-25",
-        "investment-range-stablecoin-2026-07-27",
-        "investment-range-stablecoin-2026-07-28",
-        "investment-range-stablecoin-8m-2026-07-29",
-        "investment-range-stablecoin-2026-07-30",
-        "investment-range-stablecoin-2026-07-31",
-        "investment-range-stablecoin-2026-08-01",
-        "investment-range-stablecoin-2026-08-02",
-        "investment-range-stablecoin-2026-08-04",
-        "investment-range-stablecoin-2026-08-06",
-        "range-stablecoin-compliance-2026-08-07",
-        "investment-range-stablecoin-2026-08-08",
-        "investment-range-stablecoin-2026-08-11"
+        "investment-icymi-ellis-naran-2026-08-16",
+        "investment-icymi-aug19"
       ]
     },
     {
       "keyword": "smb-crossborder-fintech-savings",
-      "count": 34,
+      "count": 35,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-19",
       "articles": [
         "remittance-smb-fintech-growth",
         "remittance-smb-crossborder-2026-07-06",
@@ -239,7 +214,8 @@
         "remittance-smb-36pct-aug11",
         "remittance-movement-mexico-2026-08-12",
         "payments-smb-36pct-2026-08-16",
-        "remittance-smb-36pct-2026-08-18"
+        "remittance-smb-36pct-2026-08-18",
+        "remittance-smb-36pct-aug19"
       ]
     },
     {
@@ -280,9 +256,9 @@
     },
     {
       "keyword": "digital-payments-ux-shift",
-      "count": 24,
+      "count": 25,
       "first_seen": "2026-07-14",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-19",
       "articles": [
         "payments-ux-shift-2026-07-14",
         "payments-digital-ux-human",
@@ -307,23 +283,8 @@
         "payments-square-universal-card-2026-08-12",
         "payments-agentic-payments-growth-2026-08-12",
         "payments-digital-feel-human-2026-08-16",
-        "payments-digital-human-2026-08-18"
-      ]
-    },
-    {
-      "keyword": "smfg-sbi-digital-finance",
-      "count": 8,
-      "first_seen": "2026-08-03",
-      "last_seen": "2026-08-11",
-      "articles": [
-        "digital-banking-smfg-sbi-2026-08-03",
-        "digital-banking-smfg-sbi-2026-08-04",
-        "digital-banking-smfg-sbi-2026-08-05",
-        "smfg-sbi-solana-japan-2026-08-07",
-        "digital-banking-smfg-sbi-2026-08-08",
-        "digital-banking-smfg-sbi-2026-08-09",
-        "digital-banking-smfg-sbi-aug10",
-        "digital-banking-smfg-sbi-2026-08-11"
+        "payments-digital-human-2026-08-18",
+        "payments-digital-human-aug19"
       ]
     },
     {
@@ -492,12 +453,13 @@
     },
     {
       "keyword": "embedded-payments-b2b-platform",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-13",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-19",
       "articles": [
         "embedded-payments-competition-2026-08-13",
-        "payments-embedded-90pct-2026-08-18"
+        "payments-embedded-90pct-2026-08-18",
+        "payments-embedded-90pct-aug19"
       ]
     },
     {
@@ -574,13 +536,14 @@
     },
     {
       "keyword": "fintech-trade-finance-banks",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-08-16",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-19",
       "articles": [
         "payments-fintech-trade-finance-2026-08-16",
         "payments-fintech-trade-finance-2026-08-17",
-        "payments-trade-finance-2026-08-18"
+        "payments-trade-finance-2026-08-18",
+        "payments-trade-finance-aug19"
       ]
     },
     {
@@ -698,11 +661,39 @@
     },
     {
       "keyword": "increase-bank-fintech-infra",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-18",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-19",
       "articles": [
-        "digital-banking-increase-bank-2026-08-18"
+        "digital-banking-increase-bank-2026-08-18",
+        "digital-banking-increase-bank-aug19"
+      ]
+    },
+    {
+      "keyword": "sponsor-bank-deposits-yield",
+      "count": 1,
+      "first_seen": "2026-08-19",
+      "last_seen": "2026-08-19",
+      "articles": [
+        "digital-banking-sponsor-deposits-aug19"
+      ]
+    },
+    {
+      "keyword": "tiktok-p2p-transfer-korea",
+      "count": 1,
+      "first_seen": "2026-08-19",
+      "last_seen": "2026-08-19",
+      "articles": [
+        "payments-tiktok-p2p-aug19"
+      ]
+    },
+    {
+      "keyword": "afriex-gib-crossborder-b2b",
+      "count": 1,
+      "first_seen": "2026-08-19",
+      "last_seen": "2026-08-19",
+      "articles": [
+        "remittance-afriex-gib-aug19"
       ]
     }
   ]
