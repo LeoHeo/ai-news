@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-08-18",
+  "updated": "2026-08-19",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -15,16 +15,6 @@
         "OpenAI, Astra 개발 전면 중단 — 준비도 프레임워크 '임계 사이버 능력' 기준 사상 첫 도달 모델"
       ]
     },
-    "apple-openai-trade-secrets-injunction": {
-      "count": 2,
-      "first_seen": "2026-08-06",
-      "last_seen": "2026-08-11",
-      "status": "normal",
-      "example_titles": [
-        "애플, 오픈AI 상대 가처분 신청 — 영업비밀 소송에 전직 직원 11명 추가",
-        "OpenAI, 애플 영업비밀 소송 기각 신청 — '주장 전체 근거 없다' 반박"
-      ]
-    },
     "qwen38-max-alibaba": {
       "count": 5,
       "first_seen": "2026-08-06",
@@ -33,7 +23,6 @@
       "example_titles": [
         "알리바바, 2.4조 파라미터 Qwen3.8-Max 공개 — 오픈소스 예정, 1M 토큰 컨텍스트",
         "알리바바 Qwen3.8-Max & Qwen3.8-27B 오픈웨이트 공개",
-        "알리바바 Qwen3.8-Max·27B 정식 공개 — 100만 토큰 컨텍스트·119개 언어",
         "Qwen 오픈웨이트 8월 배포 논란 — 알리바바, 출시 약속 이행 지연·라이선스 미공개"
       ]
     },
@@ -47,33 +36,6 @@
         "Claude, OpenClaw and the new reality: AI agents are here — and so is the chaos"
       ]
     },
-    "meta-muse-glimmer-model": {
-      "count": 1,
-      "first_seen": "2026-08-11",
-      "last_seen": "2026-08-11",
-      "status": "normal",
-      "example_titles": [
-        "Meta Muse Glimmer 30B 오픈웨이트 에이전틱 모델 공개 — 소비자 GPU 단일 구동"
-      ]
-    },
-    "liquid-ai-lfm25-edge-model": {
-      "count": 1,
-      "first_seen": "2026-08-11",
-      "last_seen": "2026-08-11",
-      "status": "normal",
-      "example_titles": [
-        "Liquid AI LFM2.5-2.6B — 스마트폰·라즈베리 파이급 온디바이스 에이전틱 AI"
-      ]
-    },
-    "bytedance-seedance-25-video": {
-      "count": 1,
-      "first_seen": "2026-08-11",
-      "last_seen": "2026-08-11",
-      "status": "normal",
-      "example_titles": [
-        "ByteDance Seedance 2.5 API 공개 — 30초 영상 단일 패스 네이티브 생성"
-      ]
-    },
     "meta-muse-code-agent": {
       "count": 2,
       "first_seen": "2026-08-11",
@@ -82,88 +44,6 @@
       "example_titles": [
         "Meta Muse Code 출시 — Muse Spark 탑재 터미널 기반 AI 코딩 에이전트",
         "Meta, AI 코딩 전쟁 본격 참전 — Muse Spark 1.2·영구 비동기 에이전트 탑재 Muse Code 공개"
-      ]
-    },
-    "google-gemini-robotics-2": {
-      "count": 1,
-      "first_seen": "2026-08-11",
-      "last_seen": "2026-08-11",
-      "status": "normal",
-      "example_titles": [
-        "Google Gemini Robotics 2 공개 — 전신 제어 가능한 로봇 AI 3종 라인업"
-      ]
-    },
-    "writer-proactive-enterprise-agents": {
-      "count": 1,
-      "first_seen": "2026-08-11",
-      "last_seen": "2026-08-11",
-      "status": "normal",
-      "example_titles": [
-        "Writer, 프롬프트 없이 자동 행동하는 이벤트 트리거 AI 에이전트 출시"
-      ]
-    },
-    "anthropic-claude-government-beta": {
-      "count": 1,
-      "first_seen": "2026-08-11",
-      "last_seen": "2026-08-11",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic Claude for Government 베타 출시 — 연방·주정부 전용 AI 서비스"
-      ]
-    },
-    "chatgpt-visual-math-science": {
-      "count": 1,
-      "first_seen": "2026-08-11",
-      "last_seen": "2026-08-11",
-      "status": "normal",
-      "example_titles": [
-        "ChatGPT, 인터랙티브 수학·과학 시각화 모듈 추가 — 70개 이상 주제 지원"
-      ]
-    },
-    "darpa-ai-f16-autonomous-flight": {
-      "count": 1,
-      "first_seen": "2026-08-11",
-      "last_seen": "2026-08-11",
-      "status": "normal",
-      "example_titles": [
-        "DARPA, AI 완전 자율 제어 F-16 실전 비행 테스트 최초 성공"
-      ]
-    },
-    "google-deepmind-discovery-loop": {
-      "count": 3,
-      "first_seen": "2026-08-11",
-      "last_seen": "2026-08-17",
-      "status": "demoted",
-      "example_titles": [
-        "Google 딥마인드 핵심 인재 대거 이탈 — 제프 딘 등 Discovery Loop 창업",
-        "구글 딥마인드 핵심 AI 연구자들, 경쟁 심화 속 OpenAI·Anthropic으로 대거 이탈"
-      ]
-    },
-    "anthropic-compute-71b-commitment": {
-      "count": 1,
-      "first_seen": "2026-08-11",
-      "last_seen": "2026-08-11",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, 클라우드·반도체 업체와 710억 달러 규모 컴퓨트 선계약 공개"
-      ]
-    },
-    "mgx-ai-megafund-49b": {
-      "count": 1,
-      "first_seen": "2026-08-11",
-      "last_seen": "2026-08-11",
-      "status": "normal",
-      "example_titles": [
-        "아부다비 MGX, 490억 달러 규모 AI 전문 투자 펀드 조성 완료"
-      ]
-    },
-    "naver-nvidia-ai-investment": {
-      "count": 1,
-      "first_seen": "2026-08-11",
-      "last_seen": "2026-08-11",
-      "status": "normal",
-      "example_titles": [
-        "엔비디아, 네이버에 약 10억 달러 투자 — 아시아 기업 최초 NVIDIA 직접 전략 투자"
       ]
     },
     "openai-gpt56-luna-free": {
@@ -467,12 +347,13 @@
       ]
     },
     "anthropic-risk-report-aug2026": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-15",
+      "last_seen": "2026-08-19",
       "status": "normal",
       "example_titles": [
-        "Anthropic, 2026년 8월 AI 위험 평가 문서 공개 — Hacker News에서 대규모 토론"
+        "Anthropic, 2026년 8월 AI 위험 평가 문서 공개 — Hacker News에서 대규모 토론",
+        "Anthropic 2026년 8월 AI 위험 평가 업데이트 — 재앙적 오정렬 위험 등급 'very low'→'low' 상향"
       ]
     },
     "grok-4-6-benchmark-aug2026": {
@@ -605,13 +486,14 @@
       ]
     },
     "stripe-openrouter-acquisition-2026": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-19",
       "status": "normal",
       "example_titles": [
         "Stripe, AI 게이트웨이 스타트업 OpenRouter 70억 달러 이상에 인수 추진",
-        "스트라이프, OpenRouter를 70억 달러 이상에 인수 — AI 결제 인프라 장악"
+        "스트라이프, OpenRouter를 70억 달러 이상에 인수 — AI 결제 인프라 장악",
+        "Stripe, AI 모델 게이트웨이 OpenRouter 70억 달러 이상에 인수 최종 확정"
       ]
     },
     "openai-revenue-run-rate-40b-2026": {
@@ -679,6 +561,78 @@
       "status": "normal",
       "example_titles": [
         "ETRI, AI 설명가능성 ITU 국제표준 채택 — 국내 최초"
+      ]
+    },
+    "anthropic-model2-safety-disclosure": {
+      "count": 1,
+      "first_seen": "2026-08-19",
+      "last_seen": "2026-08-19",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, Mythos 5 초과 내부 모델 'Model 2' 최초 공개 — 안전 평가 미완료로 출시 보류"
+      ]
+    },
+    "openai-presence-voice-agents": {
+      "count": 1,
+      "first_seen": "2026-08-19",
+      "last_seen": "2026-08-19",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, 기업용 실시간 음성 에이전트·챗봇 통합 관리 플랫폼 'Presence' 출시"
+      ]
+    },
+    "korea-moduai-alliance": {
+      "count": 1,
+      "first_seen": "2026-08-19",
+      "last_seen": "2026-08-19",
+      "status": "normal",
+      "example_titles": [
+        "KT·SKT·LGU+·카카오·이스트소프트, '모두의 AI' 공공 AI 챗봇 공동 출사표"
+      ]
+    },
+    "top-llm-ranking-aug2026": {
+      "count": 1,
+      "first_seen": "2026-08-19",
+      "last_seen": "2026-08-19",
+      "status": "normal",
+      "example_titles": [
+        "2026년 8월 상위 9개 LLM 현황 분석 — Claude Fable 5·Gemini 3.5 Pro·GPT-5.6 Sol 비교"
+      ]
+    },
+    "enterprise-ai-data-shifts-2026": {
+      "count": 1,
+      "first_seen": "2026-08-19",
+      "last_seen": "2026-08-19",
+      "status": "normal",
+      "example_titles": [
+        "2026년 엔터프라이즈 AI를 바꿀 6대 데이터 전환 — 컨텍스추얼 메모리가 핵심 인프라로"
+      ]
+    },
+    "southeast-asia-ai-funding-2026": {
+      "count": 1,
+      "first_seen": "2026-08-19",
+      "last_seen": "2026-08-19",
+      "status": "normal",
+      "example_titles": [
+        "동남아시아 AI 스타트업 투자 2026년 41억 달러 돌파 — 글로벌 AI 투자 붐 아시아 확산 가속"
+      ]
+    },
+    "river-ai-funding-2026": {
+      "count": 1,
+      "first_seen": "2026-08-19",
+      "last_seen": "2026-08-19",
+      "status": "normal",
+      "example_titles": [
+        "River AI, General Catalyst 주도 11억 달러 대규모 투자 유치"
+      ]
+    },
+    "openai-anthropic-nationalization-debate": {
+      "count": 1,
+      "first_seen": "2026-08-19",
+      "last_seen": "2026-08-19",
+      "status": "normal",
+      "example_titles": [
+        "슈나이어 \"시장이 거부하면 OpenAI·Anthropic 국유화해야\" — AI 기업 공적 통제 논쟁"
       ]
     }
   }
