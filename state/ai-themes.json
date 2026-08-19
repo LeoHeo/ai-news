@@ -1,114 +1,9 @@
 {
   "topic": "ai",
-  "updated": "2026-08-19",
+  "updated": "2026-08-20",
   "version": 1,
   "window_days": 7,
   "themes": {
-    "openai-astra-model-family": {
-      "count": 3,
-      "first_seen": "2026-08-03",
-      "last_seen": "2026-08-12",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, 차세대 모델 패밀리 'Astra' 공식 발표 — 10년 미해결 수학 난제 10건 증명으로 데뷔",
-        "OpenAI Astra 출시 무기한 지연 — '임계 사이버 능력 배제 불가'",
-        "OpenAI, Astra 개발 전면 중단 — 준비도 프레임워크 '임계 사이버 능력' 기준 사상 첫 도달 모델"
-      ]
-    },
-    "qwen38-max-alibaba": {
-      "count": 5,
-      "first_seen": "2026-08-06",
-      "last_seen": "2026-08-17",
-      "status": "demoted",
-      "example_titles": [
-        "알리바바, 2.4조 파라미터 Qwen3.8-Max 공개 — 오픈소스 예정, 1M 토큰 컨텍스트",
-        "알리바바 Qwen3.8-Max & Qwen3.8-27B 오픈웨이트 공개",
-        "Qwen 오픈웨이트 8월 배포 논란 — 알리바바, 출시 약속 이행 지연·라이선스 미공개"
-      ]
-    },
-    "enterprise-ai-agent-governance-chaos": {
-      "count": 2,
-      "first_seen": "2026-08-10",
-      "last_seen": "2026-08-12",
-      "status": "normal",
-      "example_titles": [
-        "VentureBeat: AI 에이전트 현장 도입 혼돈 — 거버넌스 공백이 문제",
-        "Claude, OpenClaw and the new reality: AI agents are here — and so is the chaos"
-      ]
-    },
-    "meta-muse-code-agent": {
-      "count": 2,
-      "first_seen": "2026-08-11",
-      "last_seen": "2026-08-15",
-      "status": "normal",
-      "example_titles": [
-        "Meta Muse Code 출시 — Muse Spark 탑재 터미널 기반 AI 코딩 에이전트",
-        "Meta, AI 코딩 전쟁 본격 참전 — Muse Spark 1.2·영구 비동기 에이전트 탑재 Muse Code 공개"
-      ]
-    },
-    "openai-gpt56-luna-free": {
-      "count": 1,
-      "first_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI GPT-5.6 Luna, ChatGPT 무료 티어 기본 모델 전환 — 텍스트 채팅 제한 전면 폐지"
-      ]
-    },
-    "openai-daybreak-cyber-model": {
-      "count": 1,
-      "first_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, AI 공격 급증 속 사이버 방어 서비스 Daybreak 확장 — 전용 사이버 AI 모델 공개"
-      ]
-    },
-    "llm-leaderboard-aug2026": {
-      "count": 1,
-      "first_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "status": "normal",
-      "example_titles": [
-        "LLM 리더보드 2026년 8월 업데이트 — 381개 모델 비교, Claude Fable 5 100점·고전 벤치마크 포화 수렴"
-      ]
-    },
-    "anthropic-us-lobbying-q2-2026": {
-      "count": 1,
-      "first_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, Q2 2026 미국 로비 지출 197만 달러 — 분기 대비 26% 급증, Nvidia 추월"
-      ]
-    },
-    "naver-ai-factory-2026": {
-      "count": 1,
-      "first_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "status": "normal",
-      "example_titles": [
-        "네이버, AI탭 MAU 1,000만 돌파·AI 팩토리 55MW 2027년 가동 — GW급 AI 인프라 로드맵 공개"
-      ]
-    },
-    "eu-ai-act-enforcement-2026": {
-      "count": 1,
-      "first_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "status": "normal",
-      "example_titles": [
-        "EU AI법 집행 전격 개시 — OpenAI·Anthropic·Google, 연매출 3% 과태료 가능·양자 협의 돌입"
-      ]
-    },
-    "eu-dma-google-android-ai": {
-      "count": 1,
-      "first_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "status": "normal",
-      "example_titles": [
-        "EU DMA 집행 결정 — 구글, 2027년 1월부터 검색 데이터 공유·Android에 경쟁 AI 허용 의무화"
-      ]
-    },
     "google-deepmind-koray-kavukcuoglu-2026": {
       "count": 1,
       "first_seen": "2026-08-13",
@@ -200,6 +95,27 @@
       "status": "normal",
       "example_titles": [
         "2026 AI 법 업데이트: 주요 규제 현황과 실무 가이드"
+      ]
+    },
+    "qwen38-max-alibaba": {
+      "count": 5,
+      "first_seen": "2026-08-06",
+      "last_seen": "2026-08-17",
+      "status": "demoted",
+      "example_titles": [
+        "알리바바, 2.4조 파라미터 Qwen3.8-Max 공개 — 오픈소스 예정, 1M 토큰 컨텍스트",
+        "알리바바 Qwen3.8-Max & Qwen3.8-27B 오픈웨이트 공개",
+        "Qwen 오픈웨이트 8월 배포 논란 — 알리바바, 출시 약속 이행 지연·라이선스 미공개"
+      ]
+    },
+    "meta-muse-code-agent": {
+      "count": 2,
+      "first_seen": "2026-08-11",
+      "last_seen": "2026-08-15",
+      "status": "normal",
+      "example_titles": [
+        "Meta Muse Code 출시 — Muse Spark 탑재 터미널 기반 AI 코딩 에이전트",
+        "Meta, AI 코딩 전쟁 본격 참전 — Muse Spark 1.2·영구 비동기 에이전트 탑재 Muse Code 공개"
       ]
     },
     "openai-luna-price-cut": {
@@ -497,13 +413,14 @@
       ]
     },
     "openai-revenue-run-rate-40b-2026": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-20",
       "status": "normal",
       "example_titles": [
         "OpenAI 연간 매출 달성률 400억 달러 돌파 — IPO 전 재무 건전성 확인",
-        "OpenAI 연매출 400억 달러 돌파 — IPO S-1 제출 임박"
+        "OpenAI 연매출 400억 달러 돌파 — IPO S-1 제출 임박",
+        "OpenAI CFO '2027년 또는 더 빨리 상장' — 전직원 타운홀에서 IPO 일정 공개 발언"
       ]
     },
     "satya-nadella-ai-hollowing-2026": {
@@ -633,6 +550,105 @@
       "status": "normal",
       "example_titles": [
         "슈나이어 \"시장이 거부하면 OpenAI·Anthropic 국유화해야\" — AI 기업 공적 통제 논쟁"
+      ]
+    },
+    "google-gemini-study-tools": {
+      "count": 1,
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "status": "normal",
+      "example_titles": [
+        "구글, Search·Gemini에 AI 학습 도구 통합 — 3D 시뮬레이션·맞춤 퀴즈·학생 허브 제공"
+      ]
+    },
+    "amazon-alexa-plus-firetv": {
+      "count": 1,
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "status": "normal",
+      "example_titles": [
+        "아마존, AI 어시스턴트 Alexa+ 미국 Fire TV 전 기기 무료 개방 — Prime 구독 불필요"
+      ]
+    },
+    "asana-codex-test-automation": {
+      "count": 1,
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "status": "normal",
+      "example_titles": [
+        "Asana, OpenAI Codex 에이전트로 레거시 테스트 코드 전면 교체 성공 — 신규 버그 제로"
+      ]
+    },
+    "anthropic-protein-binder-research": {
+      "count": 1,
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic Claude, 단백질 결합체 15개 표적 중 14개 설계 성공 — 업계 평균 대비 2배 성공률"
+      ]
+    },
+    "vivodyne-cancer-ai-biotech": {
+      "count": 1,
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "status": "normal",
+      "example_titles": [
+        "바이오테크 스타트업 Vivodyne, AI 신약 개발의 데이터 공백 문제 해결 주장"
+      ]
+    },
+    "alibaba-gaming-sale-ai-focus": {
+      "count": 1,
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "status": "normal",
+      "example_titles": [
+        "알리바바, 게임 자회사 Lingxi Games 15억 달러에 매각 — AI·클라우드 집중 전략 가속"
+      ]
+    },
+    "ai-public-sentiment-pew-2026": {
+      "count": 1,
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "status": "normal",
+      "example_titles": [
+        "Pew 조사: 미국인 52%가 AI 확산에 불안 — 2021년 37%에서 역대 최고치 경신"
+      ]
+    },
+    "nvidia-mercor-investment-2026": {
+      "count": 1,
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "status": "normal",
+      "example_titles": [
+        "Nvidia, AI 데이터 공급 스타트업 Mercor에 200억 달러 가치 투자 검토"
+      ]
+    },
+    "openai-rl-safety-pause-2026": {
+      "count": 1,
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, Astra 모델 임계 사이버 능력 도달로 프런티어 RL 훈련 일시 중단 — 공식 백서 발표"
+      ]
+    },
+    "cisa-ray-framework-rce-2026": {
+      "count": 1,
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "status": "normal",
+      "example_titles": [
+        "CISA, AI 프레임워크 Ray의 임계 RCE 취약점 KEV 등재 — 연방기관 8월 20일까지 패치 의무"
+      ]
+    },
+    "pennsylvania-ai-datacenter-order": {
+      "count": 1,
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "status": "normal",
+      "example_titles": [
+        "펜실베이니아 주지사, AI 데이터센터 에너지·용수·채용 기준 의무화 행정명령 서명"
       ]
     }
   }
