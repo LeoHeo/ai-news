@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updated": "2026-08-19",
+  "updated": "2026-08-20",
   "window_days": 7,
   "themes": [
     {
       "keyword": "us-fintech-regulation",
-      "count": 78,
+      "count": 79,
       "first_seen": "2026-05-24",
-      "last_seen": "2026-08-19",
+      "last_seen": "2026-08-20",
       "articles": [
         "regulation-embedded-regs-june11",
         "embedded-finance-us-regs-june12",
@@ -72,7 +72,8 @@
         "regulation-federal-deadline-2026-08-18",
         "regulation-embedded-finance-2026-08-18",
         "regulation-federal-deadline-aug19",
-        "regulation-embedded-finance-aug19"
+        "regulation-embedded-finance-aug19",
+        "regulation-embedded-finance-us-2026-08-20"
       ]
     },
     {
@@ -121,9 +122,9 @@
     },
     {
       "keyword": "fintech-funding-weekly-icymi",
-      "count": 48,
+      "count": 49,
       "first_seen": "2026-06-15",
-      "last_seen": "2026-08-19",
+      "last_seen": "2026-08-20",
       "articles": [
         "investment-fintech-funding-icymi-june15",
         "investment-icymi-june17",
@@ -172,14 +173,15 @@
         "investment-fintech-funding-808m-2026-08-15",
         "investment-fintech-funding-808m-2026-08-16",
         "investment-icymi-ellis-naran-2026-08-16",
-        "investment-icymi-aug19"
+        "investment-icymi-aug19",
+        "investment-icymi-multifi-pinegap-2026-08-20"
       ]
     },
     {
       "keyword": "smb-crossborder-fintech-savings",
-      "count": 35,
+      "count": 36,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-08-19",
+      "last_seen": "2026-08-20",
       "articles": [
         "remittance-smb-fintech-growth",
         "remittance-smb-crossborder-2026-07-06",
@@ -215,14 +217,15 @@
         "remittance-movement-mexico-2026-08-12",
         "payments-smb-36pct-2026-08-16",
         "remittance-smb-36pct-2026-08-18",
-        "remittance-smb-36pct-aug19"
+        "remittance-smb-36pct-aug19",
+        "remittance-smb-crossborder-2026-08-20"
       ]
     },
     {
       "keyword": "fintech-vc-forecast-2026",
-      "count": 28,
+      "count": 29,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-20",
       "articles": [
         "investment-fintech-crunchbase",
         "investment-vc-trends-2026-2026-07-14",
@@ -251,14 +254,15 @@
         "investment-eu-h1-ai-native-2026-08-13",
         "investment-eu-h1-lowest-deals-2026-08-16",
         "investment-h1-fintech-funding-2026-08-17",
-        "investment-eu-h1-2026-08-18"
+        "investment-eu-h1-2026-08-18",
+        "investment-vc-h1-2026-08-20"
       ]
     },
     {
       "keyword": "digital-payments-ux-shift",
-      "count": 25,
+      "count": 26,
       "first_seen": "2026-07-14",
-      "last_seen": "2026-08-19",
+      "last_seen": "2026-08-20",
       "articles": [
         "payments-ux-shift-2026-07-14",
         "payments-digital-ux-human",
@@ -284,7 +288,8 @@
         "payments-agentic-payments-growth-2026-08-12",
         "payments-digital-feel-human-2026-08-16",
         "payments-digital-human-2026-08-18",
-        "payments-digital-human-aug19"
+        "payments-digital-human-aug19",
+        "payments-digital-ux-human-2026-08-20"
       ]
     },
     {
@@ -377,15 +382,6 @@
       "articles": [
         "payments-coinbase-ai-agent-2026-08-12",
         "payments-coinbase-ai-agent-2026-08-13"
-      ]
-    },
-    {
-      "keyword": "cloudflare-stablecoin-agent-wallet",
-      "count": 1,
-      "first_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "articles": [
-        "payments-cloudflare-stablecoin-wallet-2026-08-12"
       ]
     },
     {
@@ -614,12 +610,13 @@
     },
     {
       "keyword": "sea-fintech-tokenization-ai",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-20",
       "articles": [
         "payments-sea-tokenization-ai-2026-08-17",
-        "payments-sea-tokenization-ai-2026-08-18"
+        "payments-sea-tokenization-ai-2026-08-18",
+        "payments-sea-tokenization-ai-2026-08-20"
       ]
     },
     {
@@ -694,6 +691,60 @@
       "last_seen": "2026-08-19",
       "articles": [
         "remittance-afriex-gib-aug19"
+      ]
+    },
+    {
+      "keyword": "doordash-tempo-stablecoin-payouts",
+      "count": 1,
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "articles": [
+        "payments-doordash-tempo-stablecoin-2026-08-20"
+      ]
+    },
+    {
+      "keyword": "kulipa-stablecoin-card-seed",
+      "count": 1,
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "articles": [
+        "payments-kulipa-stablecoin-seed-2026-08-20"
+      ]
+    },
+    {
+      "keyword": "us-remittance-oba-fee",
+      "count": 1,
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "articles": [
+        "remittance-oba-fee-2026-08-20"
+      ]
+    },
+    {
+      "keyword": "infinite-erebor-b2b-stablecoin",
+      "count": 1,
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "articles": [
+        "digital-banking-infinite-erebor-2026-08-20"
+      ]
+    },
+    {
+      "keyword": "medibaro-healthcare-fintech",
+      "count": 1,
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "articles": [
+        "digital-banking-medibaro-2026-08-20"
+      ]
+    },
+    {
+      "keyword": "eu-bnpl-consumer-credit-2026",
+      "count": 1,
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "articles": [
+        "lending-eu-bnpl-2026-08-20"
       ]
     }
   ]
