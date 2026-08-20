@@ -1,36 +1,9 @@
 {
   "topic": "ai",
-  "updated": "2026-08-20",
+  "updated": "2026-08-21",
   "version": 1,
   "window_days": 7,
   "themes": {
-    "google-deepmind-koray-kavukcuoglu-2026": {
-      "count": 1,
-      "first_seen": "2026-08-13",
-      "last_seen": "2026-08-13",
-      "status": "normal",
-      "example_titles": [
-        "구글 딥마인드 새 AI 수장 코레이 카부크추올루, OpenAI·Anthropic 추격전 물려받다"
-      ]
-    },
-    "ai-industry-next-chapter-2026": {
-      "count": 1,
-      "first_seen": "2026-08-13",
-      "last_seen": "2026-08-13",
-      "status": "normal",
-      "example_titles": [
-        "AI의 여름이 끝난 뒤: 인공지능의 다음 챕터는?"
-      ]
-    },
-    "build-vs-buy-ai-coding-agents-2026": {
-      "count": 1,
-      "first_seen": "2026-08-13",
-      "last_seen": "2026-08-13",
-      "status": "normal",
-      "example_titles": [
-        "자체 개발 vs 구매 논쟁은 끝났다 — AI가 선택지를 없애버렸다"
-      ]
-    },
     "naver-kakao-q2-agentic-strategy-2026": {
       "count": 4,
       "first_seen": "2026-08-13",
@@ -40,61 +13,6 @@
         "2026년 2분기 네이버·카카오 AI 전략 분석 — 에이전틱 AI 전환 속 실적 희비 갈려",
         "네이버·카카오 2026년 승부수: AI 에이전트부터 스테이블코인까지 신사업 격전",
         "네이버·카카오 2Q 실적 발표…AI 에이전트 전략이 수익성 지표 갈랐다"
-      ]
-    },
-    "ai-startup-funding-aug2026-trend": {
-      "count": 1,
-      "first_seen": "2026-08-13",
-      "last_seen": "2026-08-13",
-      "status": "normal",
-      "example_titles": [
-        "2026년 8월 AI 스타트업 투자 동향 — 에이전틱 AI·인프라 분야 집중"
-      ]
-    },
-    "multi-agent-orchestration-bottleneck-2026": {
-      "count": 1,
-      "first_seen": "2026-08-13",
-      "last_seen": "2026-08-13",
-      "status": "normal",
-      "example_titles": [
-        "AI의 다음 병목은 모델이 아니다 — 에이전트들이 함께 사고할 수 있는가가 관건"
-      ]
-    },
-    "ai-search-web-traffic-deep-pages-2026": {
-      "count": 1,
-      "first_seen": "2026-08-13",
-      "last_seen": "2026-08-13",
-      "status": "normal",
-      "example_titles": [
-        "AI는 하위 페이지를 인용하고 사람은 홈으로 보낸다 — 대부분의 사이트가 역방향으로 설계됐다"
-      ]
-    },
-    "llm-benchmarks-enterprise-2026": {
-      "count": 1,
-      "first_seen": "2026-08-13",
-      "last_seen": "2026-08-13",
-      "status": "normal",
-      "example_titles": [
-        "2026년 LLM 벤치마크: 무엇을 증명하며 기업에 실제로 필요한 것은 무엇인가"
-      ]
-    },
-    "california-ai-bills-vote-aug13-2026": {
-      "count": 2,
-      "first_seen": "2026-08-13",
-      "last_seen": "2026-08-16",
-      "status": "normal",
-      "example_titles": [
-        "캘리포니아 AI 법안 30건 이상, 8월 13일 양원 표결 예정 — 미국 최대 규모 AI 입법 분수령",
-        "캘리포니아 AI 법안 30건 이상 표결 예정…빅테크 규제 포위망 좁혀지나"
-      ]
-    },
-    "us-state-ai-laws-2026": {
-      "count": 1,
-      "first_seen": "2026-08-13",
-      "last_seen": "2026-08-13",
-      "status": "normal",
-      "example_titles": [
-        "2026 AI 법 업데이트: 주요 규제 현황과 실무 가이드"
       ]
     },
     "qwen38-max-alibaba": {
@@ -108,16 +26,6 @@
         "Qwen 오픈웨이트 8월 배포 논란 — 알리바바, 출시 약속 이행 지연·라이선스 미공개"
       ]
     },
-    "meta-muse-code-agent": {
-      "count": 2,
-      "first_seen": "2026-08-11",
-      "last_seen": "2026-08-15",
-      "status": "normal",
-      "example_titles": [
-        "Meta Muse Code 출시 — Muse Spark 탑재 터미널 기반 AI 코딩 에이전트",
-        "Meta, AI 코딩 전쟁 본격 참전 — Muse Spark 1.2·영구 비동기 에이전트 탑재 Muse Code 공개"
-      ]
-    },
     "openai-luna-price-cut": {
       "count": 2,
       "first_seen": "2026-08-14",
@@ -125,24 +33,6 @@
       "status": "normal",
       "example_titles": [
         "OpenAI, GPT-5.6 Luna 가격 80% 인하…AI 가격 전쟁 본격화"
-      ]
-    },
-    "google-gemini-flash-aug2026": {
-      "count": 1,
-      "first_seen": "2026-08-14",
-      "last_seen": "2026-08-14",
-      "status": "normal",
-      "example_titles": [
-        "구글, 코딩·에이전트 특화 Gemini Flash 신모델 출시"
-      ]
-    },
-    "openai-ultrafast-gpt56-sol": {
-      "count": 1,
-      "first_seen": "2026-08-14",
-      "last_seen": "2026-08-14",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, GPT-5.6 Sol에 초당 750토큰 '울트라패스트' 모드 추가"
       ]
     },
     "spacexai-grok-bot": {
@@ -154,33 +44,6 @@
         "SpaceXAI, 月 120달러 '그록봇' 출시 — 앱을 24시간 대신 운영하는 AI 코워커"
       ]
     },
-    "microsoft-copilot-merge": {
-      "count": 1,
-      "first_seen": "2026-08-14",
-      "last_seen": "2026-08-14",
-      "status": "normal",
-      "example_titles": [
-        "마이크로소프트, 실패한 AI 기능 종료·Copilot 앱 통합 발표"
-      ]
-    },
-    "canva-code-20": {
-      "count": 1,
-      "first_seen": "2026-08-14",
-      "last_seen": "2026-08-14",
-      "status": "normal",
-      "example_titles": [
-        "캔바, 무료 사용자 포함 전 고객에 AI 웹사이트 빌더 'Code 2.0' 오픈"
-      ]
-    },
-    "aws-continuum-ai-security": {
-      "count": 1,
-      "first_seen": "2026-08-14",
-      "last_seen": "2026-08-14",
-      "status": "normal",
-      "example_titles": [
-        "AWS, 보안 플랫폼 Continuum에 Claude Code·OpenAI Codex 통합 — 블랙햇 발표"
-      ]
-    },
     "deepseek-harness-agent": {
       "count": 2,
       "first_seen": "2026-08-14",
@@ -188,171 +51,6 @@
       "status": "normal",
       "example_titles": [
         "딥시크, AI 에이전트 전담 조직 'Harness' 공식화…대규모 채용 시작"
-      ]
-    },
-    "naver-pantalasa-datacenter": {
-      "count": 1,
-      "first_seen": "2026-08-14",
-      "last_seen": "2026-08-14",
-      "status": "normal",
-      "example_titles": [
-        "네이버, 파도 에너지 부유식 AI 데이터센터 스타트업 Pantalasa에 투자"
-      ]
-    },
-    "skan-ai-series-c": {
-      "count": 1,
-      "first_seen": "2026-08-14",
-      "last_seen": "2026-08-14",
-      "status": "normal",
-      "example_titles": [
-        "직원 업무 관찰 AI 스타트업 Skan AI, 시리즈 C 6,300만 달러 유치"
-      ]
-    },
-    "meta-muse-spark-proprietary": {
-      "count": 1,
-      "first_seen": "2026-08-15",
-      "last_seen": "2026-08-15",
-      "status": "normal",
-      "example_titles": [
-        "Llama에 작별? Meta, Superintelligence Labs 체제 첫 독점 AI 모델 Muse Spark 출시"
-      ]
-    },
-    "google-gemini-1b-mau": {
-      "count": 1,
-      "first_seen": "2026-08-15",
-      "last_seen": "2026-08-15",
-      "status": "normal",
-      "example_titles": [
-        "Google Gemini 앱, 월간 활성 사용자 10억 명 돌파"
-      ]
-    },
-    "llm-enterprise-comparison-2026": {
-      "count": 1,
-      "first_seen": "2026-08-15",
-      "last_seen": "2026-08-15",
-      "status": "normal",
-      "example_titles": [
-        "2026년 LLM 비교 가이드: 30개 이상 모델 벤치마크·기업 선택 기준 정리"
-      ]
-    },
-    "manus-meta-acquisition-unwind": {
-      "count": 1,
-      "first_seen": "2026-08-15",
-      "last_seen": "2026-08-15",
-      "status": "normal",
-      "example_titles": [
-        "中 베이징 정부 명령으로 Meta의 Manus 인수 무효 — Manus 독립사로 복귀"
-      ]
-    },
-    "ai-h1-2026-funding-record": {
-      "count": 1,
-      "first_seen": "2026-08-15",
-      "last_seen": "2026-08-15",
-      "status": "normal",
-      "example_titles": [
-        "2026년 상반기 글로벌 스타트업 투자, AI 주도로 사상 최대 5,100억 달러 달성"
-      ]
-    },
-    "sk-group-ax-transformation-2026": {
-      "count": 1,
-      "first_seen": "2026-08-15",
-      "last_seen": "2026-08-15",
-      "status": "normal",
-      "example_titles": [
-        "SK그룹 최태원 회장, 2026 뉴이천포럼서 전사적 AI 전환(AX) 본격 선언"
-      ]
-    },
-    "anthropic-risk-report-aug2026": {
-      "count": 2,
-      "first_seen": "2026-08-15",
-      "last_seen": "2026-08-19",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, 2026년 8월 AI 위험 평가 문서 공개 — Hacker News에서 대규모 토론",
-        "Anthropic 2026년 8월 AI 위험 평가 업데이트 — 재앙적 오정렬 위험 등급 'very low'→'low' 상향"
-      ]
-    },
-    "grok-4-6-benchmark-aug2026": {
-      "count": 3,
-      "first_seen": "2026-08-16",
-      "last_seen": "2026-08-18",
-      "status": "normal",
-      "example_titles": [
-        "xAI, Grok 4.6 공개…MATH·GPQA 벤치마크서 GPT-5·Gemini 3.7 제쳐",
-        "SpaceXAI, Grok 4.6 출시 — Kimi K3 제치고 세계 3위 등극"
-      ]
-    },
-    "anthropic-q2-profit-2026": {
-      "count": 2,
-      "first_seen": "2026-08-16",
-      "last_seen": "2026-08-17",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, 창사 이래 첫 분기 흑자 달성…2026년 2Q 영업이익 흑자 전환"
-      ]
-    },
-    "anthropic-riot-games-deal": {
-      "count": 1,
-      "first_seen": "2026-08-16",
-      "last_seen": "2026-08-16",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, 라이엇 게임즈와 멀티년 파트너십…Claude, 게임 AI NPC에 도입"
-      ]
-    },
-    "meta-nvidia-llama4-optimization": {
-      "count": 1,
-      "first_seen": "2026-08-16",
-      "last_seen": "2026-08-16",
-      "status": "normal",
-      "example_titles": [
-        "Meta·Nvidia, 오픈 웨이트 LLM 공동 최적화 발표…Llama 4 성능 30% 향상"
-      ]
-    },
-    "samsung-skhynix-hbm4-rally": {
-      "count": 1,
-      "first_seen": "2026-08-16",
-      "last_seen": "2026-08-16",
-      "status": "normal",
-      "example_titles": [
-        "삼성전자·SK하이닉스, AI 수요 기대에 반등…HBM4 수주 확대 전망"
-      ]
-    },
-    "enterprise-gpu-utilization-2026": {
-      "count": 3,
-      "first_seen": "2026-08-16",
-      "last_seen": "2026-08-18",
-      "status": "demoted",
-      "example_titles": [
-        "기업 GPU 활용률 조사 '보유 GPU 42%가 유휴 상태'…AI 인프라 낭비 경고",
-        "기업 GPU의 86%가 50% 이하 가동 — AI 투자 효율 위기"
-      ]
-    },
-    "agentic-memory-token-maxxing": {
-      "count": 1,
-      "first_seen": "2026-08-16",
-      "last_seen": "2026-08-16",
-      "status": "normal",
-      "example_titles": [
-        "'에이전트 메모리 + 토큰 최대화'…장기 AI 에이전트 성능의 새 연구 프레임"
-      ]
-    },
-    "anthropic-global-affairs-chief": {
-      "count": 1,
-      "first_seen": "2026-08-16",
-      "last_seen": "2026-08-16",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, 글로벌 공공정책 총괄 영입…정부 규제 대응 조직 강화"
-      ]
-    },
-    "kimi-k3-moonshot-2026": {
-      "count": 1,
-      "first_seen": "2026-08-17",
-      "last_seen": "2026-08-17",
-      "status": "normal",
-      "example_titles": [
-        "중국 Moonshot AI, 역대 최대 규모 오픈소스 모델 Kimi K3 공개 — 미국 최상위 모델과 대등한 성능"
       ]
     },
     "gpt56-cyber-openai-2026": {
@@ -382,16 +80,6 @@
         "Google Gemini, 완전 격리 단일 서버 구동 지원 — 연결 해제 시 자동 소거 기능"
       ]
     },
-    "deepseek-v4-flash-agent-failure-2026": {
-      "count": 2,
-      "first_seen": "2026-08-17",
-      "last_seen": "2026-08-18",
-      "status": "normal",
-      "example_titles": [
-        "DeepSeek V4 Flash, 실제 에이전트 과제에서 성능 저하 — 가격 급등 논란 동반",
-        "최상위 평가의 DeepSeek V4 Flash, 실제 에이전트 작업엔 절반만 성공 — 가격 11배 급등"
-      ]
-    },
     "multi-agent-coordination-research-2026": {
       "count": 1,
       "first_seen": "2026-08-17",
@@ -401,26 +89,43 @@
         "AI 에이전트 4기 실시간 협업, 엔터프라이즈 코딩에서 Claude Opus 4.8 단독보다 우수"
       ]
     },
-    "stripe-openrouter-acquisition-2026": {
-      "count": 3,
-      "first_seen": "2026-08-17",
-      "last_seen": "2026-08-19",
+    "anthropic-q2-profit-2026": {
+      "count": 2,
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-17",
       "status": "normal",
       "example_titles": [
-        "Stripe, AI 게이트웨이 스타트업 OpenRouter 70억 달러 이상에 인수 추진",
-        "스트라이프, OpenRouter를 70억 달러 이상에 인수 — AI 결제 인프라 장악",
-        "Stripe, AI 모델 게이트웨이 OpenRouter 70억 달러 이상에 인수 최종 확정"
+        "Anthropic, 창사 이래 첫 분기 흑자 달성…2026년 2Q 영업이익 흑자 전환"
       ]
     },
-    "openai-revenue-run-rate-40b-2026": {
+    "grok-4-6-benchmark-aug2026": {
       "count": 3,
-      "first_seen": "2026-08-17",
-      "last_seen": "2026-08-20",
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-18",
       "status": "normal",
       "example_titles": [
-        "OpenAI 연간 매출 달성률 400억 달러 돌파 — IPO 전 재무 건전성 확인",
-        "OpenAI 연매출 400억 달러 돌파 — IPO S-1 제출 임박",
-        "OpenAI CFO '2027년 또는 더 빨리 상장' — 전직원 타운홀에서 IPO 일정 공개 발언"
+        "xAI, Grok 4.6 공개…MATH·GPQA 벤치마크서 GPT-5·Gemini 3.7 제쳐",
+        "SpaceXAI, Grok 4.6 출시 — Kimi K3 제치고 세계 3위 등극"
+      ]
+    },
+    "enterprise-gpu-utilization-2026": {
+      "count": 3,
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-18",
+      "status": "demoted",
+      "example_titles": [
+        "기업 GPU 활용률 조사 '보유 GPU 42%가 유휴 상태'…AI 인프라 낭비 경고",
+        "기업 GPU의 86%가 50% 이하 가동 — AI 투자 효율 위기"
+      ]
+    },
+    "deepseek-v4-flash-agent-failure-2026": {
+      "count": 2,
+      "first_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
+      "status": "normal",
+      "example_titles": [
+        "DeepSeek V4 Flash, 실제 에이전트 과제에서 성능 저하 — 가격 급등 논란 동반",
+        "최상위 평가의 DeepSeek V4 Flash, 실제 에이전트 작업엔 절반만 성공 — 가격 11배 급등"
       ]
     },
     "satya-nadella-ai-hollowing-2026": {
@@ -478,6 +183,27 @@
       "status": "normal",
       "example_titles": [
         "ETRI, AI 설명가능성 ITU 국제표준 채택 — 국내 최초"
+      ]
+    },
+    "anthropic-risk-report-aug2026": {
+      "count": 2,
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-08-19",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, 2026년 8월 AI 위험 평가 문서 공개 — Hacker News에서 대규모 토론",
+        "Anthropic 2026년 8월 AI 위험 평가 업데이트 — 재앙적 오정렬 위험 등급 'very low'→'low' 상향"
+      ]
+    },
+    "stripe-openrouter-acquisition-2026": {
+      "count": 3,
+      "first_seen": "2026-08-17",
+      "last_seen": "2026-08-19",
+      "status": "normal",
+      "example_titles": [
+        "Stripe, AI 게이트웨이 스타트업 OpenRouter 70억 달러 이상에 인수 추진",
+        "스트라이프, OpenRouter를 70억 달러 이상에 인수 — AI 결제 인프라 장악",
+        "Stripe, AI 모델 게이트웨이 OpenRouter 70억 달러 이상에 인수 최종 확정"
       ]
     },
     "anthropic-model2-safety-disclosure": {
@@ -550,6 +276,17 @@
       "status": "normal",
       "example_titles": [
         "슈나이어 \"시장이 거부하면 OpenAI·Anthropic 국유화해야\" — AI 기업 공적 통제 논쟁"
+      ]
+    },
+    "openai-revenue-run-rate-40b-2026": {
+      "count": 4,
+      "first_seen": "2026-08-17",
+      "last_seen": "2026-08-21",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI 연매출 400억 달러 돌파 — IPO S-1 제출 임박",
+        "OpenAI CFO '2027년 또는 더 빨리 상장' — 전직원 타운홀에서 IPO 일정 공개 발언",
+        "OpenAI CFO \"2027년 또는 그 이전 상장\" — 전임직원 타운홀"
       ]
     },
     "google-gemini-study-tools": {
@@ -649,6 +386,87 @@
       "status": "normal",
       "example_titles": [
         "펜실베이니아 주지사, AI 데이터센터 에너지·용수·채용 기준 의무화 행정명령 서명"
+      ]
+    },
+    "cerebras-cs4-inference-chip": {
+      "count": 1,
+      "first_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "status": "normal",
+      "example_titles": [
+        "Cerebras CS-4 출시 — GPU 대비 최대 30배 빠른 AI 추론 랙 솔루션"
+      ]
+    },
+    "chatgpt-ads-europe-expansion": {
+      "count": 1,
+      "first_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, ChatGPT 광고 8월 24일부터 유럽 31개국 전면 적용"
+      ]
+    },
+    "chatgpt-weekly-1b-users": {
+      "count": 1,
+      "first_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "status": "normal",
+      "example_titles": [
+        "ChatGPT 주간 활성 사용자 10억 명 돌파 — 역사상 가장 빠른 앱"
+      ]
+    },
+    "openai-o3-gpt45-retirement": {
+      "count": 1,
+      "first_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, ChatGPT 내 o3·GPT-4.5 모델 8월 26일 종료 — GPT-4 시대 공식 마감"
+      ]
+    },
+    "linear-ai-feature-adoption-2026": {
+      "count": 1,
+      "first_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "status": "normal",
+      "example_titles": [
+        "Linear 보고서: AI가 전체 이슈 절반 생성 — 2년 새 0.1%에서 급증"
+      ]
+    },
+    "tencent-hy3-global-expansion": {
+      "count": 1,
+      "first_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "status": "normal",
+      "example_titles": [
+        "텐센트 Hy3, 295B 파라미터 오픈소스 모델 글로벌 기업 시장 확대"
+      ]
+    },
+    "aise-2026-korea-summit": {
+      "count": 1,
+      "first_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "status": "normal",
+      "example_titles": [
+        "AI 서밋 서울 앤 엑스포 2026 개막 — 7개국 118개사, 에이전틱 AI·피지컬 AI 집중"
+      ]
+    },
+    "aws-korea-physical-ai-program": {
+      "count": 1,
+      "first_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "status": "normal",
+      "example_titles": [
+        "AWS 코리아, '피지컬 AI 프론티어' 스타트업 육성 프로그램 시작"
+      ]
+    },
+    "ocp-korea-techday-2026": {
+      "count": 1,
+      "first_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "status": "normal",
+      "example_titles": [
+        "2026 OCP 코리아 테크 데이 — KTNF, AI 데이터센터 서버 라인업 공개"
       ]
     }
   }
