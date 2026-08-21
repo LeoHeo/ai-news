@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-08-21",
+  "updated": "2026-08-22",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -234,12 +234,13 @@
       ]
     },
     "top-llm-ranking-aug2026": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-19",
-      "last_seen": "2026-08-19",
+      "last_seen": "2026-08-22",
       "status": "normal",
       "example_titles": [
-        "2026년 8월 상위 9개 LLM 현황 분석 — Claude Fable 5·Gemini 3.5 Pro·GPT-5.6 Sol 비교"
+        "2026년 8월 상위 9개 LLM 현황 분석 — Claude Fable 5·Gemini 3.5 Pro·GPT-5.6 Sol 비교",
+        "2026년 8월 LLM 벤치마크 순위: Claude 5 종합 1위"
       ]
     },
     "enterprise-ai-data-shifts-2026": {
@@ -362,12 +363,13 @@
       ]
     },
     "openai-rl-safety-pause-2026": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-20",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-22",
       "status": "normal",
       "example_titles": [
-        "OpenAI, Astra 모델 임계 사이버 능력 도달로 프런티어 RL 훈련 일시 중단 — 공식 백서 발표"
+        "OpenAI, Astra 모델 임계 사이버 능력 도달로 프런티어 RL 훈련 일시 중단 — 공식 백서 발표",
+        "OpenAI, 안전 검토로 Astra RL 훈련 일시 중단"
       ]
     },
     "cisa-ray-framework-rce-2026": {
@@ -380,84 +382,93 @@
       ]
     },
     "pennsylvania-ai-datacenter-order": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-20",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-22",
       "status": "normal",
       "example_titles": [
-        "펜실베이니아 주지사, AI 데이터센터 에너지·용수·채용 기준 의무화 행정명령 서명"
+        "펜실베이니아 주지사, AI 데이터센터 에너지·용수·채용 기준 의무화 행정명령 서명",
+        "펜실베이니아 주지사, AI 데이터센터 에너지 영향 행정명령 서명"
       ]
     },
     "cerebras-cs4-inference-chip": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-21",
-      "last_seen": "2026-08-21",
+      "last_seen": "2026-08-22",
       "status": "normal",
       "example_titles": [
-        "Cerebras CS-4 출시 — GPU 대비 최대 30배 빠른 AI 추론 랙 솔루션"
+        "Cerebras CS-4 출시 — GPU 대비 최대 30배 빠른 AI 추론 랙 솔루션",
+        "Cerebras, 웨이퍼 스케일 추론 칩 CS-4 공개"
       ]
     },
     "chatgpt-ads-europe-expansion": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-21",
-      "last_seen": "2026-08-21",
+      "last_seen": "2026-08-22",
       "status": "normal",
       "example_titles": [
-        "OpenAI, ChatGPT 광고 8월 24일부터 유럽 31개국 전면 적용"
+        "OpenAI, ChatGPT 광고 8월 24일부터 유럽 31개국 전면 적용",
+        "ChatGPT 광고 플랫폼, 유럽 전역으로 확장"
       ]
     },
     "chatgpt-weekly-1b-users": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-21",
-      "last_seen": "2026-08-21",
+      "last_seen": "2026-08-22",
       "status": "normal",
       "example_titles": [
-        "ChatGPT 주간 활성 사용자 10억 명 돌파 — 역사상 가장 빠른 앱"
+        "ChatGPT 주간 활성 사용자 10억 명 돌파 — 역사상 가장 빠른 앱",
+        "ChatGPT, 주간 활성 사용자 10억 명 돌파"
       ]
     },
     "openai-o3-gpt45-retirement": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-21",
-      "last_seen": "2026-08-21",
+      "last_seen": "2026-08-22",
       "status": "normal",
       "example_titles": [
-        "OpenAI, ChatGPT 내 o3·GPT-4.5 모델 8월 26일 종료 — GPT-4 시대 공식 마감"
+        "OpenAI, ChatGPT 내 o3·GPT-4.5 모델 8월 26일 종료 — GPT-4 시대 공식 마감",
+        "OpenAI, o3 및 GPT-4.5 모델 공식 퇴출 발표"
       ]
     },
     "linear-ai-feature-adoption-2026": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-21",
-      "last_seen": "2026-08-21",
+      "last_seen": "2026-08-22",
       "status": "normal",
       "example_titles": [
-        "Linear 보고서: AI가 전체 이슈 절반 생성 — 2년 새 0.1%에서 급증"
+        "Linear 보고서: AI가 전체 이슈 절반 생성 — 2년 새 0.1%에서 급증",
+        "Linear, 팀의 60%가 AI 기능 매일 사용 중 — 생산성 보고서 발표"
       ]
     },
     "tencent-hy3-global-expansion": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-21",
-      "last_seen": "2026-08-21",
+      "last_seen": "2026-08-22",
       "status": "normal",
       "example_titles": [
-        "텐센트 Hy3, 295B 파라미터 오픈소스 모델 글로벌 기업 시장 확대"
+        "텐센트 Hy3, 295B 파라미터 오픈소스 모델 글로벌 기업 시장 확대",
+        "텐센트 Hunyuan3 295B, 글로벌 시장 본격 확장"
       ]
     },
     "aise-2026-korea-summit": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-21",
-      "last_seen": "2026-08-21",
+      "last_seen": "2026-08-22",
       "status": "normal",
       "example_titles": [
-        "AI 서밋 서울 앤 엑스포 2026 개막 — 7개국 118개사, 에이전틱 AI·피지컬 AI 집중"
+        "AI 서밋 서울 앤 엑스포 2026 개막 — 7개국 118개사, 에이전틱 AI·피지컬 AI 집중",
+        "AI 서밋 서울 2026, 40개국 참여로 글로벌 AI 거버넌스 논의"
       ]
     },
     "aws-korea-physical-ai-program": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-21",
-      "last_seen": "2026-08-21",
+      "last_seen": "2026-08-22",
       "status": "normal",
       "example_titles": [
-        "AWS 코리아, '피지컬 AI 프론티어' 스타트업 육성 프로그램 시작"
+        "AWS 코리아, '피지컬 AI 프론티어' 스타트업 육성 프로그램 시작",
+        "AWS 코리아, 스타트업 대상 Physical AI 액셀러레이터 프로그램 출시"
       ]
     },
     "ocp-korea-techday-2026": {
@@ -467,6 +478,42 @@
       "status": "normal",
       "example_titles": [
         "2026 OCP 코리아 테크 데이 — KTNF, AI 데이터센터 서버 라인업 공개"
+      ]
+    },
+    "cursor-origin-code-hosting": {
+      "count": 1,
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "status": "normal",
+      "example_titles": [
+        "Cursor, AI 네이티브 코드 호스팅 플랫폼 'Origin' 출시"
+      ]
+    },
+    "nvidia-poolside-license-deal": {
+      "count": 1,
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "status": "normal",
+      "example_titles": [
+        "Nvidia, Poolside AI와 60억 달러 규모 라이선스 계약 체결"
+      ]
+    },
+    "google-marvell-chip-2026": {
+      "count": 1,
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "status": "normal",
+      "example_titles": [
+        "Google, Marvell과 122억 달러 규모 AI 커스텀 칩 생산 계약"
+      ]
+    },
+    "las-vegas-robotaxi-nevada": {
+      "count": 1,
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-22",
+      "status": "normal",
+      "example_titles": [
+        "네바다주, 라스베이거스 로보택시 8,000대 확대 승인"
       ]
     }
   }
