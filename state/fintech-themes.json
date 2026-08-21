@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updated": "2026-08-20",
+  "updated": "2026-08-21",
   "window_days": 7,
   "themes": [
     {
       "keyword": "us-fintech-regulation",
-      "count": 79,
+      "count": 80,
       "first_seen": "2026-05-24",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "articles": [
         "regulation-embedded-regs-june11",
         "embedded-finance-us-regs-june12",
@@ -73,51 +73,8 @@
         "regulation-embedded-finance-2026-08-18",
         "regulation-federal-deadline-aug19",
         "regulation-embedded-finance-aug19",
-        "regulation-embedded-finance-us-2026-08-20"
-      ]
-    },
-    {
-      "keyword": "mastercard-agent-pay-machines",
-      "count": 36,
-      "first_seen": "2026-06-23",
-      "last_seen": "2026-08-13",
-      "articles": [
-        "payments-mastercard-agent-pay-2026-06-23",
-        "payments-mastercard-agent-pay-machines-2026-06-26",
-        "payments-mastercard-agent-pay-2026-06-27",
-        "payments-mastercard-ap4m-2026-06-28",
-        "payments-mastercard-ap4m-2026-06-29",
-        "payments-mastercard-ap4m-2026-06-30",
-        "payments-mastercard-ap4m-2026-07-01",
-        "payments-mastercard-ap4m-2026-07-02",
-        "payments-mastercard-ap4m-2026-07-04",
-        "payments-mastercard-ap4m",
-        "payments-mastercard-ap4m-2026-07-06",
-        "payments-mastercard-ap4m-2026-07-07",
-        "payments-mastercard-ap4m-2026-07-08",
-        "payments-bbva-caixabank-agentic",
-        "payments-mastercard-stablecoin-2026-07-12",
-        "payments-mastercard-stablecoin-2026-07-13",
-        "payments-mastercard-ap4m-stablecoin-2026-07-14",
-        "payments-mastercard-ap4m-2026-07-16",
-        "payments-mastercard-ap4m-2026-07-17",
-        "mastercard-agent-pay",
-        "payments-mastercard-ap4m-2026-07-26",
-        "payments-mastercard-ap4m-2026-07-27",
-        "payments-mastercard-ap4m-2026-07-28",
-        "payments-mastercard-agent-pay-2026-07-29",
-        "payments-mastercard-ap4m-stablecoin-2026-07-30",
-        "payments-mastercard-agent-pay-machines-ap4m-2026-07-31",
-        "payments-mastercard-ap4m-stablecoin-2026-08-01",
-        "payments-mastercard-ap4m-stablecoin-2026-08-02",
-        "payments-mastercard-ap4m-stablecoin-2026-08-03",
-        "payments-mastercard-bvnk-2026-08-05",
-        "payments-mastercard-ap4m-2026-08-06",
-        "mastercard-ap4m-stablecoin-2026-08-07",
-        "payments-mastercard-bvnk-2026-08-09",
-        "payments-mastercard-ap4m-2026-08-11",
-        "payments-mastercard-stablecoin-credential-2026-08-12",
-        "mastercard-agent-pay-machines-2026-08-13"
+        "regulation-embedded-finance-us-2026-08-20",
+        "regulation-embedded-finance-us-2026-08-21"
       ]
     },
     {
@@ -223,9 +180,9 @@
     },
     {
       "keyword": "fintech-vc-forecast-2026",
-      "count": 29,
+      "count": 30,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "articles": [
         "investment-fintech-crunchbase",
         "investment-vc-trends-2026-2026-07-14",
@@ -255,7 +212,8 @@
         "investment-eu-h1-lowest-deals-2026-08-16",
         "investment-h1-fintech-funding-2026-08-17",
         "investment-eu-h1-2026-08-18",
-        "investment-vc-h1-2026-08-20"
+        "investment-vc-h1-2026-08-20",
+        "investment-fintech-vc-h1-2026-08-21"
       ]
     },
     {
@@ -290,21 +248,6 @@
         "payments-digital-human-2026-08-18",
         "payments-digital-human-aug19",
         "payments-digital-ux-human-2026-08-20"
-      ]
-    },
-    {
-      "keyword": "seoul-fintech-lab-h2-2026",
-      "count": 7,
-      "first_seen": "2026-08-03",
-      "last_seen": "2026-08-13",
-      "articles": [
-        "investment-seoul-fintech-lab-2026-08-03",
-        "investment-seoul-fintech-lab-2026-08-08",
-        "investment-seoul-fintech-lab-2026-08-09",
-        "investment-seoul-fintech-lab-aug10",
-        "investment-seoul-fintech-lab-2026-08-11",
-        "investment-seoul-fintech-growth-2026-08-12",
-        "investment-seoul-fintech-lab-2026-08-13"
       ]
     },
     {
@@ -375,16 +318,6 @@
       ]
     },
     {
-      "keyword": "coinbase-ai-agent-payments",
-      "count": 2,
-      "first_seen": "2026-08-12",
-      "last_seen": "2026-08-13",
-      "articles": [
-        "payments-coinbase-ai-agent-2026-08-12",
-        "payments-coinbase-ai-agent-2026-08-13"
-      ]
-    },
-    {
       "keyword": "moss-b2b-unicorn-europe",
       "count": 5,
       "first_seen": "2026-08-12",
@@ -395,56 +328,6 @@
         "investment-moss-unicorn-2026-08-16",
         "investment-moss-unicorn-2026-08-17",
         "investment-moss-unicorn-2026-08-18"
-      ]
-    },
-    {
-      "keyword": "alkami-digital-banking-ma",
-      "count": 2,
-      "first_seen": "2026-08-12",
-      "last_seen": "2026-08-13",
-      "articles": [
-        "investment-alkami-sale-2026-08-12",
-        "investment-alkami-digital-banking-2026-08-13"
-      ]
-    },
-    {
-      "keyword": "movement-mexico-stablecoin-remittance",
-      "count": 2,
-      "first_seen": "2026-08-12",
-      "last_seen": "2026-08-13",
-      "articles": [
-        "remittance-movement-mexico-digital-dollar-2026-08-12",
-        "remittance-movement-mexico-digital-dollar-2026-08-13"
-      ]
-    },
-    {
-      "keyword": "korea-crypto-banking-regulation",
-      "count": 2,
-      "first_seen": "2026-08-12",
-      "last_seen": "2026-08-13",
-      "articles": [
-        "regulation-korea-crypto-banking-2026-08-12",
-        "regulation-korea-fsc-bok-stablecoin-2026-08-13"
-      ]
-    },
-    {
-      "keyword": "accel-india-fintech-fund",
-      "count": 2,
-      "first_seen": "2026-08-12",
-      "last_seen": "2026-08-13",
-      "articles": [
-        "investment-accel-india-fund-2026-08-12",
-        "investment-accel-india-fund-2026-08-13"
-      ]
-    },
-    {
-      "keyword": "nigeria-cbn-fintech-sandbox",
-      "count": 2,
-      "first_seen": "2026-08-12",
-      "last_seen": "2026-08-13",
-      "articles": [
-        "regulation-cbn-nigeria-sandbox-2026-08-12",
-        "regulation-nigeria-cbn-sandbox-2026-08-13"
       ]
     },
     {
@@ -571,11 +454,12 @@
     },
     {
       "keyword": "eu-ai-act-fintech-compliance",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-16",
-      "last_seen": "2026-08-16",
+      "last_seen": "2026-08-21",
       "articles": [
-        "regulation-eu-ai-act-fintech-2026-08-16"
+        "regulation-eu-ai-act-fintech-2026-08-16",
+        "regulation-eu-ai-act-fintech-2026-08-21"
       ]
     },
     {
@@ -600,23 +484,25 @@
     },
     {
       "keyword": "fintech-bank-competition-2026",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-21",
       "articles": [
         "investment-fintech-outrun-banks-2026-08-17",
-        "investment-fintech-outrun-banks-2026-08-18"
+        "investment-fintech-outrun-banks-2026-08-18",
+        "investment-fintech-bank-competition-2026-08-21"
       ]
     },
     {
       "keyword": "sea-fintech-tokenization-ai",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "articles": [
         "payments-sea-tokenization-ai-2026-08-17",
         "payments-sea-tokenization-ai-2026-08-18",
-        "payments-sea-tokenization-ai-2026-08-20"
+        "payments-sea-tokenization-ai-2026-08-20",
+        "payments-sea-tokenization-ai-2026-08-21"
       ]
     },
     {
@@ -686,11 +572,12 @@
     },
     {
       "keyword": "afriex-gib-crossborder-b2b",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-19",
-      "last_seen": "2026-08-19",
+      "last_seen": "2026-08-21",
       "articles": [
-        "remittance-afriex-gib-aug19"
+        "remittance-afriex-gib-aug19",
+        "remittance-afriex-gib-aug21"
       ]
     },
     {
@@ -713,11 +600,12 @@
     },
     {
       "keyword": "us-remittance-oba-fee",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-20",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "articles": [
-        "remittance-oba-fee-2026-08-20"
+        "remittance-oba-fee-2026-08-20",
+        "regulation-us-obbba-remittance-tax-2026-08-21"
       ]
     },
     {
@@ -731,11 +619,12 @@
     },
     {
       "keyword": "medibaro-healthcare-fintech",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-20",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "articles": [
-        "digital-banking-medibaro-2026-08-20"
+        "digital-banking-medibaro-2026-08-20",
+        "digital-banking-medibaro-2026-08-21"
       ]
     },
     {
@@ -745,6 +634,42 @@
       "last_seen": "2026-08-20",
       "articles": [
         "lending-eu-bnpl-2026-08-20"
+      ]
+    },
+    {
+      "keyword": "navi-prosus-india-ipo",
+      "count": 1,
+      "first_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "articles": [
+        "investment-navi-prosus-india-ipo"
+      ]
+    },
+    {
+      "keyword": "gradient-labs-finance-ai",
+      "count": 1,
+      "first_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "articles": [
+        "investment-gradient-labs-finance-ai"
+      ]
+    },
+    {
+      "keyword": "philippines-digital-payments-cashless",
+      "count": 1,
+      "first_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "articles": [
+        "payments-philippines-digital-cashless"
+      ]
+    },
+    {
+      "keyword": "n26-profitability-europe",
+      "count": 1,
+      "first_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "articles": [
+        "digital-banking-n26-profitability"
       ]
     }
   ]
