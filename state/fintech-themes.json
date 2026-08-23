@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updated": "2026-08-22",
+  "updated": "2026-08-23",
   "window_days": 7,
   "themes": [
     {
       "keyword": "us-fintech-regulation",
-      "count": 81,
+      "count": 82,
       "first_seen": "2026-05-24",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "articles": [
         "regulation-embedded-regs-june11",
         "embedded-finance-us-regs-june12",
@@ -75,7 +75,8 @@
         "regulation-embedded-finance-aug19",
         "regulation-embedded-finance-us-2026-08-20",
         "regulation-embedded-finance-us-2026-08-21",
-        "regulation-embedded-finance-us-2026-08-22"
+        "regulation-embedded-finance-us-2026-08-22",
+        "regulation-embedded-finance-us-2026-08-23"
       ]
     },
     {
@@ -255,9 +256,9 @@
     },
     {
       "keyword": "india-upi-japan-expansion",
-      "count": 11,
+      "count": 12,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "articles": [
         "remittance-upi-japan-2026-08-04",
         "remittance-india-upi-japan-2026-08-05",
@@ -269,14 +270,15 @@
         "remittance-india-upi-japan-2026-08-11",
         "remittance-india-upi-japan-2026-08-17",
         "remittance-india-upi-japan-2026-08-18",
-        "remittance-india-upi-japan-2026-08-22"
+        "remittance-india-upi-japan-2026-08-22",
+        "remittance-india-upi-japan-2026-08-23"
       ]
     },
     {
       "keyword": "n5deal-fintechs-outacquire",
-      "count": 9,
+      "count": 10,
       "first_seen": "2026-08-06",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "articles": [
         "investment-n5deal-outacquire-2026-08-06",
         "n5deal-fintechs-outacquire-2026-08-07",
@@ -286,7 +288,8 @@
         "investment-n5deal-outacquire-2026-08-11",
         "investment-n5deal-outacquire-2026-08-17",
         "investment-n5deal-ma-2026-08-18",
-        "investment-n5deal-ma-2026-08-22"
+        "investment-n5deal-ma-2026-08-22",
+        "investment-n5deal-ma-2026-08-23"
       ]
     },
     {
@@ -348,78 +351,6 @@
       ]
     },
     {
-      "keyword": "tether-kpmg-first-audit",
-      "count": 1,
-      "first_seen": "2026-08-15",
-      "last_seen": "2026-08-15",
-      "articles": [
-        "payments-tether-kpmg-first-audit"
-      ]
-    },
-    {
-      "keyword": "stablecoin-distribution-competition",
-      "count": 1,
-      "first_seen": "2026-08-15",
-      "last_seen": "2026-08-15",
-      "articles": [
-        "payments-stablecoin-distribution-competition"
-      ]
-    },
-    {
-      "keyword": "stablecoin-card-infra-business",
-      "count": 1,
-      "first_seen": "2026-08-15",
-      "last_seen": "2026-08-15",
-      "articles": [
-        "payments-stablecoin-card-infra"
-      ]
-    },
-    {
-      "keyword": "pymnts-stablecoin-weekly-aug15",
-      "count": 1,
-      "first_seen": "2026-08-15",
-      "last_seen": "2026-08-15",
-      "articles": [
-        "payments-stablecoin-weekly"
-      ]
-    },
-    {
-      "keyword": "chime-stablecoin-exploration",
-      "count": 1,
-      "first_seen": "2026-08-15",
-      "last_seen": "2026-08-15",
-      "articles": [
-        "digital-banking-chime-stablecoin"
-      ]
-    },
-    {
-      "keyword": "citi-kard-rewards-acquisition",
-      "count": 1,
-      "first_seen": "2026-08-15",
-      "last_seen": "2026-08-15",
-      "articles": [
-        "investment-citi-kard-acquisition"
-      ]
-    },
-    {
-      "keyword": "bank-stablecoin-regulation-ai",
-      "count": 1,
-      "first_seen": "2026-08-15",
-      "last_seen": "2026-08-15",
-      "articles": [
-        "regulation-bank-stablecoin-ai"
-      ]
-    },
-    {
-      "keyword": "polygon-boe-digital-pound",
-      "count": 1,
-      "first_seen": "2026-08-15",
-      "last_seen": "2026-08-15",
-      "articles": [
-        "regulation-polygon-boe-digital-pound"
-      ]
-    },
-    {
       "keyword": "fintech-trade-finance-banks",
       "count": 4,
       "first_seen": "2026-08-16",
@@ -460,23 +391,25 @@
     },
     {
       "keyword": "eu-ai-act-fintech-compliance",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-16",
-      "last_seen": "2026-08-21",
+      "last_seen": "2026-08-23",
       "articles": [
         "regulation-eu-ai-act-fintech-2026-08-16",
-        "regulation-eu-ai-act-fintech-2026-08-21"
+        "regulation-eu-ai-act-fintech-2026-08-21",
+        "regulation-eu-ai-act-fintech-2026-08-23"
       ]
     },
     {
       "keyword": "ant-international-global-expansion",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "articles": [
         "investment-ant-international-2026-08-17",
         "investment-ant-international-2026-08-18",
-        "remittance-ant-international-bochk-2026-08-22"
+        "remittance-ant-international-bochk-2026-08-22",
+        "remittance-ant-international-2026-08-23"
       ]
     },
     {
@@ -502,15 +435,16 @@
     },
     {
       "keyword": "sea-fintech-tokenization-ai",
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "articles": [
         "payments-sea-tokenization-ai-2026-08-17",
         "payments-sea-tokenization-ai-2026-08-18",
         "payments-sea-tokenization-ai-2026-08-20",
         "payments-sea-tokenization-ai-2026-08-21",
-        "payments-sea-tokenization-ai-2026-08-22"
+        "payments-sea-tokenization-ai-2026-08-22",
+        "payments-sea-tokenization-ai-2026-08-23"
       ]
     },
     {
@@ -608,13 +542,14 @@
     },
     {
       "keyword": "us-remittance-oba-fee",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-08-20",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "articles": [
         "remittance-oba-fee-2026-08-20",
         "regulation-us-obbba-remittance-tax-2026-08-21",
-        "remittance-obbba-1pct-fee-2026-08-22"
+        "remittance-obbba-1pct-fee-2026-08-22",
+        "remittance-obbba-1pct-fee-2026-08-23"
       ]
     },
     {
@@ -638,11 +573,12 @@
     },
     {
       "keyword": "eu-bnpl-consumer-credit-2026",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-20",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-23",
       "articles": [
-        "lending-eu-bnpl-2026-08-20"
+        "lending-eu-bnpl-2026-08-20",
+        "lending-eu-bnpl-2026-08-23"
       ]
     },
     {
@@ -657,22 +593,24 @@
     },
     {
       "keyword": "gradient-labs-finance-ai",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-21",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "articles": [
         "investment-gradient-labs-finance-ai",
-        "investment-gradient-labs-series-a-2026-08-22"
+        "investment-gradient-labs-series-a-2026-08-22",
+        "investment-gradient-labs-series-a-2026-08-23"
       ]
     },
     {
       "keyword": "philippines-digital-payments-cashless",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-21",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "articles": [
         "payments-philippines-digital-cashless",
-        "payments-philippines-digital-cashless-2026-08-22"
+        "payments-philippines-digital-cashless-2026-08-22",
+        "payments-philippines-digital-cashless-2026-08-23"
       ]
     },
     {
@@ -686,20 +624,49 @@
     },
     {
       "keyword": "rain-agentic-payments-alliance",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "articles": [
-        "payments-rain-agentic-payments-coalition-2026-08-22"
+        "payments-rain-agentic-payments-coalition-2026-08-22",
+        "payments-rain-agentic-alliance-2026-08-23"
       ]
     },
     {
       "keyword": "swift-tokenised-deposit-scb-hsbc",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "articles": [
-        "payments-hsbc-scb-swift-tokenised-2026-08-22"
+        "payments-hsbc-scb-swift-tokenised-2026-08-22",
+        "payments-hsbc-scb-swift-tokenised-2026-08-23"
+      ]
+    },
+    {
+      "keyword": "osl-agentpay-ai-stablecoin",
+      "count": 1,
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "articles": [
+        "payments-osl-agentpay-ai-stablecoin-2026-08-23"
+      ]
+    },
+    {
+      "keyword": "fintechos-profitability-ai",
+      "count": 1,
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "articles": [
+        "digital-banking-fintechos-profitability-2026-08-23"
+      ]
+    },
+    {
+      "keyword": "pennylane-series-e-raise",
+      "count": 1,
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "articles": [
+        "investment-pennylane-series-e-2026-08-23"
       ]
     }
   ]
