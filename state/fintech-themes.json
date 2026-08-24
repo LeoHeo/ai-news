@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updated": "2026-08-23",
+  "updated": "2026-08-24",
   "window_days": 7,
   "themes": [
     {
       "keyword": "us-fintech-regulation",
-      "count": 82,
+      "count": 83,
       "first_seen": "2026-05-24",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "articles": [
         "regulation-embedded-regs-june11",
         "embedded-finance-us-regs-june12",
@@ -76,7 +76,8 @@
         "regulation-embedded-finance-us-2026-08-20",
         "regulation-embedded-finance-us-2026-08-21",
         "regulation-embedded-finance-us-2026-08-22",
-        "regulation-embedded-finance-us-2026-08-23"
+        "regulation-embedded-finance-us-2026-08-23",
+        "regulation-embedded-finance-us-2026-08-24"
       ]
     },
     {
@@ -183,9 +184,9 @@
     },
     {
       "keyword": "fintech-vc-forecast-2026",
-      "count": 30,
+      "count": 31,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-08-21",
+      "last_seen": "2026-08-24",
       "articles": [
         "investment-fintech-crunchbase",
         "investment-vc-trends-2026-2026-07-14",
@@ -216,7 +217,8 @@
         "investment-h1-fintech-funding-2026-08-17",
         "investment-eu-h1-2026-08-18",
         "investment-vc-h1-2026-08-20",
-        "investment-fintech-vc-h1-2026-08-21"
+        "investment-fintech-vc-h1-2026-08-21",
+        "investment-fintech-vc-h1-2026-08-24"
       ]
     },
     {
@@ -256,9 +258,9 @@
     },
     {
       "keyword": "india-upi-japan-expansion",
-      "count": 12,
+      "count": 13,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "articles": [
         "remittance-upi-japan-2026-08-04",
         "remittance-india-upi-japan-2026-08-05",
@@ -271,7 +273,8 @@
         "remittance-india-upi-japan-2026-08-17",
         "remittance-india-upi-japan-2026-08-18",
         "remittance-india-upi-japan-2026-08-22",
-        "remittance-india-upi-japan-2026-08-23"
+        "remittance-india-upi-japan-2026-08-23",
+        "remittance-india-upi-japan-2026-08-24"
       ]
     },
     {
@@ -294,35 +297,14 @@
     },
     {
       "keyword": "malaysia-rtp-security-ai",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-08-06",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-24",
       "articles": [
         "payments-malaysia-rtp-security-2026-08-06",
         "payments-malaysia-rtp-2026-08-17",
-        "payments-malaysia-rtp-2026-08-18"
-      ]
-    },
-    {
-      "keyword": "circle-usdc-settlement-rails",
-      "count": 2,
-      "first_seen": "2026-08-11",
-      "last_seen": "2026-08-16",
-      "articles": [
-        "payments-circle-usdc-settlement-rails-2026-08-11",
-        "payments-circle-usdc-platform-2026-08-16"
-      ]
-    },
-    {
-      "keyword": "revolut-french-banking-license",
-      "count": 4,
-      "first_seen": "2026-08-11",
-      "last_seen": "2026-08-16",
-      "articles": [
-        "digital-banking-revolut-french-license-2026-08-11",
-        "digital-banking-revolut-french-license-2026-08-12",
-        "digital-banking-revolut-french-license-2026-08-13",
-        "digital-banking-revolut-french-license-2026-08-16"
+        "payments-malaysia-rtp-2026-08-18",
+        "digital-banking-malaysia-rtp-2026-08-24"
       ]
     },
     {
@@ -363,53 +345,28 @@
       ]
     },
     {
-      "keyword": "kb-jpmorgan-blockchain-remittance",
-      "count": 1,
-      "first_seen": "2026-08-16",
-      "last_seen": "2026-08-16",
-      "articles": [
-        "remittance-kb-jpmorgan-kinexis-2026-08-16"
-      ]
-    },
-    {
-      "keyword": "korea-fintech-record-results",
-      "count": 1,
-      "first_seen": "2026-08-16",
-      "last_seen": "2026-08-16",
-      "articles": [
-        "digital-banking-korea-fintech-record-2026-08-16"
-      ]
-    },
-    {
-      "keyword": "bunq-occ-charter-denied",
-      "count": 1,
-      "first_seen": "2026-08-16",
-      "last_seen": "2026-08-16",
-      "articles": [
-        "regulation-bunq-occ-denied-2026-08-16"
-      ]
-    },
-    {
       "keyword": "eu-ai-act-fintech-compliance",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-08-16",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "articles": [
         "regulation-eu-ai-act-fintech-2026-08-16",
         "regulation-eu-ai-act-fintech-2026-08-21",
-        "regulation-eu-ai-act-fintech-2026-08-23"
+        "regulation-eu-ai-act-fintech-2026-08-23",
+        "regulation-eu-ai-act-fintech-2026-08-24"
       ]
     },
     {
       "keyword": "ant-international-global-expansion",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "articles": [
         "investment-ant-international-2026-08-17",
         "investment-ant-international-2026-08-18",
         "remittance-ant-international-bochk-2026-08-22",
-        "remittance-ant-international-2026-08-23"
+        "remittance-ant-international-2026-08-23",
+        "remittance-ant-international-2026-08-24"
       ]
     },
     {
@@ -435,16 +392,17 @@
     },
     {
       "keyword": "sea-fintech-tokenization-ai",
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "articles": [
         "payments-sea-tokenization-ai-2026-08-17",
         "payments-sea-tokenization-ai-2026-08-18",
         "payments-sea-tokenization-ai-2026-08-20",
         "payments-sea-tokenization-ai-2026-08-21",
         "payments-sea-tokenization-ai-2026-08-22",
-        "payments-sea-tokenization-ai-2026-08-23"
+        "payments-sea-tokenization-ai-2026-08-23",
+        "payments-sea-tokenization-ai-2026-08-24"
       ]
     },
     {
@@ -542,14 +500,15 @@
     },
     {
       "keyword": "us-remittance-oba-fee",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-08-20",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "articles": [
         "remittance-oba-fee-2026-08-20",
         "regulation-us-obbba-remittance-tax-2026-08-21",
         "remittance-obbba-1pct-fee-2026-08-22",
-        "remittance-obbba-1pct-fee-2026-08-23"
+        "remittance-obbba-1pct-fee-2026-08-23",
+        "remittance-obbba-1pct-fee-2026-08-24"
       ]
     },
     {
@@ -573,12 +532,13 @@
     },
     {
       "keyword": "eu-bnpl-consumer-credit-2026",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-20",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "articles": [
         "lending-eu-bnpl-2026-08-20",
-        "lending-eu-bnpl-2026-08-23"
+        "lending-eu-bnpl-2026-08-23",
+        "lending-eu-bnpl-2026-08-24"
       ]
     },
     {
@@ -593,24 +553,26 @@
     },
     {
       "keyword": "gradient-labs-finance-ai",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-08-21",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "articles": [
         "investment-gradient-labs-finance-ai",
         "investment-gradient-labs-series-a-2026-08-22",
-        "investment-gradient-labs-series-a-2026-08-23"
+        "investment-gradient-labs-series-a-2026-08-23",
+        "investment-gradient-labs-series-a-2026-08-24"
       ]
     },
     {
       "keyword": "philippines-digital-payments-cashless",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-08-21",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "articles": [
         "payments-philippines-digital-cashless",
         "payments-philippines-digital-cashless-2026-08-22",
-        "payments-philippines-digital-cashless-2026-08-23"
+        "payments-philippines-digital-cashless-2026-08-23",
+        "payments-philippines-digital-cashless-2026-08-24"
       ]
     },
     {
@@ -624,40 +586,44 @@
     },
     {
       "keyword": "rain-agentic-payments-alliance",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "articles": [
         "payments-rain-agentic-payments-coalition-2026-08-22",
-        "payments-rain-agentic-alliance-2026-08-23"
+        "payments-rain-agentic-alliance-2026-08-23",
+        "payments-rain-agentic-alliance-2026-08-24"
       ]
     },
     {
       "keyword": "swift-tokenised-deposit-scb-hsbc",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "articles": [
         "payments-hsbc-scb-swift-tokenised-2026-08-22",
-        "payments-hsbc-scb-swift-tokenised-2026-08-23"
+        "payments-hsbc-scb-swift-tokenised-2026-08-23",
+        "payments-hsbc-scb-swift-tokenised-2026-08-24"
       ]
     },
     {
       "keyword": "osl-agentpay-ai-stablecoin",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-23",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "articles": [
-        "payments-osl-agentpay-ai-stablecoin-2026-08-23"
+        "payments-osl-agentpay-ai-stablecoin-2026-08-23",
+        "payments-osl-agentpay-ai-stablecoin-2026-08-24"
       ]
     },
     {
       "keyword": "fintechos-profitability-ai",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-23",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "articles": [
-        "digital-banking-fintechos-profitability-2026-08-23"
+        "digital-banking-fintechos-profitability-2026-08-23",
+        "digital-banking-fintechos-profitability-2026-08-24"
       ]
     },
     {
@@ -667,6 +633,15 @@
       "last_seen": "2026-08-23",
       "articles": [
         "investment-pennylane-series-e-2026-08-23"
+      ]
+    },
+    {
+      "keyword": "indonesia-credit-network-expansion",
+      "count": 1,
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24",
+      "articles": [
+        "payments-indonesia-credit-network-2026-08-24"
       ]
     }
   ]
