@@ -1,37 +1,40 @@
 {
   "topic": "ai",
-  "updated": "2026-08-25",
+  "updated": "2026-08-26",
   "version": 1,
   "window_days": 7,
   "themes": {
     "openai-o3-gpt45-retirement": {
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-08-21",
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-08-26",
       "status": "demoted",
       "example_titles": [
         "OpenAI, o3 및 GPT-4.5 모델 공식 퇴출 발표",
         "OpenAI, ChatGPT에서 o3·GPT-4.5 모델 8월 26일 종료 예고",
-        "OpenAI, ChatGPT에서 o3·GPT-4.5 모델 8월 26일 공식 종료 — GPT-4 시대 역사 속으로"
+        "OpenAI, ChatGPT에서 o3·GPT-4.5 모델 8월 26일 공식 종료 — GPT-4 시대 역사 속으로",
+        "OpenAI, o3와 GPT-4.5 오늘부로 공식 은퇴 — GPT-4 시대 사실상 종막"
       ]
     },
     "openai-chatgpt-work-agents": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-25",
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-08-26",
       "status": "normal",
       "example_titles": [
-        "OpenAI, 화이트칼라 전 직군 겨냥 AI 에이전트 플랫폼 'ChatGPT Work' 본격 확장"
+        "OpenAI, 화이트칼라 전 직군 겨냥 AI 에이전트 플랫폼 'ChatGPT Work' 본격 확장",
+        "OpenAI, 업무 자동화 통합 AI 에이전트 'ChatGPT Work' 개발 중"
       ]
     },
     "anthropic-ipo-s1-2026": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-24",
-      "last_seen": "2026-08-25",
-      "status": "normal",
+      "last_seen": "2026-08-26",
+      "status": "demoted",
       "example_titles": [
         "Anthropic, S-1 제출 임박 — SpaceX 수준 사상 최대 IPO 목표",
-        "Anthropic, 8월 말 공개 S-1 제출 임박 — $2조 이상 가치로 사상 최대 AI IPO 추진"
+        "Anthropic, 8월 말 공개 S-1 제출 임박 — $2조 이상 가치로 사상 최대 AI IPO 추진",
+        "Anthropic, SEC에 비밀 S-1 제출 — IPO 준비 본격화"
       ]
     },
     "cloudflare-kitesurf-browser": {
@@ -77,13 +80,14 @@
       ]
     },
     "korea-ai-chip-startup-investment": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-24",
-      "last_seen": "2026-08-25",
-      "status": "normal",
+      "last_seen": "2026-08-26",
+      "status": "demoted",
       "example_titles": [
         "8월 셋째 주 AI 반도체 팹리스에 520억 '뭉칫돈' — 딥테크 투자 열기 이어져",
-        "한국 8월 셋째주 AI 반도체 팹리스 IHW에 520억원 집중 — 딥테크 투자 열기 지속"
+        "한국 8월 셋째주 AI 반도체 팹리스 IHW에 520억원 집중 — 딥테크 투자 열기 지속",
+        "韓 AI 반도체 스타트업 IHW, 520억 원 시리즈 B 투자 유치"
       ]
     },
     "ai-safety-crisis-summer-2026": {
@@ -511,14 +515,58 @@
         "슈나이어 \"시장이 거부하면 OpenAI·Anthropic 국유화해야\" — AI 기업 공적 통제 논쟁"
       ]
     },
-    "grok-4-6-benchmark-aug2026": {
-      "count": 3,
-      "first_seen": "2026-08-16",
-      "last_seen": "2026-08-18",
-      "status": "demoted",
+    "perplexity-nvidia-portable-computer": {
+      "count": 1,
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "status": "normal",
       "example_titles": [
-        "xAI, Grok 4.6 공개…MATH·GPQA 벤치마크서 GPT-5·Gemini 3.7 제쳐",
-        "SpaceXAI, Grok 4.6 출시 — Kimi K3 제치고 세계 3위 등극"
+        "Perplexity-Nvidia, 완전 로컬 AI 에이전트 탑재 포터블 컴퓨터 출시"
+      ]
+    },
+    "nvidia-vera-cpu-hotchips-2026": {
+      "count": 1,
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "status": "normal",
+      "example_titles": [
+        "Nvidia, Hot Chips 2026서 차세대 CPU 'Vera' 아키텍처 공개"
+      ]
+    },
+    "anthropic-talent-war-2026": {
+      "count": 1,
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI·DeepMind 엔지니어들, Anthropic으로 대거 이직 — AI 인재 전쟁 심화"
+      ]
+    },
+    "salesforce-agentic-enterprise-index": {
+      "count": 1,
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "status": "normal",
+      "example_titles": [
+        "Salesforce, '에이전트형 기업 지수' 발표 — AI 에이전트 도입률 측정 새 기준 제시"
+      ]
+    },
+    "situational-awareness-sec-probe": {
+      "count": 1,
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "status": "normal",
+      "example_titles": [
+        "AI 헤지펀드 'Situational Awareness', SEC 조사 대상 — 붕괴 위기 이후 규제 압력 본격화"
+      ]
+    },
+    "developer-ai-coding-dependence": {
+      "count": 1,
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "status": "normal",
+      "example_titles": [
+        "개발자 73%, AI 코딩 도구 없이는 업무 불가 — Coddy 설문 결과"
       ]
     }
   }
