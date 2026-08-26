@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-08-26",
+  "updated": "2026-08-27",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -35,6 +35,71 @@
         "Anthropic, S-1 제출 임박 — SpaceX 수준 사상 최대 IPO 목표",
         "Anthropic, 8월 말 공개 S-1 제출 임박 — $2조 이상 가치로 사상 최대 AI IPO 추진",
         "Anthropic, SEC에 비밀 S-1 제출 — IPO 준비 본격화"
+      ]
+    },
+    "korea-ai-chip-startup-investment": {
+      "count": 3,
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-26",
+      "status": "demoted",
+      "example_titles": [
+        "8월 셋째 주 AI 반도체 팹리스에 520억 '뭉칫돈' — 딥테크 투자 열기 이어져",
+        "한국 8월 셋째주 AI 반도체 팹리스 IHW에 520억원 집중 — 딥테크 투자 열기 지속",
+        "韓 AI 반도체 스타트업 IHW, 520억 원 시리즈 B 투자 유치"
+      ]
+    },
+    "perplexity-nvidia-portable-computer": {
+      "count": 1,
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "status": "normal",
+      "example_titles": [
+        "Perplexity-Nvidia, 완전 로컬 AI 에이전트 탑재 포터블 컴퓨터 출시"
+      ]
+    },
+    "nvidia-vera-cpu-hotchips-2026": {
+      "count": 1,
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "status": "normal",
+      "example_titles": [
+        "Nvidia, Hot Chips 2026서 차세대 CPU 'Vera' 아키텍처 공개"
+      ]
+    },
+    "anthropic-talent-war-2026": {
+      "count": 1,
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI·DeepMind 엔지니어들, Anthropic으로 대거 이직 — AI 인재 전쟁 심화"
+      ]
+    },
+    "salesforce-agentic-enterprise-index": {
+      "count": 1,
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "status": "normal",
+      "example_titles": [
+        "Salesforce, '에이전트형 기업 지수' 발표 — AI 에이전트 도입률 측정 새 기준 제시"
+      ]
+    },
+    "situational-awareness-sec-probe": {
+      "count": 1,
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "status": "normal",
+      "example_titles": [
+        "AI 헤지펀드 'Situational Awareness', SEC 조사 대상 — 붕괴 위기 이후 규제 압력 본격화"
+      ]
+    },
+    "developer-ai-coding-dependence": {
+      "count": 1,
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "status": "normal",
+      "example_titles": [
+        "개발자 73%, AI 코딩 도구 없이는 업무 불가 — Coddy 설문 결과"
       ]
     },
     "cloudflare-kitesurf-browser": {
@@ -79,17 +144,6 @@
         "Inherent, DeepMind 동문 창립 AI 에이전트 Faraday — 과학 논문 자율 재현서 OpenAI·Anthropic 능가"
       ]
     },
-    "korea-ai-chip-startup-investment": {
-      "count": 3,
-      "first_seen": "2026-08-24",
-      "last_seen": "2026-08-26",
-      "status": "demoted",
-      "example_titles": [
-        "8월 셋째 주 AI 반도체 팹리스에 520억 '뭉칫돈' — 딥테크 투자 열기 이어져",
-        "한국 8월 셋째주 AI 반도체 팹리스 IHW에 520억원 집중 — 딥테크 투자 열기 지속",
-        "韓 AI 반도체 스타트업 IHW, 520억 원 시리즈 B 투자 유치"
-      ]
-    },
     "ai-safety-crisis-summer-2026": {
       "count": 3,
       "first_seen": "2026-08-23",
@@ -129,13 +183,14 @@
       ]
     },
     "korea-moduai-alliance": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-19",
-      "last_seen": "2026-08-24",
-      "status": "normal",
+      "last_seen": "2026-08-27",
+      "status": "demoted",
       "example_titles": [
         "KT·SKT·LGU+·카카오·이스트소프트, '모두의 AI' 공공 AI 챗봇 공동 출사표",
-        "카카오·LG 연합 '모두의 AI' 참전 — 6파전으로 국가 공공 AI 챗봇 사업 본격 경쟁"
+        "카카오·LG 연합 '모두의 AI' 참전 — 6파전으로 국가 공공 AI 챗봇 사업 본격 경쟁",
+        "'모두의 AI' 최종 사업자 선정 PT — SKT·KT·카카오 3파전 막판 총력"
       ]
     },
     "chatgpt-ads-europe-expansion": {
@@ -251,6 +306,15 @@
         "구글, AI 경쟁력 강화 위해 DeepMind 리더십 캘리포니아로 집중 — Demis Hassabis는 의장직 전환"
       ]
     },
+    "ocp-korea-techday-2026": {
+      "count": 1,
+      "first_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "status": "normal",
+      "example_titles": [
+        "2026 OCP 코리아 테크 데이 — KTNF, AI 데이터센터 서버 라인업 공개"
+      ]
+    },
     "pennsylvania-ai-datacenter-order": {
       "count": 2,
       "first_seen": "2026-08-20",
@@ -348,225 +412,85 @@
         "네바다주, 라스베이거스 로보택시 8,000대 확대 승인"
       ]
     },
-    "openai-revenue-run-rate-40b-2026": {
-      "count": 4,
-      "first_seen": "2026-08-17",
-      "last_seen": "2026-08-21",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI 연매출 400억 달러 돌파 — IPO S-1 제출 임박",
-        "OpenAI CFO '2027년 또는 더 빨리 상장' — 전직원 타운홀에서 IPO 일정 공개 발언",
-        "OpenAI CFO \"2027년 또는 그 이전 상장\" — 전임직원 타운홀"
-      ]
-    },
-    "ocp-korea-techday-2026": {
+    "z-ai-glm53-flash-oxalpha": {
       "count": 1,
-      "first_seen": "2026-08-21",
-      "last_seen": "2026-08-21",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
       "status": "normal",
       "example_titles": [
-        "2026 OCP 코리아 테크 데이 — KTNF, AI 데이터센터 서버 라인업 공개"
+        "Z.AI(즈푸), 스텔스 모델 OX Alpha 정체 공개 — GLM-5.3-Flash, DeepSWE 80% 달성"
       ]
     },
-    "google-gemini-study-tools": {
+    "openai-agi-race-anthropic-2026": {
       "count": 1,
-      "first_seen": "2026-08-20",
-      "last_seen": "2026-08-20",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
       "status": "normal",
       "example_titles": [
-        "구글, Search·Gemini에 AI 학습 도구 통합 — 3D 시뮬레이션·맞춤 퀴즈·학생 허브 제공"
+        "샘 올트먼 TIME 단독 인터뷰 — \"인류 첫 AGI 기업 자리를 Anthropic에 빼앗겼다\""
       ]
     },
-    "amazon-alexa-plus-firetv": {
+    "openai-huggingface-breach-2026": {
       "count": 1,
-      "first_seen": "2026-08-20",
-      "last_seen": "2026-08-20",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
       "status": "normal",
       "example_titles": [
-        "아마존, AI 어시스턴트 Alexa+ 미국 Fire TV 전 기기 무료 개방 — Prime 구독 불필요"
+        "OpenAI, Hugging Face 침해 사건 공식 보고서 발표 — AI 모델 탈출 경위 최초 공개"
       ]
     },
-    "asana-codex-test-automation": {
+    "wrtn-series-c-unicorn-2026": {
       "count": 1,
-      "first_seen": "2026-08-20",
-      "last_seen": "2026-08-20",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
       "status": "normal",
       "example_titles": [
-        "Asana, OpenAI Codex 에이전트로 레거시 테스트 코드 전면 교체 성공 — 신규 버그 제로"
+        "뤼튼테크놀로지스, 1,000억 원 시리즈C 유치 — 국내 AI 서비스 스타트업 최초 기업가치 1조 원"
       ]
     },
-    "vivodyne-cancer-ai-biotech": {
+    "radar-podcast-ai-agent": {
       "count": 1,
-      "first_seen": "2026-08-20",
-      "last_seen": "2026-08-20",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
       "status": "normal",
       "example_titles": [
-        "바이오테크 스타트업 Vivodyne, AI 신약 개발의 데이터 공백 문제 해결 주장"
+        "Radar, AI 에이전트가 검색·활용 가능한 팟캐스트 플랫폼 출시"
       ]
     },
-    "alibaba-gaming-sale-ai-focus": {
+    "robotics-world-models-ai-2026": {
       "count": 1,
-      "first_seen": "2026-08-20",
-      "last_seen": "2026-08-20",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
       "status": "normal",
       "example_titles": [
-        "알리바바, 게임 자회사 Lingxi Games 15억 달러에 매각 — AI·클라우드 집중 전략 가속"
+        "로봇 AI 두뇌, GPT-2 시대를 탈피 중 — 물리 세계 이해하는 월드 모델로 진화"
       ]
     },
-    "ai-public-sentiment-pew-2026": {
+    "perceptron-factory-visual-ai": {
       "count": 1,
-      "first_seen": "2026-08-20",
-      "last_seen": "2026-08-20",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
       "status": "normal",
       "example_titles": [
-        "Pew 조사: 미국인 52%가 AI 확산에 불안 — 2021년 37%에서 역대 최고치 경신"
+        "전 Meta 연구진, 공장 자동화용 시각 AI 'Isaac 0.5' 출시"
       ]
     },
-    "nvidia-mercor-investment-2026": {
+    "openai-executive-exodus-2026": {
       "count": 1,
-      "first_seen": "2026-08-20",
-      "last_seen": "2026-08-20",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
       "status": "normal",
       "example_titles": [
-        "Nvidia, AI 데이터 공급 스타트업 Mercor에 200억 달러 가치 투자 검토"
+        "OpenAI 임원 대량 이탈의 원인은? — 올트먼 리더십 위기 분석"
       ]
     },
-    "cisa-ray-framework-rce-2026": {
+    "bill-gates-robot-tax-2026": {
       "count": 1,
-      "first_seen": "2026-08-20",
-      "last_seen": "2026-08-20",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
       "status": "normal",
       "example_titles": [
-        "CISA, AI 프레임워크 Ray의 임계 RCE 취약점 KEV 등재 — 연방기관 8월 20일까지 패치 의무"
-      ]
-    },
-    "anthropic-risk-report-aug2026": {
-      "count": 2,
-      "first_seen": "2026-08-15",
-      "last_seen": "2026-08-19",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, 2026년 8월 AI 위험 평가 문서 공개 — Hacker News에서 대규모 토론",
-        "Anthropic 2026년 8월 AI 위험 평가 업데이트 — 재앙적 오정렬 위험 등급 'very low'→'low' 상향"
-      ]
-    },
-    "stripe-openrouter-acquisition-2026": {
-      "count": 3,
-      "first_seen": "2026-08-17",
-      "last_seen": "2026-08-19",
-      "status": "normal",
-      "example_titles": [
-        "Stripe, AI 게이트웨이 스타트업 OpenRouter 70억 달러 이상에 인수 추진",
-        "스트라이프, OpenRouter를 70억 달러 이상에 인수 — AI 결제 인프라 장악",
-        "Stripe, AI 모델 게이트웨이 OpenRouter 70억 달러 이상에 인수 최종 확정"
-      ]
-    },
-    "anthropic-model2-safety-disclosure": {
-      "count": 1,
-      "first_seen": "2026-08-19",
-      "last_seen": "2026-08-19",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, Mythos 5 초과 내부 모델 'Model 2' 최초 공개 — 안전 평가 미완료로 출시 보류"
-      ]
-    },
-    "openai-presence-voice-agents": {
-      "count": 1,
-      "first_seen": "2026-08-19",
-      "last_seen": "2026-08-19",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, 기업용 실시간 음성 에이전트·챗봇 통합 관리 플랫폼 'Presence' 출시"
-      ]
-    },
-    "enterprise-ai-data-shifts-2026": {
-      "count": 1,
-      "first_seen": "2026-08-19",
-      "last_seen": "2026-08-19",
-      "status": "normal",
-      "example_titles": [
-        "2026년 엔터프라이즈 AI를 바꿀 6대 데이터 전환 — 컨텍스추얼 메모리가 핵심 인프라로"
-      ]
-    },
-    "southeast-asia-ai-funding-2026": {
-      "count": 1,
-      "first_seen": "2026-08-19",
-      "last_seen": "2026-08-19",
-      "status": "normal",
-      "example_titles": [
-        "동남아시아 AI 스타트업 투자 2026년 41억 달러 돌파 — 글로벌 AI 투자 붐 아시아 확산 가속"
-      ]
-    },
-    "river-ai-funding-2026": {
-      "count": 1,
-      "first_seen": "2026-08-19",
-      "last_seen": "2026-08-19",
-      "status": "normal",
-      "example_titles": [
-        "River AI, General Catalyst 주도 11억 달러 대규모 투자 유치"
-      ]
-    },
-    "openai-anthropic-nationalization-debate": {
-      "count": 1,
-      "first_seen": "2026-08-19",
-      "last_seen": "2026-08-19",
-      "status": "normal",
-      "example_titles": [
-        "슈나이어 \"시장이 거부하면 OpenAI·Anthropic 국유화해야\" — AI 기업 공적 통제 논쟁"
-      ]
-    },
-    "perplexity-nvidia-portable-computer": {
-      "count": 1,
-      "first_seen": "2026-08-26",
-      "last_seen": "2026-08-26",
-      "status": "normal",
-      "example_titles": [
-        "Perplexity-Nvidia, 완전 로컬 AI 에이전트 탑재 포터블 컴퓨터 출시"
-      ]
-    },
-    "nvidia-vera-cpu-hotchips-2026": {
-      "count": 1,
-      "first_seen": "2026-08-26",
-      "last_seen": "2026-08-26",
-      "status": "normal",
-      "example_titles": [
-        "Nvidia, Hot Chips 2026서 차세대 CPU 'Vera' 아키텍처 공개"
-      ]
-    },
-    "anthropic-talent-war-2026": {
-      "count": 1,
-      "first_seen": "2026-08-26",
-      "last_seen": "2026-08-26",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI·DeepMind 엔지니어들, Anthropic으로 대거 이직 — AI 인재 전쟁 심화"
-      ]
-    },
-    "salesforce-agentic-enterprise-index": {
-      "count": 1,
-      "first_seen": "2026-08-26",
-      "last_seen": "2026-08-26",
-      "status": "normal",
-      "example_titles": [
-        "Salesforce, '에이전트형 기업 지수' 발표 — AI 에이전트 도입률 측정 새 기준 제시"
-      ]
-    },
-    "situational-awareness-sec-probe": {
-      "count": 1,
-      "first_seen": "2026-08-26",
-      "last_seen": "2026-08-26",
-      "status": "normal",
-      "example_titles": [
-        "AI 헤지펀드 'Situational Awareness', SEC 조사 대상 — 붕괴 위기 이후 규제 압력 본격화"
-      ]
-    },
-    "developer-ai-coding-dependence": {
-      "count": 1,
-      "first_seen": "2026-08-26",
-      "last_seen": "2026-08-26",
-      "status": "normal",
-      "example_titles": [
-        "개발자 73%, AI 코딩 도구 없이는 업무 불가 — Coddy 설문 결과"
+        "빌 게이츠, 로봇세·인간 전용 직업 지정 촉구 — AI 노동 대체에 사회적 완충 필요"
       ]
     }
   }
