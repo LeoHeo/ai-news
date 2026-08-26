@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-25",
+  "updated": "2026-08-26",
   "window_days": 7,
   "themes": [
     {
@@ -263,9 +263,9 @@
     },
     {
       "keyword": "india-upi-japan-expansion",
-      "count": 14,
+      "count": 15,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-08-26",
       "articles": [
         "remittance-upi-japan-2026-08-04",
         "remittance-india-upi-japan-2026-08-05",
@@ -280,7 +280,8 @@
         "remittance-india-upi-japan-2026-08-22",
         "remittance-india-upi-japan-2026-08-23",
         "remittance-india-upi-japan-2026-08-24",
-        "remittance-india-upi-japan-2026-08-25"
+        "remittance-india-upi-japan-2026-08-25",
+        "remittance-india-upi-japan-2026-08-26"
       ]
     },
     {
@@ -312,19 +313,6 @@
         "payments-malaysia-rtp-2026-08-18",
         "digital-banking-malaysia-rtp-2026-08-24",
         "payments-malaysia-realtime-ai-2026-08-25"
-      ]
-    },
-    {
-      "keyword": "moss-b2b-unicorn-europe",
-      "count": 5,
-      "first_seen": "2026-08-12",
-      "last_seen": "2026-08-18",
-      "articles": [
-        "investment-moss-unicorn-2026-08-12",
-        "investment-moss-b2b-unicorn-2026-08-13",
-        "investment-moss-unicorn-2026-08-16",
-        "investment-moss-unicorn-2026-08-17",
-        "investment-moss-unicorn-2026-08-18"
       ]
     },
     {
@@ -377,16 +365,6 @@
       ]
     },
     {
-      "keyword": "intuit-fintech-empire",
-      "count": 2,
-      "first_seen": "2026-08-17",
-      "last_seen": "2026-08-18",
-      "articles": [
-        "investment-intuit-fintech-empire-2026-08-17",
-        "investment-intuit-empire-2026-08-18"
-      ]
-    },
-    {
       "keyword": "fintech-bank-competition-2026",
       "count": 3,
       "first_seen": "2026-08-17",
@@ -410,16 +388,6 @@
         "payments-sea-tokenization-ai-2026-08-22",
         "payments-sea-tokenization-ai-2026-08-23",
         "payments-sea-tokenization-ai-2026-08-24"
-      ]
-    },
-    {
-      "keyword": "revolut-us-bank-charter",
-      "count": 2,
-      "first_seen": "2026-08-17",
-      "last_seen": "2026-08-18",
-      "articles": [
-        "digital-banking-revolut-us-bet-2026-08-17",
-        "digital-banking-revolut-us-2026-08-18"
       ]
     },
     {
@@ -480,16 +448,17 @@
     },
     {
       "keyword": "us-remittance-oba-fee",
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-08-20",
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-08-26",
       "articles": [
         "remittance-oba-fee-2026-08-20",
         "regulation-us-obbba-remittance-tax-2026-08-21",
         "remittance-obbba-1pct-fee-2026-08-22",
         "remittance-obbba-1pct-fee-2026-08-23",
         "remittance-obbba-1pct-fee-2026-08-24",
-        "regulation-obbba-irs-relief-2026-08-25"
+        "regulation-obbba-irs-relief-2026-08-25",
+        "regulation-obbba-irs-relief-2026-08-26"
       ]
     },
     {
@@ -513,14 +482,15 @@
     },
     {
       "keyword": "eu-bnpl-consumer-credit-2026",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-08-20",
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-08-26",
       "articles": [
         "lending-eu-bnpl-2026-08-20",
         "lending-eu-bnpl-2026-08-23",
         "lending-eu-bnpl-2026-08-24",
-        "lending-eu-bnpl-ccd2-2026-08-25"
+        "lending-eu-bnpl-ccd2-2026-08-25",
+        "lending-eu-bnpl-ccd2-2026-08-26"
       ]
     },
     {
@@ -548,15 +518,16 @@
     },
     {
       "keyword": "philippines-digital-payments-cashless",
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-08-21",
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-08-26",
       "articles": [
         "payments-philippines-digital-cashless",
         "payments-philippines-digital-cashless-2026-08-22",
         "payments-philippines-digital-cashless-2026-08-23",
         "payments-philippines-digital-cashless-2026-08-24",
-        "payments-philippines-cashless-2026-08-25"
+        "payments-philippines-cashless-2026-08-25",
+        "payments-philippines-cashless-2026-08-26"
       ]
     },
     {
@@ -570,26 +541,28 @@
     },
     {
       "keyword": "rain-agentic-payments-alliance",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-08-26",
       "articles": [
         "payments-rain-agentic-payments-coalition-2026-08-22",
         "payments-rain-agentic-alliance-2026-08-23",
         "payments-rain-agentic-alliance-2026-08-24",
-        "payments-rain-agentic-alliance-2026-08-25"
+        "payments-rain-agentic-alliance-2026-08-25",
+        "payments-rain-agentic-alliance-2026-08-26"
       ]
     },
     {
       "keyword": "swift-tokenised-deposit-scb-hsbc",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-08-26",
       "articles": [
         "payments-hsbc-scb-swift-tokenised-2026-08-22",
         "payments-hsbc-scb-swift-tokenised-2026-08-23",
         "payments-hsbc-scb-swift-tokenised-2026-08-24",
-        "payments-hsbc-scb-swift-tokenised-2026-08-25"
+        "payments-hsbc-scb-swift-tokenised-2026-08-25",
+        "payments-hsbc-scb-swift-tokenised-2026-08-26"
       ]
     },
     {
@@ -604,13 +577,14 @@
     },
     {
       "keyword": "fintechos-profitability-ai",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-08-23",
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-08-26",
       "articles": [
         "digital-banking-fintechos-profitability-2026-08-23",
         "digital-banking-fintechos-profitability-2026-08-24",
-        "digital-banking-fintechos-profitability-2026-08-25"
+        "digital-banking-fintechos-profitability-2026-08-25",
+        "digital-banking-fintechos-profitability-2026-08-26"
       ]
     },
     {
@@ -633,12 +607,76 @@
     },
     {
       "keyword": "kb-kookmin-kinexys-launch",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-25",
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-08-26",
       "articles": [
         "remittance-kb-kookmin-kinexys-2026-08-25",
-        "remittance-korea-blockchain-zdnet-2026-08-25"
+        "remittance-korea-blockchain-zdnet-2026-08-25",
+        "remittance-kb-kookmin-kinexys-2026-08-26"
+      ]
+    },
+    {
+      "keyword": "trump-fintech-eo-deadline",
+      "count": 1,
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "articles": [
+        "regulation-trump-fintech-eo-deadline-2026-08-26"
+      ]
+    },
+    {
+      "keyword": "banks-fed-ach-fintech-access",
+      "count": 1,
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "articles": [
+        "regulation-banks-fed-ach-fintech-2026-08-26"
+      ]
+    },
+    {
+      "keyword": "card-processor-rail-expansion",
+      "count": 1,
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "articles": [
+        "payments-card-processor-rails-2026-08-26"
+      ]
+    },
+    {
+      "keyword": "samsung-monimo-mau-milestone",
+      "count": 1,
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "articles": [
+        "digital-banking-samsung-monimo-mau-2026-08-26"
+      ]
+    },
+    {
+      "keyword": "natwest-ai-fintech-programme",
+      "count": 1,
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "articles": [
+        "digital-banking-natwest-ai-fintech-2026-08-26"
+      ]
+    },
+    {
+      "keyword": "up-fintech-q2-earnings",
+      "count": 1,
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "articles": [
+        "investment-up-fintech-q2-2026-08-26"
+      ]
+    },
+    {
+      "keyword": "forbes-fintech-50-2026",
+      "count": 1,
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "articles": [
+        "investment-forbes-fintech-50-2026-08-26"
       ]
     }
   ]
