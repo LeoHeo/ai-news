@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-08-27",
+  "updated": "2026-08-28",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -17,13 +17,14 @@
       ]
     },
     "openai-chatgpt-work-agents": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-25",
-      "last_seen": "2026-08-26",
-      "status": "normal",
+      "last_seen": "2026-08-28",
+      "status": "demoted",
       "example_titles": [
         "OpenAI, 화이트칼라 전 직군 겨냥 AI 에이전트 플랫폼 'ChatGPT Work' 본격 확장",
-        "OpenAI, 업무 자동화 통합 AI 에이전트 'ChatGPT Work' 개발 중"
+        "OpenAI, 업무 자동화 통합 AI 에이전트 'ChatGPT Work' 개발 중",
+        "OpenAI, 전 업무 영역 AI 에이전트 구축 전략 본격화 — 대중화 가능성은 미지수"
       ]
     },
     "anthropic-ipo-s1-2026": {
@@ -236,13 +237,14 @@
       ]
     },
     "global-vc-h1-2026-record": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-23",
-      "last_seen": "2026-08-24",
-      "status": "normal",
+      "last_seen": "2026-08-28",
+      "status": "demoted",
       "example_titles": [
         "글로벌 VC 투자 H1 2026 사상 최대 — 5,100억 달러, OpenAI·Anthropic이 43% 차지",
-        "글로벌 VC 투자 H1 2026 사상 최대 5,100억 달러 — OpenAI·Anthropic이 43% 독식"
+        "글로벌 VC 투자 H1 2026 사상 최대 5,100억 달러 — OpenAI·Anthropic이 43% 독식",
+        "2026년 상반기 글로벌 AI 스타트업 투자 5,100억 달러 — 역대 최대 경신, OpenAI·Anthropic이 43% 독식"
       ]
     },
     "korea-ai-content-privacy-declaration": {
@@ -491,6 +493,78 @@
       "status": "normal",
       "example_titles": [
         "빌 게이츠, 로봇세·인간 전용 직업 지정 촉구 — AI 노동 대체에 사회적 완충 필요"
+      ]
+    },
+    "meta-muse-spark-proprietary": {
+      "count": 1,
+      "first_seen": "2026-08-28",
+      "last_seen": "2026-08-28",
+      "status": "normal",
+      "example_titles": [
+        "Meta, Superintelligence Labs 출범 후 첫 독점 AI 모델 Muse Spark 공개 — Llama 오픈소스 시대 전환점"
+      ]
+    },
+    "broadcom-ai-chip-spv": {
+      "count": 1,
+      "first_seen": "2026-08-28",
+      "last_seen": "2026-08-28",
+      "status": "normal",
+      "example_titles": [
+        "Broadcom, Anthropic 등 AI 기업에 맞춤 칩 임대하는 최대 1,000억 달러 SPV 조성 협상"
+      ]
+    },
+    "writer-palmyra-enterprise-agents": {
+      "count": 1,
+      "first_seen": "2026-08-28",
+      "last_seen": "2026-08-28",
+      "status": "normal",
+      "example_titles": [
+        "Writer, 프롬프트 없이 자율 작동하는 AI 에이전트 및 Palmyra X6 출시 — 엔터프라이즈 AI 자동화 시장 공략"
+      ]
+    },
+    "naver-kakao-agentic-ai-2026": {
+      "count": 1,
+      "first_seen": "2026-08-28",
+      "last_seen": "2026-08-28",
+      "status": "normal",
+      "example_titles": [
+        "네이버·카카오, 2026년 하반기 에이전틱 AI 경쟁 본격 진입 — 수익화 전환 원년"
+      ]
+    },
+    "multiagent-orchestration-bottleneck": {
+      "count": 1,
+      "first_seen": "2026-08-28",
+      "last_seen": "2026-08-28",
+      "status": "normal",
+      "example_titles": [
+        "AI의 다음 병목은 모델이 아닌 에이전트 간 협업 — 멀티에이전트 조율이 핵심 과제"
+      ]
+    },
+    "open-weight-frontier-benchmark-aug2026": {
+      "count": 1,
+      "first_seen": "2026-08-28",
+      "last_seen": "2026-08-28",
+      "status": "normal",
+      "example_titles": [
+        "2026년 8월 AI 벤치마크: 오픈 웨이트 모델, 독점 프런티어 격차 급격 축소"
+      ]
+    },
+    "physical-ai-vla-deployment-2026": {
+      "count": 1,
+      "first_seen": "2026-08-28",
+      "last_seen": "2026-08-28",
+      "status": "normal",
+      "example_titles": [
+        "피지컬 AI 붐: 비전-언어-행동 모델, 물류·창고 현장에 대규모 탑재 본격화"
+      ]
+    },
+    "france-ai-publisher-traffic-regulation": {
+      "count": 1,
+      "first_seen": "2026-08-28",
+      "last_seen": "2026-08-28",
+      "status": "normal",
+      "example_titles": [
+        "프랑스 규제기관, AI 요약이 언론사 트래픽 33~38% 감소 유발 — 첫 공식 수치 발표"
       ]
     }
   }
