@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-08-28",
+  "updated": "2026-08-29",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -184,14 +184,15 @@
       ]
     },
     "korea-moduai-alliance": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-08-19",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-29",
       "status": "demoted",
       "example_titles": [
         "KT·SKT·LGU+·카카오·이스트소프트, '모두의 AI' 공공 AI 챗봇 공동 출사표",
         "카카오·LG 연합 '모두의 AI' 참전 — 6파전으로 국가 공공 AI 챗봇 사업 본격 경쟁",
-        "'모두의 AI' 최종 사업자 선정 PT — SKT·KT·카카오 3파전 막판 총력"
+        "'모두의 AI' 최종 사업자 선정 PT — SKT·KT·카카오 3파전 막판 총력",
+        "한국 정부, '모두의 AI' 국가 공공 AI 서비스 사업자로 SKT·카카오·KT 최종 선정"
       ]
     },
     "chatgpt-ads-europe-expansion": {
@@ -308,15 +309,6 @@
         "구글, AI 경쟁력 강화 위해 DeepMind 리더십 캘리포니아로 집중 — Demis Hassabis는 의장직 전환"
       ]
     },
-    "ocp-korea-techday-2026": {
-      "count": 1,
-      "first_seen": "2026-08-21",
-      "last_seen": "2026-08-21",
-      "status": "normal",
-      "example_titles": [
-        "2026 OCP 코리아 테크 데이 — KTNF, AI 데이터센터 서버 라인업 공개"
-      ]
-    },
     "pennsylvania-ai-datacenter-order": {
       "count": 2,
       "first_seen": "2026-08-20",
@@ -415,12 +407,13 @@
       ]
     },
     "z-ai-glm53-flash-oxalpha": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-29",
       "status": "normal",
       "example_titles": [
-        "Z.AI(즈푸), 스텔스 모델 OX Alpha 정체 공개 — GLM-5.3-Flash, DeepSWE 80% 달성"
+        "Z.AI(즈푸), 스텔스 모델 OX Alpha 정체 공개 — GLM-5.3-Flash, DeepSWE 80% 달성",
+        "Z.ai GLM-5.3, AI 코딩 도구 Cursor에서 심각한 취약점 자동 발견 — 훈련 예상 초과 사이버 역량"
       ]
     },
     "openai-agi-race-anthropic-2026": {
@@ -565,6 +558,60 @@
       "status": "normal",
       "example_titles": [
         "프랑스 규제기관, AI 요약이 언론사 트래픽 33~38% 감소 유발 — 첫 공식 수치 발표"
+      ]
+    },
+    "nvidia-huggingface-acquisition": {
+      "count": 1,
+      "first_seen": "2026-08-29",
+      "last_seen": "2026-08-29",
+      "status": "normal",
+      "example_titles": [
+        "Nvidia, Hugging Face 129억 달러 인수 합의 — 오픈웨이트 AI 플랫폼 장악 경쟁 본격화"
+      ]
+    },
+    "a16z-machine-age-fund": {
+      "count": 1,
+      "first_seen": "2026-08-29",
+      "last_seen": "2026-08-29",
+      "status": "normal",
+      "example_titles": [
+        "a16z, AI 물리 인프라 전용 '머신 에이지' 펀드 11억 달러 출범"
+      ]
+    },
+    "anthropic-self-improving-ai": {
+      "count": 1,
+      "first_seen": "2026-08-29",
+      "last_seen": "2026-08-29",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic 연구자, AI가 자체 정렬 오류를 자율 수정하는 시스템 첫 실증"
+      ]
+    },
+    "pentagon-anthropic-blacklist-ruling": {
+      "count": 1,
+      "first_seen": "2026-08-29",
+      "last_seen": "2026-08-29",
+      "status": "normal",
+      "example_titles": [
+        "연방 법원, 미 국방부의 Anthropic 공급망 위험 기업 지정 위헌 판결 — '보복 조치'로 규정"
+      ]
+    },
+    "ai-cyber-defense-open-letter": {
+      "count": 1,
+      "first_seen": "2026-08-29",
+      "last_seen": "2026-08-29",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI·Anthropic·구글 등 100여 개 기업, AI 사이버 공격 급증 공동 경고 서한 발표"
+      ]
+    },
+    "meta-glasses-camera-privacy-fix": {
+      "count": 1,
+      "first_seen": "2026-08-29",
+      "last_seen": "2026-08-29",
+      "status": "normal",
+      "example_titles": [
+        "Meta, Ray-Ban AI 스마트 글래스 LED 가림 은밀 녹화 허점 소프트웨어 패치 배포"
       ]
     }
   }
