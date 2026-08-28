@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updated": "2026-08-27",
+  "updated": "2026-08-28",
   "window_days": 7,
   "themes": [
     {
       "keyword": "us-fintech-regulation",
-      "count": 84,
+      "count": 85,
       "first_seen": "2026-05-24",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "articles": [
         "regulation-embedded-regs-june11",
         "embedded-finance-us-regs-june12",
@@ -78,7 +78,8 @@
         "regulation-embedded-finance-us-2026-08-22",
         "regulation-embedded-finance-us-2026-08-23",
         "regulation-embedded-finance-us-2026-08-24",
-        "regulation-embedded-finance-us-2026-08-27"
+        "regulation-embedded-finance-us-2026-08-27",
+        "regulation-embedded-finance-2026-08-28"
       ]
     },
     {
@@ -141,9 +142,9 @@
     },
     {
       "keyword": "smb-crossborder-fintech-savings",
-      "count": 37,
+      "count": 38,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-28",
       "articles": [
         "remittance-smb-fintech-growth",
         "remittance-smb-crossborder-2026-07-06",
@@ -181,14 +182,15 @@
         "remittance-smb-36pct-2026-08-18",
         "remittance-smb-36pct-aug19",
         "remittance-smb-crossborder-2026-08-20",
-        "payments-smb-36pct-2026-08-22"
+        "payments-smb-36pct-2026-08-22",
+        "payments-smb-36pct-2026-08-28"
       ]
     },
     {
       "keyword": "fintech-vc-forecast-2026",
-      "count": 33,
+      "count": 34,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "articles": [
         "investment-fintech-crunchbase",
         "investment-vc-trends-2026-2026-07-14",
@@ -222,7 +224,8 @@
         "investment-fintech-vc-h1-2026-08-21",
         "investment-fintech-vc-h1-2026-08-24",
         "investment-fintech-funding-h1-2026-08-25",
-        "investment-h1-funding-2026-08-27"
+        "investment-h1-funding-2026-08-27",
+        "investment-fintech-h1-funding-2026-08-28"
       ]
     },
     {
@@ -289,9 +292,9 @@
     },
     {
       "keyword": "n5deal-fintechs-outacquire",
-      "count": 11,
+      "count": 12,
       "first_seen": "2026-08-06",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "articles": [
         "investment-n5deal-outacquire-2026-08-06",
         "n5deal-fintechs-outacquire-2026-08-07",
@@ -303,7 +306,8 @@
         "investment-n5deal-ma-2026-08-18",
         "investment-n5deal-ma-2026-08-22",
         "investment-n5deal-ma-2026-08-23",
-        "investment-n5deal-ma-2026-08-27"
+        "investment-n5deal-ma-2026-08-27",
+        "investment-n5deal-ma-2026-08-28"
       ]
     },
     {
@@ -321,14 +325,15 @@
     },
     {
       "keyword": "embedded-payments-b2b-platform",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-08-13",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-28",
       "articles": [
         "embedded-payments-competition-2026-08-13",
         "payments-embedded-90pct-2026-08-18",
         "payments-embedded-90pct-aug19",
-        "payments-embedded-finance-next-phase-2026-08-22"
+        "payments-embedded-finance-next-phase-2026-08-22",
+        "payments-embedded-90pct-2026-08-28"
       ]
     },
     {
@@ -406,28 +411,10 @@
       ]
     },
     {
-      "keyword": "doordash-tempo-stablecoin-payouts",
-      "count": 1,
-      "first_seen": "2026-08-20",
-      "last_seen": "2026-08-20",
-      "articles": [
-        "payments-doordash-tempo-stablecoin-2026-08-20"
-      ]
-    },
-    {
-      "keyword": "kulipa-stablecoin-card-seed",
-      "count": 1,
-      "first_seen": "2026-08-20",
-      "last_seen": "2026-08-20",
-      "articles": [
-        "payments-kulipa-stablecoin-seed-2026-08-20"
-      ]
-    },
-    {
       "keyword": "us-remittance-oba-fee",
-      "count": 8,
+      "count": 9,
       "first_seen": "2026-08-20",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "articles": [
         "remittance-oba-fee-2026-08-20",
         "regulation-us-obbba-remittance-tax-2026-08-21",
@@ -436,16 +423,8 @@
         "remittance-obbba-1pct-fee-2026-08-24",
         "regulation-obbba-irs-relief-2026-08-25",
         "regulation-obbba-irs-relief-2026-08-26",
-        "remittance-obbba-tax-2026-08-27"
-      ]
-    },
-    {
-      "keyword": "infinite-erebor-b2b-stablecoin",
-      "count": 1,
-      "first_seen": "2026-08-20",
-      "last_seen": "2026-08-20",
-      "articles": [
-        "digital-banking-infinite-erebor-2026-08-20"
+        "remittance-obbba-tax-2026-08-27",
+        "remittance-obbba-irs-relief-2026-08-28"
       ]
     },
     {
@@ -460,16 +439,17 @@
     },
     {
       "keyword": "eu-bnpl-consumer-credit-2026",
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-08-20",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "articles": [
         "lending-eu-bnpl-2026-08-20",
         "lending-eu-bnpl-2026-08-23",
         "lending-eu-bnpl-2026-08-24",
         "lending-eu-bnpl-ccd2-2026-08-25",
         "lending-eu-bnpl-ccd2-2026-08-26",
-        "lending-eu-bnpl-ccd2-2026-08-27"
+        "lending-eu-bnpl-ccd2-2026-08-27",
+        "lending-eu-bnpl-ccd2-2026-08-28"
       ]
     },
     {
@@ -522,30 +502,32 @@
     },
     {
       "keyword": "rain-agentic-payments-alliance",
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "articles": [
         "payments-rain-agentic-payments-coalition-2026-08-22",
         "payments-rain-agentic-alliance-2026-08-23",
         "payments-rain-agentic-alliance-2026-08-24",
         "payments-rain-agentic-alliance-2026-08-25",
         "payments-rain-agentic-alliance-2026-08-26",
-        "payments-rain-apa-2026-08-27"
+        "payments-rain-apa-2026-08-27",
+        "payments-rain-apa-2026-08-28"
       ]
     },
     {
       "keyword": "swift-tokenised-deposit-scb-hsbc",
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "articles": [
         "payments-hsbc-scb-swift-tokenised-2026-08-22",
         "payments-hsbc-scb-swift-tokenised-2026-08-23",
         "payments-hsbc-scb-swift-tokenised-2026-08-24",
         "payments-hsbc-scb-swift-tokenised-2026-08-25",
         "payments-hsbc-scb-swift-tokenised-2026-08-26",
-        "payments-hsbc-scb-swift-2026-08-27"
+        "payments-hsbc-scb-swift-2026-08-27",
+        "payments-swift-tokenized-2026-08-28"
       ]
     },
     {
@@ -560,15 +542,16 @@
     },
     {
       "keyword": "fintechos-profitability-ai",
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-08-23",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "articles": [
         "digital-banking-fintechos-profitability-2026-08-23",
         "digital-banking-fintechos-profitability-2026-08-24",
         "digital-banking-fintechos-profitability-2026-08-25",
         "digital-banking-fintechos-profitability-2026-08-26",
-        "digital-banking-fintechos-2026-08-27"
+        "digital-banking-fintechos-2026-08-27",
+        "digital-banking-fintechos-2026-08-28"
       ]
     },
     {
@@ -591,24 +574,26 @@
     },
     {
       "keyword": "kb-kookmin-kinexys-launch",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-08-25",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "articles": [
         "remittance-kb-kookmin-kinexys-2026-08-25",
         "remittance-korea-blockchain-zdnet-2026-08-25",
         "remittance-kb-kookmin-kinexys-2026-08-26",
-        "remittance-kb-kinexys-2026-08-27"
+        "remittance-kb-kinexys-2026-08-27",
+        "remittance-kb-kookmin-kinexys-2026-08-28"
       ]
     },
     {
       "keyword": "trump-fintech-eo-deadline",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-26",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "articles": [
         "regulation-trump-fintech-eo-deadline-2026-08-26",
-        "regulation-trump-eo-2026-08-27"
+        "regulation-trump-eo-2026-08-27",
+        "regulation-trump-eo-deadline-2026-08-28"
       ]
     },
     {
@@ -667,11 +652,12 @@
     },
     {
       "keyword": "shinhan-visa-stablecoin-platform",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "articles": [
-        "digital-banking-shinhan-visa-stablecoin-2026-08-27"
+        "digital-banking-shinhan-visa-stablecoin-2026-08-27",
+        "digital-banking-shinhan-visa-stablecoin-2026-08-28"
       ]
     },
     {
@@ -681,6 +667,15 @@
       "last_seen": "2026-08-27",
       "articles": [
         "lending-pinda-milestone-2026-08-27"
+      ]
+    },
+    {
+      "keyword": "banks-fintechs-crossborder-unbundle",
+      "count": 1,
+      "first_seen": "2026-08-28",
+      "last_seen": "2026-08-28",
+      "articles": [
+        "remittance-banks-fintechs-crossborder-2026-08-28"
       ]
     }
   ]
