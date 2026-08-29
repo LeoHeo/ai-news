@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-08-29",
+  "updated": "2026-08-30",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -207,13 +207,14 @@
       ]
     },
     "google-marvell-chip-2026": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-30",
       "status": "normal",
       "example_titles": [
         "Google, Marvell과 122억 달러 규모 AI 커스텀 칩 생산 계약",
-        "Google, Marvell과 122억 달러 규모 AI 커스텀 칩 생산 계약 체결"
+        "Google, Marvell과 122억 달러 규모 AI 커스텀 칩 생산 계약 체결",
+        "Marvell, Google AI 칩 딜 수익 인식 2029년까지 지연 — 주가 8% 급락"
       ]
     },
     "openai-chatgpt-teen-mode": {
@@ -309,111 +310,15 @@
         "구글, AI 경쟁력 강화 위해 DeepMind 리더십 캘리포니아로 집중 — Demis Hassabis는 의장직 전환"
       ]
     },
-    "pennsylvania-ai-datacenter-order": {
-      "count": 2,
-      "first_seen": "2026-08-20",
-      "last_seen": "2026-08-22",
-      "status": "normal",
-      "example_titles": [
-        "펜실베이니아 주지사, AI 데이터센터 에너지·용수·채용 기준 의무화 행정명령 서명",
-        "펜실베이니아 주지사, AI 데이터센터 에너지 영향 행정명령 서명"
-      ]
-    },
-    "cerebras-cs4-inference-chip": {
-      "count": 2,
-      "first_seen": "2026-08-21",
-      "last_seen": "2026-08-22",
-      "status": "normal",
-      "example_titles": [
-        "Cerebras CS-4 출시 — GPU 대비 최대 30배 빠른 AI 추론 랙 솔루션",
-        "Cerebras, 웨이퍼 스케일 추론 칩 CS-4 공개"
-      ]
-    },
-    "chatgpt-weekly-1b-users": {
-      "count": 2,
-      "first_seen": "2026-08-21",
-      "last_seen": "2026-08-22",
-      "status": "normal",
-      "example_titles": [
-        "ChatGPT 주간 활성 사용자 10억 명 돌파 — 역사상 가장 빠른 앱",
-        "ChatGPT, 주간 활성 사용자 10억 명 돌파"
-      ]
-    },
-    "linear-ai-feature-adoption-2026": {
-      "count": 2,
-      "first_seen": "2026-08-21",
-      "last_seen": "2026-08-22",
-      "status": "normal",
-      "example_titles": [
-        "Linear 보고서: AI가 전체 이슈 절반 생성 — 2년 새 0.1%에서 급증",
-        "Linear, 팀의 60%가 AI 기능 매일 사용 중 — 생산성 보고서 발표"
-      ]
-    },
-    "tencent-hy3-global-expansion": {
-      "count": 2,
-      "first_seen": "2026-08-21",
-      "last_seen": "2026-08-22",
-      "status": "normal",
-      "example_titles": [
-        "텐센트 Hy3, 295B 파라미터 오픈소스 모델 글로벌 기업 시장 확대",
-        "텐센트 Hunyuan3 295B, 글로벌 시장 본격 확장"
-      ]
-    },
-    "aise-2026-korea-summit": {
-      "count": 2,
-      "first_seen": "2026-08-21",
-      "last_seen": "2026-08-22",
-      "status": "normal",
-      "example_titles": [
-        "AI 서밋 서울 앤 엑스포 2026 개막 — 7개국 118개사, 에이전틱 AI·피지컬 AI 집중",
-        "AI 서밋 서울 2026, 40개국 참여로 글로벌 AI 거버넌스 논의"
-      ]
-    },
-    "aws-korea-physical-ai-program": {
-      "count": 2,
-      "first_seen": "2026-08-21",
-      "last_seen": "2026-08-22",
-      "status": "normal",
-      "example_titles": [
-        "AWS 코리아, '피지컬 AI 프론티어' 스타트업 육성 프로그램 시작",
-        "AWS 코리아, 스타트업 대상 Physical AI 액셀러레이터 프로그램 출시"
-      ]
-    },
-    "cursor-origin-code-hosting": {
-      "count": 1,
-      "first_seen": "2026-08-22",
-      "last_seen": "2026-08-22",
-      "status": "normal",
-      "example_titles": [
-        "Cursor, AI 네이티브 코드 호스팅 플랫폼 'Origin' 출시"
-      ]
-    },
-    "nvidia-poolside-license-deal": {
-      "count": 1,
-      "first_seen": "2026-08-22",
-      "last_seen": "2026-08-22",
-      "status": "normal",
-      "example_titles": [
-        "Nvidia, Poolside AI와 60억 달러 규모 라이선스 계약 체결"
-      ]
-    },
-    "las-vegas-robotaxi-nevada": {
-      "count": 1,
-      "first_seen": "2026-08-22",
-      "last_seen": "2026-08-22",
-      "status": "normal",
-      "example_titles": [
-        "네바다주, 라스베이거스 로보택시 8,000대 확대 승인"
-      ]
-    },
     "z-ai-glm53-flash-oxalpha": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-27",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-08-30",
       "status": "normal",
       "example_titles": [
         "Z.AI(즈푸), 스텔스 모델 OX Alpha 정체 공개 — GLM-5.3-Flash, DeepSWE 80% 달성",
-        "Z.ai GLM-5.3, AI 코딩 도구 Cursor에서 심각한 취약점 자동 발견 — 훈련 예상 초과 사이버 역량"
+        "Z.ai GLM-5.3, AI 코딩 도구 Cursor에서 심각한 취약점 자동 발견 — 훈련 예상 초과 사이버 역량",
+        "Z.ai GLM-5.3 오픈웨이트, 2주 안전 대기 후 공개 예정"
       ]
     },
     "openai-agi-race-anthropic-2026": {
@@ -561,12 +466,13 @@
       ]
     },
     "nvidia-huggingface-acquisition": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-29",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-08-30",
       "status": "normal",
       "example_titles": [
-        "Nvidia, Hugging Face 129억 달러 인수 합의 — 오픈웨이트 AI 플랫폼 장악 경쟁 본격화"
+        "Nvidia, Hugging Face 129억 달러 인수 합의 — 오픈웨이트 AI 플랫폼 장악 경쟁 본격화",
+        "Nvidia, Hugging Face 129억 달러 인수 합의 — 역대 최대 AI M&A"
       ]
     },
     "a16z-machine-age-fund": {
@@ -588,12 +494,13 @@
       ]
     },
     "pentagon-anthropic-blacklist-ruling": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-29",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-08-30",
       "status": "normal",
       "example_titles": [
-        "연방 법원, 미 국방부의 Anthropic 공급망 위험 기업 지정 위헌 판결 — '보복 조치'로 규정"
+        "연방 법원, 미 국방부의 Anthropic 공급망 위험 기업 지정 위헌 판결 — '보복 조치'로 규정",
+        "연방 법원, 국방부 Anthropic 블랙리스트 위헌 판결 — '불법 보복' 규정, 즉각 해제 명령"
       ]
     },
     "ai-cyber-defense-open-letter": {
@@ -612,6 +519,60 @@
       "status": "normal",
       "example_titles": [
         "Meta, Ray-Ban AI 스마트 글래스 LED 가림 은밀 녹화 허점 소프트웨어 패치 배포"
+      ]
+    },
+    "nvidia-q2-record-financing-pause": {
+      "count": 1,
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
+      "status": "normal",
+      "example_titles": [
+        "NVIDIA 2분기 매출 962억 달러 사상 최대, 클라우드 파이낸싱 프로그램 독점금지 우려로 중단"
+      ]
+    },
+    "aws-mechanical-turk-shutdown": {
+      "count": 1,
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
+      "status": "normal",
+      "example_titles": [
+        "AWS Mechanical Turk, 9월 30일 폐쇄 — AI에 밀려 21년 역사 마감"
+      ]
+    },
+    "meta-project-hatch-ai-agent": {
+      "count": 1,
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
+      "status": "normal",
+      "example_titles": [
+        "Meta, AI 에이전트 앱 'Hatch' 9월 출시 임박 — 월 최대 $200, 멀티에이전트 지원"
+      ]
+    },
+    "korea-skt-naver-cybersecurity-ai": {
+      "count": 1,
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
+      "status": "normal",
+      "example_titles": [
+        "SKT·네이버클라우드, 사이버보안 AI 시장 정면 경쟁 돌입"
+      ]
+    },
+    "nber-ai-productivity-study": {
+      "count": 1,
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
+      "status": "normal",
+      "example_titles": [
+        "NBER 연구: 임원 89%, AI 투자 후 생산성 향상 없다 — 4개국 6,000명 조사"
+      ]
+    },
+    "brainlabs-google-aio-traffic-drop": {
+      "count": 1,
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
+      "status": "normal",
+      "example_titles": [
+        "Brainlabs 연구: Google AI 개요 확산으로 자연 검색 세션 10.5% 감소, AI 레퍼럴 전환율은 1.5배"
       ]
     }
   }
