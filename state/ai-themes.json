@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-08-30",
+  "updated": "2026-08-31",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -301,15 +301,6 @@
         "OpenAI, Astra 모델 개발 일시 중단 — '치명적 사이버 역량' 가능성 배제 못해, 안전 테스트 확장"
       ]
     },
-    "google-deepmind-leadership-reorg": {
-      "count": 1,
-      "first_seen": "2026-08-23",
-      "last_seen": "2026-08-23",
-      "status": "normal",
-      "example_titles": [
-        "구글, AI 경쟁력 강화 위해 DeepMind 리더십 캘리포니아로 집중 — Demis Hassabis는 의장직 전환"
-      ]
-    },
     "z-ai-glm53-flash-oxalpha": {
       "count": 3,
       "first_seen": "2026-08-27",
@@ -421,12 +412,13 @@
       ]
     },
     "naver-kakao-agentic-ai-2026": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-28",
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-08-31",
       "status": "normal",
       "example_titles": [
-        "네이버·카카오, 2026년 하반기 에이전틱 AI 경쟁 본격 진입 — 수익화 전환 원년"
+        "네이버·카카오, 2026년 하반기 에이전틱 AI 경쟁 본격 진입 — 수익화 전환 원년",
+        "네이버·카카오 2분기 실적 발표 — 2026년 하반기 에이전틱 AI 수익화 원년 선언"
       ]
     },
     "multiagent-orchestration-bottleneck": {
@@ -573,6 +565,96 @@
       "status": "normal",
       "example_titles": [
         "Brainlabs 연구: Google AI 개요 확산으로 자연 검색 세션 10.5% 감소, AI 레퍼럴 전환율은 1.5배"
+      ]
+    },
+    "openai-dalle-gpt-retirement": {
+      "count": 1,
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, ChatGPT에서 DALL-E GPT 8월 30일 공식 종료 — 모델 통합 가속화"
+      ]
+    },
+    "deepseek-v4-price-hike": {
+      "count": 1,
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
+      "status": "normal",
+      "example_titles": [
+        "DeepSeek v4-Flash API 가격 92% 인상 — OpenAI 가격 인하와 정반대 행보"
+      ]
+    },
+    "openai-jalapeno-chip": {
+      "count": 1,
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, Broadcom과 자체 추론 칩 'Jalapeño' 16개월 만에 테이프아웃 — 13.4 PFLOPs 달성"
+      ]
+    },
+    "anthropic-sonnet5-pricing": {
+      "count": 1,
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic Claude Sonnet 5, 오늘부로 프로모션 종료 — 9월 1일 표준가 $3/$15 전환"
+      ]
+    },
+    "anthropic-claude-science": {
+      "count": 1,
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, 과학 연구자를 위한 Claude Science 프로그램 확대 — 1만 석 무료·할인 제공"
+      ]
+    },
+    "nanoclaw-slack-agents": {
+      "count": 1,
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
+      "status": "normal",
+      "example_titles": [
+        "NanoClaw, Slack에서 메시지 한 줄로 영구 AI 에이전트 팀 구성 가능 — MIT 라이선스 오픈소스"
+      ]
+    },
+    "salesforce-claudeforce": {
+      "count": 1,
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
+      "status": "normal",
+      "example_titles": [
+        "Salesforce, Claude에 전체 CRM 통합 'Claudeforce' 발표 — \"앱 불필요\" 선언"
+      ]
+    },
+    "alibaba-cloud-brazil": {
+      "count": 1,
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
+      "status": "normal",
+      "example_titles": [
+        "Alibaba Cloud, 브라질 데이터센터 2곳 개설 — 남미 첫 AI 인프라 거점 구축"
+      ]
+    },
+    "nvidia-server-price-hike": {
+      "count": 1,
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
+      "status": "normal",
+      "example_titles": [
+        "Nvidia 계약 서버 업체, 2027년 초부터 AI 서버 시스템 15%+ 가격 인상 통보"
+      ]
+    },
+    "us-ai-regulation-scramble": {
+      "count": 1,
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
+      "status": "normal",
+      "example_titles": [
+        "미국 정부의 AI 규제 대응 혼란 — CNN \"'얼리 코비드' 수준의 혼돈\""
       ]
     }
   }
