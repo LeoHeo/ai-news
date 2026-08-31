@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-08-31",
+  "updated": "2026-09-01",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -165,24 +165,6 @@
         "Dell Technologies Forum 2026 서울 개최 — AI 비즈니스 성과 전략 컨퍼런스"
       ]
     },
-    "openai-gpt56-sol-luna-upgrade-2026": {
-      "count": 1,
-      "first_seen": "2026-08-24",
-      "last_seen": "2026-08-24",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, ChatGPT에서 GPT-5.6 Sol 성능 개선 및 무료 사용자에게 Luna 확대"
-      ]
-    },
-    "korea-vc-h1-2026-record": {
-      "count": 1,
-      "first_seen": "2026-08-24",
-      "last_seen": "2026-08-24",
-      "status": "normal",
-      "example_titles": [
-        "한국 2026년 상반기 벤처투자 8.9조원 역대 최대 — AI·반도체·로보틱스 주도"
-      ]
-    },
     "korea-moduai-alliance": {
       "count": 4,
       "first_seen": "2026-08-19",
@@ -193,17 +175,6 @@
         "카카오·LG 연합 '모두의 AI' 참전 — 6파전으로 국가 공공 AI 챗봇 사업 본격 경쟁",
         "'모두의 AI' 최종 사업자 선정 PT — SKT·KT·카카오 3파전 막판 총력",
         "한국 정부, '모두의 AI' 국가 공공 AI 서비스 사업자로 SKT·카카오·KT 최종 선정"
-      ]
-    },
-    "chatgpt-ads-europe-expansion": {
-      "count": 3,
-      "first_seen": "2026-08-21",
-      "last_seen": "2026-08-24",
-      "status": "demoted",
-      "example_titles": [
-        "OpenAI, ChatGPT 광고 8월 24일부터 유럽 31개국 전면 적용",
-        "ChatGPT 광고 플랫폼, 유럽 전역으로 확장",
-        "ChatGPT 광고 플랫폼, 8월 24일부터 유럽 31개국 전면 시행"
       ]
     },
     "google-marvell-chip-2026": {
@@ -217,27 +188,6 @@
         "Marvell, Google AI 칩 딜 수익 인식 2029년까지 지연 — 주가 8% 급락"
       ]
     },
-    "openai-chatgpt-teen-mode": {
-      "count": 2,
-      "first_seen": "2026-08-23",
-      "last_seen": "2026-08-24",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, 13~17세 청소년 전용 ChatGPT 모드 도입 — 자해·성적 대화 차단, 연령 예측 자동 라우팅",
-        "OpenAI, ChatGPT 청소년 전용 모드 도입 — 13~17세 유해 콘텐츠 자동 차단"
-      ]
-    },
-    "anthropic-protein-binder-research": {
-      "count": 3,
-      "first_seen": "2026-08-20",
-      "last_seen": "2026-08-24",
-      "status": "demoted",
-      "example_titles": [
-        "Anthropic Claude, 단백질 결합체 15개 표적 중 14개 설계 성공 — 업계 평균 대비 2배 성공률",
-        "Anthropic, AI로 단백질 바인더 설계 돌파구 — 15개 표적 중 14개 성공, 업계 평균의 2배",
-        "Anthropic Claude, 단백질 결합체 15개 표적 중 14개 설계 성공 — 업계 평균의 2배"
-      ]
-    },
     "global-vc-h1-2026-record": {
       "count": 3,
       "first_seen": "2026-08-23",
@@ -247,58 +197,6 @@
         "글로벌 VC 투자 H1 2026 사상 최대 — 5,100억 달러, OpenAI·Anthropic이 43% 차지",
         "글로벌 VC 투자 H1 2026 사상 최대 5,100억 달러 — OpenAI·Anthropic이 43% 독식",
         "2026년 상반기 글로벌 AI 스타트업 투자 5,100억 달러 — 역대 최대 경신, OpenAI·Anthropic이 43% 독식"
-      ]
-    },
-    "korea-ai-content-privacy-declaration": {
-      "count": 2,
-      "first_seen": "2026-08-23",
-      "last_seen": "2026-08-24",
-      "status": "normal",
-      "example_titles": [
-        "개인정보보호위, Grok 등 AI 생성 콘텐츠 오남용 대응 프라이버시 공동선언 채택",
-        "개인정보보호위, Grok 등 AI 생성 콘텐츠 오남용 대응 프라이버시 공동선언 채택"
-      ]
-    },
-    "eu-ai-transparency-code-2026": {
-      "count": 2,
-      "first_seen": "2026-08-23",
-      "last_seen": "2026-08-24",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic 포함 190개사, EU AI 생성 콘텐츠 투명성 행동강령 서명 — 텍스트 '마킹' 의무화",
-        "Anthropic 포함 190개사, EU AI 생성 콘텐츠 투명성 행동강령 서명 — 텍스트 워터마킹 의무화"
-      ]
-    },
-    "openai-luna-price-cut": {
-      "count": 3,
-      "first_seen": "2026-08-14",
-      "last_seen": "2026-08-23",
-      "status": "demoted",
-      "example_titles": [
-        "OpenAI, GPT-5.6 Luna 가격 80% 인하…AI 가격 전쟁 본격화",
-        "AI 가격 전쟁 심화: OpenAI, GPT-5.6 Luna API 가격 80% 인하 — 모델 경쟁이 비용으로 이동"
-      ]
-    },
-    "top-llm-ranking-aug2026": {
-      "count": 3,
-      "first_seen": "2026-08-19",
-      "last_seen": "2026-08-23",
-      "status": "demoted",
-      "example_titles": [
-        "2026년 8월 상위 9개 LLM 현황 분석 — Claude Fable 5·Gemini 3.5 Pro·GPT-5.6 Sol 비교",
-        "2026년 8월 LLM 벤치마크 순위: Claude 5 종합 1위",
-        "August 2026 LLM 벤치마크 총정리: Qwen MoE 1T·MiniMax M3·Claude Opus 5 시대"
-      ]
-    },
-    "openai-rl-safety-pause-2026": {
-      "count": 3,
-      "first_seen": "2026-08-20",
-      "last_seen": "2026-08-23",
-      "status": "demoted",
-      "example_titles": [
-        "OpenAI, Astra 모델 임계 사이버 능력 도달로 프런티어 RL 훈련 일시 중단 — 공식 백서 발표",
-        "OpenAI, 안전 검토로 Astra RL 훈련 일시 중단",
-        "OpenAI, Astra 모델 개발 일시 중단 — '치명적 사이버 역량' 가능성 배제 못해, 안전 테스트 확장"
       ]
     },
     "z-ai-glm53-flash-oxalpha": {
@@ -649,12 +547,94 @@
       ]
     },
     "us-ai-regulation-scramble": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-31",
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-09-01",
       "status": "normal",
       "example_titles": [
-        "미국 정부의 AI 규제 대응 혼란 — CNN \"'얼리 코비드' 수준의 혼돈\""
+        "미국 정부의 AI 규제 대응 혼란 — CNN \"'얼리 코비드' 수준의 혼돈\"",
+        "미국 AI 규제 대응 혼란 심화 — CNN \"초기 코로나 수준\" 비유"
+      ]
+    },
+    "apple-ceo-ternus-ai": {
+      "count": 1,
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01",
+      "status": "normal",
+      "example_titles": [
+        "존 테르누스, 애플 CEO 공식 취임 — AI 경쟁 격차 해소가 최우선"
+      ]
+    },
+    "deepseek-500b-funding-round2": {
+      "count": 1,
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01",
+      "status": "normal",
+      "example_titles": [
+        "DeepSeek, 500억 위안 2차 펀딩 재개 — 기업가치 5,000억 위안($74B) 목표"
+      ]
+    },
+    "skhynix-hbm-ai-new-tech": {
+      "count": 1,
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01",
+      "status": "normal",
+      "example_titles": [
+        "SK하이닉스, AI 수요 급증 대응 차세대 HBM 메모리 기술 공개"
+      ]
+    },
+    "ai-agents-enterprise-chaos": {
+      "count": 1,
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01",
+      "status": "normal",
+      "example_titles": [
+        "AI 에이전트, 기업 실운용 체계 본격 진입 — \"혼돈도 함께\""
+      ]
+    },
+    "anthropic-claude-code-limits-cut": {
+      "count": 1,
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, Claude Code 주간 사용 한도 9월 14일부터 17% 감소"
+      ]
+    },
+    "google-gemini-live-agentic": {
+      "count": 1,
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01",
+      "status": "normal",
+      "example_titles": [
+        "Google Gemini Live, 실제 업무 처리하는 에이전트형 AI 비서로 업그레이드"
+      ]
+    },
+    "google-deepmind-weather-lab": {
+      "count": 1,
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01",
+      "status": "normal",
+      "example_titles": [
+        "Google DeepMind, 허리케인 예측 AI 'Weather Lab' 공개 — 미국 국립허리케인센터 실전 채택"
+      ]
+    },
+    "kaist-nus-hidden-camera-ai": {
+      "count": 1,
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01",
+      "status": "normal",
+      "example_titles": [
+        "KAIST·싱가포르대, AI 기반 저비용 몰래카메라 탐지 기술 개발"
+      ]
+    },
+    "anthropic-infostealer-incident": {
+      "count": 1,
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, Claude 계정 인포스틸러 피해 대응 — 로그아웃 강제·결제 정보 삭제"
       ]
     }
   }
