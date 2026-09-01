@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updated": "2026-08-31",
+  "updated": "2026-09-01",
   "window_days": 7,
   "themes": [
     {
       "keyword": "us-fintech-regulation",
-      "count": 88,
+      "count": 89,
       "first_seen": "2026-05-24",
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-09-01",
       "articles": [
         "regulation-embedded-regs-june11",
         "embedded-finance-us-regs-june12",
@@ -82,7 +82,8 @@
         "regulation-embedded-finance-2026-08-28",
         "regulation-cfpb-1033-2026-08-29",
         "regulation-cfpb-1033-2026-08-30",
-        "regulation-cfpb-1033-2026-08-31"
+        "regulation-cfpb-1033-2026-08-31",
+        "regulation-embedded-finance-us-2026-09-01"
       ]
     },
     {
@@ -145,9 +146,9 @@
     },
     {
       "keyword": "smb-crossborder-fintech-savings",
-      "count": 39,
+      "count": 40,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-09-01",
       "articles": [
         "remittance-smb-fintech-growth",
         "remittance-smb-crossborder-2026-07-06",
@@ -187,14 +188,15 @@
         "remittance-smb-crossborder-2026-08-20",
         "payments-smb-36pct-2026-08-22",
         "payments-smb-36pct-2026-08-28",
-        "payments-smb-36pct-2026-08-30"
+        "payments-smb-36pct-2026-08-30",
+        "payments-smb-crossborder-2026-09-01"
       ]
     },
     {
       "keyword": "fintech-vc-forecast-2026",
-      "count": 36,
+      "count": 37,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-09-01",
       "articles": [
         "investment-fintech-crunchbase",
         "investment-vc-trends-2026-2026-07-14",
@@ -231,14 +233,15 @@
         "investment-h1-funding-2026-08-27",
         "investment-fintech-h1-funding-2026-08-28",
         "investment-h1-2026-fintech-2026-08-29",
-        "investment-eu-fintech-h1-2026-08-31"
+        "investment-eu-fintech-h1-2026-08-31",
+        "investment-fintech-h1-funding-2026-09-01"
       ]
     },
     {
       "keyword": "digital-payments-ux-shift",
-      "count": 31,
+      "count": 32,
       "first_seen": "2026-07-14",
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-09-01",
       "articles": [
         "payments-ux-shift-2026-07-14",
         "payments-digital-ux-human",
@@ -270,7 +273,8 @@
         "payments-rain-agentic-alliance-2026-08-25",
         "payments-philippines-cashless-2026-08-25",
         "payments-malaysia-realtime-ai-2026-08-25",
-        "payments-digital-feel-human-2026-08-31"
+        "payments-digital-feel-human-2026-08-31",
+        "payments-digital-feel-human-2026-09-01"
       ]
     },
     {
@@ -347,35 +351,10 @@
       ]
     },
     {
-      "keyword": "eu-ai-act-fintech-compliance",
-      "count": 4,
-      "first_seen": "2026-08-16",
-      "last_seen": "2026-08-24",
-      "articles": [
-        "regulation-eu-ai-act-fintech-2026-08-16",
-        "regulation-eu-ai-act-fintech-2026-08-21",
-        "regulation-eu-ai-act-fintech-2026-08-23",
-        "regulation-eu-ai-act-fintech-2026-08-24"
-      ]
-    },
-    {
-      "keyword": "ant-international-global-expansion",
-      "count": 5,
-      "first_seen": "2026-08-17",
-      "last_seen": "2026-08-24",
-      "articles": [
-        "investment-ant-international-2026-08-17",
-        "investment-ant-international-2026-08-18",
-        "remittance-ant-international-bochk-2026-08-22",
-        "remittance-ant-international-2026-08-23",
-        "remittance-ant-international-2026-08-24"
-      ]
-    },
-    {
       "keyword": "sea-fintech-tokenization-ai",
-      "count": 9,
+      "count": 10,
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-09-01",
       "articles": [
         "payments-sea-tokenization-ai-2026-08-17",
         "payments-sea-tokenization-ai-2026-08-18",
@@ -385,14 +364,15 @@
         "payments-sea-tokenization-ai-2026-08-23",
         "payments-sea-tokenization-ai-2026-08-24",
         "digital-banking-sea-tokenization-2026-08-27",
-        "digital-banking-sea-tokenization-2026-08-31"
+        "digital-banking-sea-tokenization-2026-08-31",
+        "digital-banking-sea-tokenization-2026-09-01"
       ]
     },
     {
       "keyword": "us-remittance-oba-fee",
-      "count": 11,
+      "count": 12,
       "first_seen": "2026-08-20",
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-09-01",
       "articles": [
         "remittance-oba-fee-2026-08-20",
         "regulation-us-obbba-remittance-tax-2026-08-21",
@@ -404,14 +384,15 @@
         "remittance-obbba-tax-2026-08-27",
         "remittance-obbba-irs-relief-2026-08-28",
         "regulation-obbba-irs-2026-08-30",
-        "regulation-obbba-irs-2026-08-31"
+        "regulation-obbba-irs-2026-08-31",
+        "remittance-us-obbba-irs-nprm"
       ]
     },
     {
       "keyword": "eu-bnpl-consumer-credit-2026",
-      "count": 9,
+      "count": 10,
       "first_seen": "2026-08-20",
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-09-01",
       "articles": [
         "lending-eu-bnpl-2026-08-20",
         "lending-eu-bnpl-2026-08-23",
@@ -421,7 +402,8 @@
         "lending-eu-bnpl-ccd2-2026-08-27",
         "lending-eu-bnpl-ccd2-2026-08-28",
         "lending-eu-bnpl-ccd2-2026-08-30",
-        "lending-eu-bnpl-ccd2-2026-08-31"
+        "lending-eu-bnpl-ccd2-2026-08-31",
+        "lending-eu-bnpl-ccd2-2026-09-01"
       ]
     },
     {
@@ -498,20 +480,10 @@
       ]
     },
     {
-      "keyword": "osl-agentpay-ai-stablecoin",
-      "count": 2,
-      "first_seen": "2026-08-23",
-      "last_seen": "2026-08-24",
-      "articles": [
-        "payments-osl-agentpay-ai-stablecoin-2026-08-23",
-        "payments-osl-agentpay-ai-stablecoin-2026-08-24"
-      ]
-    },
-    {
       "keyword": "fintechos-profitability-ai",
-      "count": 8,
+      "count": 9,
       "first_seen": "2026-08-23",
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-09-01",
       "articles": [
         "digital-banking-fintechos-profitability-2026-08-23",
         "digital-banking-fintechos-profitability-2026-08-24",
@@ -520,23 +492,15 @@
         "digital-banking-fintechos-2026-08-27",
         "digital-banking-fintechos-2026-08-28",
         "digital-banking-fintechos-2026-08-30",
-        "digital-banking-fintechos-2026-08-31"
-      ]
-    },
-    {
-      "keyword": "indonesia-credit-network-expansion",
-      "count": 1,
-      "first_seen": "2026-08-24",
-      "last_seen": "2026-08-24",
-      "articles": [
-        "payments-indonesia-credit-network-2026-08-24"
+        "digital-banking-fintechos-2026-08-31",
+        "digital-banking-fintechos-2026-09-01"
       ]
     },
     {
       "keyword": "kb-kookmin-kinexys-launch",
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-08-25",
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-09-01",
       "articles": [
         "remittance-kb-kookmin-kinexys-2026-08-25",
         "remittance-korea-blockchain-zdnet-2026-08-25",
@@ -544,7 +508,8 @@
         "remittance-kb-kinexys-2026-08-27",
         "remittance-kb-kookmin-kinexys-2026-08-28",
         "remittance-kb-kinexys-2026-08-30",
-        "remittance-kb-kinexys-2026-08-31"
+        "remittance-kb-kinexys-2026-08-31",
+        "remittance-kb-kinexys-2026-09-01"
       ]
     },
     {
@@ -634,12 +599,13 @@
     },
     {
       "keyword": "banks-fintechs-crossborder-unbundle",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-28",
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-09-01",
       "articles": [
         "remittance-banks-fintechs-crossborder-2026-08-28",
-        "remittance-banks-fintechs-crossborder-2026-08-31"
+        "remittance-banks-fintechs-crossborder-2026-08-31",
+        "remittance-banks-fintechs-crossborder-2026-09-01"
       ]
     },
     {
@@ -655,24 +621,26 @@
     },
     {
       "keyword": "standard-chartered-hkdap",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-08-29",
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-09-01",
       "articles": [
         "payments-sc-hkdap-2026-08-29",
         "payments-sc-hkdap-2026-08-30",
-        "payments-sc-hkdap-2026-08-31"
+        "payments-sc-hkdap-2026-08-31",
+        "payments-sc-hkdap-2026-09-01"
       ]
     },
     {
       "keyword": "remitly-q2-2026-record",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-08-29",
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-09-01",
       "articles": [
         "remittance-remitly-q2-2026-08-29",
         "remittance-remitly-q2-2026-08-30",
-        "remittance-remitly-q2-2026-08-31"
+        "remittance-remitly-q2-2026-08-31",
+        "investment-remitly-q2-2026-09-01"
       ]
     },
     {
@@ -722,12 +690,13 @@
     },
     {
       "keyword": "stablecoin-genius-act-nprm",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-29",
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-09-01",
       "articles": [
         "regulation-stablecoin-nprm-2026-08-29",
-        "regulation-stablecoin-nprm-2026-08-31"
+        "regulation-stablecoin-nprm-2026-08-31",
+        "regulation-stablecoin-genius-act-nprm"
       ]
     },
     {
@@ -746,6 +715,24 @@
       "last_seen": "2026-08-31",
       "articles": [
         "investment-vanguard-altruist-2026-08-31"
+      ]
+    },
+    {
+      "keyword": "bok-cbdc-live-pilot",
+      "count": 1,
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01",
+      "articles": [
+        "digital-banking-bok-cbdc-live"
+      ]
+    },
+    {
+      "keyword": "kpmg-pulse-fintech-h1-2026",
+      "count": 1,
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01",
+      "articles": [
+        "investment-kpmg-pulse-h1-2026"
       ]
     }
   ]
