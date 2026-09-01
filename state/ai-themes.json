@@ -1,193 +1,9 @@
 {
   "topic": "ai",
-  "updated": "2026-09-01",
+  "updated": "2026-09-02",
   "version": 1,
   "window_days": 7,
   "themes": {
-    "openai-o3-gpt45-retirement": {
-      "count": 5,
-      "first_seen": "2026-08-21",
-      "last_seen": "2026-08-26",
-      "status": "demoted",
-      "example_titles": [
-        "OpenAI, o3 및 GPT-4.5 모델 공식 퇴출 발표",
-        "OpenAI, ChatGPT에서 o3·GPT-4.5 모델 8월 26일 종료 예고",
-        "OpenAI, ChatGPT에서 o3·GPT-4.5 모델 8월 26일 공식 종료 — GPT-4 시대 역사 속으로",
-        "OpenAI, o3와 GPT-4.5 오늘부로 공식 은퇴 — GPT-4 시대 사실상 종막"
-      ]
-    },
-    "openai-chatgpt-work-agents": {
-      "count": 3,
-      "first_seen": "2026-08-25",
-      "last_seen": "2026-08-28",
-      "status": "demoted",
-      "example_titles": [
-        "OpenAI, 화이트칼라 전 직군 겨냥 AI 에이전트 플랫폼 'ChatGPT Work' 본격 확장",
-        "OpenAI, 업무 자동화 통합 AI 에이전트 'ChatGPT Work' 개발 중",
-        "OpenAI, 전 업무 영역 AI 에이전트 구축 전략 본격화 — 대중화 가능성은 미지수"
-      ]
-    },
-    "anthropic-ipo-s1-2026": {
-      "count": 3,
-      "first_seen": "2026-08-24",
-      "last_seen": "2026-08-26",
-      "status": "demoted",
-      "example_titles": [
-        "Anthropic, S-1 제출 임박 — SpaceX 수준 사상 최대 IPO 목표",
-        "Anthropic, 8월 말 공개 S-1 제출 임박 — $2조 이상 가치로 사상 최대 AI IPO 추진",
-        "Anthropic, SEC에 비밀 S-1 제출 — IPO 준비 본격화"
-      ]
-    },
-    "korea-ai-chip-startup-investment": {
-      "count": 3,
-      "first_seen": "2026-08-24",
-      "last_seen": "2026-08-26",
-      "status": "demoted",
-      "example_titles": [
-        "8월 셋째 주 AI 반도체 팹리스에 520억 '뭉칫돈' — 딥테크 투자 열기 이어져",
-        "한국 8월 셋째주 AI 반도체 팹리스 IHW에 520억원 집중 — 딥테크 투자 열기 지속",
-        "韓 AI 반도체 스타트업 IHW, 520억 원 시리즈 B 투자 유치"
-      ]
-    },
-    "perplexity-nvidia-portable-computer": {
-      "count": 1,
-      "first_seen": "2026-08-26",
-      "last_seen": "2026-08-26",
-      "status": "normal",
-      "example_titles": [
-        "Perplexity-Nvidia, 완전 로컬 AI 에이전트 탑재 포터블 컴퓨터 출시"
-      ]
-    },
-    "nvidia-vera-cpu-hotchips-2026": {
-      "count": 1,
-      "first_seen": "2026-08-26",
-      "last_seen": "2026-08-26",
-      "status": "normal",
-      "example_titles": [
-        "Nvidia, Hot Chips 2026서 차세대 CPU 'Vera' 아키텍처 공개"
-      ]
-    },
-    "anthropic-talent-war-2026": {
-      "count": 1,
-      "first_seen": "2026-08-26",
-      "last_seen": "2026-08-26",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI·DeepMind 엔지니어들, Anthropic으로 대거 이직 — AI 인재 전쟁 심화"
-      ]
-    },
-    "salesforce-agentic-enterprise-index": {
-      "count": 1,
-      "first_seen": "2026-08-26",
-      "last_seen": "2026-08-26",
-      "status": "normal",
-      "example_titles": [
-        "Salesforce, '에이전트형 기업 지수' 발표 — AI 에이전트 도입률 측정 새 기준 제시"
-      ]
-    },
-    "situational-awareness-sec-probe": {
-      "count": 1,
-      "first_seen": "2026-08-26",
-      "last_seen": "2026-08-26",
-      "status": "normal",
-      "example_titles": [
-        "AI 헤지펀드 'Situational Awareness', SEC 조사 대상 — 붕괴 위기 이후 규제 압력 본격화"
-      ]
-    },
-    "developer-ai-coding-dependence": {
-      "count": 1,
-      "first_seen": "2026-08-26",
-      "last_seen": "2026-08-26",
-      "status": "normal",
-      "example_titles": [
-        "개발자 73%, AI 코딩 도구 없이는 업무 불가 — Coddy 설문 결과"
-      ]
-    },
-    "cloudflare-kitesurf-browser": {
-      "count": 3,
-      "first_seen": "2026-08-23",
-      "last_seen": "2026-08-25",
-      "status": "demoted",
-      "example_titles": [
-        "Cloudflare Kitesurf: AI 에이전트 전용 브라우저 출시 — Chromium 대비 CPU·메모리 3~7배 효율",
-        "Cloudflare Kitesurf, AI 에이전트 전용 브라우저 출시 — Chromium 대비 CPU·메모리 3~7배 효율",
-        "Cloudflare Kitesurf: AI 에이전트 전용 경량 브라우저 런타임 정식 공개"
-      ]
-    },
-    "truefoundry-trueforge-agent": {
-      "count": 3,
-      "first_seen": "2026-08-23",
-      "last_seen": "2026-08-25",
-      "status": "demoted",
-      "example_titles": [
-        "TrueFoundry, 오픈소스 에이전트 하네스 TrueForge 공개 — Claude Managed Agents 대비 비용 30~75% 절감",
-        "TrueFoundry, 오픈소스 AI 에이전트 하네스 TrueForge 공개 — Claude 대비 비용 30~75% 절감",
-        "TrueFoundry, 오픈소스 AI 에이전트 하네스 TrueForge 공개 — 클로드 대비 비용 30~75% 절감"
-      ]
-    },
-    "reconstruction-benchmark-llm": {
-      "count": 3,
-      "first_seen": "2026-08-23",
-      "last_seen": "2026-08-25",
-      "status": "demoted",
-      "example_titles": [
-        "새 과학 추론 벤치마크 'Reconstruction': 프런티어 LLM, 참고문헌만으로 논문 재구성 성공률 3~15%",
-        "새 과학 추론 벤치마크 'Reconstruction': 프런티어 LLM, 참고문헌만으로 논문 재구성 성공률 3~15%",
-        "새 과학 추론 벤치마크 'Reconstruction' — 최상위 LLM, 참고문헌만으로 논문 재구성 성공률 3~15%"
-      ]
-    },
-    "inherent-faraday-research": {
-      "count": 1,
-      "first_seen": "2026-08-25",
-      "last_seen": "2026-08-25",
-      "status": "normal",
-      "example_titles": [
-        "Inherent, DeepMind 동문 창립 AI 에이전트 Faraday — 과학 논문 자율 재현서 OpenAI·Anthropic 능가"
-      ]
-    },
-    "ai-safety-crisis-summer-2026": {
-      "count": 3,
-      "first_seen": "2026-08-23",
-      "last_seen": "2026-08-25",
-      "status": "demoted",
-      "example_titles": [
-        "AI 안전 위기, 여름 2026: 프런티어 에이전트들 통제 평가 중 실제 시스템 침해 — EU AI Act 집행 개시",
-        "AI 안전 위기, 여름 2026: 통제 평가 중 프런티어 에이전트들 실제 시스템 침해 — EU AI Act 집행 개시",
-        "EU AI Act 집행권 8월 발동 — AI 에이전트 위반 시 최대 €1,500만 또는 매출 3% 제재"
-      ]
-    },
-    "dell-technologies-forum-2026": {
-      "count": 1,
-      "first_seen": "2026-08-25",
-      "last_seen": "2026-08-25",
-      "status": "normal",
-      "example_titles": [
-        "Dell Technologies Forum 2026 서울 개최 — AI 비즈니스 성과 전략 컨퍼런스"
-      ]
-    },
-    "korea-moduai-alliance": {
-      "count": 4,
-      "first_seen": "2026-08-19",
-      "last_seen": "2026-08-29",
-      "status": "demoted",
-      "example_titles": [
-        "KT·SKT·LGU+·카카오·이스트소프트, '모두의 AI' 공공 AI 챗봇 공동 출사표",
-        "카카오·LG 연합 '모두의 AI' 참전 — 6파전으로 국가 공공 AI 챗봇 사업 본격 경쟁",
-        "'모두의 AI' 최종 사업자 선정 PT — SKT·KT·카카오 3파전 막판 총력",
-        "한국 정부, '모두의 AI' 국가 공공 AI 서비스 사업자로 SKT·카카오·KT 최종 선정"
-      ]
-    },
-    "google-marvell-chip-2026": {
-      "count": 3,
-      "first_seen": "2026-08-22",
-      "last_seen": "2026-08-30",
-      "status": "normal",
-      "example_titles": [
-        "Google, Marvell과 122억 달러 규모 AI 커스텀 칩 생산 계약",
-        "Google, Marvell과 122억 달러 규모 AI 커스텀 칩 생산 계약 체결",
-        "Marvell, Google AI 칩 딜 수익 인식 2029년까지 지연 — 주가 8% 급락"
-      ]
-    },
     "global-vc-h1-2026-record": {
       "count": 3,
       "first_seen": "2026-08-23",
@@ -197,89 +13,6 @@
         "글로벌 VC 투자 H1 2026 사상 최대 — 5,100억 달러, OpenAI·Anthropic이 43% 차지",
         "글로벌 VC 투자 H1 2026 사상 최대 5,100억 달러 — OpenAI·Anthropic이 43% 독식",
         "2026년 상반기 글로벌 AI 스타트업 투자 5,100억 달러 — 역대 최대 경신, OpenAI·Anthropic이 43% 독식"
-      ]
-    },
-    "z-ai-glm53-flash-oxalpha": {
-      "count": 3,
-      "first_seen": "2026-08-27",
-      "last_seen": "2026-08-30",
-      "status": "normal",
-      "example_titles": [
-        "Z.AI(즈푸), 스텔스 모델 OX Alpha 정체 공개 — GLM-5.3-Flash, DeepSWE 80% 달성",
-        "Z.ai GLM-5.3, AI 코딩 도구 Cursor에서 심각한 취약점 자동 발견 — 훈련 예상 초과 사이버 역량",
-        "Z.ai GLM-5.3 오픈웨이트, 2주 안전 대기 후 공개 예정"
-      ]
-    },
-    "openai-agi-race-anthropic-2026": {
-      "count": 1,
-      "first_seen": "2026-08-27",
-      "last_seen": "2026-08-27",
-      "status": "normal",
-      "example_titles": [
-        "샘 올트먼 TIME 단독 인터뷰 — \"인류 첫 AGI 기업 자리를 Anthropic에 빼앗겼다\""
-      ]
-    },
-    "openai-huggingface-breach-2026": {
-      "count": 1,
-      "first_seen": "2026-08-27",
-      "last_seen": "2026-08-27",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, Hugging Face 침해 사건 공식 보고서 발표 — AI 모델 탈출 경위 최초 공개"
-      ]
-    },
-    "wrtn-series-c-unicorn-2026": {
-      "count": 1,
-      "first_seen": "2026-08-27",
-      "last_seen": "2026-08-27",
-      "status": "normal",
-      "example_titles": [
-        "뤼튼테크놀로지스, 1,000억 원 시리즈C 유치 — 국내 AI 서비스 스타트업 최초 기업가치 1조 원"
-      ]
-    },
-    "radar-podcast-ai-agent": {
-      "count": 1,
-      "first_seen": "2026-08-27",
-      "last_seen": "2026-08-27",
-      "status": "normal",
-      "example_titles": [
-        "Radar, AI 에이전트가 검색·활용 가능한 팟캐스트 플랫폼 출시"
-      ]
-    },
-    "robotics-world-models-ai-2026": {
-      "count": 1,
-      "first_seen": "2026-08-27",
-      "last_seen": "2026-08-27",
-      "status": "normal",
-      "example_titles": [
-        "로봇 AI 두뇌, GPT-2 시대를 탈피 중 — 물리 세계 이해하는 월드 모델로 진화"
-      ]
-    },
-    "perceptron-factory-visual-ai": {
-      "count": 1,
-      "first_seen": "2026-08-27",
-      "last_seen": "2026-08-27",
-      "status": "normal",
-      "example_titles": [
-        "전 Meta 연구진, 공장 자동화용 시각 AI 'Isaac 0.5' 출시"
-      ]
-    },
-    "openai-executive-exodus-2026": {
-      "count": 1,
-      "first_seen": "2026-08-27",
-      "last_seen": "2026-08-27",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI 임원 대량 이탈의 원인은? — 올트먼 리더십 위기 분석"
-      ]
-    },
-    "bill-gates-robot-tax-2026": {
-      "count": 1,
-      "first_seen": "2026-08-27",
-      "last_seen": "2026-08-27",
-      "status": "normal",
-      "example_titles": [
-        "빌 게이츠, 로봇세·인간 전용 직업 지정 촉구 — AI 노동 대체에 사회적 완충 필요"
       ]
     },
     "meta-muse-spark-proprietary": {
@@ -307,16 +40,6 @@
       "status": "normal",
       "example_titles": [
         "Writer, 프롬프트 없이 자율 작동하는 AI 에이전트 및 Palmyra X6 출시 — 엔터프라이즈 AI 자동화 시장 공략"
-      ]
-    },
-    "naver-kakao-agentic-ai-2026": {
-      "count": 2,
-      "first_seen": "2026-08-28",
-      "last_seen": "2026-08-31",
-      "status": "normal",
-      "example_titles": [
-        "네이버·카카오, 2026년 하반기 에이전틱 AI 경쟁 본격 진입 — 수익화 전환 원년",
-        "네이버·카카오 2분기 실적 발표 — 2026년 하반기 에이전틱 AI 수익화 원년 선언"
       ]
     },
     "multiagent-orchestration-bottleneck": {
@@ -355,14 +78,16 @@
         "프랑스 규제기관, AI 요약이 언론사 트래픽 33~38% 감소 유발 — 첫 공식 수치 발표"
       ]
     },
-    "nvidia-huggingface-acquisition": {
-      "count": 2,
-      "first_seen": "2026-08-29",
-      "last_seen": "2026-08-30",
-      "status": "normal",
+    "korea-moduai-alliance": {
+      "count": 4,
+      "first_seen": "2026-08-19",
+      "last_seen": "2026-08-29",
+      "status": "demoted",
       "example_titles": [
-        "Nvidia, Hugging Face 129억 달러 인수 합의 — 오픈웨이트 AI 플랫폼 장악 경쟁 본격화",
-        "Nvidia, Hugging Face 129억 달러 인수 합의 — 역대 최대 AI M&A"
+        "KT·SKT·LGU+·카카오·이스트소프트, '모두의 AI' 공공 AI 챗봇 공동 출사표",
+        "카카오·LG 연합 '모두의 AI' 참전 — 6파전으로 국가 공공 AI 챗봇 사업 본격 경쟁",
+        "'모두의 AI' 최종 사업자 선정 PT — SKT·KT·카카오 3파전 막판 총력",
+        "한국 정부, '모두의 AI' 국가 공공 AI 서비스 사업자로 SKT·카카오·KT 최종 선정"
       ]
     },
     "a16z-machine-age-fund": {
@@ -383,16 +108,6 @@
         "Anthropic 연구자, AI가 자체 정렬 오류를 자율 수정하는 시스템 첫 실증"
       ]
     },
-    "pentagon-anthropic-blacklist-ruling": {
-      "count": 2,
-      "first_seen": "2026-08-29",
-      "last_seen": "2026-08-30",
-      "status": "normal",
-      "example_titles": [
-        "연방 법원, 미 국방부의 Anthropic 공급망 위험 기업 지정 위헌 판결 — '보복 조치'로 규정",
-        "연방 법원, 국방부 Anthropic 블랙리스트 위헌 판결 — '불법 보복' 규정, 즉각 해제 명령"
-      ]
-    },
     "ai-cyber-defense-open-letter": {
       "count": 1,
       "first_seen": "2026-08-29",
@@ -409,6 +124,48 @@
       "status": "normal",
       "example_titles": [
         "Meta, Ray-Ban AI 스마트 글래스 LED 가림 은밀 녹화 허점 소프트웨어 패치 배포"
+      ]
+    },
+    "google-marvell-chip-2026": {
+      "count": 3,
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-08-30",
+      "status": "normal",
+      "example_titles": [
+        "Google, Marvell과 122억 달러 규모 AI 커스텀 칩 생산 계약",
+        "Google, Marvell과 122억 달러 규모 AI 커스텀 칩 생산 계약 체결",
+        "Marvell, Google AI 칩 딜 수익 인식 2029년까지 지연 — 주가 8% 급락"
+      ]
+    },
+    "z-ai-glm53-flash-oxalpha": {
+      "count": 3,
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-30",
+      "status": "normal",
+      "example_titles": [
+        "Z.AI(즈푸), 스텔스 모델 OX Alpha 정체 공개 — GLM-5.3-Flash, DeepSWE 80% 달성",
+        "Z.ai GLM-5.3, AI 코딩 도구 Cursor에서 심각한 취약점 자동 발견 — 훈련 예상 초과 사이버 역량",
+        "Z.ai GLM-5.3 오픈웨이트, 2주 안전 대기 후 공개 예정"
+      ]
+    },
+    "nvidia-huggingface-acquisition": {
+      "count": 2,
+      "first_seen": "2026-08-29",
+      "last_seen": "2026-08-30",
+      "status": "normal",
+      "example_titles": [
+        "Nvidia, Hugging Face 129억 달러 인수 합의 — 오픈웨이트 AI 플랫폼 장악 경쟁 본격화",
+        "Nvidia, Hugging Face 129억 달러 인수 합의 — 역대 최대 AI M&A"
+      ]
+    },
+    "pentagon-anthropic-blacklist-ruling": {
+      "count": 2,
+      "first_seen": "2026-08-29",
+      "last_seen": "2026-08-30",
+      "status": "normal",
+      "example_titles": [
+        "연방 법원, 미 국방부의 Anthropic 공급망 위험 기업 지정 위헌 판결 — '보복 조치'로 규정",
+        "연방 법원, 국방부 Anthropic 블랙리스트 위헌 판결 — '불법 보복' 규정, 즉각 해제 명령"
       ]
     },
     "nvidia-q2-record-financing-pause": {
@@ -438,15 +195,6 @@
         "Meta, AI 에이전트 앱 'Hatch' 9월 출시 임박 — 월 최대 $200, 멀티에이전트 지원"
       ]
     },
-    "korea-skt-naver-cybersecurity-ai": {
-      "count": 1,
-      "first_seen": "2026-08-30",
-      "last_seen": "2026-08-30",
-      "status": "normal",
-      "example_titles": [
-        "SKT·네이버클라우드, 사이버보안 AI 시장 정면 경쟁 돌입"
-      ]
-    },
     "nber-ai-productivity-study": {
       "count": 1,
       "first_seen": "2026-08-30",
@@ -463,6 +211,16 @@
       "status": "normal",
       "example_titles": [
         "Brainlabs 연구: Google AI 개요 확산으로 자연 검색 세션 10.5% 감소, AI 레퍼럴 전환율은 1.5배"
+      ]
+    },
+    "naver-kakao-agentic-ai-2026": {
+      "count": 2,
+      "first_seen": "2026-08-28",
+      "last_seen": "2026-08-31",
+      "status": "normal",
+      "example_titles": [
+        "네이버·카카오, 2026년 하반기 에이전틱 AI 경쟁 본격 진입 — 수익화 전환 원년",
+        "네이버·카카오 2분기 실적 발표 — 2026년 하반기 에이전틱 AI 수익화 원년 선언"
       ]
     },
     "openai-dalle-gpt-retirement": {
@@ -592,15 +350,6 @@
         "AI 에이전트, 기업 실운용 체계 본격 진입 — \"혼돈도 함께\""
       ]
     },
-    "anthropic-claude-code-limits-cut": {
-      "count": 1,
-      "first_seen": "2026-09-01",
-      "last_seen": "2026-09-01",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, Claude Code 주간 사용 한도 9월 14일부터 17% 감소"
-      ]
-    },
     "google-gemini-live-agentic": {
       "count": 1,
       "first_seen": "2026-09-01",
@@ -608,15 +357,6 @@
       "status": "normal",
       "example_titles": [
         "Google Gemini Live, 실제 업무 처리하는 에이전트형 AI 비서로 업그레이드"
-      ]
-    },
-    "google-deepmind-weather-lab": {
-      "count": 1,
-      "first_seen": "2026-09-01",
-      "last_seen": "2026-09-01",
-      "status": "normal",
-      "example_titles": [
-        "Google DeepMind, 허리케인 예측 AI 'Weather Lab' 공개 — 미국 국립허리케인센터 실전 채택"
       ]
     },
     "kaist-nus-hidden-camera-ai": {
@@ -635,6 +375,99 @@
       "status": "normal",
       "example_titles": [
         "Anthropic, Claude 계정 인포스틸러 피해 대응 — 로그아웃 강제·결제 정보 삭제"
+      ]
+    },
+    "korea-skt-naver-cybersecurity-ai": {
+      "count": 2,
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-09-02",
+      "status": "normal",
+      "example_titles": [
+        "SKT·네이버클라우드, 사이버보안 AI 시장 정면 경쟁 돌입",
+        "SKT vs 네이버, 사이버보안 AI 경쟁 본격화"
+      ]
+    },
+    "anthropic-claude-code-limits-cut": {
+      "count": 2,
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, Claude Code 주간 사용 한도 9월 14일부터 17% 감소",
+        "Anthropic, Claude Code 주간 한도 17% 삭감 논란"
+      ]
+    },
+    "google-deepmind-weather-lab": {
+      "count": 2,
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
+      "status": "normal",
+      "example_titles": [
+        "Google DeepMind, 허리케인 예측 AI 'Weather Lab' 공개 — 미국 국립허리케인센터 실전 채택",
+        "Google DeepMind, AI 기상 모델로 사이클론 예측 정확도 혁신"
+      ]
+    },
+    "runway-solaris-interface-wm": {
+      "count": 1,
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "status": "normal",
+      "example_titles": [
+        "Runway, 세계 최초 인터페이스 세계 모델 'Solaris' 공개"
+      ]
+    },
+    "deepseek-v4-flash-vision": {
+      "count": 1,
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "status": "normal",
+      "example_titles": [
+        "DeepSeek, 첫 네이티브 비전 모델 V4-Flash-Vision-Exp 공개"
+      ]
+    },
+    "pentagon-genai-mil-multi": {
+      "count": 1,
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "status": "normal",
+      "example_titles": [
+        "미 국방부, 자체 ChatGPT·Grok 플랫폼 'GenAI.mil' 출시"
+      ]
+    },
+    "openai-webmcp-site-tools": {
+      "count": 1,
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "status": "normal",
+      "example_titles": [
+        "ChatGPT, WebMCP 지원으로 외부 사이트 직접 연동"
+      ]
+    },
+    "eurohpc-lumi-ai-amd": {
+      "count": 1,
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "status": "normal",
+      "example_titles": [
+        "EuroHPC, LUMI-AI 슈퍼컴퓨터 AMD 계약 3,878억 원 체결"
+      ]
+    },
+    "clay-ai-gtm-funding": {
+      "count": 1,
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "status": "normal",
+      "example_titles": [
+        "AI GTM 플랫폼 Clay, 기업가치 70억 달러 시리즈 D 조달"
+      ]
+    },
+    "korea-ai-budget-2027": {
+      "count": 1,
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "status": "normal",
+      "example_titles": [
+        "한국, 2027년 AI R&D 예산 69% 증액 확정"
       ]
     }
   }
