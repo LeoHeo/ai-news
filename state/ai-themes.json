@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-09-02",
+  "updated": "2026-09-03",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -109,12 +109,13 @@
       ]
     },
     "ai-cyber-defense-open-letter": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-29",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-09-03",
       "status": "normal",
       "example_titles": [
-        "OpenAI·Anthropic·구글 등 100여 개 기업, AI 사이버 공격 급증 공동 경고 서한 발표"
+        "OpenAI·Anthropic·구글 등 100여 개 기업, AI 사이버 공격 급증 공동 경고 서한 발표",
+        "Google·Anthropic·OpenAI, 사이버보안 AI 모델·세이프가드·접근 프로그램 동시 공개"
       ]
     },
     "meta-glasses-camera-privacy-fix": {
@@ -342,12 +343,13 @@
       ]
     },
     "ai-agents-enterprise-chaos": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-01",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-03",
       "status": "normal",
       "example_titles": [
-        "AI 에이전트, 기업 실운용 체계 본격 진입 — \"혼돈도 함께\""
+        "AI 에이전트, 기업 실운용 체계 본격 진입 — \"혼돈도 함께\"",
+        "AI 에이전트 실운용 시대 개막 — Claude·OpenClaw가 가져온 거버넌스 공백의 현실"
       ]
     },
     "google-gemini-live-agentic": {
@@ -468,6 +470,78 @@
       "status": "normal",
       "example_titles": [
         "한국, 2027년 AI R&D 예산 69% 증액 확정"
+      ]
+    },
+    "anthropic-fable51-mythos51": {
+      "count": 1,
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, Claude Fable 5.1·Mythos 5.1 출시 — 캐시 읽기 비용 75% 인하"
+      ]
+    },
+    "google-gemini38-flash-cyber": {
+      "count": 1,
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "status": "normal",
+      "example_titles": [
+        "Google, Gemini 3.8 Flash 및 사이버보안 특화 모델 출시 — 석 달 만에 네 번째 Flash"
+      ]
+    },
+    "meta-muse-code-launch": {
+      "count": 1,
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "status": "normal",
+      "example_titles": [
+        "Meta, Muse Code 정식 출시·Muse Spark 1.2 공개 — Claude Code·OpenAI Codex에 정면 도전"
+      ]
+    },
+    "samsung-claude-code-chip": {
+      "count": 1,
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "status": "normal",
+      "example_titles": [
+        "삼성전자, Claude Code로 반도체 검증 기간 15배 단축 — 오류 검토는 여전히 인간 몫"
+      ]
+    },
+    "dell-ai-server-record-orders": {
+      "count": 1,
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "status": "normal",
+      "example_titles": [
+        "Dell, AI 서버 주문 사상 최대 950억 달러 — 2분기 매출 58% 급증"
+      ]
+    },
+    "tripo-ai-3d-funding": {
+      "count": 1,
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "status": "normal",
+      "example_titles": [
+        "Tripo AI, 시리즈 B·B+ 라운드 4,460억 원 조달 — 3D 생성 AI 대형 투자"
+      ]
+    },
+    "sony-warner-anthropic-lawsuit": {
+      "count": 1,
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "status": "normal",
+      "example_titles": [
+        "Sony Music·Warner Chappell, Anthropic 저작권 침해 소송 제기 — 수십억 달러 배상 요구"
+      ]
+    },
+    "us-genesis-mission-ai-science": {
+      "count": 1,
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "status": "normal",
+      "example_titles": [
+        "White House Genesis Mission, 9월 마일스톤 달성 — AI로 과학 생산성 2배 목표"
       ]
     }
   }
