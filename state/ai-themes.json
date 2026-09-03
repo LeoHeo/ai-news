@@ -1,38 +1,9 @@
 {
   "topic": "ai",
-  "updated": "2026-09-03",
+  "updated": "2026-09-04",
   "version": 1,
   "window_days": 7,
   "themes": {
-    "global-vc-h1-2026-record": {
-      "count": 3,
-      "first_seen": "2026-08-23",
-      "last_seen": "2026-08-28",
-      "status": "demoted",
-      "example_titles": [
-        "글로벌 VC 투자 H1 2026 사상 최대 — 5,100억 달러, OpenAI·Anthropic이 43% 차지",
-        "글로벌 VC 투자 H1 2026 사상 최대 5,100억 달러 — OpenAI·Anthropic이 43% 독식",
-        "2026년 상반기 글로벌 AI 스타트업 투자 5,100억 달러 — 역대 최대 경신, OpenAI·Anthropic이 43% 독식"
-      ]
-    },
-    "meta-muse-spark-proprietary": {
-      "count": 1,
-      "first_seen": "2026-08-28",
-      "last_seen": "2026-08-28",
-      "status": "normal",
-      "example_titles": [
-        "Meta, Superintelligence Labs 출범 후 첫 독점 AI 모델 Muse Spark 공개 — Llama 오픈소스 시대 전환점"
-      ]
-    },
-    "broadcom-ai-chip-spv": {
-      "count": 1,
-      "first_seen": "2026-08-28",
-      "last_seen": "2026-08-28",
-      "status": "normal",
-      "example_titles": [
-        "Broadcom, Anthropic 등 AI 기업에 맞춤 칩 임대하는 최대 1,000억 달러 SPV 조성 협상"
-      ]
-    },
     "writer-palmyra-enterprise-agents": {
       "count": 1,
       "first_seen": "2026-08-28",
@@ -76,18 +47,6 @@
       "status": "normal",
       "example_titles": [
         "프랑스 규제기관, AI 요약이 언론사 트래픽 33~38% 감소 유발 — 첫 공식 수치 발표"
-      ]
-    },
-    "korea-moduai-alliance": {
-      "count": 4,
-      "first_seen": "2026-08-19",
-      "last_seen": "2026-08-29",
-      "status": "demoted",
-      "example_titles": [
-        "KT·SKT·LGU+·카카오·이스트소프트, '모두의 AI' 공공 AI 챗봇 공동 출사표",
-        "카카오·LG 연합 '모두의 AI' 참전 — 6파전으로 국가 공공 AI 챗봇 사업 본격 경쟁",
-        "'모두의 AI' 최종 사업자 선정 PT — SKT·KT·카카오 3파전 막판 총력",
-        "한국 정부, '모두의 AI' 국가 공공 AI 서비스 사업자로 SKT·카카오·KT 최종 선정"
       ]
     },
     "a16z-machine-age-fund": {
@@ -527,12 +486,13 @@
       ]
     },
     "sony-warner-anthropic-lawsuit": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-03",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "status": "normal",
       "example_titles": [
-        "Sony Music·Warner Chappell, Anthropic 저작권 침해 소송 제기 — 수십억 달러 배상 요구"
+        "Sony Music·Warner Chappell, Anthropic 저작권 침해 소송 제기 — 수십억 달러 배상 요구",
+        "Sony Music·Warner Chappell, Anthropic 상대 48페이지 저작권 소송 공식 제기"
       ]
     },
     "us-genesis-mission-ai-science": {
@@ -542,6 +502,96 @@
       "status": "normal",
       "example_titles": [
         "White House Genesis Mission, 9월 마일스톤 달성 — AI로 과학 생산성 2배 목표"
+      ]
+    },
+    "openai-gpt6-astra-agi": {
+      "count": 1,
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, GPT-6 Astra 출시 — \"AGI 시대\" 공식 선언"
+      ]
+    },
+    "grok47-delay-spacex-data": {
+      "count": 1,
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "status": "normal",
+      "example_titles": [
+        "SpaceXAI, Grok 4.7 출시 9월로 지연 — SpaceX 데이터 추가 훈련 중"
+      ]
+    },
+    "llm-benchmark-leaderboard-sept2026": {
+      "count": 1,
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "status": "normal",
+      "example_titles": [
+        "2026년 9월 LLM 벤치마크 현황 — Grok 4.3 AIME 100%, Claude Opus 4.7 SWE-Bench 87.6%"
+      ]
+    },
+    "enterprise-ai-agent-autonomy-limit": {
+      "count": 1,
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "status": "normal",
+      "example_titles": [
+        "기업 AI 에이전트 성공의 역설 — 자율성 줄인 기업이 성과 낸다"
+      ]
+    },
+    "gemini-notebook-compute-limits": {
+      "count": 1,
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "status": "normal",
+      "example_titles": [
+        "Google Gemini Notebook, 컴퓨팅 한도 구조 조정 — 2주 내 세 번째 AI 서비스 사용 제한"
+      ]
+    },
+    "llm-frontier-differentiation-sept2026": {
+      "count": 1,
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "status": "normal",
+      "example_titles": [
+        "2026년 9월 주요 LLM 성능 비교 — 도구 생태계·멀티모달·컨텍스트로 차별화"
+      ]
+    },
+    "ai-model-release-pace-2026": {
+      "count": 1,
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "status": "normal",
+      "example_titles": [
+        "2026년 AI 모델 출시 가속 — 9월 기준 373개 이상 모델 추적 중"
+      ]
+    },
+    "korea-ai-week1-sept2026": {
+      "count": 1,
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "status": "normal",
+      "example_titles": [
+        "한국 2026년 9월 1주차 AI 산업 동향 — GPT-6 Astra 파장·국내 AI 경쟁 가속"
+      ]
+    },
+    "brazil-ai-bill-senate-2026": {
+      "count": 1,
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "status": "normal",
+      "example_titles": [
+        "브라질 AI 법안, 9월 16일 상원 본회의 표결 예정 — 남미 첫 포괄적 AI 규제"
+      ]
+    },
+    "eu-ai-act-copyright-sept2026": {
+      "count": 1,
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "status": "normal",
+      "example_titles": [
+        "EU AI Act 9월 2026 현황 — 국가별 샌드박스 의무화 완료, 저작권 준수 강화"
       ]
     }
   }
