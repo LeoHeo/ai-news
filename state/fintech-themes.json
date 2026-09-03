@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-03",
+  "updated": "2026-09-04",
   "window_days": 7,
   "themes": [
     {
@@ -147,9 +147,9 @@
     },
     {
       "keyword": "smb-crossborder-fintech-savings",
-      "count": 40,
+      "count": 41,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-04",
       "articles": [
         "remittance-smb-fintech-growth",
         "remittance-smb-crossborder-2026-07-06",
@@ -190,14 +190,15 @@
         "payments-smb-36pct-2026-08-22",
         "payments-smb-36pct-2026-08-28",
         "payments-smb-36pct-2026-08-30",
-        "payments-smb-crossborder-2026-09-01"
+        "payments-smb-crossborder-2026-09-01",
+        "remittance-wise-q2-2026-09-04"
       ]
     },
     {
       "keyword": "fintech-vc-forecast-2026",
-      "count": 40,
+      "count": 41,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "articles": [
         "investment-fintech-crunchbase",
         "investment-vc-trends-2026-2026-07-14",
@@ -238,14 +239,15 @@
         "investment-fintech-h1-funding-2026-09-01",
         "investment-eu-fintech-h1",
         "investment-global-h1-crunchbase",
-        "investment-global-h1-crunchbase-2026-09-03"
+        "investment-global-h1-crunchbase-2026-09-03",
+        "investment-cbinsights-vc-2026-09-04"
       ]
     },
     {
       "keyword": "digital-payments-ux-shift",
-      "count": 32,
+      "count": 33,
       "first_seen": "2026-07-14",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-04",
       "articles": [
         "payments-ux-shift-2026-07-14",
         "payments-digital-ux-human",
@@ -278,14 +280,15 @@
         "payments-philippines-cashless-2026-08-25",
         "payments-malaysia-realtime-ai-2026-08-25",
         "payments-digital-feel-human-2026-08-31",
-        "payments-digital-feel-human-2026-09-01"
+        "payments-digital-feel-human-2026-09-01",
+        "payments-klarna-ipo-2026-09-04"
       ]
     },
     {
       "keyword": "india-upi-japan-expansion",
-      "count": 18,
+      "count": 19,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "articles": [
         "remittance-upi-japan-2026-08-04",
         "remittance-india-upi-japan-2026-08-05",
@@ -304,7 +307,8 @@
         "remittance-india-upi-japan-2026-08-26",
         "remittance-india-upi-japan-2026-08-27",
         "remittance-india-upi-japan",
-        "remittance-india-upi-japan-2026-09-03"
+        "remittance-india-upi-japan-2026-09-03",
+        "remittance-upi-japan-2026-09-04"
       ]
     },
     {
@@ -332,15 +336,16 @@
     },
     {
       "keyword": "embedded-payments-b2b-platform",
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-08-13",
-      "last_seen": "2026-08-28",
+      "last_seen": "2026-09-04",
       "articles": [
         "embedded-payments-competition-2026-08-13",
         "payments-embedded-90pct-2026-08-18",
         "payments-embedded-90pct-aug19",
         "payments-embedded-finance-next-phase-2026-08-22",
-        "payments-embedded-90pct-2026-08-28"
+        "payments-embedded-90pct-2026-08-28",
+        "payments-visa-b2b-2026-09-04"
       ]
     },
     {
@@ -385,9 +390,9 @@
     },
     {
       "keyword": "eu-bnpl-consumer-credit-2026",
-      "count": 12,
+      "count": 13,
       "first_seen": "2026-08-20",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "articles": [
         "lending-eu-bnpl-2026-08-20",
         "lending-eu-bnpl-2026-08-23",
@@ -400,7 +405,8 @@
         "lending-eu-bnpl-ccd2-2026-08-31",
         "lending-eu-bnpl-ccd2-2026-09-01",
         "lending-eu-bnpl-ccd2",
-        "lending-eu-bnpl-ccd2-2026-09-03"
+        "lending-eu-bnpl-ccd2-2026-09-03",
+        "regulation-eu-bnpl-2026-09-04"
       ]
     },
     {
@@ -478,9 +484,9 @@
     },
     {
       "keyword": "fintechos-profitability-ai",
-      "count": 10,
+      "count": 11,
       "first_seen": "2026-08-23",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "articles": [
         "digital-banking-fintechos-profitability-2026-08-23",
         "digital-banking-fintechos-profitability-2026-08-24",
@@ -491,7 +497,8 @@
         "digital-banking-fintechos-2026-08-30",
         "digital-banking-fintechos-2026-08-31",
         "digital-banking-fintechos-2026-09-01",
-        "digital-banking-fintechos-2026-09-03"
+        "digital-banking-fintechos-2026-09-03",
+        "digital-banking-fintechos-2026-09-04"
       ]
     },
     {
@@ -691,15 +698,16 @@
     },
     {
       "keyword": "stablecoin-genius-act-nprm",
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-08-29",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "articles": [
         "regulation-stablecoin-nprm-2026-08-29",
         "regulation-stablecoin-nprm-2026-08-31",
         "regulation-stablecoin-genius-act-nprm",
         "regulation-genius-act-nprm",
-        "regulation-stablecoin-nprm-2026-09-03"
+        "regulation-stablecoin-nprm-2026-09-03",
+        "regulation-genius-act-nprm-2026-09-04"
       ]
     },
     {
@@ -740,12 +748,13 @@
     },
     {
       "keyword": "dbs-stripe-asia-crossborder",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-09-02",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "articles": [
         "payments-dbs-stripe-mou",
-        "payments-dbs-stripe-2026-09-03"
+        "payments-dbs-stripe-2026-09-03",
+        "payments-dbs-stripe-asia-2026-09-04"
       ]
     },
     {
@@ -805,12 +814,13 @@
     },
     {
       "keyword": "regulation-cfpb-1033",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-09-02",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "articles": [
         "regulation-cfpb-1033",
-        "regulation-cfpb-1033-2026-09-03"
+        "regulation-cfpb-1033-2026-09-03",
+        "lending-cfpb-1033-2026-09-04"
       ]
     },
     {
@@ -824,20 +834,31 @@
     },
     {
       "keyword": "korea-fx-reform-2026",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-03",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "articles": [
-        "regulation-korea-fx-reform-2026-09-03"
+        "regulation-korea-fx-reform-2026-09-03",
+        "regulation-korea-fx-reform-2026-09-04"
       ]
     },
     {
       "keyword": "moss-fintech-unicorn-series-c",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-03",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "articles": [
-        "investment-moss-unicorn-2026-09-03"
+        "investment-moss-unicorn-2026-09-03",
+        "investment-moss-unicorn-2026-09-04"
+      ]
+    },
+    {
+      "keyword": "moneygram-crypto-corridors",
+      "count": 1,
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "articles": [
+        "remittance-moneygram-crypto-2026-09-04"
       ]
     }
   ]
