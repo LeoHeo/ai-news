@@ -1,54 +1,9 @@
 {
   "topic": "ai",
-  "updated": "2026-09-04",
+  "updated": "2026-09-05",
   "version": 1,
   "window_days": 7,
   "themes": {
-    "writer-palmyra-enterprise-agents": {
-      "count": 1,
-      "first_seen": "2026-08-28",
-      "last_seen": "2026-08-28",
-      "status": "normal",
-      "example_titles": [
-        "Writer, 프롬프트 없이 자율 작동하는 AI 에이전트 및 Palmyra X6 출시 — 엔터프라이즈 AI 자동화 시장 공략"
-      ]
-    },
-    "multiagent-orchestration-bottleneck": {
-      "count": 1,
-      "first_seen": "2026-08-28",
-      "last_seen": "2026-08-28",
-      "status": "normal",
-      "example_titles": [
-        "AI의 다음 병목은 모델이 아닌 에이전트 간 협업 — 멀티에이전트 조율이 핵심 과제"
-      ]
-    },
-    "open-weight-frontier-benchmark-aug2026": {
-      "count": 1,
-      "first_seen": "2026-08-28",
-      "last_seen": "2026-08-28",
-      "status": "normal",
-      "example_titles": [
-        "2026년 8월 AI 벤치마크: 오픈 웨이트 모델, 독점 프런티어 격차 급격 축소"
-      ]
-    },
-    "physical-ai-vla-deployment-2026": {
-      "count": 1,
-      "first_seen": "2026-08-28",
-      "last_seen": "2026-08-28",
-      "status": "normal",
-      "example_titles": [
-        "피지컬 AI 붐: 비전-언어-행동 모델, 물류·창고 현장에 대규모 탑재 본격화"
-      ]
-    },
-    "france-ai-publisher-traffic-regulation": {
-      "count": 1,
-      "first_seen": "2026-08-28",
-      "last_seen": "2026-08-28",
-      "status": "normal",
-      "example_titles": [
-        "프랑스 규제기관, AI 요약이 언론사 트래픽 33~38% 감소 유발 — 첫 공식 수치 발표"
-      ]
-    },
     "a16z-machine-age-fund": {
       "count": 1,
       "first_seen": "2026-08-29",
@@ -505,12 +460,13 @@
       ]
     },
     "openai-gpt6-astra-agi": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "status": "normal",
       "example_titles": [
-        "OpenAI, GPT-6 Astra 출시 — \"AGI 시대\" 공식 선언"
+        "OpenAI, GPT-6 Astra 출시 — \"AGI 시대\" 공식 선언",
+        "OpenAI GPT-6 Astra, Plus·Pro 구독자에 공개 출시… \"AGI 시대 개막\""
       ]
     },
     "grok47-delay-spacex-data": {
@@ -532,12 +488,13 @@
       ]
     },
     "enterprise-ai-agent-autonomy-limit": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "status": "normal",
       "example_titles": [
-        "기업 AI 에이전트 성공의 역설 — 자율성 줄인 기업이 성과 낸다"
+        "기업 AI 에이전트 성공의 역설 — 자율성 줄인 기업이 성과 낸다",
+        "AI 에이전트 성공 기업들, 에이전트 자율성 의도적으로 제한 중"
       ]
     },
     "gemini-notebook-compute-limits": {
@@ -592,6 +549,78 @@
       "status": "normal",
       "example_titles": [
         "EU AI Act 9월 2026 현황 — 국가별 샌드박스 의무화 완료, 저작권 준수 강화"
+      ]
+    },
+    "microsoft-mai-transcribe-2": {
+      "count": 1,
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "status": "normal",
+      "example_titles": [
+        "Microsoft MAI-Transcribe-2, OpenAI·Google·ElevenLabs보다 빠르고 저렴한 음성 인식 모델 출시"
+      ]
+    },
+    "nvidia-pair-local-inference": {
+      "count": 1,
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "status": "normal",
+      "example_titles": [
+        "Nvidia PAIR, 가정 내 모든 GPU를 에이전트 AI 클러스터로 묶는 유틸리티 공개"
+      ]
+    },
+    "humain-saudi-arabic-ai-m3": {
+      "count": 1,
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "status": "normal",
+      "example_titles": [
+        "사우디 HUMAIN, 428B 아랍어 특화 AI 모델 humain-m3 출시… 중국 기반 웨이트 활용"
+      ]
+    },
+    "tesla-cybercab-federal-probe": {
+      "count": 1,
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "status": "normal",
+      "example_titles": [
+        "Tesla Cybercab, 연방 안전조사 속 출시 행사 강행… 자율주행 AI 규제 분수령"
+      ]
+    },
+    "crowdstrike-safemind-falcon2026": {
+      "count": 1,
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "status": "normal",
+      "example_titles": [
+        "CrowdStrike, Fal.Con 2026서 AI 사이버 방어 플랫폼 SafeMind 공개"
+      ]
+    },
+    "skt-kt-kakao-modu-ai": {
+      "count": 1,
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "status": "normal",
+      "example_titles": [
+        "SKT·KT·카카오, '모두의 AI' 연합 출범… 국내 AI 생태계 공동 구축"
+      ]
+    },
+    "nadella-ai-workforce-warning": {
+      "count": 1,
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "status": "normal",
+      "example_titles": [
+        "나델라 Microsoft CEO \"AI, 세계화처럼 산업 전체를 공동화할 수 있다\" 경고"
+      ]
+    },
+    "china-ai-content-crackdown": {
+      "count": 1,
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "status": "normal",
+      "example_titles": [
+        "중국 당국, AI 생성 유해 콘텐츠 560만 건 삭제… 규제 강화 행보"
       ]
     }
   }
