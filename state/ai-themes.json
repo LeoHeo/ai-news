@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-09-08",
+  "updated": "2026-09-09",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -14,43 +14,6 @@
         "Google·Anthropic·OpenAI, 사이버보안 AI 모델·세이프가드·접근 프로그램 동시 공개"
       ]
     },
-    "us-ai-regulation-scramble": {
-      "count": 2,
-      "first_seen": "2026-08-31",
-      "last_seen": "2026-09-01",
-      "status": "normal",
-      "example_titles": [
-        "미국 정부의 AI 규제 대응 혼란 — CNN \"'얼리 코비드' 수준의 혼돈\"",
-        "미국 AI 규제 대응 혼란 심화 — CNN \"초기 코로나 수준\" 비유"
-      ]
-    },
-    "apple-ceo-ternus-ai": {
-      "count": 1,
-      "first_seen": "2026-09-01",
-      "last_seen": "2026-09-01",
-      "status": "normal",
-      "example_titles": [
-        "존 테르누스, 애플 CEO 공식 취임 — AI 경쟁 격차 해소가 최우선"
-      ]
-    },
-    "deepseek-500b-funding-round2": {
-      "count": 1,
-      "first_seen": "2026-09-01",
-      "last_seen": "2026-09-01",
-      "status": "normal",
-      "example_titles": [
-        "DeepSeek, 500억 위안 2차 펀딩 재개 — 기업가치 5,000억 위안($74B) 목표"
-      ]
-    },
-    "skhynix-hbm-ai-new-tech": {
-      "count": 1,
-      "first_seen": "2026-09-01",
-      "last_seen": "2026-09-01",
-      "status": "normal",
-      "example_titles": [
-        "SK하이닉스, AI 수요 급증 대응 차세대 HBM 메모리 기술 공개"
-      ]
-    },
     "ai-agents-enterprise-chaos": {
       "count": 2,
       "first_seen": "2026-09-01",
@@ -59,33 +22,6 @@
       "example_titles": [
         "AI 에이전트, 기업 실운용 체계 본격 진입 — \"혼돈도 함께\"",
         "AI 에이전트 실운용 시대 개막 — Claude·OpenClaw가 가져온 거버넌스 공백의 현실"
-      ]
-    },
-    "google-gemini-live-agentic": {
-      "count": 1,
-      "first_seen": "2026-09-01",
-      "last_seen": "2026-09-01",
-      "status": "normal",
-      "example_titles": [
-        "Google Gemini Live, 실제 업무 처리하는 에이전트형 AI 비서로 업그레이드"
-      ]
-    },
-    "kaist-nus-hidden-camera-ai": {
-      "count": 1,
-      "first_seen": "2026-09-01",
-      "last_seen": "2026-09-01",
-      "status": "normal",
-      "example_titles": [
-        "KAIST·싱가포르대, AI 기반 저비용 몰래카메라 탐지 기술 개발"
-      ]
-    },
-    "anthropic-infostealer-incident": {
-      "count": 1,
-      "first_seen": "2026-09-01",
-      "last_seen": "2026-09-01",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, Claude 계정 인포스틸러 피해 대응 — 로그아웃 강제·결제 정보 삭제"
       ]
     },
     "korea-skt-naver-cybersecurity-ai": {
@@ -276,19 +212,20 @@
       ]
     },
     "llm-benchmark-leaderboard-sept2026": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-08",
-      "status": "normal",
+      "last_seen": "2026-09-09",
+      "status": "saturated",
       "example_titles": [
         "2026년 9월 LLM 벤치마크 현황 — Grok 4.3 AIME 100%, Claude Opus 4.7 SWE-Bench 87.6%",
-        "2026년 9월 LLM 리더보드 — Claude Fable 5.1, 종합 지수 1위 석권"
+        "2026년 9월 LLM 리더보드 — Claude Fable 5.1, 종합 지수 1위 석권",
+        "2026년 9월 LLM 리더보드 — Claude Fable 5.1 종합 1위, GPT-6 Astra 2위"
       ]
     },
     "enterprise-ai-agent-autonomy-limit": {
       "count": 4,
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "status": "saturated",
       "example_titles": [
         "기업 AI 에이전트 성공의 역설 — 자율성 줄인 기업이 성과 낸다",
@@ -480,12 +417,12 @@
     "anthropic-ipo-965b-2026": {
       "count": 3,
       "first_seen": "2026-09-06",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "status": "saturated",
       "example_titles": [
         "Anthropic, 9월·10월 나스닥 상장 추진 — 기업가치 $9,650억 논의",
-        "Anthropic, 9월·10월 나스닥 상장 추진 — 기업가치 $9,650억 논의",
-        "Anthropic, Labor Day 직후 S-1 공개 임박 — 기업가치 9,650억 달러 나스닥 상장 본격화"
+        "Anthropic, Labor Day 직후 S-1 공개 임박 — 기업가치 9,650억 달러 나스닥 상장 본격화",
+        "Anthropic IPO S-1 공개 임박 — 기업가치 9,650억 달러 나스닥 상장 본격화"
       ]
     },
     "nscale-anthropic-45b-ipo": {
@@ -505,7 +442,6 @@
       "status": "saturated",
       "example_titles": [
         "Q3 2026 AI 스타트업 투자 사상 최대 — 인프라·국방 AI 주도",
-        "Q3 2026 AI 스타트업 투자 사상 최대 — 인프라·국방 AI 주도",
         "AI 스타트업 Q3 2026 투자 사상 최대 — Shield AI $15억 등 인프라·국방 AI 주도"
       ]
     },
@@ -521,23 +457,21 @@
     "california-sb1047-2026": {
       "count": 3,
       "first_seen": "2026-09-06",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "status": "saturated",
       "example_titles": [
         "캘리포니아 SB 1047 AI 안전법, 9월 30일 주지사 서명·거부 데드라인",
-        "캘리포니아 SB 1047 AI 안전법, 9월 30일 주지사 서명·거부 데드라인",
-        "캘리포니아 SB 1047 AI 안전법, 9월 30일 주지사 서명·거부 데드라인 — 빅테크 vs 스타트업 로비 최고조"
+        "캘리포니아 SB 1047 AI 안전법, 9월 30일 주지사 서명·거부 마감 — 빅테크 vs 스타트업 로비 최고조"
       ]
     },
     "eu-ai-act-audits-sept2026": {
       "count": 3,
       "first_seen": "2026-09-06",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "status": "saturated",
       "example_titles": [
         "EU AI Act 9월 기술 감사 시작 — 고위험 AI 시스템 위반 시 즉각 시장 퇴출·7% 과징금",
-        "EU AI Act 9월 기술 감사 시작 — 고위험 AI 위반 시 즉각 시장 퇴출·매출 7% 과징금",
-        "EU AI Act, 9월 기술 감사 개시 — 고위험 AI 위반 시 즉각 시장 퇴출·매출 7% 과징금"
+        "EU AI Act 9월 기술 감사 개시 — 고위험 AI 위반 시 즉각 시장 퇴출·매출 7% 과징금"
       ]
     },
     "china-cybersec-law-2026": {
@@ -569,66 +503,73 @@
       ]
     },
     "openai-gpt56-sol-terra-luna": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-08",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "status": "normal",
       "example_titles": [
+        "OpenAI, GPT-5.6 Sol·Terra·Luna 공개 — 미국 정부 파트너 한정 프리뷰",
         "OpenAI, GPT-5.6 Sol·Terra·Luna 공개 — 미국 정부 파트너 한정 프리뷰"
       ]
     },
     "microsoft-project-zenith-ai": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-08",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "status": "normal",
       "example_titles": [
+        "Microsoft, AI 개발자용 Windows 11 'Project Zenith' 공개 — 64GB RAM·로컬 30B 모델 지원",
         "Microsoft, AI 개발자용 Windows 11 'Project Zenith' 공개 — 64GB RAM·로컬 30B 모델 지원"
       ]
     },
     "mistral-ocr4-enterprise": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-08",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "status": "normal",
       "example_titles": [
+        "Mistral, OCR 4 출시 — 문서 추출을 엔터프라이즈 AI 완결 플랫폼으로",
         "Mistral, OCR 4 출시 — 문서 추출을 엔터프라이즈 AI 완결 플랫폼으로"
       ]
     },
     "kakao-ifkakao26-kanana": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-08",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "status": "normal",
       "example_titles": [
+        "카카오, 'if(kakao)26' 10월 개최 — AI 전략·대화형 AI '카나나' 공개 예정",
         "카카오, 'if(kakao)26' 10월 개최 — AI 전략·대화형 AI '카나나' 공개 예정"
       ]
     },
     "nvidia-huggingface-acquisition": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-08",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "status": "normal",
       "example_titles": [
+        "Nvidia, Hugging Face 129억 달러 인수 확정 — 오픈소스 AI 플랫폼 3백만 모델 품는다",
         "Nvidia, Hugging Face 129억 달러 인수 확정 — 오픈소스 AI 플랫폼 3백만 모델 품는다"
       ]
     },
     "anthropic-decart-acquisition": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-08",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "status": "normal",
       "example_titles": [
-        "Anthropic, Decart 70억 달러 인수 협상 최종 단계 — Nvidia 제치고 딜 선점"
+        "Anthropic, Decart 70억 달러 인수 협상 최종 단계 — Nvidia 제치고 딜 선점",
+        "Anthropic, Decart 60억 달러 인수 협상 결렬 — IPO 앞두고 복잡성 회피"
       ]
     },
     "kr-samsung-skhynix-ai-semicon": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-08",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "status": "normal",
       "example_titles": [
-        "삼성전자·SK하이닉스, 외국인·기관 AI 반도체 기대감에 순매수 — 엔비디아 실적 분수령"
+        "삼성전자·SK하이닉스, 외국인·기관 AI 반도체 기대감에 순매수 — 엔비디아 실적 분수령",
+        "삼성전자·SK하이닉스 AI 메모리 반도체 상반기 재고 13조 증가 — AI 수요 급증 대응"
       ]
     }
   }
