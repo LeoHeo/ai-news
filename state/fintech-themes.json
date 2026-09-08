@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updated": "2026-09-08",
+  "updated": "2026-09-09",
   "window_days": 7,
   "themes": [
     {
       "keyword": "us-fintech-regulation",
-      "count": 95,
+      "count": 96,
       "first_seen": "2026-05-24",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "articles": [
         "regulation-embedded-regs-june11",
         "embedded-finance-us-regs-june12",
@@ -89,14 +89,15 @@
         "regulation-obbba-fintech-2026-09-06",
         "payments-pace-act",
         "regulation-affirm-baas",
-        "regulation-affirm-baas-2026-09-08"
+        "regulation-affirm-baas-2026-09-08",
+        "regulation-embedded-finance-us-2026-09-09"
       ]
     },
     {
       "keyword": "smb-crossborder-fintech-savings",
-      "count": 42,
+      "count": 43,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-09-05",
+      "last_seen": "2026-09-09",
       "articles": [
         "remittance-smb-fintech-growth",
         "remittance-smb-crossborder-2026-07-06",
@@ -139,14 +140,15 @@
         "payments-smb-36pct-2026-08-30",
         "payments-smb-crossborder-2026-09-01",
         "remittance-wise-q2-2026-09-04",
-        "remittance-smb-36pct"
+        "remittance-smb-36pct",
+        "remittance-smb-crossborder-2026-09-09"
       ]
     },
     {
       "keyword": "fintech-vc-forecast-2026",
-      "count": 45,
+      "count": 46,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "articles": [
         "investment-fintech-crunchbase",
         "investment-vc-trends-2026-2026-07-14",
@@ -192,7 +194,8 @@
         "investment-fintech-h1-funding",
         "investment-kpmg-h1-2026-09-06",
         "investment-h1-funding",
-        "investment-h1-funding-2026-09-08"
+        "investment-h1-funding-2026-09-08",
+        "investment-fintech-funding-roundup-2026-09-09"
       ]
     },
     {
@@ -294,9 +297,9 @@
     },
     {
       "keyword": "embedded-payments-b2b-platform",
-      "count": 8,
+      "count": 9,
       "first_seen": "2026-08-13",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "articles": [
         "embedded-payments-competition-2026-08-13",
         "payments-embedded-90pct-2026-08-18",
@@ -305,7 +308,8 @@
         "payments-embedded-90pct-2026-08-28",
         "payments-visa-b2b-2026-09-04",
         "investment-embedded-payments-ma",
-        "investment-embedded-ma-2026-09-08"
+        "investment-embedded-ma-2026-09-08",
+        "payments-embedded-ma-target-2026-09-09"
       ]
     },
     {
@@ -351,9 +355,9 @@
     },
     {
       "keyword": "eu-bnpl-consumer-credit-2026",
-      "count": 15,
+      "count": 16,
       "first_seen": "2026-08-20",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-09",
       "articles": [
         "lending-eu-bnpl-2026-08-20",
         "lending-eu-bnpl-2026-08-23",
@@ -369,14 +373,15 @@
         "lending-eu-bnpl-ccd2-2026-09-03",
         "regulation-eu-bnpl-2026-09-04",
         "lending-eu-bnpl-ccd2-2026-09-06",
-        "regulation-eu-bnpl"
+        "regulation-eu-bnpl",
+        "lending-eu-bnpl-ccd2-2026-09-09"
       ]
     },
     {
       "keyword": "fintechos-profitability-ai",
-      "count": 15,
+      "count": 16,
       "first_seen": "2026-08-23",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "articles": [
         "digital-banking-fintechos-profitability-2026-08-23",
         "digital-banking-fintechos-profitability-2026-08-24",
@@ -392,7 +397,8 @@
         "digital-banking-fintechos",
         "digital-banking-fintechos-2026-09-06",
         "digital-banking-fintechos",
-        "digital-banking-fintechos-2026-09-08"
+        "digital-banking-fintechos-2026-09-08",
+        "digital-banking-fintechos-profitability-2026-09-09"
       ]
     },
     {
@@ -413,17 +419,6 @@
       ]
     },
     {
-      "keyword": "banks-fintechs-crossborder-unbundle",
-      "count": 3,
-      "first_seen": "2026-08-28",
-      "last_seen": "2026-09-01",
-      "articles": [
-        "remittance-banks-fintechs-crossborder-2026-08-28",
-        "remittance-banks-fintechs-crossborder-2026-08-31",
-        "remittance-banks-fintechs-crossborder-2026-09-01"
-      ]
-    },
-    {
       "keyword": "mastercard-bvnk-close",
       "count": 5,
       "first_seen": "2026-08-29",
@@ -434,30 +429,6 @@
         "payments-mastercard-bvnk-close-2026-08-31",
         "payments-mastercard-bvnk-close",
         "payments-mastercard-bvnk-close-2026-09-03"
-      ]
-    },
-    {
-      "keyword": "standard-chartered-hkdap",
-      "count": 4,
-      "first_seen": "2026-08-29",
-      "last_seen": "2026-09-01",
-      "articles": [
-        "payments-sc-hkdap-2026-08-29",
-        "payments-sc-hkdap-2026-08-30",
-        "payments-sc-hkdap-2026-08-31",
-        "payments-sc-hkdap-2026-09-01"
-      ]
-    },
-    {
-      "keyword": "remitly-q2-2026-record",
-      "count": 4,
-      "first_seen": "2026-08-29",
-      "last_seen": "2026-09-01",
-      "articles": [
-        "remittance-remitly-q2-2026-08-29",
-        "remittance-remitly-q2-2026-08-30",
-        "remittance-remitly-q2-2026-08-31",
-        "investment-remitly-q2-2026-09-01"
       ]
     },
     {
@@ -474,24 +445,6 @@
         "regulation-genius-act-nprm-2026-09-04",
         "regulation-stablecoin-genius",
         "regulation-genius-nprm-2026-09-06"
-      ]
-    },
-    {
-      "keyword": "bok-cbdc-live-pilot",
-      "count": 1,
-      "first_seen": "2026-09-01",
-      "last_seen": "2026-09-01",
-      "articles": [
-        "digital-banking-bok-cbdc-live"
-      ]
-    },
-    {
-      "keyword": "kpmg-pulse-fintech-h1-2026",
-      "count": 1,
-      "first_seen": "2026-09-01",
-      "last_seen": "2026-09-01",
-      "articles": [
-        "investment-kpmg-pulse-h1-2026"
       ]
     },
     {
@@ -562,13 +515,14 @@
     },
     {
       "keyword": "regulation-cfpb-1033",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-09-02",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-09",
       "articles": [
         "regulation-cfpb-1033",
         "regulation-cfpb-1033-2026-09-03",
-        "lending-cfpb-1033-2026-09-04"
+        "lending-cfpb-1033-2026-09-04",
+        "regulation-cfpb-1033-2026-09-09"
       ]
     },
     {
@@ -592,14 +546,15 @@
     },
     {
       "keyword": "moss-fintech-unicorn-series-c",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-09-03",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "articles": [
         "investment-moss-unicorn-2026-09-03",
         "investment-moss-unicorn-2026-09-04",
         "investment-moss-unicorn",
-        "investment-moss-unicorn-2026-09-08"
+        "investment-moss-unicorn-2026-09-08",
+        "investment-moss-unicorn-2026-09-09"
       ]
     },
     {
@@ -667,11 +622,12 @@
     },
     {
       "keyword": "revolut-occ-us-bank-charter",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-06",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-09",
       "articles": [
-        "digital-banking-revolut-occ-2026-09-06"
+        "digital-banking-revolut-occ-2026-09-06",
+        "regulation-revolut-occ-2026-09-09"
       ]
     },
     {
@@ -739,52 +695,93 @@
     },
     {
       "keyword": "increase-bank-fintech-launch",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "articles": [
         "digital-banking-increase-bank",
-        "digital-banking-increase-2026-09-08"
+        "digital-banking-increase-2026-09-08",
+        "digital-banking-increase-bank-2026-09-09"
       ]
     },
     {
       "keyword": "nubank-q1-2026-results",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "articles": [
         "digital-banking-nubank-q1",
-        "digital-banking-nubank-2026-09-08"
+        "digital-banking-nubank-2026-09-08",
+        "digital-banking-nubank-q1-2026-09-09"
       ]
     },
     {
       "keyword": "natwest-ai-fintech-programme",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "articles": [
         "digital-banking-natwest-ai",
-        "digital-banking-natwest-2026-09-08"
+        "digital-banking-natwest-2026-09-08",
+        "digital-banking-natwest-ai-2026-09-09"
       ]
     },
     {
       "keyword": "ant-international-fundraise-2026",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "articles": [
         "investment-ant-international",
-        "investment-ant-international-2026-09-08"
+        "investment-ant-international-2026-09-08",
+        "investment-ant-international-1bn-2026-09-09"
       ]
     },
     {
       "keyword": "fintechs-trade-finance-expansion",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "articles": [
         "payments-fintechs-trade-finance",
-        "payments-trade-finance-2026-09-08"
+        "payments-trade-finance-2026-09-08",
+        "payments-fintechs-trade-finance-2026-09-09"
+      ]
+    },
+    {
+      "keyword": "infinite-erebor-stablecoin-rail",
+      "count": 1,
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "articles": [
+        "payments-infinite-erebor-stablecoin-2026-09-09"
+      ]
+    },
+    {
+      "keyword": "sokin-series-b-global-payments",
+      "count": 1,
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "articles": [
+        "payments-sokin-50m-2026-09-09"
+      ]
+    },
+    {
+      "keyword": "samsung-naver-pay-integration-korea",
+      "count": 1,
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "articles": [
+        "payments-samsung-naver-pay-2026-09-09"
+      ]
+    },
+    {
+      "keyword": "mollie-gocardless-open-banking",
+      "count": 1,
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "articles": [
+        "investment-mollie-gocardless-2026-09-09"
       ]
     }
   ]
