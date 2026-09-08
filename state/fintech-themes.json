@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updated": "2026-09-07",
+  "updated": "2026-09-08",
   "window_days": 7,
   "themes": [
     {
       "keyword": "us-fintech-regulation",
-      "count": 94,
+      "count": 95,
       "first_seen": "2026-05-24",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "articles": [
         "regulation-embedded-regs-june11",
         "embedded-finance-us-regs-june12",
@@ -88,7 +88,8 @@
         "regulation-us-inflection",
         "regulation-obbba-fintech-2026-09-06",
         "payments-pace-act",
-        "regulation-affirm-baas"
+        "regulation-affirm-baas",
+        "regulation-affirm-baas-2026-09-08"
       ]
     },
     {
@@ -143,9 +144,9 @@
     },
     {
       "keyword": "fintech-vc-forecast-2026",
-      "count": 44,
+      "count": 45,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "articles": [
         "investment-fintech-crunchbase",
         "investment-vc-trends-2026-2026-07-14",
@@ -190,7 +191,8 @@
         "investment-cbinsights-vc-2026-09-04",
         "investment-fintech-h1-funding",
         "investment-kpmg-h1-2026-09-06",
-        "investment-h1-funding"
+        "investment-h1-funding",
+        "investment-h1-funding-2026-09-08"
       ]
     },
     {
@@ -237,9 +239,9 @@
     },
     {
       "keyword": "india-upi-japan-expansion",
-      "count": 20,
+      "count": 21,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "articles": [
         "remittance-upi-japan-2026-08-04",
         "remittance-india-upi-japan-2026-08-05",
@@ -260,14 +262,15 @@
         "remittance-india-upi-japan",
         "remittance-india-upi-japan-2026-09-03",
         "remittance-upi-japan-2026-09-04",
-        "remittance-upi-japan"
+        "remittance-upi-japan",
+        "remittance-upi-japan-2026-09-08"
       ]
     },
     {
       "keyword": "n5deal-fintechs-outacquire",
-      "count": 17,
+      "count": 18,
       "first_seen": "2026-08-06",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "articles": [
         "investment-n5deal-outacquire-2026-08-06",
         "n5deal-fintechs-outacquire-2026-08-07",
@@ -285,14 +288,15 @@
         "investment-n5deal-ma-2026-08-30",
         "investment-n5deal-ma-2026-08-31",
         "investment-n5deal-ma",
-        "investment-fintechs-outacquire"
+        "investment-fintechs-outacquire",
+        "investment-fintechs-outacquire-2026-09-08"
       ]
     },
     {
       "keyword": "embedded-payments-b2b-platform",
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-08-13",
-      "last_seen": "2026-09-05",
+      "last_seen": "2026-09-08",
       "articles": [
         "embedded-payments-competition-2026-08-13",
         "payments-embedded-90pct-2026-08-18",
@@ -300,7 +304,8 @@
         "payments-embedded-finance-next-phase-2026-08-22",
         "payments-embedded-90pct-2026-08-28",
         "payments-visa-b2b-2026-09-04",
-        "investment-embedded-payments-ma"
+        "investment-embedded-payments-ma",
+        "investment-embedded-ma-2026-09-08"
       ]
     },
     {
@@ -368,40 +373,10 @@
       ]
     },
     {
-      "keyword": "navi-prosus-india-ipo",
-      "count": 5,
-      "first_seen": "2026-08-21",
-      "last_seen": "2026-08-30",
-      "articles": [
-        "investment-navi-prosus-india-ipo",
-        "investment-navi-prosus-2026-08-22",
-        "investment-navi-prosus-2026-08-25",
-        "lending-navi-prosus-2026-08-29",
-        "investment-navi-prosus-2026-08-30"
-      ]
-    },
-    {
-      "keyword": "rain-agentic-payments-alliance",
-      "count": 9,
-      "first_seen": "2026-08-22",
-      "last_seen": "2026-08-30",
-      "articles": [
-        "payments-rain-agentic-payments-coalition-2026-08-22",
-        "payments-rain-agentic-alliance-2026-08-23",
-        "payments-rain-agentic-alliance-2026-08-24",
-        "payments-rain-agentic-alliance-2026-08-25",
-        "payments-rain-agentic-alliance-2026-08-26",
-        "payments-rain-apa-2026-08-27",
-        "payments-rain-apa-2026-08-28",
-        "payments-rain-agentic-alliance-2026-08-29",
-        "payments-rain-apa-2026-08-30"
-      ]
-    },
-    {
       "keyword": "fintechos-profitability-ai",
-      "count": 14,
+      "count": 15,
       "first_seen": "2026-08-23",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "articles": [
         "digital-banking-fintechos-profitability-2026-08-23",
         "digital-banking-fintechos-profitability-2026-08-24",
@@ -416,7 +391,8 @@
         "digital-banking-fintechos-2026-09-04",
         "digital-banking-fintechos",
         "digital-banking-fintechos-2026-09-06",
-        "digital-banking-fintechos"
+        "digital-banking-fintechos",
+        "digital-banking-fintechos-2026-09-08"
       ]
     },
     {
@@ -498,15 +474,6 @@
         "regulation-genius-act-nprm-2026-09-04",
         "regulation-stablecoin-genius",
         "regulation-genius-nprm-2026-09-06"
-      ]
-    },
-    {
-      "keyword": "vanguard-altruist-acquisition",
-      "count": 1,
-      "first_seen": "2026-08-31",
-      "last_seen": "2026-08-31",
-      "articles": [
-        "investment-vanguard-altruist-2026-08-31"
       ]
     },
     {
@@ -625,13 +592,14 @@
     },
     {
       "keyword": "moss-fintech-unicorn-series-c",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-09-03",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "articles": [
         "investment-moss-unicorn-2026-09-03",
         "investment-moss-unicorn-2026-09-04",
-        "investment-moss-unicorn"
+        "investment-moss-unicorn",
+        "investment-moss-unicorn-2026-09-08"
       ]
     },
     {
@@ -771,47 +739,52 @@
     },
     {
       "keyword": "increase-bank-fintech-launch",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "articles": [
-        "digital-banking-increase-bank"
+        "digital-banking-increase-bank",
+        "digital-banking-increase-2026-09-08"
       ]
     },
     {
       "keyword": "nubank-q1-2026-results",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "articles": [
-        "digital-banking-nubank-q1"
+        "digital-banking-nubank-q1",
+        "digital-banking-nubank-2026-09-08"
       ]
     },
     {
       "keyword": "natwest-ai-fintech-programme",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "articles": [
-        "digital-banking-natwest-ai"
+        "digital-banking-natwest-ai",
+        "digital-banking-natwest-2026-09-08"
       ]
     },
     {
       "keyword": "ant-international-fundraise-2026",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "articles": [
-        "investment-ant-international"
+        "investment-ant-international",
+        "investment-ant-international-2026-09-08"
       ]
     },
     {
       "keyword": "fintechs-trade-finance-expansion",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "articles": [
-        "payments-fintechs-trade-finance"
+        "payments-fintechs-trade-finance",
+        "payments-trade-finance-2026-09-08"
       ]
     }
   ]
