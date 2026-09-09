@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-09-09",
+  "updated": "2026-09-10",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -22,99 +22,6 @@
       "example_titles": [
         "AI 에이전트, 기업 실운용 체계 본격 진입 — \"혼돈도 함께\"",
         "AI 에이전트 실운용 시대 개막 — Claude·OpenClaw가 가져온 거버넌스 공백의 현실"
-      ]
-    },
-    "korea-skt-naver-cybersecurity-ai": {
-      "count": 2,
-      "first_seen": "2026-08-30",
-      "last_seen": "2026-09-02",
-      "status": "normal",
-      "example_titles": [
-        "SKT·네이버클라우드, 사이버보안 AI 시장 정면 경쟁 돌입",
-        "SKT vs 네이버, 사이버보안 AI 경쟁 본격화"
-      ]
-    },
-    "anthropic-claude-code-limits-cut": {
-      "count": 2,
-      "first_seen": "2026-09-01",
-      "last_seen": "2026-09-02",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, Claude Code 주간 사용 한도 9월 14일부터 17% 감소",
-        "Anthropic, Claude Code 주간 한도 17% 삭감 논란"
-      ]
-    },
-    "google-deepmind-weather-lab": {
-      "count": 2,
-      "first_seen": "2026-09-01",
-      "last_seen": "2026-09-02",
-      "status": "normal",
-      "example_titles": [
-        "Google DeepMind, 허리케인 예측 AI 'Weather Lab' 공개 — 미국 국립허리케인센터 실전 채택",
-        "Google DeepMind, AI 기상 모델로 사이클론 예측 정확도 혁신"
-      ]
-    },
-    "runway-solaris-interface-wm": {
-      "count": 1,
-      "first_seen": "2026-09-02",
-      "last_seen": "2026-09-02",
-      "status": "normal",
-      "example_titles": [
-        "Runway, 세계 최초 인터페이스 세계 모델 'Solaris' 공개"
-      ]
-    },
-    "deepseek-v4-flash-vision": {
-      "count": 1,
-      "first_seen": "2026-09-02",
-      "last_seen": "2026-09-02",
-      "status": "normal",
-      "example_titles": [
-        "DeepSeek, 첫 네이티브 비전 모델 V4-Flash-Vision-Exp 공개"
-      ]
-    },
-    "pentagon-genai-mil-multi": {
-      "count": 1,
-      "first_seen": "2026-09-02",
-      "last_seen": "2026-09-02",
-      "status": "normal",
-      "example_titles": [
-        "미 국방부, 자체 ChatGPT·Grok 플랫폼 'GenAI.mil' 출시"
-      ]
-    },
-    "openai-webmcp-site-tools": {
-      "count": 1,
-      "first_seen": "2026-09-02",
-      "last_seen": "2026-09-02",
-      "status": "normal",
-      "example_titles": [
-        "ChatGPT, WebMCP 지원으로 외부 사이트 직접 연동"
-      ]
-    },
-    "eurohpc-lumi-ai-amd": {
-      "count": 1,
-      "first_seen": "2026-09-02",
-      "last_seen": "2026-09-02",
-      "status": "normal",
-      "example_titles": [
-        "EuroHPC, LUMI-AI 슈퍼컴퓨터 AMD 계약 3,878억 원 체결"
-      ]
-    },
-    "clay-ai-gtm-funding": {
-      "count": 1,
-      "first_seen": "2026-09-02",
-      "last_seen": "2026-09-02",
-      "status": "normal",
-      "example_titles": [
-        "AI GTM 플랫폼 Clay, 기업가치 70억 달러 시리즈 D 조달"
-      ]
-    },
-    "korea-ai-budget-2027": {
-      "count": 1,
-      "first_seen": "2026-09-02",
-      "last_seen": "2026-09-02",
-      "status": "normal",
-      "example_titles": [
-        "한국, 2027년 AI R&D 예산 69% 증액 확정"
       ]
     },
     "anthropic-fable51-mythos51": {
@@ -201,14 +108,15 @@
       ]
     },
     "grok47-delay-spacex-data": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-10",
       "status": "saturated",
       "example_titles": [
         "SpaceXAI, Grok 4.7 출시 9월로 지연 — SpaceX 데이터 추가 훈련 중",
         "SpaceXAI, Grok 4.7 9월 12일 출시 예고 — 2.1조 파라미터, 전 모델 제압 목표",
-        "SpaceXAI, Grok 4.7 9월 12일 출시 확정 — 2.1조 파라미터 전작 전 영역 제압 목표"
+        "SpaceXAI, Grok 4.7 9월 12일 출시 확정 — 2.1조 파라미터 전작 전 영역 제압 목표",
+        "SpaceXAI, Grok 4.7 9월 12일 출시 확정 — 2.1조 파라미터 전 벤치마크 석권 목표"
       ]
     },
     "llm-benchmark-leaderboard-sept2026": {
@@ -223,15 +131,16 @@
       ]
     },
     "enterprise-ai-agent-autonomy-limit": {
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-10",
       "status": "saturated",
       "example_titles": [
         "기업 AI 에이전트 성공의 역설 — 자율성 줄인 기업이 성과 낸다",
         "AI 에이전트 성공 기업들, 에이전트 자율성 의도적으로 제한 중",
         "기업 AI 에이전트 성공 기업들, 에이전트 자율성을 의도적으로 제한 중",
-        "기업 AI 에이전트 성공의 역설 — 자율성 줄인 기업이 성과 낸다 (재확인)"
+        "기업 AI 에이전트 성공의 역설 — 자율성 줄인 기업이 성과 낸다 (재확인)",
+        "기업 AI 에이전트 성공의 역설 — 자율성 줄인 기업이 성과 낸다 (5회)"
       ]
     },
     "gemini-notebook-compute-limits": {
@@ -415,14 +324,15 @@
       ]
     },
     "anthropic-ipo-965b-2026": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-09-06",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-10",
       "status": "saturated",
       "example_titles": [
         "Anthropic, 9월·10월 나스닥 상장 추진 — 기업가치 $9,650억 논의",
         "Anthropic, Labor Day 직후 S-1 공개 임박 — 기업가치 9,650억 달러 나스닥 상장 본격화",
-        "Anthropic IPO S-1 공개 임박 — 기업가치 9,650억 달러 나스닥 상장 본격화"
+        "Anthropic IPO S-1 공개 임박 — 기업가치 9,650억 달러 나스닥 상장 본격화",
+        "Anthropic IPO, 9월·10월 나스닥 상장 본격화 — 기업가치 9,650억 달러 S-1 임박"
       ]
     },
     "nscale-anthropic-45b-ipo": {
@@ -455,9 +365,9 @@
       ]
     },
     "california-sb1047-2026": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-09-06",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-10",
       "status": "saturated",
       "example_titles": [
         "캘리포니아 SB 1047 AI 안전법, 9월 30일 주지사 서명·거부 데드라인",
@@ -465,9 +375,9 @@
       ]
     },
     "eu-ai-act-audits-sept2026": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-09-06",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-10",
       "status": "saturated",
       "example_titles": [
         "EU AI Act 9월 기술 감사 시작 — 고위험 AI 시스템 위반 시 즉각 시장 퇴출·7% 과징금",
@@ -503,73 +413,107 @@
       ]
     },
     "openai-gpt56-sol-terra-luna": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-09-08",
-      "last_seen": "2026-09-09",
-      "status": "normal",
+      "last_seen": "2026-09-10",
+      "status": "saturated",
       "example_titles": [
         "OpenAI, GPT-5.6 Sol·Terra·Luna 공개 — 미국 정부 파트너 한정 프리뷰",
-        "OpenAI, GPT-5.6 Sol·Terra·Luna 공개 — 미국 정부 파트너 한정 프리뷰"
+        "OpenAI, GPT-5.6 Sol·Terra·Luna 공개 — 미국 정부 파트너 한정 프리뷰",
+        "OpenAI, GPT-5.6 Sol·Terra·Luna 공개 — 미국 정부 파트너 한정 프리뷰 (3회)"
       ]
     },
     "microsoft-project-zenith-ai": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-09-08",
-      "last_seen": "2026-09-09",
-      "status": "normal",
+      "last_seen": "2026-09-10",
+      "status": "saturated",
       "example_titles": [
         "Microsoft, AI 개발자용 Windows 11 'Project Zenith' 공개 — 64GB RAM·로컬 30B 모델 지원",
-        "Microsoft, AI 개발자용 Windows 11 'Project Zenith' 공개 — 64GB RAM·로컬 30B 모델 지원"
+        "Microsoft, AI 개발자용 Windows 11 'Project Zenith' 공개 — 64GB RAM·로컬 30B 모델 지원",
+        "Microsoft, AI 개발자용 Windows 11 'Project Zenith' 공개 — 64GB RAM·로컬 30B 모델 지원 (3회)"
       ]
     },
     "mistral-ocr4-enterprise": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-09-08",
-      "last_seen": "2026-09-09",
-      "status": "normal",
+      "last_seen": "2026-09-10",
+      "status": "saturated",
       "example_titles": [
         "Mistral, OCR 4 출시 — 문서 추출을 엔터프라이즈 AI 완결 플랫폼으로",
-        "Mistral, OCR 4 출시 — 문서 추출을 엔터프라이즈 AI 완결 플랫폼으로"
+        "Mistral, OCR 4 출시 — 문서 추출을 엔터프라이즈 AI 완결 플랫폼으로",
+        "Mistral, OCR 4 출시 — 문서 추출을 엔터프라이즈 AI 완결 플랫폼으로 (3회)"
       ]
     },
     "kakao-ifkakao26-kanana": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-09-08",
-      "last_seen": "2026-09-09",
-      "status": "normal",
+      "last_seen": "2026-09-10",
+      "status": "saturated",
       "example_titles": [
         "카카오, 'if(kakao)26' 10월 개최 — AI 전략·대화형 AI '카나나' 공개 예정",
-        "카카오, 'if(kakao)26' 10월 개최 — AI 전략·대화형 AI '카나나' 공개 예정"
+        "카카오, 'if(kakao)26' 10월 개최 — AI 전략·대화형 AI '카나나' 공개 예정",
+        "카카오, 'if(kakao)26' 10월 개최 — AI 전략·대화형 AI '카나나' 공개 예정 (3회)"
       ]
     },
     "nvidia-huggingface-acquisition": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-09-08",
-      "last_seen": "2026-09-09",
-      "status": "normal",
+      "last_seen": "2026-09-10",
+      "status": "saturated",
       "example_titles": [
         "Nvidia, Hugging Face 129억 달러 인수 확정 — 오픈소스 AI 플랫폼 3백만 모델 품는다",
-        "Nvidia, Hugging Face 129억 달러 인수 확정 — 오픈소스 AI 플랫폼 3백만 모델 품는다"
+        "Nvidia, Hugging Face 129억 달러 인수 확정 — 오픈소스 AI 플랫폼 3백만 모델 품는다",
+        "Nvidia, Hugging Face 129억 달러 인수 확정 — 오픈소스 AI 플랫폼 300만 모델 품는다"
       ]
     },
     "anthropic-decart-acquisition": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-09-08",
-      "last_seen": "2026-09-09",
-      "status": "normal",
+      "last_seen": "2026-09-10",
+      "status": "saturated",
       "example_titles": [
         "Anthropic, Decart 70억 달러 인수 협상 최종 단계 — Nvidia 제치고 딜 선점",
-        "Anthropic, Decart 60억 달러 인수 협상 결렬 — IPO 앞두고 복잡성 회피"
+        "Anthropic, Decart 60억 달러 인수 협상 결렬 — IPO 앞두고 복잡성 회피",
+        "Anthropic, Decart 60억 달러 인수 협상 결렬 — IPO 앞두고 복잡성 회피 (3회)"
       ]
     },
     "kr-samsung-skhynix-ai-semicon": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-09-08",
-      "last_seen": "2026-09-09",
-      "status": "normal",
+      "last_seen": "2026-09-10",
+      "status": "saturated",
       "example_titles": [
         "삼성전자·SK하이닉스, 외국인·기관 AI 반도체 기대감에 순매수 — 엔비디아 실적 분수령",
-        "삼성전자·SK하이닉스 AI 메모리 반도체 상반기 재고 13조 증가 — AI 수요 급증 대응"
+        "삼성전자·SK하이닉스 AI 메모리 반도체 상반기 재고 13조 증가 — AI 수요 급증 대응",
+        "삼성전자·SK하이닉스, AI 메모리 반도체 재고 급증 속 외국인·기관 순매수 유입"
+      ]
+    },
+    "deepseek-v41-flash-launch": {
+      "count": 1,
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "status": "normal",
+      "example_titles": [
+        "DeepSeek, V4.1 Flash 멀티모달 모델 정식 출시 — V4 Pro 전 지표 압도"
+      ]
+    },
+    "us-china-ai-distillation-advisory": {
+      "count": 1,
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "status": "normal",
+      "example_titles": [
+        "NSA·CISA·FBI, DeepSeek·알리바바 등 중국 AI 6사 산업적 규모 모델 증류 공동 경고"
+      ]
+    },
+    "spacexai-grok46-vs-sol-benchmark": {
+      "count": 1,
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "status": "normal",
+      "example_titles": [
+        "SpaceXAI Grok 4.6, GPT-5.6 Sol 다수 벤치마크에서 제압"
       ]
     }
   }
