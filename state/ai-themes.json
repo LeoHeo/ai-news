@@ -1,83 +1,9 @@
 {
   "topic": "ai",
-  "updated": "2026-09-10",
+  "updated": "2026-09-11",
   "version": 1,
   "window_days": 7,
   "themes": {
-    "ai-cyber-defense-open-letter": {
-      "count": 2,
-      "first_seen": "2026-08-29",
-      "last_seen": "2026-09-03",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI·Anthropic·구글 등 100여 개 기업, AI 사이버 공격 급증 공동 경고 서한 발표",
-        "Google·Anthropic·OpenAI, 사이버보안 AI 모델·세이프가드·접근 프로그램 동시 공개"
-      ]
-    },
-    "ai-agents-enterprise-chaos": {
-      "count": 2,
-      "first_seen": "2026-09-01",
-      "last_seen": "2026-09-03",
-      "status": "normal",
-      "example_titles": [
-        "AI 에이전트, 기업 실운용 체계 본격 진입 — \"혼돈도 함께\"",
-        "AI 에이전트 실운용 시대 개막 — Claude·OpenClaw가 가져온 거버넌스 공백의 현실"
-      ]
-    },
-    "anthropic-fable51-mythos51": {
-      "count": 1,
-      "first_seen": "2026-09-03",
-      "last_seen": "2026-09-03",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, Claude Fable 5.1·Mythos 5.1 출시 — 캐시 읽기 비용 75% 인하"
-      ]
-    },
-    "google-gemini38-flash-cyber": {
-      "count": 1,
-      "first_seen": "2026-09-03",
-      "last_seen": "2026-09-03",
-      "status": "normal",
-      "example_titles": [
-        "Google, Gemini 3.8 Flash 및 사이버보안 특화 모델 출시 — 석 달 만에 네 번째 Flash"
-      ]
-    },
-    "meta-muse-code-launch": {
-      "count": 1,
-      "first_seen": "2026-09-03",
-      "last_seen": "2026-09-03",
-      "status": "normal",
-      "example_titles": [
-        "Meta, Muse Code 정식 출시·Muse Spark 1.2 공개 — Claude Code·OpenAI Codex에 정면 도전"
-      ]
-    },
-    "samsung-claude-code-chip": {
-      "count": 1,
-      "first_seen": "2026-09-03",
-      "last_seen": "2026-09-03",
-      "status": "normal",
-      "example_titles": [
-        "삼성전자, Claude Code로 반도체 검증 기간 15배 단축 — 오류 검토는 여전히 인간 몫"
-      ]
-    },
-    "dell-ai-server-record-orders": {
-      "count": 1,
-      "first_seen": "2026-09-03",
-      "last_seen": "2026-09-03",
-      "status": "normal",
-      "example_titles": [
-        "Dell, AI 서버 주문 사상 최대 950억 달러 — 2분기 매출 58% 급증"
-      ]
-    },
-    "tripo-ai-3d-funding": {
-      "count": 1,
-      "first_seen": "2026-09-03",
-      "last_seen": "2026-09-03",
-      "status": "normal",
-      "example_titles": [
-        "Tripo AI, 시리즈 B·B+ 라운드 4,460억 원 조달 — 3D 생성 AI 대형 투자"
-      ]
-    },
     "sony-warner-anthropic-lawsuit": {
       "count": 2,
       "first_seen": "2026-09-03",
@@ -86,15 +12,6 @@
       "example_titles": [
         "Sony Music·Warner Chappell, Anthropic 저작권 침해 소송 제기 — 수십억 달러 배상 요구",
         "Sony Music·Warner Chappell, Anthropic 상대 48페이지 저작권 소송 공식 제기"
-      ]
-    },
-    "us-genesis-mission-ai-science": {
-      "count": 1,
-      "first_seen": "2026-09-03",
-      "last_seen": "2026-09-03",
-      "status": "normal",
-      "example_titles": [
-        "White House Genesis Mission, 9월 마일스톤 달성 — AI로 과학 생산성 2배 목표"
       ]
     },
     "openai-gpt6-astra-agi": {
@@ -108,15 +25,16 @@
       ]
     },
     "grok47-delay-spacex-data": {
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "status": "saturated",
       "example_titles": [
         "SpaceXAI, Grok 4.7 출시 9월로 지연 — SpaceX 데이터 추가 훈련 중",
         "SpaceXAI, Grok 4.7 9월 12일 출시 예고 — 2.1조 파라미터, 전 모델 제압 목표",
         "SpaceXAI, Grok 4.7 9월 12일 출시 확정 — 2.1조 파라미터 전작 전 영역 제압 목표",
-        "SpaceXAI, Grok 4.7 9월 12일 출시 확정 — 2.1조 파라미터 전 벤치마크 석권 목표"
+        "SpaceXAI, Grok 4.7 9월 12일 출시 확정 — 2.1조 파라미터 전 벤치마크 석권 목표",
+        "SpaceXAI Grok 4.7, 9월 12일 출시 전야 — 2.1조 파라미터·SpaceX 데이터 특화 훈련"
       ]
     },
     "llm-benchmark-leaderboard-sept2026": {
@@ -324,15 +242,16 @@
       ]
     },
     "anthropic-ipo-965b-2026": {
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-09-06",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "status": "saturated",
       "example_titles": [
         "Anthropic, 9월·10월 나스닥 상장 추진 — 기업가치 $9,650억 논의",
         "Anthropic, Labor Day 직후 S-1 공개 임박 — 기업가치 9,650억 달러 나스닥 상장 본격화",
         "Anthropic IPO S-1 공개 임박 — 기업가치 9,650억 달러 나스닥 상장 본격화",
-        "Anthropic IPO, 9월·10월 나스닥 상장 본격화 — 기업가치 9,650억 달러 S-1 임박"
+        "Anthropic IPO, 9월·10월 나스닥 상장 본격화 — 기업가치 9,650억 달러 S-1 임박",
+        "Anthropic IPO S-1 공개·나스닥 상장 9~10월 확정 — 기업가치 최대 2조 달러 목표"
       ]
     },
     "nscale-anthropic-45b-ipo": {
@@ -365,9 +284,9 @@
       ]
     },
     "california-sb1047-2026": {
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-09-06",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "status": "saturated",
       "example_titles": [
         "캘리포니아 SB 1047 AI 안전법, 9월 30일 주지사 서명·거부 데드라인",
@@ -375,9 +294,9 @@
       ]
     },
     "eu-ai-act-audits-sept2026": {
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-09-06",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "status": "saturated",
       "example_titles": [
         "EU AI Act 9월 기술 감사 시작 — 고위험 AI 시스템 위반 시 즉각 시장 퇴출·7% 과징금",
@@ -424,14 +343,15 @@
       ]
     },
     "microsoft-project-zenith-ai": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-09-08",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "status": "saturated",
       "example_titles": [
         "Microsoft, AI 개발자용 Windows 11 'Project Zenith' 공개 — 64GB RAM·로컬 30B 모델 지원",
         "Microsoft, AI 개발자용 Windows 11 'Project Zenith' 공개 — 64GB RAM·로컬 30B 모델 지원",
-        "Microsoft, AI 개발자용 Windows 11 'Project Zenith' 공개 — 64GB RAM·로컬 30B 모델 지원 (3회)"
+        "Microsoft, AI 개발자용 Windows 11 'Project Zenith' 공개 — 64GB RAM·로컬 30B 모델 지원 (3회)",
+        "Microsoft, AI 개발자용 Windows 11 'Project Zenith' 공개 — 64GB RAM·로컬 30B 모델 지원 (4회)"
       ]
     },
     "mistral-ocr4-enterprise": {
@@ -457,14 +377,15 @@
       ]
     },
     "nvidia-huggingface-acquisition": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-09-08",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "status": "saturated",
       "example_titles": [
         "Nvidia, Hugging Face 129억 달러 인수 확정 — 오픈소스 AI 플랫폼 3백만 모델 품는다",
         "Nvidia, Hugging Face 129억 달러 인수 확정 — 오픈소스 AI 플랫폼 3백만 모델 품는다",
-        "Nvidia, Hugging Face 129억 달러 인수 확정 — 오픈소스 AI 플랫폼 300만 모델 품는다"
+        "Nvidia, Hugging Face 129억 달러 인수 확정 — 오픈소스 AI 플랫폼 300만 모델 품는다",
+        "Nvidia, Hugging Face 129억 달러 인수 확정 — 300만 오픈소스 AI 모델 생태계 품는다"
       ]
     },
     "anthropic-decart-acquisition": {
@@ -514,6 +435,42 @@
       "status": "normal",
       "example_titles": [
         "SpaceXAI Grok 4.6, GPT-5.6 Sol 다수 벤치마크에서 제압"
+      ]
+    },
+    "openai-navier-stokes-millennium": {
+      "count": 1,
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI AI 에이전트 1만 개, 88시간 만에 나비에-스토크스 방정식 풀어 — 클레이 수학상 논란"
+      ]
+    },
+    "deepmind-alphagenome-atlas": {
+      "count": 1,
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "status": "normal",
+      "example_titles": [
+        "Google DeepMind, AlphaGenome Atlas 공개 — 인간 DNA 90억 개 변이 분자 효과 완전 지도화"
+      ]
+    },
+    "mistral-series-d-3b": {
+      "count": 1,
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "status": "normal",
+      "example_titles": [
+        "Mistral AI, 삼성전자 주도 3.4조 원 시리즈 D 유치 — 유럽 테크 역사상 최대 투자"
+      ]
+    },
+    "lg-spark-2026-event": {
+      "count": 1,
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "status": "normal",
+      "example_titles": [
+        "LG SPARK 2026 진행 중 — 서울 마곡에 엔비디아·구글·아마존·마이크로소프트 개발자 집결, 피지컬 AI 109가지 공개"
       ]
     }
   }
