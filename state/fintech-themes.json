@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-10",
+  "updated": "2026-09-11",
   "window_days": 7,
   "themes": [
     {
@@ -96,9 +96,9 @@
     },
     {
       "keyword": "smb-crossborder-fintech-savings",
-      "count": 43,
+      "count": 44,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-11",
       "articles": [
         "remittance-smb-fintech-growth",
         "remittance-smb-crossborder-2026-07-06",
@@ -142,14 +142,15 @@
         "payments-smb-crossborder-2026-09-01",
         "remittance-wise-q2-2026-09-04",
         "remittance-smb-36pct",
-        "remittance-smb-crossborder-2026-09-09"
+        "remittance-smb-crossborder-2026-09-09",
+        "payments-smb-36pct-2026-09-11"
       ]
     },
     {
       "keyword": "fintech-vc-forecast-2026",
-      "count": 47,
+      "count": 48,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "articles": [
         "investment-fintech-crunchbase",
         "investment-vc-trends-2026-2026-07-14",
@@ -197,7 +198,8 @@
         "investment-h1-funding",
         "investment-h1-funding-2026-09-08",
         "investment-fintech-funding-roundup-2026-09-09",
-        "investment-h1-2026-2026-09-10"
+        "investment-h1-2026-2026-09-10",
+        "investment-kpmg-h1-2026-09-11"
       ]
     },
     {
@@ -338,9 +340,9 @@
     },
     {
       "keyword": "us-remittance-oba-fee",
-      "count": 15,
+      "count": 16,
       "first_seen": "2026-08-20",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "articles": [
         "remittance-oba-fee-2026-08-20",
         "regulation-us-obbba-remittance-tax-2026-08-21",
@@ -356,7 +358,8 @@
         "remittance-us-obbba-irs-nprm",
         "regulation-obbba-irs-2026-09-03",
         "remittance-obbba-tax",
-        "remittance-obbba-tax-2026-09-10"
+        "remittance-obbba-tax-2026-09-10",
+        "remittance-obbba-irs-2026-09-11"
       ]
     },
     {
@@ -385,9 +388,9 @@
     },
     {
       "keyword": "fintechos-profitability-ai",
-      "count": 17,
+      "count": 18,
       "first_seen": "2026-08-23",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "articles": [
         "digital-banking-fintechos-profitability-2026-08-23",
         "digital-banking-fintechos-profitability-2026-08-24",
@@ -405,37 +408,8 @@
         "digital-banking-fintechos",
         "digital-banking-fintechos-2026-09-08",
         "digital-banking-fintechos-profitability-2026-09-09",
-        "digital-banking-fintechos-2026-09-10"
-      ]
-    },
-    {
-      "keyword": "kb-kookmin-kinexys-launch",
-      "count": 9,
-      "first_seen": "2026-08-25",
-      "last_seen": "2026-09-03",
-      "articles": [
-        "remittance-kb-kookmin-kinexys-2026-08-25",
-        "remittance-korea-blockchain-zdnet-2026-08-25",
-        "remittance-kb-kookmin-kinexys-2026-08-26",
-        "remittance-kb-kinexys-2026-08-27",
-        "remittance-kb-kookmin-kinexys-2026-08-28",
-        "remittance-kb-kinexys-2026-08-30",
-        "remittance-kb-kinexys-2026-08-31",
-        "remittance-kb-kinexys-2026-09-01",
-        "remittance-kb-kinexys-2026-09-03"
-      ]
-    },
-    {
-      "keyword": "mastercard-bvnk-close",
-      "count": 5,
-      "first_seen": "2026-08-29",
-      "last_seen": "2026-09-03",
-      "articles": [
-        "payments-mastercard-bvnk-close-2026-08-29",
-        "payments-mastercard-bvnk-2026-08-30",
-        "payments-mastercard-bvnk-close-2026-08-31",
-        "payments-mastercard-bvnk-close",
-        "payments-mastercard-bvnk-close-2026-09-03"
+        "digital-banking-fintechos-2026-09-10",
+        "digital-banking-fintechos-2026-09-11"
       ]
     },
     {
@@ -463,16 +437,6 @@
         "payments-dbs-stripe-mou",
         "payments-dbs-stripe-2026-09-03",
         "payments-dbs-stripe-asia-2026-09-04"
-      ]
-    },
-    {
-      "keyword": "remitly-usdc-wallet-launch",
-      "count": 2,
-      "first_seen": "2026-09-02",
-      "last_seen": "2026-09-03",
-      "articles": [
-        "remittance-remitly-usdc-wallet",
-        "remittance-remitly-usdc-2026-09-03"
       ]
     },
     {
@@ -561,11 +525,12 @@
     },
     {
       "keyword": "finovatefall-2026-conference",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-05",
+      "last_seen": "2026-09-11",
       "articles": [
-        "digital-banking-finovatefall-2026"
+        "digital-banking-finovatefall-2026",
+        "digital-banking-finovatefall-2026-09-11"
       ]
     },
     {
@@ -589,13 +554,14 @@
     },
     {
       "keyword": "revolut-occ-us-bank-charter",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-09-06",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "articles": [
         "digital-banking-revolut-occ-2026-09-06",
         "regulation-revolut-occ-2026-09-09",
-        "regulation-revolut-occ-2026-09-10"
+        "regulation-revolut-occ-2026-09-10",
+        "regulation-revolut-occ-2026-09-11"
       ]
     },
     {
@@ -746,21 +712,50 @@
     },
     {
       "keyword": "mollie-gocardless-open-banking",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-09-09",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "articles": [
         "investment-mollie-gocardless-2026-09-09",
-        "investment-mollie-gocardless-2026-09-10"
+        "investment-mollie-gocardless-2026-09-10",
+        "investment-mollie-gocardless-2026-09-11"
       ]
     },
     {
       "keyword": "kakao-pay-stablecoin-wallet",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "articles": [
-        "digital-banking-kakao-stablecoin-2026-09-10"
+        "digital-banking-kakao-stablecoin-2026-09-10",
+        "digital-banking-kakao-stablecoin-2026-09-11"
+      ]
+    },
+    {
+      "keyword": "coinbase-moov-stablecoin-banks",
+      "count": 1,
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "articles": [
+        "payments-coinbase-moov-2026-09-11"
+      ]
+    },
+    {
+      "keyword": "phonepe-visa-gff-cardless",
+      "count": 1,
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "articles": [
+        "payments-phonepe-visa-2026-09-11"
+      ]
+    },
+    {
+      "keyword": "paypay-lockup-expiry",
+      "count": 1,
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "articles": [
+        "investment-paypay-lockup-2026-09-11"
       ]
     }
   ]
