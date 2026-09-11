@@ -1,19 +1,9 @@
 {
   "topic": "ai",
-  "updated": "2026-09-11",
+  "updated": "2026-09-12",
   "version": 1,
   "window_days": 7,
   "themes": {
-    "sony-warner-anthropic-lawsuit": {
-      "count": 2,
-      "first_seen": "2026-09-03",
-      "last_seen": "2026-09-04",
-      "status": "normal",
-      "example_titles": [
-        "Sony Music·Warner Chappell, Anthropic 저작권 침해 소송 제기 — 수십억 달러 배상 요구",
-        "Sony Music·Warner Chappell, Anthropic 상대 48페이지 저작권 소송 공식 제기"
-      ]
-    },
     "openai-gpt6-astra-agi": {
       "count": 2,
       "first_seen": "2026-09-04",
@@ -25,16 +15,17 @@
       ]
     },
     "grok47-delay-spacex-data": {
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "status": "saturated",
       "example_titles": [
         "SpaceXAI, Grok 4.7 출시 9월로 지연 — SpaceX 데이터 추가 훈련 중",
         "SpaceXAI, Grok 4.7 9월 12일 출시 예고 — 2.1조 파라미터, 전 모델 제압 목표",
         "SpaceXAI, Grok 4.7 9월 12일 출시 확정 — 2.1조 파라미터 전작 전 영역 제압 목표",
         "SpaceXAI, Grok 4.7 9월 12일 출시 확정 — 2.1조 파라미터 전 벤치마크 석권 목표",
-        "SpaceXAI Grok 4.7, 9월 12일 출시 전야 — 2.1조 파라미터·SpaceX 데이터 특화 훈련"
+        "SpaceXAI Grok 4.7, 9월 12일 출시 전야 — 2.1조 파라미터·SpaceX 데이터 특화 훈련",
+        "SpaceXAI Grok 4.7, 9월 12일 런치 불발 — 출시 추가 연기 확정"
       ]
     },
     "llm-benchmark-leaderboard-sept2026": {
@@ -59,60 +50,6 @@
         "기업 AI 에이전트 성공 기업들, 에이전트 자율성을 의도적으로 제한 중",
         "기업 AI 에이전트 성공의 역설 — 자율성 줄인 기업이 성과 낸다 (재확인)",
         "기업 AI 에이전트 성공의 역설 — 자율성 줄인 기업이 성과 낸다 (5회)"
-      ]
-    },
-    "gemini-notebook-compute-limits": {
-      "count": 1,
-      "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
-      "status": "normal",
-      "example_titles": [
-        "Google Gemini Notebook, 컴퓨팅 한도 구조 조정 — 2주 내 세 번째 AI 서비스 사용 제한"
-      ]
-    },
-    "llm-frontier-differentiation-sept2026": {
-      "count": 1,
-      "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
-      "status": "normal",
-      "example_titles": [
-        "2026년 9월 주요 LLM 성능 비교 — 도구 생태계·멀티모달·컨텍스트로 차별화"
-      ]
-    },
-    "ai-model-release-pace-2026": {
-      "count": 1,
-      "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
-      "status": "normal",
-      "example_titles": [
-        "2026년 AI 모델 출시 가속 — 9월 기준 373개 이상 모델 추적 중"
-      ]
-    },
-    "korea-ai-week1-sept2026": {
-      "count": 1,
-      "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
-      "status": "normal",
-      "example_titles": [
-        "한국 2026년 9월 1주차 AI 산업 동향 — GPT-6 Astra 파장·국내 AI 경쟁 가속"
-      ]
-    },
-    "brazil-ai-bill-senate-2026": {
-      "count": 1,
-      "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
-      "status": "normal",
-      "example_titles": [
-        "브라질 AI 법안, 9월 16일 상원 본회의 표결 예정 — 남미 첫 포괄적 AI 규제"
-      ]
-    },
-    "eu-ai-act-copyright-sept2026": {
-      "count": 1,
-      "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
-      "status": "normal",
-      "example_titles": [
-        "EU AI Act 9월 2026 현황 — 국가별 샌드박스 의무화 완료, 저작권 준수 강화"
       ]
     },
     "microsoft-mai-transcribe-2": {
@@ -242,16 +179,17 @@
       ]
     },
     "anthropic-ipo-965b-2026": {
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-09-06",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "status": "saturated",
       "example_titles": [
         "Anthropic, 9월·10월 나스닥 상장 추진 — 기업가치 $9,650억 논의",
         "Anthropic, Labor Day 직후 S-1 공개 임박 — 기업가치 9,650억 달러 나스닥 상장 본격화",
         "Anthropic IPO S-1 공개 임박 — 기업가치 9,650억 달러 나스닥 상장 본격화",
         "Anthropic IPO, 9월·10월 나스닥 상장 본격화 — 기업가치 9,650억 달러 S-1 임박",
-        "Anthropic IPO S-1 공개·나스닥 상장 9~10월 확정 — 기업가치 최대 2조 달러 목표"
+        "Anthropic IPO S-1 공개·나스닥 상장 9~10월 확정 — 기업가치 최대 2조 달러 목표",
+        "Anthropic IPO 현황 — 기업가치 2조 달러 목표·10월 나스닥 상장 공식화"
       ]
     },
     "nscale-anthropic-45b-ipo": {
@@ -284,13 +222,14 @@
       ]
     },
     "california-sb1047-2026": {
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-09-06",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "status": "saturated",
       "example_titles": [
         "캘리포니아 SB 1047 AI 안전법, 9월 30일 주지사 서명·거부 데드라인",
-        "캘리포니아 SB 1047 AI 안전법, 9월 30일 주지사 서명·거부 마감 — 빅테크 vs 스타트업 로비 최고조"
+        "캘리포니아 SB 1047 AI 안전법, 9월 30일 주지사 서명·거부 마감 — 빅테크 vs 스타트업 로비 최고조",
+        "캘리포니아 주지사, 미국 최초 AI 안전 보호 법안 서명 — 연방 정부에도 행동 촉구"
       ]
     },
     "eu-ai-act-audits-sept2026": {
@@ -465,12 +404,76 @@
       ]
     },
     "lg-spark-2026-event": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-11",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "status": "normal",
       "example_titles": [
-        "LG SPARK 2026 진행 중 — 서울 마곡에 엔비디아·구글·아마존·마이크로소프트 개발자 집결, 피지컬 AI 109가지 공개"
+        "LG SPARK 2026 진행 중 — 서울 마곡에 엔비디아·구글·아마존·마이크로소프트 개발자 집결, 피지컬 AI 109가지 공개",
+        "LG SPARK 2026 개최 중 — NVIDIA·구글·아마존·MS 개발자 집결, 피지컬 AI 109종 공개"
+      ]
+    },
+    "cyber-ai-models-sept2026": {
+      "count": 1,
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12",
+      "status": "normal",
+      "example_titles": [
+        "Google·Anthropic·OpenAI, 사이버 보안 AI 모델·안전장치·접근 프로그램 공동 공개"
+      ]
+    },
+    "writer-agents-event-trigger": {
+      "count": 1,
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12",
+      "status": "normal",
+      "example_titles": [
+        "Writer, 프롬프트 없이 자율 작동하는 AI 에이전트 출시 — Amazon·Microsoft·Salesforce 정면 도전"
+      ]
+    },
+    "gemini-api-postpay-billing": {
+      "count": 1,
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12",
+      "status": "normal",
+      "example_titles": [
+        "Google Gemini API, 9월 14일 포스트페이 빌링 폐지 — 선불 전환 필수"
+      ]
+    },
+    "anthropic-misuse-detection-sept2026": {
+      "count": 1,
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, 2026년 9월 AI 오용 탐지·차단 보고서 공개 — IPO 앞 투명성 제고"
+      ]
+    },
+    "openai-agents-api-public-beta": {
+      "count": 1,
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, 에이전트 API 퍼블릭 베타 공개 — 개발자가 세션·오케스트레이션 직접 구축"
+      ]
+    },
+    "llm-usmle-benchmark-2026": {
+      "count": 1,
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12",
+      "status": "normal",
+      "example_titles": [
+        "최신 LLM 의학 시험 성능 비교 — ChatGPT·DeepSeek·Grok·Qwen 4종 USMLE 벤치마크"
+      ]
+    },
+    "top9-llm-analysis-sept2026": {
+      "count": 1,
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12",
+      "status": "normal",
+      "example_titles": [
+        "2026년 9월 상위 9개 LLM 현황 분석 — GPT-6 Astra·Claude Fable 5.1 양강 체제"
       ]
     }
   }
