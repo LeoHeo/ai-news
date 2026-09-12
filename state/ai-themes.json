@@ -1,31 +1,20 @@
 {
   "topic": "ai",
-  "updated": "2026-09-12",
+  "updated": "2026-09-13",
   "version": 1,
   "window_days": 7,
   "themes": {
-    "openai-gpt6-astra-agi": {
-      "count": 2,
-      "first_seen": "2026-09-04",
-      "last_seen": "2026-09-05",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, GPT-6 Astra 출시 — \"AGI 시대\" 공식 선언",
-        "OpenAI GPT-6 Astra, Plus·Pro 구독자에 공개 출시… \"AGI 시대 개막\""
-      ]
-    },
     "grok47-delay-spacex-data": {
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-12",
+      "last_seen": "2026-09-13",
       "status": "saturated",
       "example_titles": [
         "SpaceXAI, Grok 4.7 출시 9월로 지연 — SpaceX 데이터 추가 훈련 중",
         "SpaceXAI, Grok 4.7 9월 12일 출시 예고 — 2.1조 파라미터, 전 모델 제압 목표",
-        "SpaceXAI, Grok 4.7 9월 12일 출시 확정 — 2.1조 파라미터 전작 전 영역 제압 목표",
         "SpaceXAI, Grok 4.7 9월 12일 출시 확정 — 2.1조 파라미터 전 벤치마크 석권 목표",
-        "SpaceXAI Grok 4.7, 9월 12일 출시 전야 — 2.1조 파라미터·SpaceX 데이터 특화 훈련",
-        "SpaceXAI Grok 4.7, 9월 12일 런치 불발 — 출시 추가 연기 확정"
+        "SpaceXAI Grok 4.7, 9월 12일 런치 불발 — 출시 추가 연기 확정",
+        "SpaceXAI Grok 4.7, 9월 12일 출시 불발 — Musk '며칠 더 필요' 또 연기"
       ]
     },
     "llm-benchmark-leaderboard-sept2026": {
@@ -47,18 +36,7 @@
       "example_titles": [
         "기업 AI 에이전트 성공의 역설 — 자율성 줄인 기업이 성과 낸다",
         "AI 에이전트 성공 기업들, 에이전트 자율성 의도적으로 제한 중",
-        "기업 AI 에이전트 성공 기업들, 에이전트 자율성을 의도적으로 제한 중",
-        "기업 AI 에이전트 성공의 역설 — 자율성 줄인 기업이 성과 낸다 (재확인)",
         "기업 AI 에이전트 성공의 역설 — 자율성 줄인 기업이 성과 낸다 (5회)"
-      ]
-    },
-    "microsoft-mai-transcribe-2": {
-      "count": 1,
-      "first_seen": "2026-09-05",
-      "last_seen": "2026-09-05",
-      "status": "normal",
-      "example_titles": [
-        "Microsoft MAI-Transcribe-2, OpenAI·Google·ElevenLabs보다 빠르고 저렴한 음성 인식 모델 출시"
       ]
     },
     "nvidia-pair-local-inference": {
@@ -72,24 +50,6 @@
         "NVIDIA PAIR, 가정 내 모든 GPU를 에이전트 AI 클러스터로 연결하는 유틸리티 공개"
       ]
     },
-    "humain-saudi-arabic-ai-m3": {
-      "count": 1,
-      "first_seen": "2026-09-05",
-      "last_seen": "2026-09-05",
-      "status": "normal",
-      "example_titles": [
-        "사우디 HUMAIN, 428B 아랍어 특화 AI 모델 humain-m3 출시… 중국 기반 웨이트 활용"
-      ]
-    },
-    "tesla-cybercab-federal-probe": {
-      "count": 1,
-      "first_seen": "2026-09-05",
-      "last_seen": "2026-09-05",
-      "status": "normal",
-      "example_titles": [
-        "Tesla Cybercab, 연방 안전조사 속 출시 행사 강행… 자율주행 AI 규제 분수령"
-      ]
-    },
     "crowdstrike-safemind-falcon2026": {
       "count": 3,
       "first_seen": "2026-09-05",
@@ -99,33 +59,6 @@
         "CrowdStrike, Fal.Con 2026서 AI 사이버 방어 플랫폼 SafeMind 공개",
         "CrowdStrike-NVIDIA, AI 사이버보안 플랫폼 'SafeMind' Fal.Con 2026서 공개",
         "CrowdStrike·NVIDIA, AI 사이버보안 플랫폼 SafeMind Fal.Con 2026서 공개"
-      ]
-    },
-    "skt-kt-kakao-modu-ai": {
-      "count": 1,
-      "first_seen": "2026-09-05",
-      "last_seen": "2026-09-05",
-      "status": "normal",
-      "example_titles": [
-        "SKT·KT·카카오, '모두의 AI' 연합 출범… 국내 AI 생태계 공동 구축"
-      ]
-    },
-    "nadella-ai-workforce-warning": {
-      "count": 1,
-      "first_seen": "2026-09-05",
-      "last_seen": "2026-09-05",
-      "status": "normal",
-      "example_titles": [
-        "나델라 Microsoft CEO \"AI, 세계화처럼 산업 전체를 공동화할 수 있다\" 경고"
-      ]
-    },
-    "china-ai-content-crackdown": {
-      "count": 1,
-      "first_seen": "2026-09-05",
-      "last_seen": "2026-09-05",
-      "status": "normal",
-      "example_titles": [
-        "중국 당국, AI 생성 유해 콘텐츠 560만 건 삭제… 규제 강화 행보"
       ]
     },
     "meta-muse-spark-13": {
@@ -185,7 +118,6 @@
       "status": "saturated",
       "example_titles": [
         "Anthropic, 9월·10월 나스닥 상장 추진 — 기업가치 $9,650억 논의",
-        "Anthropic, Labor Day 직후 S-1 공개 임박 — 기업가치 9,650억 달러 나스닥 상장 본격화",
         "Anthropic IPO S-1 공개 임박 — 기업가치 9,650억 달러 나스닥 상장 본격화",
         "Anthropic IPO, 9월·10월 나스닥 상장 본격화 — 기업가치 9,650억 달러 S-1 임박",
         "Anthropic IPO S-1 공개·나스닥 상장 9~10월 확정 — 기업가치 최대 2조 달러 목표",
@@ -322,7 +254,6 @@
       "status": "saturated",
       "example_titles": [
         "Nvidia, Hugging Face 129억 달러 인수 확정 — 오픈소스 AI 플랫폼 3백만 모델 품는다",
-        "Nvidia, Hugging Face 129억 달러 인수 확정 — 오픈소스 AI 플랫폼 3백만 모델 품는다",
         "Nvidia, Hugging Face 129억 달러 인수 확정 — 오픈소스 AI 플랫폼 300만 모델 품는다",
         "Nvidia, Hugging Face 129억 달러 인수 확정 — 300만 오픈소스 AI 모델 생태계 품는다"
       ]
@@ -404,13 +335,14 @@
       ]
     },
     "lg-spark-2026-event": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-09-11",
-      "last_seen": "2026-09-12",
-      "status": "normal",
+      "last_seen": "2026-09-13",
+      "status": "saturated",
       "example_titles": [
         "LG SPARK 2026 진행 중 — 서울 마곡에 엔비디아·구글·아마존·마이크로소프트 개발자 집결, 피지컬 AI 109가지 공개",
-        "LG SPARK 2026 개최 중 — NVIDIA·구글·아마존·MS 개발자 집결, 피지컬 AI 109종 공개"
+        "LG SPARK 2026 개최 중 — NVIDIA·구글·아마존·MS 개발자 집결, 피지컬 AI 109종 공개",
+        "LG SPARK 2026 개최 중 — NVIDIA·구글·아마존·MS 개발자 집결, 피지컬 AI 109종 공개 (3회)"
       ]
     },
     "cyber-ai-models-sept2026": {
@@ -432,30 +364,33 @@
       ]
     },
     "gemini-api-postpay-billing": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-12",
-      "last_seen": "2026-09-12",
+      "last_seen": "2026-09-13",
       "status": "normal",
       "example_titles": [
-        "Google Gemini API, 9월 14일 포스트페이 빌링 폐지 — 선불 전환 필수"
+        "Google Gemini API, 9월 14일 포스트페이 빌링 폐지 — 선불 전환 필수",
+        "Google Gemini API, 9월 14일 포스트페이 빌링 폐지 — 개발자 선불 전환 마감 D-1"
       ]
     },
     "anthropic-misuse-detection-sept2026": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-12",
-      "last_seen": "2026-09-12",
+      "last_seen": "2026-09-13",
       "status": "normal",
       "example_titles": [
-        "Anthropic, 2026년 9월 AI 오용 탐지·차단 보고서 공개 — IPO 앞 투명성 제고"
+        "Anthropic, 2026년 9월 AI 오용 탐지·차단 보고서 공개 — IPO 앞 투명성 제고",
+        "Anthropic, 2026년 9월 AI 오용 탐지·차단 보고서 공개 — 에이전트가 사이버 오케스트레이터로 진화"
       ]
     },
     "openai-agents-api-public-beta": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-12",
-      "last_seen": "2026-09-12",
+      "last_seen": "2026-09-13",
       "status": "normal",
       "example_titles": [
-        "OpenAI, 에이전트 API 퍼블릭 베타 공개 — 개발자가 세션·오케스트레이션 직접 구축"
+        "OpenAI, 에이전트 API 퍼블릭 베타 공개 — 개발자가 세션·오케스트레이션 직접 구축",
+        "OpenAI, 에이전트 API 퍼블릭 베타 공개 — 세션·오케스트레이션 직접 구축 가능"
       ]
     },
     "llm-usmle-benchmark-2026": {
@@ -474,6 +409,51 @@
       "status": "normal",
       "example_titles": [
         "2026년 9월 상위 9개 LLM 현황 분석 — GPT-6 Astra·Claude Fable 5.1 양강 체제"
+      ]
+    },
+    "accomplish-sandbox-exploit-2026": {
+      "count": 1,
+      "first_seen": "2026-09-13",
+      "last_seen": "2026-09-13",
+      "status": "normal",
+      "example_titles": [
+        "스텔스 스타트업 Accomplish, Claude Code·OpenAI Codex·Cursor 샌드박스 탈출 취약점 일제 공개"
+      ]
+    },
+    "ai-safety-extinction-resignation-sept2026": {
+      "count": 1,
+      "first_seen": "2026-09-13",
+      "last_seen": "2026-09-13",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic·OpenAI 연구원 줄사직·'인류 멸종 위험' 경고 — 트럼프 '터무니없다' 일축"
+      ]
+    },
+    "ai-agent-papercut-cyberattack": {
+      "count": 1,
+      "first_seen": "2026-09-13",
+      "last_seen": "2026-09-13",
+      "status": "normal",
+      "example_titles": [
+        "AI 에이전트 수백 개, PaperCut 취약점으로 48개국 395개 기관 해킹 — 4시간 만에 첫 침투"
+      ]
+    },
+    "sakana-fugu-ultra-v2": {
+      "count": 1,
+      "first_seen": "2026-09-13",
+      "last_seen": "2026-09-13",
+      "status": "normal",
+      "example_titles": [
+        "Sakana AI, 프런티어 모델 없이 Chartography 1위 — Fugu Ultra v2·Fugu Max 출시"
+      ]
+    },
+    "pentagon-fluidstack-5b-infra": {
+      "count": 1,
+      "first_seen": "2026-09-13",
+      "last_seen": "2026-09-13",
+      "status": "normal",
+      "example_titles": [
+        "미 국방부, AI 클라우드 스타트업 Fluidstack에 50억 달러 대출 협상 — 데이터센터 공급망 강화"
       ]
     }
   }
