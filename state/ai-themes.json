@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-09-13",
+  "updated": "2026-09-14",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -142,15 +142,6 @@
       "example_titles": [
         "Q3 2026 AI 스타트업 투자 사상 최대 — 인프라·국방 AI 주도",
         "AI 스타트업 Q3 2026 투자 사상 최대 — Shield AI $15억 등 인프라·국방 AI 주도"
-      ]
-    },
-    "enterprise-ai-adoption-writer-2026": {
-      "count": 1,
-      "first_seen": "2026-09-06",
-      "last_seen": "2026-09-06",
-      "status": "normal",
-      "example_titles": [
-        "기업 AI 도입 2026: 79%가 도전 과제에 직면"
       ]
     },
     "california-sb1047-2026": {
@@ -364,23 +355,25 @@
       ]
     },
     "gemini-api-postpay-billing": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-09-12",
-      "last_seen": "2026-09-13",
-      "status": "normal",
+      "last_seen": "2026-09-14",
+      "status": "saturated",
       "example_titles": [
         "Google Gemini API, 9월 14일 포스트페이 빌링 폐지 — 선불 전환 필수",
-        "Google Gemini API, 9월 14일 포스트페이 빌링 폐지 — 개발자 선불 전환 마감 D-1"
+        "Google Gemini API, 9월 14일 포스트페이 빌링 폐지 — 개발자 선불 전환 마감 D-1",
+        "Google Gemini API, 오늘(9월 14일) 포스트페이 빌링 완전 종료 — 개발자 선불 전환 마감"
       ]
     },
     "anthropic-misuse-detection-sept2026": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-09-12",
-      "last_seen": "2026-09-13",
-      "status": "normal",
+      "last_seen": "2026-09-14",
+      "status": "saturated",
       "example_titles": [
         "Anthropic, 2026년 9월 AI 오용 탐지·차단 보고서 공개 — IPO 앞 투명성 제고",
-        "Anthropic, 2026년 9월 AI 오용 탐지·차단 보고서 공개 — 에이전트가 사이버 오케스트레이터로 진화"
+        "Anthropic, 2026년 9월 AI 오용 탐지·차단 보고서 공개 — 에이전트가 사이버 오케스트레이터로 진화",
+        "Anthropic, 2026년 9월 AI 오용 탐지·차단 보고서 공개 — AI 에이전트가 사이버 오케스트레이터로 진화"
       ]
     },
     "openai-agents-api-public-beta": {
@@ -412,48 +405,98 @@
       ]
     },
     "accomplish-sandbox-exploit-2026": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-13",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "status": "normal",
       "example_titles": [
-        "스텔스 스타트업 Accomplish, Claude Code·OpenAI Codex·Cursor 샌드박스 탈출 취약점 일제 공개"
+        "스텔스 스타트업 Accomplish, Claude Code·OpenAI Codex·Cursor 샌드박스 탈출 취약점 일제 공개",
+        "스텔스 스타트업 Accomplish, Claude Code·Codex·Cursor 샌드박스 탈출 취약점 일제 공개"
       ]
     },
     "ai-safety-extinction-resignation-sept2026": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-13",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "status": "normal",
       "example_titles": [
-        "Anthropic·OpenAI 연구원 줄사직·'인류 멸종 위험' 경고 — 트럼프 '터무니없다' 일축"
+        "Anthropic·OpenAI 연구원 줄사직·'인류 멸종 위험' 경고 — 트럼프 '터무니없다' 일축",
+        "Anthropic·OpenAI 연구원 줄사직·'인류 멸종 위험' 경고 — 트럼프 '터무니없다' 일축 (2회)"
       ]
     },
     "ai-agent-papercut-cyberattack": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-13",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "status": "normal",
       "example_titles": [
-        "AI 에이전트 수백 개, PaperCut 취약점으로 48개국 395개 기관 해킹 — 4시간 만에 첫 침투"
+        "AI 에이전트 수백 개, PaperCut 취약점으로 48개국 395개 기관 해킹 — 4시간 만에 첫 침투",
+        "AI 에이전트 수백 개, PaperCut 취약점으로 4시간 만에 48개국 395개 기관 침투"
       ]
     },
     "sakana-fugu-ultra-v2": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-13",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "status": "normal",
       "example_titles": [
-        "Sakana AI, 프런티어 모델 없이 Chartography 1위 — Fugu Ultra v2·Fugu Max 출시"
+        "Sakana AI, 프런티어 모델 없이 Chartography 1위 — Fugu Ultra v2·Fugu Max 출시",
+        "Sakana AI, 프런티어 모델 없이 Chartography 1위 달성 — Fugu Ultra v2·Fugu Max 공개"
       ]
     },
     "pentagon-fluidstack-5b-infra": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-13",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "status": "normal",
       "example_titles": [
-        "미 국방부, AI 클라우드 스타트업 Fluidstack에 50억 달러 대출 협상 — 데이터센터 공급망 강화"
+        "미 국방부, AI 클라우드 스타트업 Fluidstack에 50억 달러 대출 협상 — 데이터센터 공급망 강화",
+        "미 국방부, AI 클라우드 스타트업 Fluidstack에 50억 달러 대출 협상 — 데이터센터 공급망 강화 (2회)"
+      ]
+    },
+    "openai-gpt6-astra-launch": {
+      "count": 1,
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, 'AGI 시대 도래' 선언과 함께 GPT-6 Astra 공식 출시"
+      ]
+    },
+    "openai-luna-price-war": {
+      "count": 1,
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, GPT-5.6 Luna 가격 80% 전격 인하 — AI 모델 비용 전쟁 격화"
+      ]
+    },
+    "gemini-38-flash-cyber-bench": {
+      "count": 1,
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "status": "normal",
+      "example_titles": [
+        "Google Gemini 3.8 Flash Cyber, 자율 취약점 탐지에서 Anthropic Mythos 5·OpenAI 제압"
+      ]
+    },
+    "openai-anthropic-safety-body": {
+      "count": 1,
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI·Anthropic·Google, AI 안전 공동 표준 기구 설립 논의 — CEO들 미국 주도 협력 촉구"
+      ]
+    },
+    "cisco-crowdstrike-iam-agent": {
+      "count": 1,
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "status": "normal",
+      "example_titles": [
+        "AI 에이전트, Fortune 50 기업 보안 정책 자동 재작성 — IAM 성숙도 격차 가시화"
       ]
     }
   }
