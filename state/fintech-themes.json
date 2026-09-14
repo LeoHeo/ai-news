@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-13",
+  "updated": "2026-09-14",
   "window_days": 7,
   "themes": [
     {
@@ -283,9 +283,9 @@
     },
     {
       "keyword": "sea-fintech-tokenization-ai",
-      "count": 13,
+      "count": 14,
       "first_seen": "2026-08-17",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "articles": [
         "payments-sea-tokenization-ai-2026-08-17",
         "payments-sea-tokenization-ai-2026-08-18",
@@ -299,14 +299,15 @@
         "digital-banking-sea-tokenization-2026-09-01",
         "payments-sea-tokenization-2026-09-03",
         "payments-sea-tokenization-2026-09-10",
-        "payments-sea-tokenization-2026-09-13"
+        "payments-sea-tokenization-2026-09-13",
+        "regulation-sea-fintech-ai-2026-09-14"
       ]
     },
     {
       "keyword": "us-remittance-oba-fee",
-      "count": 18,
+      "count": 19,
       "first_seen": "2026-08-20",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "articles": [
         "remittance-oba-fee-2026-08-20",
         "regulation-us-obbba-remittance-tax-2026-08-21",
@@ -325,7 +326,8 @@
         "remittance-obbba-tax-2026-09-10",
         "remittance-obbba-irs-2026-09-11",
         "regulation-obbba-irs-2026-09-12",
-        "regulation-obbba-irs-2026-09-13"
+        "regulation-obbba-irs-2026-09-13",
+        "remittance-us-philippines-oba-2026-09-14"
       ]
     },
     {
@@ -354,9 +356,9 @@
     },
     {
       "keyword": "fintechos-profitability-ai",
-      "count": 20,
+      "count": 21,
       "first_seen": "2026-08-23",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "articles": [
         "digital-banking-fintechos-profitability-2026-08-23",
         "digital-banking-fintechos-profitability-2026-08-24",
@@ -377,36 +379,22 @@
         "digital-banking-fintechos-2026-09-10",
         "digital-banking-fintechos-2026-09-11",
         "digital-banking-fintechos-2026-09-12",
-        "digital-banking-fintechos-2026-09-13"
-      ]
-    },
-    {
-      "keyword": "stablecoin-genius-act-nprm",
-      "count": 8,
-      "first_seen": "2026-08-29",
-      "last_seen": "2026-09-06",
-      "articles": [
-        "regulation-stablecoin-nprm-2026-08-29",
-        "regulation-stablecoin-nprm-2026-08-31",
-        "regulation-stablecoin-genius-act-nprm",
-        "regulation-genius-act-nprm",
-        "regulation-stablecoin-nprm-2026-09-03",
-        "regulation-genius-act-nprm-2026-09-04",
-        "regulation-stablecoin-genius",
-        "regulation-genius-nprm-2026-09-06"
+        "digital-banking-fintechos-2026-09-13",
+        "digital-banking-fintechos-profitable-2026-09-14"
       ]
     },
     {
       "keyword": "regulation-cfpb-1033",
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-09-02",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-14",
       "articles": [
         "regulation-cfpb-1033",
         "regulation-cfpb-1033-2026-09-03",
         "lending-cfpb-1033-2026-09-04",
         "regulation-cfpb-1033-2026-09-09",
-        "regulation-cfpb-1033-2026-09-10"
+        "regulation-cfpb-1033-2026-09-10",
+        "regulation-cfpb-1033-2026-09-14"
       ]
     },
     {
@@ -465,15 +453,6 @@
       ]
     },
     {
-      "keyword": "fis-embedded-banking-banks",
-      "count": 1,
-      "first_seen": "2026-09-06",
-      "last_seen": "2026-09-06",
-      "articles": [
-        "digital-banking-fis-embedded-2026-09-06"
-      ]
-    },
-    {
       "keyword": "revolut-occ-us-bank-charter",
       "count": 6,
       "first_seen": "2026-09-06",
@@ -485,69 +464,6 @@
         "regulation-revolut-occ-2026-09-11",
         "regulation-revolut-occ-2026-09-12",
         "regulation-revolut-occ-2026-09-13"
-      ]
-    },
-    {
-      "keyword": "npci-upi-agentic-payments",
-      "count": 1,
-      "first_seen": "2026-09-06",
-      "last_seen": "2026-09-06",
-      "articles": [
-        "payments-npci-upi-agentic-2026-09-06"
-      ]
-    },
-    {
-      "keyword": "felix-cross-border-remittance",
-      "count": 1,
-      "first_seen": "2026-09-06",
-      "last_seen": "2026-09-06",
-      "articles": [
-        "remittance-felix-200m-2026-09-06"
-      ]
-    },
-    {
-      "keyword": "fnz-wealthtech-funding",
-      "count": 1,
-      "first_seen": "2026-09-06",
-      "last_seen": "2026-09-06",
-      "articles": [
-        "investment-fnz-450m-2026-09-06"
-      ]
-    },
-    {
-      "keyword": "decade-ai-wealthtech",
-      "count": 1,
-      "first_seen": "2026-09-06",
-      "last_seen": "2026-09-06",
-      "articles": [
-        "investment-decade-ai-2026-09-06"
-      ]
-    },
-    {
-      "keyword": "x-money-superapp-creator",
-      "count": 1,
-      "first_seen": "2026-09-06",
-      "last_seen": "2026-09-06",
-      "articles": [
-        "payments-x-money-creator-2026-09-06"
-      ]
-    },
-    {
-      "keyword": "india-alipay-upi-block",
-      "count": 1,
-      "first_seen": "2026-09-06",
-      "last_seen": "2026-09-06",
-      "articles": [
-        "payments-india-alipay-block-2026-09-06"
-      ]
-    },
-    {
-      "keyword": "danal-inex-stablecoin-korea",
-      "count": 1,
-      "first_seen": "2026-09-06",
-      "last_seen": "2026-09-06",
-      "articles": [
-        "payments-danal-inex-2026-09-06"
       ]
     },
     {
@@ -574,28 +490,30 @@
     },
     {
       "keyword": "natwest-ai-fintech-programme",
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "articles": [
         "digital-banking-natwest-ai",
         "digital-banking-natwest-2026-09-08",
         "digital-banking-natwest-ai-2026-09-09",
         "digital-banking-natwest-ai-2026-09-12",
-        "digital-banking-natwest-2026-09-13"
+        "digital-banking-natwest-2026-09-13",
+        "digital-banking-natwest-ai-2026-09-14"
       ]
     },
     {
       "keyword": "ant-international-fundraise-2026",
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "articles": [
         "investment-ant-international",
         "investment-ant-international-2026-09-08",
         "investment-ant-international-1bn-2026-09-09",
         "investment-ant-international-2026-09-10",
-        "investment-ant-international-2026-09-13"
+        "investment-ant-international-2026-09-13",
+        "investment-ant-international-2026-09-14"
       ]
     },
     {
@@ -639,49 +557,53 @@
     },
     {
       "keyword": "mollie-gocardless-open-banking",
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-09-09",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "articles": [
         "investment-mollie-gocardless-2026-09-09",
         "investment-mollie-gocardless-2026-09-10",
         "investment-mollie-gocardless-2026-09-11",
         "investment-mollie-gocardless-2026-09-12",
-        "investment-mollie-gocardless-2026-09-13"
+        "investment-mollie-gocardless-2026-09-13",
+        "payments-mollie-gocardless-2026-09-14"
       ]
     },
     {
       "keyword": "kakao-pay-stablecoin-wallet",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "articles": [
         "digital-banking-kakao-stablecoin-2026-09-10",
         "digital-banking-kakao-stablecoin-2026-09-11",
         "digital-banking-kakao-stablecoin-2026-09-12",
-        "digital-banking-kakao-stablecoin-2026-09-13"
+        "digital-banking-kakao-stablecoin-2026-09-13",
+        "digital-banking-kakao-stablecoin-2026-09-14"
       ]
     },
     {
       "keyword": "coinbase-moov-stablecoin-banks",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-09-11",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "articles": [
         "payments-coinbase-moov-2026-09-11",
         "payments-coinbase-moov-2026-09-12",
-        "payments-coinbase-moov-2026-09-13"
+        "payments-coinbase-moov-2026-09-13",
+        "digital-banking-coinbase-moov-2026-09-14"
       ]
     },
     {
       "keyword": "phonepe-visa-gff-cardless",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-09-11",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "articles": [
         "payments-phonepe-visa-2026-09-11",
         "payments-phonepe-visa-2026-09-12",
-        "payments-phonepe-visa-2026-09-13"
+        "payments-phonepe-visa-2026-09-13",
+        "payments-phonepe-visa-2026-09-14"
       ]
     },
     {
@@ -718,6 +640,42 @@
       "last_seen": "2026-09-13",
       "articles": [
         "investment-fintech-ma-2026-09-13"
+      ]
+    },
+    {
+      "keyword": "circlek-adyen-europe-payments",
+      "count": 1,
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "articles": [
+        "payments-circlek-adyen-2026-09-14"
+      ]
+    },
+    {
+      "keyword": "eu-ai-act-fintech-guidelines",
+      "count": 1,
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "articles": [
+        "regulation-eu-ai-act-2026-09-14"
+      ]
+    },
+    {
+      "keyword": "stripe-ipo-valuation-2026",
+      "count": 1,
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "articles": [
+        "investment-stripe-valuation-2026-09-14"
+      ]
+    },
+    {
+      "keyword": "fis-embedded-banking-banks",
+      "count": 1,
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "articles": [
+        "digital-banking-fis-embedded-2026-09-14"
       ]
     }
   ]
