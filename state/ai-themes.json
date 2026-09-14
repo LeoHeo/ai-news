@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-09-14",
+  "updated": "2026-09-15",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -39,78 +39,6 @@
         "기업 AI 에이전트 성공의 역설 — 자율성 줄인 기업이 성과 낸다 (5회)"
       ]
     },
-    "nvidia-pair-local-inference": {
-      "count": 3,
-      "first_seen": "2026-09-05",
-      "last_seen": "2026-09-07",
-      "status": "saturated",
-      "example_titles": [
-        "Nvidia PAIR, 가정 내 모든 GPU를 에이전트 AI 클러스터로 묶는 유틸리티 공개",
-        "NVIDIA PAIR, 가정 내 모든 GPU를 AI 에이전트 클러스터로 연결",
-        "NVIDIA PAIR, 가정 내 모든 GPU를 에이전트 AI 클러스터로 연결하는 유틸리티 공개"
-      ]
-    },
-    "crowdstrike-safemind-falcon2026": {
-      "count": 3,
-      "first_seen": "2026-09-05",
-      "last_seen": "2026-09-07",
-      "status": "saturated",
-      "example_titles": [
-        "CrowdStrike, Fal.Con 2026서 AI 사이버 방어 플랫폼 SafeMind 공개",
-        "CrowdStrike-NVIDIA, AI 사이버보안 플랫폼 'SafeMind' Fal.Con 2026서 공개",
-        "CrowdStrike·NVIDIA, AI 사이버보안 플랫폼 SafeMind Fal.Con 2026서 공개"
-      ]
-    },
-    "meta-muse-spark-13": {
-      "count": 2,
-      "first_seen": "2026-09-06",
-      "last_seen": "2026-09-07",
-      "status": "normal",
-      "example_titles": [
-        "Meta Muse Spark 1.3, 에이전틱 코딩 툴 호출 20% 절감",
-        "Meta Muse Spark 1.3, 에이전틱 코딩 툴 호출 20% 절감"
-      ]
-    },
-    "qwen38max-0902": {
-      "count": 2,
-      "first_seen": "2026-09-06",
-      "last_seen": "2026-09-07",
-      "status": "normal",
-      "example_titles": [
-        "알리바바 Qwen3.8-Max-0902, Code Arena WebDev 1위 등극",
-        "알리바바 Qwen3.8-Max-0902, Code Arena WebDev 1위 등극"
-      ]
-    },
-    "kt-woori-aicc-agentic": {
-      "count": 2,
-      "first_seen": "2026-09-06",
-      "last_seen": "2026-09-07",
-      "status": "normal",
-      "example_titles": [
-        "KT, 우리은행 AI 챗봇 에이전틱 전환 수주",
-        "KT, 우리은행 AI 챗봇 에이전틱 전환 사업 수주"
-      ]
-    },
-    "artificial-analysis-index-v42": {
-      "count": 2,
-      "first_seen": "2026-09-06",
-      "last_seen": "2026-09-07",
-      "status": "normal",
-      "example_titles": [
-        "Artificial Analysis AI 지수 v4.2 — Claude Fable 5.1 1위(66점)",
-        "Artificial Analysis AI 지수 v4.2 — Claude Fable 5.1 종합 1위(66점)"
-      ]
-    },
-    "stanford-hai-2026-index": {
-      "count": 2,
-      "first_seen": "2026-09-06",
-      "last_seen": "2026-09-07",
-      "status": "normal",
-      "example_titles": [
-        "스탠퍼드 HAI 2026 AI 인덱스: 연구 패러다임이 배포·거버넌스 중심으로 전환",
-        "스탠퍼드 HAI 2026 AI 인덱스 — 연구 패러다임이 배포·거버넌스 중심으로 전환"
-      ]
-    },
     "anthropic-ipo-965b-2026": {
       "count": 6,
       "first_seen": "2026-09-06",
@@ -122,16 +50,6 @@
         "Anthropic IPO, 9월·10월 나스닥 상장 본격화 — 기업가치 9,650억 달러 S-1 임박",
         "Anthropic IPO S-1 공개·나스닥 상장 9~10월 확정 — 기업가치 최대 2조 달러 목표",
         "Anthropic IPO 현황 — 기업가치 2조 달러 목표·10월 나스닥 상장 공식화"
-      ]
-    },
-    "nscale-anthropic-45b-ipo": {
-      "count": 2,
-      "first_seen": "2026-09-06",
-      "last_seen": "2026-09-07",
-      "status": "normal",
-      "example_titles": [
-        "Nscale, Anthropic $450억 계약 앵커로 IPO 본격화 — $500억 기업가치 목표",
-        "Nscale, Anthropic $450억 계약 앵커로 IPO 추진 — 기업가치 $500억 목표"
       ]
     },
     "ai-startup-q3-2026-funding": {
@@ -163,25 +81,6 @@
       "example_titles": [
         "EU AI Act 9월 기술 감사 시작 — 고위험 AI 시스템 위반 시 즉각 시장 퇴출·7% 과징금",
         "EU AI Act 9월 기술 감사 개시 — 고위험 AI 위반 시 즉각 시장 퇴출·매출 7% 과징금"
-      ]
-    },
-    "china-cybersec-law-2026": {
-      "count": 2,
-      "first_seen": "2026-09-06",
-      "last_seen": "2026-09-07",
-      "status": "normal",
-      "example_titles": [
-        "중국 사이버보안법 개정 발효 — AI·데이터 위반 즉각 고액 벌금으로 전환",
-        "중국 사이버보안법 개정 발효 — AI·데이터 위반 즉각 고액 벌금으로 전환"
-      ]
-    },
-    "anthropic-claude-fermat-lean": {
-      "count": 1,
-      "first_seen": "2026-09-07",
-      "last_seen": "2026-09-07",
-      "status": "normal",
-      "example_titles": [
-        "Claude, Lean에서 페르마 마지막 정리 공식 증명 완성 — 11일, 1,300만 줄 코드"
       ]
     },
     "openai-gpt56-cyber": {
@@ -360,7 +259,7 @@
       "last_seen": "2026-09-14",
       "status": "saturated",
       "example_titles": [
-        "Google Gemini API, 9월 14일 포스트페이 빌링 폐지 — 선불 전환 필수",
+        "Google Gemini API, 9월 14일 포스트페이 빌링 폐지 — 개발자 선불 전환 필수",
         "Google Gemini API, 9월 14일 포스트페이 빌링 폐지 — 개발자 선불 전환 마감 D-1",
         "Google Gemini API, 오늘(9월 14일) 포스트페이 빌링 완전 종료 — 개발자 선불 전환 마감"
       ]
@@ -415,13 +314,14 @@
       ]
     },
     "ai-safety-extinction-resignation-sept2026": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-09-13",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-15",
       "status": "normal",
       "example_titles": [
         "Anthropic·OpenAI 연구원 줄사직·'인류 멸종 위험' 경고 — 트럼프 '터무니없다' 일축",
-        "Anthropic·OpenAI 연구원 줄사직·'인류 멸종 위험' 경고 — 트럼프 '터무니없다' 일축 (2회)"
+        "Anthropic·OpenAI 연구원 줄사직·'인류 멸종 위험' 경고 — 트럼프 '터무니없다' 일축 (2회)",
+        "[사설] AI 종말론 세계적 이슈화, 파장 예의주시해야"
       ]
     },
     "ai-agent-papercut-cyberattack": {
@@ -464,12 +364,13 @@
       ]
     },
     "openai-luna-price-war": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-14",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-15",
       "status": "normal",
       "example_titles": [
-        "OpenAI, GPT-5.6 Luna 가격 80% 전격 인하 — AI 모델 비용 전쟁 격화"
+        "OpenAI, GPT-5.6 Luna 가격 80% 전격 인하 — AI 모델 비용 전쟁 격화",
+        "OpenAI, GPT-5.6 Luna 가격 80% 전격 인하 — AI 모델 비용 전쟁 격화 (2회)"
       ]
     },
     "gemini-38-flash-cyber-bench": {
@@ -491,12 +392,49 @@
       ]
     },
     "cisco-crowdstrike-iam-agent": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-14",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-15",
       "status": "normal",
       "example_titles": [
-        "AI 에이전트, Fortune 50 기업 보안 정책 자동 재작성 — IAM 성숙도 격차 가시화"
+        "AI 에이전트, Fortune 50 기업 보안 정책 자동 재작성 — IAM 성숙도 격차 가시화",
+        "AI 에이전트, Fortune 50 기업 보안 정책 자동 재작성 — IAM 성숙도 격차 가시화 (2회)"
+      ]
+    },
+    "thinking-machines-interaction-models": {
+      "count": 1,
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "status": "normal",
+      "example_titles": [
+        "Thinking Machines, '인터랙션 모델'로 실시간에 가까운 AI 음성·영상 대화 미리보기 공개"
+      ]
+    },
+    "kr-bigwave-robotics-ipo": {
+      "count": 1,
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "status": "normal",
+      "example_titles": [
+        "'산업용 피지컬 AI' 빅웨이브로보틱스, 코스닥 상장 일반 공모 돌입"
+      ]
+    },
+    "kr-ai-power-fusion": {
+      "count": 1,
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "status": "normal",
+      "example_titles": [
+        "AI 시대 전력 확보 나선 한국 — 핵융합 에너지 2030년대 상업화 도전"
+      ]
+    },
+    "kr-ai-roi-skepticism": {
+      "count": 1,
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "status": "normal",
+      "example_titles": [
+        "[지오의 시장 읽기] AI 수익성 회의론·규제 리스크 본격화 — 국내 반도체 밸류에이션 재조정 가능성"
       ]
     }
   }
