@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-09-15",
+  "updated": "2026-09-16",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -52,16 +52,6 @@
         "Anthropic IPO 현황 — 기업가치 2조 달러 목표·10월 나스닥 상장 공식화"
       ]
     },
-    "ai-startup-q3-2026-funding": {
-      "count": 3,
-      "first_seen": "2026-09-06",
-      "last_seen": "2026-09-08",
-      "status": "saturated",
-      "example_titles": [
-        "Q3 2026 AI 스타트업 투자 사상 최대 — 인프라·국방 AI 주도",
-        "AI 스타트업 Q3 2026 투자 사상 최대 — Shield AI $15억 등 인프라·국방 AI 주도"
-      ]
-    },
     "california-sb1047-2026": {
       "count": 6,
       "first_seen": "2026-09-06",
@@ -81,15 +71,6 @@
       "example_titles": [
         "EU AI Act 9월 기술 감사 시작 — 고위험 AI 시스템 위반 시 즉각 시장 퇴출·7% 과징금",
         "EU AI Act 9월 기술 감사 개시 — 고위험 AI 위반 시 즉각 시장 퇴출·매출 7% 과징금"
-      ]
-    },
-    "openai-gpt56-cyber": {
-      "count": 1,
-      "first_seen": "2026-09-08",
-      "last_seen": "2026-09-08",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, 사이버보안 특화 GPT-5.6 Cyber 출시 — 고급 과제 95% 완료율"
       ]
     },
     "openai-gpt56-sol-terra-luna": {
@@ -189,12 +170,13 @@
       ]
     },
     "spacexai-grok46-vs-sol-benchmark": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-16",
       "status": "normal",
       "example_titles": [
-        "SpaceXAI Grok 4.6, GPT-5.6 Sol 다수 벤치마크에서 제압"
+        "SpaceXAI Grok 4.6, GPT-5.6 Sol 다수 벤치마크에서 제압",
+        "SpaceXAI, Grok 4.6 출시 — Kimi K3 추월·GPT-5.6 Sol과 동등 세계 3위"
       ]
     },
     "openai-navier-stokes-millennium": {
@@ -225,14 +207,15 @@
       ]
     },
     "lg-spark-2026-event": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-09-11",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-16",
       "status": "saturated",
       "example_titles": [
         "LG SPARK 2026 진행 중 — 서울 마곡에 엔비디아·구글·아마존·마이크로소프트 개발자 집결, 피지컬 AI 109가지 공개",
         "LG SPARK 2026 개최 중 — NVIDIA·구글·아마존·MS 개발자 집결, 피지컬 AI 109종 공개",
-        "LG SPARK 2026 개최 중 — NVIDIA·구글·아마존·MS 개발자 집결, 피지컬 AI 109종 공개 (3회)"
+        "LG SPARK 2026 개최 중 — NVIDIA·구글·아마존·MS 개발자 집결, 피지컬 AI 109종 공개 (3회)",
+        "LG AI연구원, 제조·금융·과학 분야 산업 특화 AI 공개 — '현장 1% 예외까지 이해해야'"
       ]
     },
     "cyber-ai-models-sept2026": {
@@ -317,7 +300,7 @@
       "count": 3,
       "first_seen": "2026-09-13",
       "last_seen": "2026-09-15",
-      "status": "normal",
+      "status": "saturated",
       "example_titles": [
         "Anthropic·OpenAI 연구원 줄사직·'인류 멸종 위험' 경고 — 트럼프 '터무니없다' 일축",
         "Anthropic·OpenAI 연구원 줄사직·'인류 멸종 위험' 경고 — 트럼프 '터무니없다' 일축 (2회)",
@@ -364,13 +347,14 @@
       ]
     },
     "openai-luna-price-war": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-09-14",
-      "last_seen": "2026-09-15",
-      "status": "normal",
+      "last_seen": "2026-09-16",
+      "status": "saturated",
       "example_titles": [
         "OpenAI, GPT-5.6 Luna 가격 80% 전격 인하 — AI 모델 비용 전쟁 격화",
-        "OpenAI, GPT-5.6 Luna 가격 80% 전격 인하 — AI 모델 비용 전쟁 격화 (2회)"
+        "OpenAI, GPT-5.6 Luna 가격 80% 전격 인하 — AI 모델 비용 전쟁 격화 (2회)",
+        "OpenAI, GPT-5.6 Luna 가격 80% 인하 — AI 모델 비용 전쟁 새 국면"
       ]
     },
     "gemini-38-flash-cyber-bench": {
@@ -383,31 +367,34 @@
       ]
     },
     "openai-anthropic-safety-body": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-14",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-16",
       "status": "normal",
       "example_titles": [
-        "OpenAI·Anthropic·Google, AI 안전 공동 표준 기구 설립 논의 — CEO들 미국 주도 협력 촉구"
+        "OpenAI·Anthropic·Google, AI 안전 공동 표준 기구 설립 논의 — CEO들 미국 주도 협력 촉구",
+        "OpenAI·Anthropic·Google DeepMind, AI 안전 조정 공개화 — 3사 CEO 공동 표준 기구 설립 촉구"
       ]
     },
     "cisco-crowdstrike-iam-agent": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-09-14",
-      "last_seen": "2026-09-15",
-      "status": "normal",
+      "last_seen": "2026-09-16",
+      "status": "saturated",
       "example_titles": [
         "AI 에이전트, Fortune 50 기업 보안 정책 자동 재작성 — IAM 성숙도 격차 가시화",
-        "AI 에이전트, Fortune 50 기업 보안 정책 자동 재작성 — IAM 성숙도 격차 가시화 (2회)"
+        "AI 에이전트, Fortune 50 기업 보안 정책 자동 재작성 — IAM 성숙도 격차 가시화 (2회)",
+        "AI 에이전트, Fortune 50 기업 보안 정책 자동 재작성 — IAM 성숙도 격차 가시화 (3회)"
       ]
     },
     "thinking-machines-interaction-models": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-15",
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-09-16",
       "status": "normal",
       "example_titles": [
-        "Thinking Machines, '인터랙션 모델'로 실시간에 가까운 AI 음성·영상 대화 미리보기 공개"
+        "Thinking Machines, '인터랙션 모델'로 실시간에 가까운 AI 음성·영상 대화 미리보기 공개",
+        "Thinking Machines, '인터랙션 모델'로 실시간 근접 AI 음성·영상 대화 공개"
       ]
     },
     "kr-bigwave-robotics-ipo": {
@@ -435,6 +422,42 @@
       "status": "normal",
       "example_titles": [
         "[지오의 시장 읽기] AI 수익성 회의론·규제 리스크 본격화 — 국내 반도체 밸류에이션 재조정 가능성"
+      ]
+    },
+    "microsoft-mai-code-of-conduct": {
+      "count": 1,
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "status": "normal",
+      "example_titles": [
+        "Microsoft, MAI 모델 행동 강령 공개 — AI 종료 저항·목표 자의 확장 금지 명문화"
+      ]
+    },
+    "shanghai-ailab-atria-dawn": {
+      "count": 1,
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "status": "normal",
+      "example_titles": [
+        "Shanghai AI Lab, Atria Dawn Preview 출시 — 744B 에이전틱 MoE MIT 라이선스 무료 공개"
+      ]
+    },
+    "google-opens-claude-to-engineers": {
+      "count": 1,
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "status": "normal",
+      "example_titles": [
+        "Google, 전 엔지니어에 Anthropic Claude Opus 5 허용 — Gemini 독점 내부 정책 전격 파기"
+      ]
+    },
+    "naver-lgcns-national-security-ai": {
+      "count": 1,
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "status": "normal",
+      "example_titles": [
+        "네이버클라우드-LG CNS, 700B급 국가 보안 AI 공동 개발 — 방어·공격 특화 모델 각각 구축"
       ]
     }
   }
