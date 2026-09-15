@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-14",
+  "updated": "2026-09-15",
   "window_days": 7,
   "themes": [
     {
@@ -264,9 +264,9 @@
     },
     {
       "keyword": "embedded-payments-b2b-platform",
-      "count": 11,
+      "count": 12,
       "first_seen": "2026-08-13",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-15",
       "articles": [
         "embedded-payments-competition-2026-08-13",
         "payments-embedded-90pct-2026-08-18",
@@ -278,7 +278,8 @@
         "investment-embedded-ma-2026-09-08",
         "payments-embedded-ma-target-2026-09-09",
         "payments-embedded-ma-target-2026-09-10",
-        "payments-embedded-ma-2026-09-13"
+        "payments-embedded-ma-2026-09-13",
+        "investment-embedded-payments-ma-2026-09-15"
       ]
     },
     {
@@ -305,9 +306,9 @@
     },
     {
       "keyword": "us-remittance-oba-fee",
-      "count": 19,
+      "count": 20,
       "first_seen": "2026-08-20",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-15",
       "articles": [
         "remittance-oba-fee-2026-08-20",
         "regulation-us-obbba-remittance-tax-2026-08-21",
@@ -327,7 +328,8 @@
         "remittance-obbba-irs-2026-09-11",
         "regulation-obbba-irs-2026-09-12",
         "regulation-obbba-irs-2026-09-13",
-        "remittance-us-philippines-oba-2026-09-14"
+        "remittance-us-philippines-oba-2026-09-14",
+        "remittance-obbba-irs-2026-09-15"
       ]
     },
     {
@@ -356,9 +358,9 @@
     },
     {
       "keyword": "fintechos-profitability-ai",
-      "count": 21,
+      "count": 22,
       "first_seen": "2026-08-23",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-15",
       "articles": [
         "digital-banking-fintechos-profitability-2026-08-23",
         "digital-banking-fintechos-profitability-2026-08-24",
@@ -380,21 +382,23 @@
         "digital-banking-fintechos-2026-09-11",
         "digital-banking-fintechos-2026-09-12",
         "digital-banking-fintechos-2026-09-13",
-        "digital-banking-fintechos-profitable-2026-09-14"
+        "digital-banking-fintechos-profitable-2026-09-14",
+        "digital-banking-fintechos-2026-09-15"
       ]
     },
     {
       "keyword": "regulation-cfpb-1033",
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-09-02",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-15",
       "articles": [
         "regulation-cfpb-1033",
         "regulation-cfpb-1033-2026-09-03",
         "lending-cfpb-1033-2026-09-04",
         "regulation-cfpb-1033-2026-09-09",
         "regulation-cfpb-1033-2026-09-10",
-        "regulation-cfpb-1033-2026-09-14"
+        "regulation-cfpb-1033-2026-09-14",
+        "regulation-cfpb-1033-2026-09-15"
       ]
     },
     {
@@ -454,16 +458,17 @@
     },
     {
       "keyword": "revolut-occ-us-bank-charter",
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-09-06",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-15",
       "articles": [
         "digital-banking-revolut-occ-2026-09-06",
         "regulation-revolut-occ-2026-09-09",
         "regulation-revolut-occ-2026-09-10",
         "regulation-revolut-occ-2026-09-11",
         "regulation-revolut-occ-2026-09-12",
-        "regulation-revolut-occ-2026-09-13"
+        "regulation-revolut-occ-2026-09-13",
+        "regulation-revolut-occ-2026-09-15"
       ]
     },
     {
@@ -490,30 +495,32 @@
     },
     {
       "keyword": "natwest-ai-fintech-programme",
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-15",
       "articles": [
         "digital-banking-natwest-ai",
         "digital-banking-natwest-2026-09-08",
         "digital-banking-natwest-ai-2026-09-09",
         "digital-banking-natwest-ai-2026-09-12",
         "digital-banking-natwest-2026-09-13",
-        "digital-banking-natwest-ai-2026-09-14"
+        "digital-banking-natwest-ai-2026-09-14",
+        "digital-banking-natwest-ai-2026-09-15"
       ]
     },
     {
       "keyword": "ant-international-fundraise-2026",
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-15",
       "articles": [
         "investment-ant-international",
         "investment-ant-international-2026-09-08",
         "investment-ant-international-1bn-2026-09-09",
         "investment-ant-international-2026-09-10",
         "investment-ant-international-2026-09-13",
-        "investment-ant-international-2026-09-14"
+        "investment-ant-international-2026-09-14",
+        "investment-ant-international-2026-09-15"
       ]
     },
     {
@@ -557,53 +564,57 @@
     },
     {
       "keyword": "mollie-gocardless-open-banking",
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-09-09",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-15",
       "articles": [
         "investment-mollie-gocardless-2026-09-09",
         "investment-mollie-gocardless-2026-09-10",
         "investment-mollie-gocardless-2026-09-11",
         "investment-mollie-gocardless-2026-09-12",
         "investment-mollie-gocardless-2026-09-13",
-        "payments-mollie-gocardless-2026-09-14"
+        "payments-mollie-gocardless-2026-09-14",
+        "investment-mollie-gocardless-2026-09-15"
       ]
     },
     {
       "keyword": "kakao-pay-stablecoin-wallet",
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-15",
       "articles": [
         "digital-banking-kakao-stablecoin-2026-09-10",
         "digital-banking-kakao-stablecoin-2026-09-11",
         "digital-banking-kakao-stablecoin-2026-09-12",
         "digital-banking-kakao-stablecoin-2026-09-13",
-        "digital-banking-kakao-stablecoin-2026-09-14"
+        "digital-banking-kakao-stablecoin-2026-09-14",
+        "digital-banking-kakao-stablecoin-2026-09-15"
       ]
     },
     {
       "keyword": "coinbase-moov-stablecoin-banks",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-09-11",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-15",
       "articles": [
         "payments-coinbase-moov-2026-09-11",
         "payments-coinbase-moov-2026-09-12",
         "payments-coinbase-moov-2026-09-13",
-        "digital-banking-coinbase-moov-2026-09-14"
+        "digital-banking-coinbase-moov-2026-09-14",
+        "payments-coinbase-moov-2026-09-15"
       ]
     },
     {
       "keyword": "phonepe-visa-gff-cardless",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-09-11",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-15",
       "articles": [
         "payments-phonepe-visa-2026-09-11",
         "payments-phonepe-visa-2026-09-12",
         "payments-phonepe-visa-2026-09-13",
-        "payments-phonepe-visa-2026-09-14"
+        "payments-phonepe-visa-2026-09-14",
+        "payments-phonepe-visa-2026-09-15"
       ]
     },
     {
@@ -653,29 +664,50 @@
     },
     {
       "keyword": "eu-ai-act-fintech-guidelines",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-14",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-15",
       "articles": [
-        "regulation-eu-ai-act-2026-09-14"
+        "regulation-eu-ai-act-2026-09-14",
+        "regulation-eu-ai-act-2026-09-15"
       ]
     },
     {
       "keyword": "stripe-ipo-valuation-2026",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-14",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-15",
       "articles": [
-        "investment-stripe-valuation-2026-09-14"
+        "investment-stripe-valuation-2026-09-14",
+        "investment-stripe-valuation-2026-09-15"
       ]
     },
     {
       "keyword": "fis-embedded-banking-banks",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-14",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-15",
       "articles": [
-        "digital-banking-fis-embedded-2026-09-14"
+        "digital-banking-fis-embedded-2026-09-14",
+        "digital-banking-fis-embedded-2026-09-15"
+      ]
+    },
+    {
+      "keyword": "us-crypto-clarity-act",
+      "count": 1,
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "articles": [
+        "regulation-clarity-act-senate-vote-2026-09-15"
+      ]
+    },
+    {
+      "keyword": "seoul-fintech-week-2026",
+      "count": 1,
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "articles": [
+        "digital-banking-seoul-fintech-week-2026-09-15"
       ]
     }
   ]
