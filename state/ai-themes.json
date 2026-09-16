@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-09-16",
+  "updated": "2026-09-17",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -15,17 +15,6 @@
         "SpaceXAI, Grok 4.7 9월 12일 출시 확정 — 2.1조 파라미터 전 벤치마크 석권 목표",
         "SpaceXAI Grok 4.7, 9월 12일 런치 불발 — 출시 추가 연기 확정",
         "SpaceXAI Grok 4.7, 9월 12일 출시 불발 — Musk '며칠 더 필요' 또 연기"
-      ]
-    },
-    "llm-benchmark-leaderboard-sept2026": {
-      "count": 3,
-      "first_seen": "2026-09-04",
-      "last_seen": "2026-09-09",
-      "status": "saturated",
-      "example_titles": [
-        "2026년 9월 LLM 벤치마크 현황 — Grok 4.3 AIME 100%, Claude Opus 4.7 SWE-Bench 87.6%",
-        "2026년 9월 LLM 리더보드 — Claude Fable 5.1, 종합 지수 1위 석권",
-        "2026년 9월 LLM 리더보드 — Claude Fable 5.1 종합 1위, GPT-6 Astra 2위"
       ]
     },
     "enterprise-ai-agent-autonomy-limit": {
@@ -367,13 +356,14 @@
       ]
     },
     "openai-anthropic-safety-body": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-09-14",
-      "last_seen": "2026-09-16",
-      "status": "normal",
+      "last_seen": "2026-09-17",
+      "status": "saturated",
       "example_titles": [
         "OpenAI·Anthropic·Google, AI 안전 공동 표준 기구 설립 논의 — CEO들 미국 주도 협력 촉구",
-        "OpenAI·Anthropic·Google DeepMind, AI 안전 조정 공개화 — 3사 CEO 공동 표준 기구 설립 촉구"
+        "OpenAI·Anthropic·Google DeepMind, AI 안전 조정 공개화 — 3사 CEO 공동 표준 기구 설립 촉구",
+        "OpenAI·Anthropic·Google, AI 안전 평가단 공동 내재화 추진 — 실질적 독립성 논란"
       ]
     },
     "cisco-crowdstrike-iam-agent": {
@@ -416,12 +406,13 @@
       ]
     },
     "kr-ai-roi-skepticism": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-15",
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-09-17",
       "status": "normal",
       "example_titles": [
-        "[지오의 시장 읽기] AI 수익성 회의론·규제 리스크 본격화 — 국내 반도체 밸류에이션 재조정 가능성"
+        "[지오의 시장 읽기] AI 수익성 회의론·규제 리스크 본격화 — 국내 반도체 밸류에이션 재조정 가능성",
+        "[지오의 시장 읽기] AI 거품론 재점화·호르무즈 리스크 — 국내 AI 칩 수출주 하락 배경"
       ]
     },
     "microsoft-mai-code-of-conduct": {
@@ -458,6 +449,78 @@
       "status": "normal",
       "example_titles": [
         "네이버클라우드-LG CNS, 700B급 국가 보안 AI 공동 개발 — 방어·공격 특화 모델 각각 구축"
+      ]
+    },
+    "lawzero-bengio-canada-germany": {
+      "count": 1,
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-17",
+      "status": "normal",
+      "example_titles": [
+        "Yoshua Bengio의 LawZero, 캐나다·독일로부터 3억 달러 투자 유치"
+      ]
+    },
+    "suleyman-claude-ai-consciousness": {
+      "count": 1,
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-17",
+      "status": "normal",
+      "example_titles": [
+        "Microsoft AI 수장 Mustafa Suleyman, \"Anthropic Claude의 의식 가능성 배제 못 해\""
+      ]
+    },
+    "bengio-losing-control-allin-summit": {
+      "count": 1,
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-17",
+      "status": "normal",
+      "example_titles": [
+        "Yoshua Bengio \"AI 통제력을 잃어가고 있다\" — ALL IN 서밋 경고"
+      ]
+    },
+    "crux-ai-chip-loan-blackstone-alphabet": {
+      "count": 1,
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-17",
+      "status": "normal",
+      "example_titles": [
+        "Crux AI, Blackstone·Alphabet 연계 220억 달러 칩 대출 조달 — 역대 최대 AI 인프라 파이낸싱"
+      ]
+    },
+    "biren-china-gpu-1b-raise": {
+      "count": 1,
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-17",
+      "status": "normal",
+      "example_titles": [
+        "중국 GPU 스타트업 Biren Technology, 10억 달러 지분 매각으로 자금 조달"
+      ]
+    },
+    "agent-orchestration-bottleneck": {
+      "count": 1,
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-17",
+      "status": "normal",
+      "example_titles": [
+        "VentureBeat: AI의 다음 병목은 모델이 아닌 '에이전트 간 협업'"
+      ]
+    },
+    "openclaw-agents-production-chaos": {
+      "count": 1,
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-17",
+      "status": "normal",
+      "example_titles": [
+        "Claude·OpenClaw 기반 AI 에이전트 실전 배치 확산 — 혼돈과 기회의 공존"
+      ]
+    },
+    "rubric-reward-hacking-benchmark": {
+      "count": 1,
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-17",
+      "status": "normal",
+      "example_titles": [
+        "LLM 평가 기준 자체를 해킹하는 '보상 해킹' 벤치마크 공개 — Peking Univ·JD.com 연구"
       ]
     }
   }
