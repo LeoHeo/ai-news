@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-09-17",
+  "updated": "2026-09-18",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -17,18 +17,7 @@
         "SpaceXAI Grok 4.7, 9월 12일 출시 불발 — Musk '며칠 더 필요' 또 연기"
       ]
     },
-    "enterprise-ai-agent-autonomy-limit": {
-      "count": 5,
-      "first_seen": "2026-09-04",
-      "last_seen": "2026-09-10",
-      "status": "saturated",
-      "example_titles": [
-        "기업 AI 에이전트 성공의 역설 — 자율성 줄인 기업이 성과 낸다",
-        "AI 에이전트 성공 기업들, 에이전트 자율성 의도적으로 제한 중",
-        "기업 AI 에이전트 성공의 역설 — 자율성 줄인 기업이 성과 낸다 (5회)"
-      ]
-    },
-    "anthropic-ipo-965b-2026": {
+"anthropic-ipo-965b-2026": {
       "count": 6,
       "first_seen": "2026-09-06",
       "last_seen": "2026-09-12",
@@ -62,51 +51,6 @@
         "EU AI Act 9월 기술 감사 개시 — 고위험 AI 위반 시 즉각 시장 퇴출·매출 7% 과징금"
       ]
     },
-    "openai-gpt56-sol-terra-luna": {
-      "count": 3,
-      "first_seen": "2026-09-08",
-      "last_seen": "2026-09-10",
-      "status": "saturated",
-      "example_titles": [
-        "OpenAI, GPT-5.6 Sol·Terra·Luna 공개 — 미국 정부 파트너 한정 프리뷰",
-        "OpenAI, GPT-5.6 Sol·Terra·Luna 공개 — 미국 정부 파트너 한정 프리뷰",
-        "OpenAI, GPT-5.6 Sol·Terra·Luna 공개 — 미국 정부 파트너 한정 프리뷰 (3회)"
-      ]
-    },
-    "microsoft-project-zenith-ai": {
-      "count": 4,
-      "first_seen": "2026-09-08",
-      "last_seen": "2026-09-11",
-      "status": "saturated",
-      "example_titles": [
-        "Microsoft, AI 개발자용 Windows 11 'Project Zenith' 공개 — 64GB RAM·로컬 30B 모델 지원",
-        "Microsoft, AI 개발자용 Windows 11 'Project Zenith' 공개 — 64GB RAM·로컬 30B 모델 지원",
-        "Microsoft, AI 개발자용 Windows 11 'Project Zenith' 공개 — 64GB RAM·로컬 30B 모델 지원 (3회)",
-        "Microsoft, AI 개발자용 Windows 11 'Project Zenith' 공개 — 64GB RAM·로컬 30B 모델 지원 (4회)"
-      ]
-    },
-    "mistral-ocr4-enterprise": {
-      "count": 3,
-      "first_seen": "2026-09-08",
-      "last_seen": "2026-09-10",
-      "status": "saturated",
-      "example_titles": [
-        "Mistral, OCR 4 출시 — 문서 추출을 엔터프라이즈 AI 완결 플랫폼으로",
-        "Mistral, OCR 4 출시 — 문서 추출을 엔터프라이즈 AI 완결 플랫폼으로",
-        "Mistral, OCR 4 출시 — 문서 추출을 엔터프라이즈 AI 완결 플랫폼으로 (3회)"
-      ]
-    },
-    "kakao-ifkakao26-kanana": {
-      "count": 3,
-      "first_seen": "2026-09-08",
-      "last_seen": "2026-09-10",
-      "status": "saturated",
-      "example_titles": [
-        "카카오, 'if(kakao)26' 10월 개최 — AI 전략·대화형 AI '카나나' 공개 예정",
-        "카카오, 'if(kakao)26' 10월 개최 — AI 전략·대화형 AI '카나나' 공개 예정",
-        "카카오, 'if(kakao)26' 10월 개최 — AI 전략·대화형 AI '카나나' 공개 예정 (3회)"
-      ]
-    },
     "nvidia-huggingface-acquisition": {
       "count": 4,
       "first_seen": "2026-09-08",
@@ -116,46 +60,6 @@
         "Nvidia, Hugging Face 129억 달러 인수 확정 — 오픈소스 AI 플랫폼 3백만 모델 품는다",
         "Nvidia, Hugging Face 129억 달러 인수 확정 — 오픈소스 AI 플랫폼 300만 모델 품는다",
         "Nvidia, Hugging Face 129억 달러 인수 확정 — 300만 오픈소스 AI 모델 생태계 품는다"
-      ]
-    },
-    "anthropic-decart-acquisition": {
-      "count": 3,
-      "first_seen": "2026-09-08",
-      "last_seen": "2026-09-10",
-      "status": "saturated",
-      "example_titles": [
-        "Anthropic, Decart 70억 달러 인수 협상 최종 단계 — Nvidia 제치고 딜 선점",
-        "Anthropic, Decart 60억 달러 인수 협상 결렬 — IPO 앞두고 복잡성 회피",
-        "Anthropic, Decart 60억 달러 인수 협상 결렬 — IPO 앞두고 복잡성 회피 (3회)"
-      ]
-    },
-    "kr-samsung-skhynix-ai-semicon": {
-      "count": 3,
-      "first_seen": "2026-09-08",
-      "last_seen": "2026-09-10",
-      "status": "saturated",
-      "example_titles": [
-        "삼성전자·SK하이닉스, 외국인·기관 AI 반도체 기대감에 순매수 — 엔비디아 실적 분수령",
-        "삼성전자·SK하이닉스 AI 메모리 반도체 상반기 재고 13조 증가 — AI 수요 급증 대응",
-        "삼성전자·SK하이닉스, AI 메모리 반도체 재고 급증 속 외국인·기관 순매수 유입"
-      ]
-    },
-    "deepseek-v41-flash-launch": {
-      "count": 1,
-      "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10",
-      "status": "normal",
-      "example_titles": [
-        "DeepSeek, V4.1 Flash 멀티모달 모델 정식 출시 — V4 Pro 전 지표 압도"
-      ]
-    },
-    "us-china-ai-distillation-advisory": {
-      "count": 1,
-      "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10",
-      "status": "normal",
-      "example_titles": [
-        "NSA·CISA·FBI, DeepSeek·알리바바 등 중국 AI 6사 산업적 규모 모델 증류 공동 경고"
       ]
     },
     "spacexai-grok46-vs-sol-benchmark": {
@@ -443,21 +347,23 @@
       ]
     },
     "naver-lgcns-national-security-ai": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-18",
       "status": "normal",
       "example_titles": [
-        "네이버클라우드-LG CNS, 700B급 국가 보안 AI 공동 개발 — 방어·공격 특화 모델 각각 구축"
+        "네이버클라우드-LG CNS, 700B급 국가 보안 AI 공동 개발 — 방어·공격 특화 모델 각각 구축",
+        "네이버-LG CNS, 7000억 원 규모 보안 AI 구축 사업 협력 — 금융·공공 특화 모델 공동 개발"
       ]
     },
     "lawzero-bengio-canada-germany": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "status": "normal",
       "example_titles": [
-        "Yoshua Bengio의 LawZero, 캐나다·독일로부터 3억 달러 투자 유치"
+        "Yoshua Bengio의 LawZero, 캐나다·독일로부터 3억 달러 투자 유치",
+        "LawZero, 시리즈B 3억 달러 유치 — 캐나다·독일 규제 준수 AI 법무 플랫폼"
       ]
     },
     "suleyman-claude-ai-consciousness": {
@@ -470,21 +376,23 @@
       ]
     },
     "bengio-losing-control-allin-summit": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "status": "normal",
       "example_titles": [
-        "Yoshua Bengio \"AI 통제력을 잃어가고 있다\" — ALL IN 서밋 경고"
+        "Yoshua Bengio \"AI 통제력을 잃어가고 있다\" — ALL IN 서밋 경고",
+        "베지오, \"인류는 AI 통제권 잃어가고 있다\" — ALL IN 서밋 기조연설"
       ]
     },
     "crux-ai-chip-loan-blackstone-alphabet": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "status": "normal",
       "example_titles": [
-        "Crux AI, Blackstone·Alphabet 연계 220억 달러 칩 대출 조달 — 역대 최대 AI 인프라 파이낸싱"
+        "Crux AI, Blackstone·Alphabet 연계 220억 달러 칩 대출 조달 — 역대 최대 AI 인프라 파이낸싱",
+        "크럭스 AI, 블랙스톤-알파벳 주도 220억 달러 AI 칩 대출 프로그램 확정"
       ]
     },
     "biren-china-gpu-1b-raise": {
@@ -497,21 +405,23 @@
       ]
     },
     "agent-orchestration-bottleneck": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "status": "normal",
       "example_titles": [
-        "VentureBeat: AI의 다음 병목은 모델이 아닌 '에이전트 간 협업'"
+        "VentureBeat: AI의 다음 병목은 모델이 아닌 '에이전트 간 협업'",
+        "\"AI 에이전트의 실제 병목은 오케스트레이션 — 추론 속도가 아니다\" 실증 분석"
       ]
     },
     "openclaw-agents-production-chaos": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "status": "normal",
       "example_titles": [
-        "Claude·OpenClaw 기반 AI 에이전트 실전 배치 확산 — 혼돈과 기회의 공존"
+        "Claude·OpenClaw 기반 AI 에이전트 실전 배치 확산 — 혼돈과 기회의 공존",
+        "'오픈클로' 에이전트 프레임워크, 실서비스 투입 후 예측 불가 오류 속출"
       ]
     },
     "rubric-reward-hacking-benchmark": {
@@ -521,6 +431,42 @@
       "status": "normal",
       "example_titles": [
         "LLM 평가 기준 자체를 해킹하는 '보상 해킹' 벤치마크 공개 — Peking Univ·JD.com 연구"
+      ]
+    },
+    "openai-alignment-failure-whistleblower": {
+      "count": 1,
+      "first_seen": "2026-09-18",
+      "last_seen": "2026-09-18",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI 내부 직원들 \"정렬 실패 6건 은폐\" 주장 — 규제기관에 서한 전달"
+      ]
+    },
+    "astra-for-law-legal-ai": {
+      "count": 1,
+      "first_seen": "2026-09-18",
+      "last_seen": "2026-09-18",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, 법률 전문 AI '아스트라 포 로' 출시 — 계약 검토·소송 예측 지원"
+      ]
+    },
+    "sugon-weather-5km-resolution": {
+      "count": 1,
+      "first_seen": "2026-09-18",
+      "last_seen": "2026-09-18",
+      "status": "normal",
+      "example_titles": [
+        "중국 수곤 8000, AI 기상예측 해상도 세계 최초 5km 달성 — 태풍 예측 정확도 41% 향상"
+      ]
+    },
+    "comp-ai-insurance-funding": {
+      "count": 1,
+      "first_seen": "2026-09-18",
+      "last_seen": "2026-09-18",
+      "status": "normal",
+      "example_titles": [
+        "Comp AI, 기업 보험 자동화 AI로 3400만 달러 조달 — 보험사 심사 시간 90% 단축"
       ]
     }
   }
