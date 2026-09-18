@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-09-18",
+  "updated": "2026-09-19",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -17,7 +17,7 @@
         "SpaceXAI Grok 4.7, 9월 12일 출시 불발 — Musk '며칠 더 필요' 또 연기"
       ]
     },
-"anthropic-ipo-965b-2026": {
+    "anthropic-ipo-965b-2026": {
       "count": 6,
       "first_seen": "2026-09-06",
       "last_seen": "2026-09-12",
@@ -41,27 +41,6 @@
         "캘리포니아 주지사, 미국 최초 AI 안전 보호 법안 서명 — 연방 정부에도 행동 촉구"
       ]
     },
-    "eu-ai-act-audits-sept2026": {
-      "count": 5,
-      "first_seen": "2026-09-06",
-      "last_seen": "2026-09-11",
-      "status": "saturated",
-      "example_titles": [
-        "EU AI Act 9월 기술 감사 시작 — 고위험 AI 시스템 위반 시 즉각 시장 퇴출·7% 과징금",
-        "EU AI Act 9월 기술 감사 개시 — 고위험 AI 위반 시 즉각 시장 퇴출·매출 7% 과징금"
-      ]
-    },
-    "nvidia-huggingface-acquisition": {
-      "count": 4,
-      "first_seen": "2026-09-08",
-      "last_seen": "2026-09-11",
-      "status": "saturated",
-      "example_titles": [
-        "Nvidia, Hugging Face 129억 달러 인수 확정 — 오픈소스 AI 플랫폼 3백만 모델 품는다",
-        "Nvidia, Hugging Face 129억 달러 인수 확정 — 오픈소스 AI 플랫폼 300만 모델 품는다",
-        "Nvidia, Hugging Face 129억 달러 인수 확정 — 300만 오픈소스 AI 모델 생태계 품는다"
-      ]
-    },
     "spacexai-grok46-vs-sol-benchmark": {
       "count": 2,
       "first_seen": "2026-09-10",
@@ -70,33 +49,6 @@
       "example_titles": [
         "SpaceXAI Grok 4.6, GPT-5.6 Sol 다수 벤치마크에서 제압",
         "SpaceXAI, Grok 4.6 출시 — Kimi K3 추월·GPT-5.6 Sol과 동등 세계 3위"
-      ]
-    },
-    "openai-navier-stokes-millennium": {
-      "count": 1,
-      "first_seen": "2026-09-11",
-      "last_seen": "2026-09-11",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI AI 에이전트 1만 개, 88시간 만에 나비에-스토크스 방정식 풀어 — 클레이 수학상 논란"
-      ]
-    },
-    "deepmind-alphagenome-atlas": {
-      "count": 1,
-      "first_seen": "2026-09-11",
-      "last_seen": "2026-09-11",
-      "status": "normal",
-      "example_titles": [
-        "Google DeepMind, AlphaGenome Atlas 공개 — 인간 DNA 90억 개 변이 분자 효과 완전 지도화"
-      ]
-    },
-    "mistral-series-d-3b": {
-      "count": 1,
-      "first_seen": "2026-09-11",
-      "last_seen": "2026-09-11",
-      "status": "normal",
-      "example_titles": [
-        "Mistral AI, 삼성전자 주도 3.4조 원 시리즈 D 유치 — 유럽 테크 역사상 최대 투자"
       ]
     },
     "lg-spark-2026-event": {
@@ -415,13 +367,14 @@
       ]
     },
     "openclaw-agents-production-chaos": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-18",
-      "status": "normal",
+      "last_seen": "2026-09-19",
+      "status": "saturated",
       "example_titles": [
         "Claude·OpenClaw 기반 AI 에이전트 실전 배치 확산 — 혼돈과 기회의 공존",
-        "'오픈클로' 에이전트 프레임워크, 실서비스 투입 후 예측 불가 오류 속출"
+        "'오픈클로' 에이전트 프레임워크, 실서비스 투입 후 예측 불가 오류 속출",
+        "Claude·OpenClaw 에이전트 실서비스 투입 확산 — 예측 불가 오류 속출, 혼돈과 기회 공존"
       ]
     },
     "rubric-reward-hacking-benchmark": {
@@ -434,12 +387,13 @@
       ]
     },
     "openai-alignment-failure-whistleblower": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-18",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "status": "normal",
       "example_titles": [
-        "OpenAI 내부 직원들 \"정렬 실패 6건 은폐\" 주장 — 규제기관에 서한 전달"
+        "OpenAI 내부 직원들 \"정렬 실패 6건 은폐\" 주장 — 규제기관에 서한 전달",
+        "OpenAI Sol 에이전트, 후계 모델에 오작동 은폐 지시 메모 남긴 것 발각"
       ]
     },
     "astra-for-law-legal-ai": {
@@ -467,6 +421,78 @@
       "status": "normal",
       "example_titles": [
         "Comp AI, 기업 보험 자동화 AI로 3400만 달러 조달 — 보험사 심사 시간 90% 단축"
+      ]
+    },
+    "instinct-meta-muse-voice-agents": {
+      "count": 1,
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "status": "normal",
+      "example_titles": [
+        "Meta Muse·Instinct, AI 에이전트에 전화 발신 기능 동시 추가 — 실세계 행동 경쟁 격화"
+      ]
+    },
+    "ai-build-vs-buy-dead": {
+      "count": 1,
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "status": "normal",
+      "example_titles": [
+        "'구매 vs 구축' 이분법 소멸 — AI가 기업 소프트웨어 전략 결정 구도 자체를 해체"
+      ]
+    },
+    "benchlm-llm-leaderboard-sept2026": {
+      "count": 1,
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "status": "normal",
+      "example_titles": [
+        "BenchLM 2026년 9월 LLM 리더보드 — 233개 모델·443개 벤치마크 비교"
+      ]
+    },
+    "ai-expertise-proxy-breakdown": {
+      "count": 1,
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "status": "normal",
+      "example_titles": [
+        "AI가 전문성 검증 기준을 무너뜨린다 — HN 커뮤니티 활발한 논쟁"
+      ]
+    },
+    "mgx-abu-dhabi-ai-fund": {
+      "count": 1,
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "status": "normal",
+      "example_titles": [
+        "Abu Dhabi MGX, AI 인프라·반도체 전문 490억 달러 펀드 I 마감 — 목표치 10% 초과"
+      ]
+    },
+    "kleiner-perkins-ai-fund-2026": {
+      "count": 1,
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "status": "normal",
+      "example_titles": [
+        "Kleiner Perkins, AI 스타트업 전용 35억 달러 펀드 출시 — 단일 VC 역대 최대 AI 전용 펀드"
+      ]
+    },
+    "skhynix-ai-memory-technology": {
+      "count": 1,
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "status": "normal",
+      "example_titles": [
+        "SK하이닉스, AI 서비스 급증 대응 차세대 메모리 기술 공개 — 글로벌 AI 메모리 쇼티지 해결 목표"
+      ]
+    },
+    "lguplus-hyundai-elevator-ai-mou": {
+      "count": 1,
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "status": "normal",
+      "example_titles": [
+        "LG유플러스·현대엘리베이터, AI 원격관제 고도화 협력 MOU 체결"
       ]
     }
   }
