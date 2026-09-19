@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-18",
+  "updated": "2026-09-19",
   "window_days": 7,
   "themes": [
     {
@@ -60,9 +60,9 @@
     },
     {
       "keyword": "fintech-vc-forecast-2026",
-      "count": 51,
+      "count": 52,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-19",
       "articles": [
         "investment-fintech-crunchbase",
         "investment-vc-trends-2026-2026-07-14",
@@ -114,7 +114,8 @@
         "investment-kpmg-h1-2026-09-11",
         "investment-h1-funding-2026-09-12",
         "investment-h1-funding-2026-09-13",
-        "investment-h1-funding-2026-09-17"
+        "investment-h1-funding-2026-09-17",
+        "investment-fintech-land-grab-2026-09-19"
       ]
     },
     {
@@ -150,9 +151,9 @@
     },
     {
       "keyword": "embedded-payments-b2b-platform",
-      "count": 14,
+      "count": 15,
       "first_seen": "2026-08-13",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "articles": [
         "embedded-payments-competition-2026-08-13",
         "payments-embedded-90pct-2026-08-18",
@@ -167,14 +168,15 @@
         "payments-embedded-ma-2026-09-13",
         "investment-embedded-payments-ma-2026-09-15",
         "payments-embedded-b2b-2026-09-16",
-        "payments-embedded-ma-2026-09-18"
+        "payments-embedded-ma-2026-09-18",
+        "payments-embedded-ma-2026-09-19"
       ]
     },
     {
       "keyword": "sea-fintech-tokenization-ai",
-      "count": 15,
+      "count": 16,
       "first_seen": "2026-08-17",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-19",
       "articles": [
         "payments-sea-tokenization-ai-2026-08-17",
         "payments-sea-tokenization-ai-2026-08-18",
@@ -190,7 +192,8 @@
         "payments-sea-tokenization-2026-09-10",
         "payments-sea-tokenization-2026-09-13",
         "regulation-sea-fintech-ai-2026-09-14",
-        "payments-sea-tokenization-2026-09-17"
+        "payments-sea-tokenization-2026-09-17",
+        "digital-banking-sea-tokenization-2026-09-19"
       ]
     },
     {
@@ -225,9 +228,9 @@
     },
     {
       "keyword": "fintechos-profitability-ai",
-      "count": 25,
+      "count": 26,
       "first_seen": "2026-08-23",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "articles": [
         "digital-banking-fintechos-profitability-2026-08-23",
         "digital-banking-fintechos-profitability-2026-08-24",
@@ -253,14 +256,15 @@
         "digital-banking-fintechos-2026-09-15",
         "digital-banking-fintechos-2026-09-16",
         "digital-banking-fintechos-2026-09-17",
-        "digital-banking-fintechos-2026-09-18"
+        "digital-banking-fintechos-2026-09-18",
+        "digital-banking-fintechos-2026-09-19"
       ]
     },
     {
       "keyword": "regulation-cfpb-1033",
-      "count": 9,
+      "count": 10,
       "first_seen": "2026-09-02",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "articles": [
         "regulation-cfpb-1033",
         "regulation-cfpb-1033-2026-09-03",
@@ -270,24 +274,15 @@
         "regulation-cfpb-1033-2026-09-14",
         "regulation-cfpb-1033-2026-09-15",
         "regulation-cfpb-1033-2026-09-17",
-        "regulation-embedded-finance-us-2026-09-18"
-      ]
-    },
-    {
-      "keyword": "finovatefall-2026-conference",
-      "count": 2,
-      "first_seen": "2026-09-05",
-      "last_seen": "2026-09-11",
-      "articles": [
-        "digital-banking-finovatefall-2026",
-        "digital-banking-finovatefall-2026-09-11"
+        "regulation-embedded-finance-us-2026-09-18",
+        "regulation-cfpb-1033-2026-09-19"
       ]
     },
     {
       "keyword": "revolut-occ-us-bank-charter",
-      "count": 10,
+      "count": 11,
       "first_seen": "2026-09-06",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "articles": [
         "digital-banking-revolut-occ-2026-09-06",
         "regulation-revolut-occ-2026-09-09",
@@ -298,7 +293,8 @@
         "regulation-revolut-occ-2026-09-15",
         "regulation-revolut-occ-2026-09-16",
         "regulation-revolut-occ-2026-09-17",
-        "digital-banking-revolut-occ-2026-09-18"
+        "digital-banking-revolut-occ-2026-09-18",
+        "digital-banking-revolut-occ-2026-09-19"
       ]
     },
     {
@@ -318,9 +314,9 @@
     },
     {
       "keyword": "ant-international-fundraise-2026",
-      "count": 9,
+      "count": 10,
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-19",
       "articles": [
         "investment-ant-international",
         "investment-ant-international-2026-09-08",
@@ -330,7 +326,8 @@
         "investment-ant-international-2026-09-14",
         "investment-ant-international-2026-09-15",
         "investment-ant-international-2026-09-16",
-        "investment-ant-international-2026-09-17"
+        "investment-ant-international-2026-09-17",
+        "investment-ant-international-12b-2026-09-19"
       ]
     },
     {
@@ -415,12 +412,12 @@
       ]
     },
     {
-      "keyword": "paypay-lockup-expiry",
+      "keyword": "revolut-bizbanking-corporate",
       "count": 1,
-      "first_seen": "2026-09-11",
-      "last_seen": "2026-09-11",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12",
       "articles": [
-        "investment-paypay-lockup-2026-09-11"
+        "investment-revolut-ftse250-2026-09-12"
       ]
     },
     {
@@ -430,15 +427,6 @@
       "last_seen": "2026-09-12",
       "articles": [
         "payments-tabapay-transact-2026-09-12"
-      ]
-    },
-    {
-      "keyword": "revolut-bizbanking-corporate",
-      "count": 1,
-      "first_seen": "2026-09-12",
-      "last_seen": "2026-09-12",
-      "articles": [
-        "investment-revolut-ftse250-2026-09-12"
       ]
     },
     {
@@ -494,13 +482,14 @@
     },
     {
       "keyword": "us-crypto-clarity-act",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-09-15",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-19",
       "articles": [
         "regulation-clarity-act-senate-vote-2026-09-15",
         "regulation-clarity-act-senate-2026-09-16",
-        "regulation-clarity-act-2026-09-17"
+        "regulation-clarity-act-2026-09-17",
+        "regulation-clarity-act-senate-2026-09-19"
       ]
     },
     {
@@ -514,13 +503,14 @@
     },
     {
       "keyword": "fintech-ma-platform-integration",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "articles": [
         "payments-ma-platform-integration-2026-09-16",
         "investment-ma-platform-2026-09-17",
-        "investment-fintech-land-grab-2026-09-18"
+        "investment-fintech-land-grab-2026-09-18",
+        "investment-fintech-land-grab-2026-09-19"
       ]
     },
     {
@@ -534,23 +524,25 @@
     },
     {
       "keyword": "tabby-bnpl-expansion-2026",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "articles": [
         "lending-tabby-bnpl-233m-2026-09-16",
         "lending-tabby-bnpl-2026-09-17",
-        "lending-tabby-bnpl-2026-09-18"
+        "lending-tabby-bnpl-2026-09-18",
+        "lending-tabby-233m-2026-09-19"
       ]
     },
     {
       "keyword": "korea-savings-fintech-p2p",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "articles": [
         "regulation-korea-savings-2026-09-17",
-        "regulation-korea-p2p-savings-2026-09-18"
+        "regulation-korea-p2p-savings-2026-09-18",
+        "regulation-korea-p2p-savings-2026-09-19"
       ]
     },
     {
@@ -596,6 +588,60 @@
       "last_seen": "2026-09-18",
       "articles": [
         "digital-banking-infinite-erebor-2026-09-18"
+      ]
+    },
+    {
+      "keyword": "korea-simplepay-record-2026",
+      "count": 1,
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "articles": [
+        "payments-korea-simplepay-2026-09-19"
+      ]
+    },
+    {
+      "keyword": "global-remittance-mobile-milestone",
+      "count": 1,
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "articles": [
+        "remittance-global-729b-2026-09-19"
+      ]
+    },
+    {
+      "keyword": "eu-psd3-liability-reset",
+      "count": 1,
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "articles": [
+        "regulation-psd3-reset-2026-09-19"
+      ]
+    },
+    {
+      "keyword": "kaiko-crypto-data-infrastructure",
+      "count": 1,
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "articles": [
+        "investment-kaiko-110m-2026-09-19"
+      ]
+    },
+    {
+      "keyword": "ioaura-alipayplusp-smb-korea",
+      "count": 1,
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "articles": [
+        "investment-ioaura-alipayplusp-2026-09-19"
+      ]
+    },
+    {
+      "keyword": "seoul-gfci-fintech-ranking",
+      "count": 1,
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "articles": [
+        "investment-seoul-financial-rank-7-2026-09-19"
       ]
     }
   ]
