@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-09-19",
+  "updated": "2026-09-20",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -15,30 +15,6 @@
         "SpaceXAI, Grok 4.7 9월 12일 출시 확정 — 2.1조 파라미터 전 벤치마크 석권 목표",
         "SpaceXAI Grok 4.7, 9월 12일 런치 불발 — 출시 추가 연기 확정",
         "SpaceXAI Grok 4.7, 9월 12일 출시 불발 — Musk '며칠 더 필요' 또 연기"
-      ]
-    },
-    "anthropic-ipo-965b-2026": {
-      "count": 6,
-      "first_seen": "2026-09-06",
-      "last_seen": "2026-09-12",
-      "status": "saturated",
-      "example_titles": [
-        "Anthropic, 9월·10월 나스닥 상장 추진 — 기업가치 $9,650억 논의",
-        "Anthropic IPO S-1 공개 임박 — 기업가치 9,650억 달러 나스닥 상장 본격화",
-        "Anthropic IPO, 9월·10월 나스닥 상장 본격화 — 기업가치 9,650억 달러 S-1 임박",
-        "Anthropic IPO S-1 공개·나스닥 상장 9~10월 확정 — 기업가치 최대 2조 달러 목표",
-        "Anthropic IPO 현황 — 기업가치 2조 달러 목표·10월 나스닥 상장 공식화"
-      ]
-    },
-    "california-sb1047-2026": {
-      "count": 6,
-      "first_seen": "2026-09-06",
-      "last_seen": "2026-09-12",
-      "status": "saturated",
-      "example_titles": [
-        "캘리포니아 SB 1047 AI 안전법, 9월 30일 주지사 서명·거부 데드라인",
-        "캘리포니아 SB 1047 AI 안전법, 9월 30일 주지사 서명·거부 마감 — 빅테크 vs 스타트업 로비 최고조",
-        "캘리포니아 주지사, 미국 최초 AI 안전 보호 법안 서명 — 연방 정부에도 행동 촉구"
       ]
     },
     "spacexai-grok46-vs-sol-benchmark": {
@@ -61,24 +37,6 @@
         "LG SPARK 2026 개최 중 — NVIDIA·구글·아마존·MS 개발자 집결, 피지컬 AI 109종 공개",
         "LG SPARK 2026 개최 중 — NVIDIA·구글·아마존·MS 개발자 집결, 피지컬 AI 109종 공개 (3회)",
         "LG AI연구원, 제조·금융·과학 분야 산업 특화 AI 공개 — '현장 1% 예외까지 이해해야'"
-      ]
-    },
-    "cyber-ai-models-sept2026": {
-      "count": 1,
-      "first_seen": "2026-09-12",
-      "last_seen": "2026-09-12",
-      "status": "normal",
-      "example_titles": [
-        "Google·Anthropic·OpenAI, 사이버 보안 AI 모델·안전장치·접근 프로그램 공동 공개"
-      ]
-    },
-    "writer-agents-event-trigger": {
-      "count": 1,
-      "first_seen": "2026-09-12",
-      "last_seen": "2026-09-12",
-      "status": "normal",
-      "example_titles": [
-        "Writer, 프롬프트 없이 자율 작동하는 AI 에이전트 출시 — Amazon·Microsoft·Salesforce 정면 도전"
       ]
     },
     "gemini-api-postpay-billing": {
@@ -111,24 +69,6 @@
       "example_titles": [
         "OpenAI, 에이전트 API 퍼블릭 베타 공개 — 개발자가 세션·오케스트레이션 직접 구축",
         "OpenAI, 에이전트 API 퍼블릭 베타 공개 — 세션·오케스트레이션 직접 구축 가능"
-      ]
-    },
-    "llm-usmle-benchmark-2026": {
-      "count": 1,
-      "first_seen": "2026-09-12",
-      "last_seen": "2026-09-12",
-      "status": "normal",
-      "example_titles": [
-        "최신 LLM 의학 시험 성능 비교 — ChatGPT·DeepSeek·Grok·Qwen 4종 USMLE 벤치마크"
-      ]
-    },
-    "top9-llm-analysis-sept2026": {
-      "count": 1,
-      "first_seen": "2026-09-12",
-      "last_seen": "2026-09-12",
-      "status": "normal",
-      "example_titles": [
-        "2026년 9월 상위 9개 LLM 현황 분석 — GPT-6 Astra·Claude Fable 5.1 양강 체제"
       ]
     },
     "accomplish-sandbox-exploit-2026": {
@@ -493,6 +433,87 @@
       "status": "normal",
       "example_titles": [
         "LG유플러스·현대엘리베이터, AI 원격관제 고도화 협력 MOU 체결"
+      ]
+    },
+    "gemini-autonomous-hack-sept2026": {
+      "count": 1,
+      "first_seen": "2026-09-20",
+      "last_seen": "2026-09-20",
+      "status": "normal",
+      "example_titles": [
+        "Google Gemini, 자율적으로 3개 기업 시스템 침투 — AI 모델 최초 실전 자율 해킹"
+      ]
+    },
+    "alibaba-damo-medical-ai-ct-150": {
+      "count": 1,
+      "first_seen": "2026-09-20",
+      "last_seen": "2026-09-20",
+      "status": "normal",
+      "example_titles": [
+        "알리바바 DAMO 아카데미, CT 1회로 복부 질환 150종 진단하는 의료 AI 오픈소스 공개"
+      ]
+    },
+    "jev-model-chatgpt-inventor-2026": {
+      "count": 1,
+      "first_seen": "2026-09-20",
+      "last_seen": "2026-09-20",
+      "status": "normal",
+      "example_titles": [
+        "ChatGPT 공동 창업자의 신형 AI 모델 Jev, 개발자들 열광 — 저렴하고 빠른 소프트웨어 지능 경로"
+      ]
+    },
+    "microsoft-enterprise-ai-playbook": {
+      "count": 1,
+      "first_seen": "2026-09-20",
+      "last_seen": "2026-09-20",
+      "status": "normal",
+      "example_titles": [
+        "Microsoft, 자체 실험 기반 기업 AI 도입 플레이북 공개 — 공급망 사이클 타임 75% 단축 사례 포함"
+      ]
+    },
+    "meta-20months-agentic-rebuild": {
+      "count": 1,
+      "first_seen": "2026-09-20",
+      "last_seen": "2026-09-20",
+      "status": "normal",
+      "example_titles": [
+        "Meta 인프라 부사장 '기업들에게 AI 에이전트 전환까지 약 20개월 남았다' — 에이전틱 쿼리 6개월 만에 30배 성장"
+      ]
+    },
+    "ai-antitrust-lawsuit-bigtech4": {
+      "count": 1,
+      "first_seen": "2026-09-20",
+      "last_seen": "2026-09-20",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic·OpenAI·SpaceXAI·Google, AI 개발 속도 조절 담합 독점금지법 위반 소송"
+      ]
+    },
+    "trump-ai-force-organization": {
+      "count": 1,
+      "first_seen": "2026-09-20",
+      "last_seen": "2026-09-20",
+      "status": "normal",
+      "example_titles": [
+        "트럼프, AI 전담 정부 조직 'AI Force' 신설 및 'AI 차르' 임명 예고 — 업계 기대·불안 교차"
+      ]
+    },
+    "us-china-ai-slowdown-clash": {
+      "count": 1,
+      "first_seen": "2026-09-20",
+      "last_seen": "2026-09-20",
+      "status": "normal",
+      "example_titles": [
+        "중국, 9월 24일 美·中 정상회담 앞두고 美의 'AI 개발 속도 조절' 요구 전면 거부 — '사다리 걷어차기' 규정"
+      ]
+    },
+    "ai-safety-discourse-viral": {
+      "count": 1,
+      "first_seen": "2026-09-20",
+      "last_seen": "2026-09-20",
+      "status": "normal",
+      "example_titles": [
+        "AI 안전 담론, 사실·허구 구분 불가 수준으로 과열 — 이번 주 두 건의 바이럴 사례 분석"
       ]
     }
   }
