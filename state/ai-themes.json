@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-09-20",
+  "updated": "2026-09-21",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -514,6 +514,87 @@
       "status": "normal",
       "example_titles": [
         "AI 안전 담론, 사실·허구 구분 불가 수준으로 과열 — 이번 주 두 건의 바이럴 사례 분석"
+      ]
+    },
+    "stepfun-step5-preview-china": {
+      "count": 1,
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "status": "normal",
+      "example_titles": [
+        "StepFun Step 5 Preview 공개 — 6000억 파라미터 MoE, API 즉시 개방"
+      ]
+    },
+    "alibaba-qwen3-8-omni-flash": {
+      "count": 1,
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "status": "normal",
+      "example_titles": [
+        "알리바바 Qwen3.8-Omni-Flash 출시 — 네이티브 옴니모달, 1M 토큰 컨텍스트"
+      ]
+    },
+    "plugin4shell-ai-coding-rce": {
+      "count": 1,
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "status": "normal",
+      "example_titles": [
+        "Plugin4Shell: AI 코딩 에이전트 전체를 노리는 제로클릭 RCE 취약점 공개"
+      ]
+    },
+    "gpt6-astra-eci-benchmark-sept": {
+      "count": 1,
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "status": "normal",
+      "example_titles": [
+        "Epoch AI 9월 벤치마크 업데이트 — GPT-6 Astra 수학·연속학습 신기록, Claude Fable 5.1 코딩 1위"
+      ]
+    },
+    "medical-ai-clinician-pushback": {
+      "count": 1,
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "status": "normal",
+      "example_titles": [
+        "글로벌 임상의 74%, 의료 결정 AI에 '탈숙련화' 우려 — 신뢰 부족이 도입 병목"
+      ]
+    },
+    "crusoe-infrastructure-series-f": {
+      "count": 1,
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "status": "normal",
+      "example_titles": [
+        "Crusoe, $309억 가치로 $39억 시리즈F — 모듈형 'Spark' AI 팩토리·6GW 계약 용량"
+      ]
+    },
+    "enhans-ai-series-c-kr": {
+      "count": 1,
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "status": "normal",
+      "example_titles": [
+        "기업용 AI 에이전트 인핸스(Enhans), 512억 원 시리즈C — ACT-2 에이전트 글로벌 2위, 누적 810억"
+      ]
+    },
+    "aicc-beijing-agent-computing-2026": {
+      "count": 1,
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "status": "normal",
+      "example_titles": [
+        "AICC 2026 베이징 개막 — '에이전트 시대 AI 컴퓨팅' 주제로 중국 AI 업계 집결"
+      ]
+    },
+    "india-digital-india-act-genai": {
+      "count": 1,
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "status": "normal",
+      "example_titles": [
+        "인도 의회, Digital India Act 생성형 AI 책임 조항 심의 개시 — 연내 본회의 표결 목표"
       ]
     }
   }
