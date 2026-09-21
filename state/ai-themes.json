@@ -1,22 +1,9 @@
 {
   "topic": "ai",
-  "updated": "2026-09-21",
+  "updated": "2026-09-22",
   "version": 1,
   "window_days": 7,
   "themes": {
-    "grok47-delay-spacex-data": {
-      "count": 7,
-      "first_seen": "2026-09-04",
-      "last_seen": "2026-09-13",
-      "status": "saturated",
-      "example_titles": [
-        "SpaceXAI, Grok 4.7 출시 9월로 지연 — SpaceX 데이터 추가 훈련 중",
-        "SpaceXAI, Grok 4.7 9월 12일 출시 예고 — 2.1조 파라미터, 전 모델 제압 목표",
-        "SpaceXAI, Grok 4.7 9월 12일 출시 확정 — 2.1조 파라미터 전 벤치마크 석권 목표",
-        "SpaceXAI Grok 4.7, 9월 12일 런치 불발 — 출시 추가 연기 확정",
-        "SpaceXAI Grok 4.7, 9월 12일 출시 불발 — Musk '며칠 더 필요' 또 연기"
-      ]
-    },
     "spacexai-grok46-vs-sol-benchmark": {
       "count": 2,
       "first_seen": "2026-09-10",
@@ -37,48 +24,6 @@
         "LG SPARK 2026 개최 중 — NVIDIA·구글·아마존·MS 개발자 집결, 피지컬 AI 109종 공개",
         "LG SPARK 2026 개최 중 — NVIDIA·구글·아마존·MS 개발자 집결, 피지컬 AI 109종 공개 (3회)",
         "LG AI연구원, 제조·금융·과학 분야 산업 특화 AI 공개 — '현장 1% 예외까지 이해해야'"
-      ]
-    },
-    "gemini-api-postpay-billing": {
-      "count": 3,
-      "first_seen": "2026-09-12",
-      "last_seen": "2026-09-14",
-      "status": "saturated",
-      "example_titles": [
-        "Google Gemini API, 9월 14일 포스트페이 빌링 폐지 — 개발자 선불 전환 필수",
-        "Google Gemini API, 9월 14일 포스트페이 빌링 폐지 — 개발자 선불 전환 마감 D-1",
-        "Google Gemini API, 오늘(9월 14일) 포스트페이 빌링 완전 종료 — 개발자 선불 전환 마감"
-      ]
-    },
-    "anthropic-misuse-detection-sept2026": {
-      "count": 3,
-      "first_seen": "2026-09-12",
-      "last_seen": "2026-09-14",
-      "status": "saturated",
-      "example_titles": [
-        "Anthropic, 2026년 9월 AI 오용 탐지·차단 보고서 공개 — IPO 앞 투명성 제고",
-        "Anthropic, 2026년 9월 AI 오용 탐지·차단 보고서 공개 — 에이전트가 사이버 오케스트레이터로 진화",
-        "Anthropic, 2026년 9월 AI 오용 탐지·차단 보고서 공개 — AI 에이전트가 사이버 오케스트레이터로 진화"
-      ]
-    },
-    "openai-agents-api-public-beta": {
-      "count": 2,
-      "first_seen": "2026-09-12",
-      "last_seen": "2026-09-13",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, 에이전트 API 퍼블릭 베타 공개 — 개발자가 세션·오케스트레이션 직접 구축",
-        "OpenAI, 에이전트 API 퍼블릭 베타 공개 — 세션·오케스트레이션 직접 구축 가능"
-      ]
-    },
-    "accomplish-sandbox-exploit-2026": {
-      "count": 2,
-      "first_seen": "2026-09-13",
-      "last_seen": "2026-09-14",
-      "status": "normal",
-      "example_titles": [
-        "스텔스 스타트업 Accomplish, Claude Code·OpenAI Codex·Cursor 샌드박스 탈출 취약점 일제 공개",
-        "스텔스 스타트업 Accomplish, Claude Code·Codex·Cursor 샌드박스 탈출 취약점 일제 공개"
       ]
     },
     "ai-safety-extinction-resignation-sept2026": {
@@ -436,12 +381,13 @@
       ]
     },
     "gemini-autonomous-hack-sept2026": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-20",
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-22",
       "status": "normal",
       "example_titles": [
-        "Google Gemini, 자율적으로 3개 기업 시스템 침투 — AI 모델 최초 실전 자율 해킹"
+        "Google Gemini, 자율적으로 3개 기업 시스템 침투 — AI 모델 최초 실전 자율 해킹",
+        "Google Gemini, 타사 시스템 3곳 자율 침투 확인 — AI 최초 실전 자율 해킹"
       ]
     },
     "alibaba-damo-medical-ai-ct-150": {
@@ -454,12 +400,13 @@
       ]
     },
     "jev-model-chatgpt-inventor-2026": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-20",
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-22",
       "status": "normal",
       "example_titles": [
-        "ChatGPT 공동 창업자의 신형 AI 모델 Jev, 개발자들 열광 — 저렴하고 빠른 소프트웨어 지능 경로"
+        "ChatGPT 공동 창업자의 신형 AI 모델 Jev, 개발자들 열광 — 저렴하고 빠른 소프트웨어 지능 경로",
+        "ChatGPT 공동창업자의 비-LLM AI 모델 Jev, 개발자 커뮤니티 열풍"
       ]
     },
     "microsoft-enterprise-ai-playbook": {
@@ -481,30 +428,33 @@
       ]
     },
     "ai-antitrust-lawsuit-bigtech4": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-20",
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-22",
       "status": "normal",
       "example_titles": [
-        "Anthropic·OpenAI·SpaceXAI·Google, AI 개발 속도 조절 담합 독점금지법 위반 소송"
+        "Anthropic·OpenAI·SpaceXAI·Google, AI 개발 속도 조절 담합 독점금지법 위반 소송",
+        "Anthropic·OpenAI·SpaceXAI·Google, AI 속도 조절 담합 독점금지법 소송 피소"
       ]
     },
     "trump-ai-force-organization": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-20",
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-22",
       "status": "normal",
       "example_titles": [
-        "트럼프, AI 전담 정부 조직 'AI Force' 신설 및 'AI 차르' 임명 예고 — 업계 기대·불안 교차"
+        "트럼프, AI 전담 정부 조직 'AI Force' 신설 및 'AI 차르' 임명 예고 — 업계 기대·불안 교차",
+        "트럼프, 'AI Force' 신설·'AI 차르' 임명 예고 — Space Force 모델 기반 AI 전담 조직"
       ]
     },
     "us-china-ai-slowdown-clash": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-20",
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-22",
       "status": "normal",
       "example_titles": [
-        "중국, 9월 24일 美·中 정상회담 앞두고 美의 'AI 개발 속도 조절' 요구 전면 거부 — '사다리 걷어차기' 규정"
+        "중국, 9월 24일 美·中 정상회담 앞두고 美의 'AI 개발 속도 조절' 요구 전면 거부 — '사다리 걷어차기' 규정",
+        "중국, 미·중 AI 정상회담(9월 24일) 앞두고 개발 속도 조절 요구 전면 거부"
       ]
     },
     "ai-safety-discourse-viral": {
@@ -595,6 +545,51 @@
       "status": "normal",
       "example_titles": [
         "인도 의회, Digital India Act 생성형 AI 책임 조항 심의 개시 — 연내 본회의 표결 목표"
+      ]
+    },
+    "grok47-spacex-launch": {
+      "count": 1,
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
+      "status": "normal",
+      "example_titles": [
+        "SpaceXAI, Grok 4.7 공식 출시 — 코딩 최강 모델, CursorBench 46.3% 신기록"
+      ]
+    },
+    "meta-muse-app-store-1": {
+      "count": 1,
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
+      "status": "normal",
+      "example_titles": [
+        "Meta Muse AI 에이전트, 미국 App Store 1위 등극 — ChatGPT 제치고 9일 만에 등극"
+      ]
+    },
+    "chatgpt-desktop-chrome-extensions": {
+      "count": 1,
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
+      "status": "normal",
+      "example_titles": [
+        "ChatGPT 데스크톱 앱, Chrome 확장 지원 개시 — 내장 브라우저에서 확장 기능 직접 활용"
+      ]
+    },
+    "anthropic-claude-self-rd-lead": {
+      "count": 1,
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, Claude가 자사 R&D 26% 주도 공개 — 에이전트 3만 개 동시 가동, 연구 90% AI 협업"
+      ]
+    },
+    "meta-stock-surge-ai-muse": {
+      "count": 1,
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
+      "status": "normal",
+      "example_titles": [
+        "Meta 주가 12% 급등 — Muse AI 에이전트 성공에 나스닥 2.26% 동반 상승"
       ]
     }
   }
