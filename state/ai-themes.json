@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-09-22",
+  "updated": "2026-09-23",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -26,56 +26,6 @@
         "LG AI연구원, 제조·금융·과학 분야 산업 특화 AI 공개 — '현장 1% 예외까지 이해해야'"
       ]
     },
-    "ai-safety-extinction-resignation-sept2026": {
-      "count": 3,
-      "first_seen": "2026-09-13",
-      "last_seen": "2026-09-15",
-      "status": "saturated",
-      "example_titles": [
-        "Anthropic·OpenAI 연구원 줄사직·'인류 멸종 위험' 경고 — 트럼프 '터무니없다' 일축",
-        "Anthropic·OpenAI 연구원 줄사직·'인류 멸종 위험' 경고 — 트럼프 '터무니없다' 일축 (2회)",
-        "[사설] AI 종말론 세계적 이슈화, 파장 예의주시해야"
-      ]
-    },
-    "ai-agent-papercut-cyberattack": {
-      "count": 2,
-      "first_seen": "2026-09-13",
-      "last_seen": "2026-09-14",
-      "status": "normal",
-      "example_titles": [
-        "AI 에이전트 수백 개, PaperCut 취약점으로 48개국 395개 기관 해킹 — 4시간 만에 첫 침투",
-        "AI 에이전트 수백 개, PaperCut 취약점으로 4시간 만에 48개국 395개 기관 침투"
-      ]
-    },
-    "sakana-fugu-ultra-v2": {
-      "count": 2,
-      "first_seen": "2026-09-13",
-      "last_seen": "2026-09-14",
-      "status": "normal",
-      "example_titles": [
-        "Sakana AI, 프런티어 모델 없이 Chartography 1위 — Fugu Ultra v2·Fugu Max 출시",
-        "Sakana AI, 프런티어 모델 없이 Chartography 1위 달성 — Fugu Ultra v2·Fugu Max 공개"
-      ]
-    },
-    "pentagon-fluidstack-5b-infra": {
-      "count": 2,
-      "first_seen": "2026-09-13",
-      "last_seen": "2026-09-14",
-      "status": "normal",
-      "example_titles": [
-        "미 국방부, AI 클라우드 스타트업 Fluidstack에 50억 달러 대출 협상 — 데이터센터 공급망 강화",
-        "미 국방부, AI 클라우드 스타트업 Fluidstack에 50억 달러 대출 협상 — 데이터센터 공급망 강화 (2회)"
-      ]
-    },
-    "openai-gpt6-astra-launch": {
-      "count": 1,
-      "first_seen": "2026-09-14",
-      "last_seen": "2026-09-14",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, 'AGI 시대 도래' 선언과 함께 GPT-6 Astra 공식 출시"
-      ]
-    },
     "openai-luna-price-war": {
       "count": 3,
       "first_seen": "2026-09-14",
@@ -85,15 +35,6 @@
         "OpenAI, GPT-5.6 Luna 가격 80% 전격 인하 — AI 모델 비용 전쟁 격화",
         "OpenAI, GPT-5.6 Luna 가격 80% 전격 인하 — AI 모델 비용 전쟁 격화 (2회)",
         "OpenAI, GPT-5.6 Luna 가격 80% 인하 — AI 모델 비용 전쟁 새 국면"
-      ]
-    },
-    "gemini-38-flash-cyber-bench": {
-      "count": 1,
-      "first_seen": "2026-09-14",
-      "last_seen": "2026-09-14",
-      "status": "normal",
-      "example_titles": [
-        "Google Gemini 3.8 Flash Cyber, 자율 취약점 탐지에서 Anthropic Mythos 5·OpenAI 제압"
       ]
     },
     "openai-anthropic-safety-body": {
@@ -126,24 +67,6 @@
       "example_titles": [
         "Thinking Machines, '인터랙션 모델'로 실시간에 가까운 AI 음성·영상 대화 미리보기 공개",
         "Thinking Machines, '인터랙션 모델'로 실시간 근접 AI 음성·영상 대화 공개"
-      ]
-    },
-    "kr-bigwave-robotics-ipo": {
-      "count": 1,
-      "first_seen": "2026-09-15",
-      "last_seen": "2026-09-15",
-      "status": "normal",
-      "example_titles": [
-        "'산업용 피지컬 AI' 빅웨이브로보틱스, 코스닥 상장 일반 공모 돌입"
-      ]
-    },
-    "kr-ai-power-fusion": {
-      "count": 1,
-      "first_seen": "2026-09-15",
-      "last_seen": "2026-09-15",
-      "status": "normal",
-      "example_titles": [
-        "AI 시대 전력 확보 나선 한국 — 핵융합 에너지 2030년대 상업화 도전"
       ]
     },
     "kr-ai-roi-skepticism": {
@@ -557,12 +480,13 @@
       ]
     },
     "meta-muse-app-store-1": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-22",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-23",
       "status": "normal",
       "example_titles": [
-        "Meta Muse AI 에이전트, 미국 App Store 1위 등극 — ChatGPT 제치고 9일 만에 등극"
+        "Meta Muse AI 에이전트, 미국 App Store 1위 등극 — ChatGPT 제치고 9일 만에 등극",
+        "\"매일 저녁 9시에 가계부 업데이트해줘\" — Meta Muse AI 에이전트 써보니"
       ]
     },
     "chatgpt-desktop-chrome-extensions": {
@@ -590,6 +514,69 @@
       "status": "normal",
       "example_titles": [
         "Meta 주가 12% 급등 — Muse AI 에이전트 성공에 나스닥 2.26% 동반 상승"
+      ]
+    },
+    "google-anthropic-openai-cyber-ai-models": {
+      "count": 1,
+      "first_seen": "2026-09-23",
+      "last_seen": "2026-09-23",
+      "status": "normal",
+      "example_titles": [
+        "Google·Anthropic·OpenAI, 사이버 보안 특화 AI 모델 일제 공개"
+      ]
+    },
+    "alibaba-ai-chip-model-stock-surge": {
+      "count": 1,
+      "first_seen": "2026-09-23",
+      "last_seen": "2026-09-23",
+      "status": "normal",
+      "example_titles": [
+        "알리바바, 차세대 AI칩·대형 모델 공개로 주가 급등 — 공급망 제약 불확실성 상존"
+      ]
+    },
+    "kr-legal-ai-hallucination-regulation": {
+      "count": 1,
+      "first_seen": "2026-09-23",
+      "last_seen": "2026-09-23",
+      "status": "normal",
+      "example_titles": [
+        "허위 판례 기승인데…\"국내 법률AI만 규제하면 챗GPT로 간다\""
+      ]
+    },
+    "anthropic-misuse-report-sept2026": {
+      "count": 1,
+      "first_seen": "2026-09-23",
+      "last_seen": "2026-09-23",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, 2026년 9월 AI 악용 탐지·대응 보고서 공개"
+      ]
+    },
+    "nasdaq-27k-ai-rally-dotcom-warning": {
+      "count": 1,
+      "first_seen": "2026-09-23",
+      "last_seen": "2026-09-23",
+      "status": "normal",
+      "example_titles": [
+        "나스닥 27,122p 역대 최고치·AI 랠리 지속 — 닷컴 버블 경고 속 향방은"
+      ]
+    },
+    "kr-ai-daily-life-apps-camera": {
+      "count": 1,
+      "first_seen": "2026-09-23",
+      "last_seen": "2026-09-23",
+      "status": "normal",
+      "example_titles": [
+        "냉장고 찍으면 저녁 메뉴 나온다 — AI, '생활 앱' 속으로 빠르게 확산"
+      ]
+    },
+    "kr-ai-procurement-bid-verification": {
+      "count": 1,
+      "first_seen": "2026-09-23",
+      "last_seen": "2026-09-23",
+      "status": "normal",
+      "example_titles": [
+        "AI 입찰 검증 시스템으로 공공 조달 이해충돌 사전 차단 — 탐지율 92%"
       ]
     }
   }
