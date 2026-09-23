@@ -1,42 +1,9 @@
 {
   "topic": "ai",
-  "updated": "2026-09-23",
+  "updated": "2026-09-24",
   "version": 1,
   "window_days": 7,
   "themes": {
-    "spacexai-grok46-vs-sol-benchmark": {
-      "count": 2,
-      "first_seen": "2026-09-10",
-      "last_seen": "2026-09-16",
-      "status": "normal",
-      "example_titles": [
-        "SpaceXAI Grok 4.6, GPT-5.6 Sol 다수 벤치마크에서 제압",
-        "SpaceXAI, Grok 4.6 출시 — Kimi K3 추월·GPT-5.6 Sol과 동등 세계 3위"
-      ]
-    },
-    "lg-spark-2026-event": {
-      "count": 4,
-      "first_seen": "2026-09-11",
-      "last_seen": "2026-09-16",
-      "status": "saturated",
-      "example_titles": [
-        "LG SPARK 2026 진행 중 — 서울 마곡에 엔비디아·구글·아마존·마이크로소프트 개발자 집결, 피지컬 AI 109가지 공개",
-        "LG SPARK 2026 개최 중 — NVIDIA·구글·아마존·MS 개발자 집결, 피지컬 AI 109종 공개",
-        "LG SPARK 2026 개최 중 — NVIDIA·구글·아마존·MS 개발자 집결, 피지컬 AI 109종 공개 (3회)",
-        "LG AI연구원, 제조·금융·과학 분야 산업 특화 AI 공개 — '현장 1% 예외까지 이해해야'"
-      ]
-    },
-    "openai-luna-price-war": {
-      "count": 3,
-      "first_seen": "2026-09-14",
-      "last_seen": "2026-09-16",
-      "status": "saturated",
-      "example_titles": [
-        "OpenAI, GPT-5.6 Luna 가격 80% 전격 인하 — AI 모델 비용 전쟁 격화",
-        "OpenAI, GPT-5.6 Luna 가격 80% 전격 인하 — AI 모델 비용 전쟁 격화 (2회)",
-        "OpenAI, GPT-5.6 Luna 가격 80% 인하 — AI 모델 비용 전쟁 새 국면"
-      ]
-    },
     "openai-anthropic-safety-body": {
       "count": 3,
       "first_seen": "2026-09-14",
@@ -48,27 +15,6 @@
         "OpenAI·Anthropic·Google, AI 안전 평가단 공동 내재화 추진 — 실질적 독립성 논란"
       ]
     },
-    "cisco-crowdstrike-iam-agent": {
-      "count": 3,
-      "first_seen": "2026-09-14",
-      "last_seen": "2026-09-16",
-      "status": "saturated",
-      "example_titles": [
-        "AI 에이전트, Fortune 50 기업 보안 정책 자동 재작성 — IAM 성숙도 격차 가시화",
-        "AI 에이전트, Fortune 50 기업 보안 정책 자동 재작성 — IAM 성숙도 격차 가시화 (2회)",
-        "AI 에이전트, Fortune 50 기업 보안 정책 자동 재작성 — IAM 성숙도 격차 가시화 (3회)"
-      ]
-    },
-    "thinking-machines-interaction-models": {
-      "count": 2,
-      "first_seen": "2026-09-15",
-      "last_seen": "2026-09-16",
-      "status": "normal",
-      "example_titles": [
-        "Thinking Machines, '인터랙션 모델'로 실시간에 가까운 AI 음성·영상 대화 미리보기 공개",
-        "Thinking Machines, '인터랙션 모델'로 실시간 근접 AI 음성·영상 대화 공개"
-      ]
-    },
     "kr-ai-roi-skepticism": {
       "count": 2,
       "first_seen": "2026-09-15",
@@ -77,33 +23,6 @@
       "example_titles": [
         "[지오의 시장 읽기] AI 수익성 회의론·규제 리스크 본격화 — 국내 반도체 밸류에이션 재조정 가능성",
         "[지오의 시장 읽기] AI 거품론 재점화·호르무즈 리스크 — 국내 AI 칩 수출주 하락 배경"
-      ]
-    },
-    "microsoft-mai-code-of-conduct": {
-      "count": 1,
-      "first_seen": "2026-09-16",
-      "last_seen": "2026-09-16",
-      "status": "normal",
-      "example_titles": [
-        "Microsoft, MAI 모델 행동 강령 공개 — AI 종료 저항·목표 자의 확장 금지 명문화"
-      ]
-    },
-    "shanghai-ailab-atria-dawn": {
-      "count": 1,
-      "first_seen": "2026-09-16",
-      "last_seen": "2026-09-16",
-      "status": "normal",
-      "example_titles": [
-        "Shanghai AI Lab, Atria Dawn Preview 출시 — 744B 에이전틱 MoE MIT 라이선스 무료 공개"
-      ]
-    },
-    "google-opens-claude-to-engineers": {
-      "count": 1,
-      "first_seen": "2026-09-16",
-      "last_seen": "2026-09-16",
-      "status": "normal",
-      "example_titles": [
-        "Google, 전 엔지니어에 Anthropic Claude Opus 5 허용 — Gemini 독점 내부 정책 전격 파기"
       ]
     },
     "naver-lgcns-national-security-ai": {
@@ -371,13 +290,14 @@
       ]
     },
     "us-china-ai-slowdown-clash": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-09-20",
-      "last_seen": "2026-09-22",
-      "status": "normal",
+      "last_seen": "2026-09-24",
+      "status": "saturated",
       "example_titles": [
         "중국, 9월 24일 美·中 정상회담 앞두고 美의 'AI 개발 속도 조절' 요구 전면 거부 — '사다리 걷어차기' 규정",
-        "중국, 미·중 AI 정상회담(9월 24일) 앞두고 개발 속도 조절 요구 전면 거부"
+        "중국, 미·중 AI 정상회담(9월 24일) 앞두고 개발 속도 조절 요구 전면 거부",
+        "미·중, AI 거버넌스 협력 의제 담은 시진핑-트럼프 정상회담 추진"
       ]
     },
     "ai-safety-discourse-viral": {
@@ -577,6 +497,69 @@
       "status": "normal",
       "example_titles": [
         "AI 입찰 검증 시스템으로 공공 조달 이해충돌 사전 차단 — 탐지율 92%"
+      ]
+    },
+    "claude-art-enzyme-discovery": {
+      "count": 1,
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "status": "normal",
+      "example_titles": [
+        "Claude, CRISPR 유사 반복 서열 갖는 신규 효소 시스템 발견"
+      ]
+    },
+    "google-envharness-agent-training": {
+      "count": 1,
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "status": "normal",
+      "example_titles": [
+        "구글, AI 에이전트 훈련용 오픈소스 진화형 환경 도구 'EnvHarness' 공개"
+      ]
+    },
+    "gallup-ai-daily-users-worried": {
+      "count": 1,
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "status": "normal",
+      "example_titles": [
+        "갤럽 조사: AI 매일 사용하는 미국인도 AI의 사회적 영향 불안"
+      ]
+    },
+    "bessemer-ai-fund-5b": {
+      "count": 1,
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "status": "normal",
+      "example_titles": [
+        "베세머 벤처스, 57억5000만 달러 신규 펀드 조성...AI 인프라·에이전트 투자 집중"
+      ]
+    },
+    "youtube-ai-video-editing": {
+      "count": 1,
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "status": "normal",
+      "example_titles": [
+        "유튜브, 자연어로 영상 편집하는 AI 대화형 편집 도구 출시"
+      ]
+    },
+    "jev-prompt-injection-agent-security": {
+      "count": 1,
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "status": "normal",
+      "example_titles": [
+        "AI 에이전트 의사결정 판사로 JEV 채택 확산...프롬프트 인젝션 취약 드러나"
+      ]
+    },
+    "youtube-custom-ai-algorithm": {
+      "count": 1,
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "status": "normal",
+      "example_titles": [
+        "유튜브, AI로 개인 맞춤 추천 알고리즘 직접 구성하는 기능 예고"
       ]
     }
   }
