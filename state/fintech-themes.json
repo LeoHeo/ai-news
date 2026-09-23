@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-23",
+  "updated": "2026-09-24",
 
 
   "window_days": 7,
@@ -344,9 +344,9 @@
     },
     {
       "keyword": "ant-international-fundraise-2026",
-      "count": 13,
+      "count": 14,
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-09-24",
       "articles": [
         "investment-ant-international",
         "investment-ant-international-2026-09-08",
@@ -360,7 +360,8 @@
         "investment-ant-international-12b-2026-09-19",
         "investment-ant-international-12b-2026-09-21",
         "investment-ant-international-12b-2026-09-22",
-        "investment-ant-international"
+        "investment-ant-international",
+        "investment-ant-international-2026-09-24"
       ]
     },
     {
@@ -424,9 +425,9 @@
     },
     {
       "keyword": "coinbase-moov-stablecoin-banks",
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-09-11",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-24",
       "articles": [
         "payments-coinbase-moov-2026-09-11",
         "payments-coinbase-moov-2026-09-12",
@@ -434,7 +435,8 @@
         "digital-banking-coinbase-moov-2026-09-14",
         "payments-coinbase-moov-2026-09-15",
         "payments-coinbase-moov-stablecoin-2026-09-21",
-        "payments-coinbase-moov-stablecoin-2026-09-22"
+        "payments-coinbase-moov-stablecoin-2026-09-22",
+        "digital-banking-coinbase-moov-2026-09-24"
       ]
     },
     {
@@ -510,28 +512,30 @@
     },
     {
       "keyword": "tabby-bnpl-expansion-2026",
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-24",
       "articles": [
         "lending-tabby-bnpl-233m-2026-09-16",
         "lending-tabby-bnpl-2026-09-17",
         "lending-tabby-bnpl-2026-09-18",
         "lending-tabby-233m-2026-09-19",
         "lending-tabby-233m-series-f-2026-09-21",
-        "lending-tabby-233m-series-f-2026-09-22"
+        "lending-tabby-233m-series-f-2026-09-22",
+        "lending-tabby-233m-2026-09-24"
       ]
     },
     {
       "keyword": "korea-savings-fintech-p2p",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-24",
       "articles": [
         "regulation-korea-savings-2026-09-17",
         "regulation-korea-p2p-savings-2026-09-18",
         "regulation-korea-p2p-savings-2026-09-19",
-        "regulation-korea-p2p-activation-2026-09-22"
+        "regulation-korea-p2p-activation-2026-09-22",
+        "regulation-korea-p2p-activation-2026-09-24"
       ]
     },
     {
@@ -600,13 +604,14 @@
     },
     {
       "keyword": "global-remittance-mobile-milestone",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-09-19",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-24",
       "articles": [
         "remittance-global-729b-2026-09-19",
         "remittance-global-729b-record-2026-09-21",
-        "remittance-ifad-729b-2026-09-22"
+        "remittance-ifad-729b-2026-09-22",
+        "remittance-ifad-729b-2026-09-24"
       ]
     },
     {
@@ -675,27 +680,27 @@
     },
     {
       "keyword": "us-embedded-finance-regulation",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-09-20",
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-09-24",
       "articles": [
         "regulation-us-embedded-finance-2026-09-20",
         "regulation-us-embedded-finance-2026-09-21",
         "regulation-us-embedded-finance-2026-09-22",
-        "regulation-us-embedded-finance"
-
-
+        "regulation-us-embedded-finance",
+        "regulation-us-embedded-finance-2026-09-24"
       ]
     },
     {
       "keyword": "japan-blockchain-rtp-settlement",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-09-21",
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-09-24",
       "articles": [
         "payments-japan-blockchain-rtp-2026-09-21",
         "remittance-japan-blockchain-rtp-2026-09-22",
-        "payments-japan-blockchain-rtp"
+        "payments-japan-blockchain-rtp",
+        "payments-japan-blockchain-rtp-2026-09-24"
       ]
     },
     {
@@ -727,11 +732,12 @@
     },
     {
       "keyword": "nubank-colombia-expansion",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-22",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-24",
       "articles": [
-        "digital-banking-nubank-colombia-2026-09-22"
+        "digital-banking-nubank-colombia-2026-09-22",
+        "digital-banking-nubank-colombia-2026-09-24"
       ]
     },
     {
@@ -754,11 +760,12 @@
     },
     {
       "keyword": "bnpl-cards-wallets-growth",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-23",
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-09-24",
       "articles": [
-        "lending-bnpl-cards-wallets"
+        "lending-bnpl-cards-wallets",
+        "lending-bnpl-cards-wallets-2026-09-24"
       ]
     },
     {
@@ -772,20 +779,22 @@
     },
     {
       "keyword": "malaysia-rtp-ai-security",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-23",
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-09-24",
       "articles": [
-        "regulation-malaysia-rtp-ai"
+        "regulation-malaysia-rtp-ai",
+        "regulation-malaysia-rtp-ai-2026-09-24"
       ]
     },
     {
       "keyword": "softbank-splinks-acquisition",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-23",
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-09-24",
       "articles": [
-        "investment-softbank-splinks"
+        "investment-softbank-splinks",
+        "investment-softbank-splinks-2026-09-24"
       ]
     },
     {
@@ -795,6 +804,42 @@
       "last_seen": "2026-09-23",
       "articles": [
         "investment-pennylane-175m"
+      ]
+    },
+    {
+      "keyword": "visa-stablecoin-consumer-survey",
+      "count": 1,
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "articles": [
+        "payments-visa-stablecoin-survey-2026-09-24"
+      ]
+    },
+    {
+      "keyword": "thredd-velocity-stablecoin-cards",
+      "count": 1,
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "articles": [
+        "payments-thredd-velocity-stablecoin-2026-09-24"
+      ]
+    },
+    {
+      "keyword": "aracore-teiza-korea-malaysia",
+      "count": 1,
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "articles": [
+        "payments-aracore-teiza-korea-malaysia-2026-09-24"
+      ]
+    },
+    {
+      "keyword": "cellpoint-zenith-ai-payments",
+      "count": 1,
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "articles": [
+        "investment-cellpoint-zenith-34m-2026-09-24"
       ]
     }
   ]
