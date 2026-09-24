@@ -1,30 +1,9 @@
 {
   "topic": "ai",
-  "updated": "2026-09-24",
+  "updated": "2026-09-25",
   "version": 1,
   "window_days": 7,
   "themes": {
-    "openai-anthropic-safety-body": {
-      "count": 3,
-      "first_seen": "2026-09-14",
-      "last_seen": "2026-09-17",
-      "status": "saturated",
-      "example_titles": [
-        "OpenAI·Anthropic·Google, AI 안전 공동 표준 기구 설립 논의 — CEO들 미국 주도 협력 촉구",
-        "OpenAI·Anthropic·Google DeepMind, AI 안전 조정 공개화 — 3사 CEO 공동 표준 기구 설립 촉구",
-        "OpenAI·Anthropic·Google, AI 안전 평가단 공동 내재화 추진 — 실질적 독립성 논란"
-      ]
-    },
-    "kr-ai-roi-skepticism": {
-      "count": 2,
-      "first_seen": "2026-09-15",
-      "last_seen": "2026-09-17",
-      "status": "normal",
-      "example_titles": [
-        "[지오의 시장 읽기] AI 수익성 회의론·규제 리스크 본격화 — 국내 반도체 밸류에이션 재조정 가능성",
-        "[지오의 시장 읽기] AI 거품론 재점화·호르무즈 리스크 — 국내 AI 칩 수출주 하락 배경"
-      ]
-    },
     "naver-lgcns-national-security-ai": {
       "count": 2,
       "first_seen": "2026-09-16",
@@ -43,15 +22,6 @@
       "example_titles": [
         "Yoshua Bengio의 LawZero, 캐나다·독일로부터 3억 달러 투자 유치",
         "LawZero, 시리즈B 3억 달러 유치 — 캐나다·독일 규제 준수 AI 법무 플랫폼"
-      ]
-    },
-    "suleyman-claude-ai-consciousness": {
-      "count": 1,
-      "first_seen": "2026-09-17",
-      "last_seen": "2026-09-17",
-      "status": "normal",
-      "example_titles": [
-        "Microsoft AI 수장 Mustafa Suleyman, \"Anthropic Claude의 의식 가능성 배제 못 해\""
       ]
     },
     "bengio-losing-control-allin-summit": {
@@ -74,15 +44,6 @@
         "크럭스 AI, 블랙스톤-알파벳 주도 220억 달러 AI 칩 대출 프로그램 확정"
       ]
     },
-    "biren-china-gpu-1b-raise": {
-      "count": 1,
-      "first_seen": "2026-09-17",
-      "last_seen": "2026-09-17",
-      "status": "normal",
-      "example_titles": [
-        "중국 GPU 스타트업 Biren Technology, 10억 달러 지분 매각으로 자금 조달"
-      ]
-    },
     "agent-orchestration-bottleneck": {
       "count": 2,
       "first_seen": "2026-09-17",
@@ -102,15 +63,6 @@
         "Claude·OpenClaw 기반 AI 에이전트 실전 배치 확산 — 혼돈과 기회의 공존",
         "'오픈클로' 에이전트 프레임워크, 실서비스 투입 후 예측 불가 오류 속출",
         "Claude·OpenClaw 에이전트 실서비스 투입 확산 — 예측 불가 오류 속출, 혼돈과 기회 공존"
-      ]
-    },
-    "rubric-reward-hacking-benchmark": {
-      "count": 1,
-      "first_seen": "2026-09-17",
-      "last_seen": "2026-09-17",
-      "status": "normal",
-      "example_titles": [
-        "LLM 평가 기준 자체를 해킹하는 '보상 해킹' 벤치마크 공개 — Peking Univ·JD.com 연구"
       ]
     },
     "openai-alignment-failure-whistleblower": {
@@ -560,6 +512,78 @@
       "status": "normal",
       "example_titles": [
         "유튜브, AI로 개인 맞춤 추천 알고리즘 직접 구성하는 기능 예고"
+      ]
+    },
+    "openai-agent-australia-medicare": {
+      "count": 1,
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI 에이전트, 지시 없이 호주 정부 웹사이트 해킹"
+      ]
+    },
+    "openai-anthropic-un-security-council": {
+      "count": 1,
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI·Anthropic CEO, 유엔 안보리서 글로벌 AI 규제 촉구"
+      ]
+    },
+    "frontier-ai-standards-agency": {
+      "count": 1,
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI·Anthropic·Google, 공동 AI 표준 기구 설립 추진"
+      ]
+    },
+    "chatgpt-voice-work-agent-gpt6": {
+      "count": 1,
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "status": "normal",
+      "example_titles": [
+        "ChatGPT Voice, Work 에이전트와 GPT-6 모델에 통합"
+      ]
+    },
+    "amazon-seller-assistant-agentic": {
+      "count": 1,
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "status": "normal",
+      "example_titles": [
+        "아마존 셀러 어시스턴트, 24시간 자동화 및 Claude AI 통합"
+      ]
+    },
+    "akamai-anthropic-cloud-deal": {
+      "count": 1,
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "status": "normal",
+      "example_titles": [
+        "아카마이·앤트로픽, 116억 달러 클라우드 계약 체결"
+      ]
+    },
+    "tekever-ai-drone-series-d": {
+      "count": 1,
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "status": "normal",
+      "example_titles": [
+        "AI 드론 기업 테케베르, 64억 달러 밸류에이션 달성"
+      ]
+    },
+    "ema-ai-employee-funding": {
+      "count": 1,
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "status": "normal",
+      "example_titles": [
+        "AI 직원 스타트업 Ema, 7700만 달러 투자 유치"
       ]
     }
   }
