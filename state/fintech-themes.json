@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-24",
+  "updated": "2026-09-25",
 
 
   "window_days": 7,
@@ -167,9 +167,9 @@
     },
     {
       "keyword": "embedded-payments-b2b-platform",
-      "count": 16,
+      "count": 17,
       "first_seen": "2026-08-13",
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-25",
 
 
       "articles": [
@@ -188,7 +188,8 @@
         "payments-embedded-b2b-2026-09-16",
         "payments-embedded-ma-2026-09-18",
         "payments-embedded-ma-2026-09-19",
-        "payments-doordash-tempo-2026-09-20"
+        "payments-doordash-tempo-2026-09-20",
+        "investment-embedded-ma-2026-09-25"
 
 
       ]
@@ -392,38 +393,6 @@
       ]
     },
     {
-      "keyword": "mollie-gocardless-open-banking",
-      "count": 9,
-      "first_seen": "2026-09-09",
-      "last_seen": "2026-09-17",
-      "articles": [
-        "investment-mollie-gocardless-2026-09-09",
-        "investment-mollie-gocardless-2026-09-10",
-        "investment-mollie-gocardless-2026-09-11",
-        "investment-mollie-gocardless-2026-09-12",
-        "investment-mollie-gocardless-2026-09-13",
-        "payments-mollie-gocardless-2026-09-14",
-        "investment-mollie-gocardless-2026-09-15",
-        "investment-mollie-gocardless-2026-09-16",
-        "investment-mollie-gocardless-2026-09-17"
-      ]
-    },
-    {
-      "keyword": "kakao-pay-stablecoin-wallet",
-      "count": 7,
-      "first_seen": "2026-09-10",
-      "last_seen": "2026-09-16",
-      "articles": [
-        "digital-banking-kakao-stablecoin-2026-09-10",
-        "digital-banking-kakao-stablecoin-2026-09-11",
-        "digital-banking-kakao-stablecoin-2026-09-12",
-        "digital-banking-kakao-stablecoin-2026-09-13",
-        "digital-banking-kakao-stablecoin-2026-09-14",
-        "digital-banking-kakao-stablecoin-2026-09-15",
-        "digital-banking-kakao-stablecoin-2026-09-16"
-      ]
-    },
-    {
       "keyword": "coinbase-moov-stablecoin-banks",
       "count": 8,
       "first_seen": "2026-09-11",
@@ -437,39 +406,6 @@
         "payments-coinbase-moov-stablecoin-2026-09-21",
         "payments-coinbase-moov-stablecoin-2026-09-22",
         "digital-banking-coinbase-moov-2026-09-24"
-      ]
-    },
-    {
-      "keyword": "eu-ai-act-fintech-guidelines",
-      "count": 3,
-      "first_seen": "2026-09-14",
-      "last_seen": "2026-09-16",
-      "articles": [
-        "regulation-eu-ai-act-2026-09-14",
-        "regulation-eu-ai-act-2026-09-15",
-        "regulation-eu-ai-act-2026-09-16"
-      ]
-    },
-    {
-      "keyword": "stripe-ipo-valuation-2026",
-      "count": 3,
-      "first_seen": "2026-09-14",
-      "last_seen": "2026-09-16",
-      "articles": [
-        "investment-stripe-valuation-2026-09-14",
-        "investment-stripe-valuation-2026-09-15",
-        "investment-stripe-valuation-2026-09-16"
-      ]
-    },
-    {
-      "keyword": "fis-embedded-banking-banks",
-      "count": 3,
-      "first_seen": "2026-09-14",
-      "last_seen": "2026-09-16",
-      "articles": [
-        "digital-banking-fis-embedded-2026-09-14",
-        "digital-banking-fis-embedded-2026-09-15",
-        "digital-banking-fis-embedded-2026-09-16"
       ]
     },
     {
@@ -499,15 +435,6 @@
         "investment-fintech-land-grab-2026-09-21",
         "investment-fintech-national-bank"
 
-      ]
-    },
-    {
-      "keyword": "swift-blockchain-crossborder-test",
-      "count": 1,
-      "first_seen": "2026-09-16",
-      "last_seen": "2026-09-16",
-      "articles": [
-        "remittance-swift-blockchain-2026-09-16"
       ]
     },
     {
@@ -840,6 +767,114 @@
       "last_seen": "2026-09-24",
       "articles": [
         "investment-cellpoint-zenith-34m-2026-09-24"
+      ]
+    },
+    {
+      "keyword": "fednow-crossborder-instant-payments",
+      "count": 1,
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "articles": [
+        "payments-fednow-crossborder-2026-09-25"
+      ]
+    },
+    {
+      "keyword": "tch-quant-tokenized-deposits",
+      "count": 1,
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "articles": [
+        "payments-tch-quant-tokenized-2026-09-25"
+      ]
+    },
+    {
+      "keyword": "workday-cashapp-embedded-payroll",
+      "count": 1,
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "articles": [
+        "payments-workday-cashapp-2026-09-25"
+      ]
+    },
+    {
+      "keyword": "smb-backoffice-white-glove-fintech",
+      "count": 1,
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "articles": [
+        "payments-smb-backoffice-2026-09-25"
+      ]
+    },
+    {
+      "keyword": "kredete-gravv-stablecoin-infra",
+      "count": 1,
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "articles": [
+        "payments-kredete-gravv-2026-09-25"
+      ]
+    },
+    {
+      "keyword": "plaid-cognito-kyc-onboarding",
+      "count": 1,
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "articles": [
+        "investment-plaid-cognito-2026-09-25"
+      ]
+    },
+    {
+      "keyword": "tabapay-transact-bank-acquisition",
+      "count": 1,
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "articles": [
+        "investment-tabapay-transact-2026-09-25"
+      ]
+    },
+    {
+      "keyword": "fis-opencoreos-core-banking",
+      "count": 1,
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "articles": [
+        "investment-fis-opencoreos-2026-09-25"
+      ]
+    },
+    {
+      "keyword": "hifi-tokenized-capital-markets",
+      "count": 1,
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "articles": [
+        "investment-hifi-series-a-2026-09-25"
+      ]
+    },
+    {
+      "keyword": "fed-genius-act-stablecoin-rules",
+      "count": 1,
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "articles": [
+        "regulation-fed-genius-act-2026-09-25"
+      ]
+    },
+    {
+      "keyword": "sec-tokenized-stocks-approval",
+      "count": 1,
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "articles": [
+        "regulation-sec-tokenized-stocks-2026-09-25"
+      ]
+    },
+    {
+      "keyword": "nationwide-equifax-credit-scores",
+      "count": 1,
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "articles": [
+        "digital-banking-nationwide-equifax-2026-09-25"
       ]
     }
   ]
