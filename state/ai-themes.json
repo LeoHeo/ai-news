@@ -1,59 +1,9 @@
 {
   "topic": "ai",
-  "updated": "2026-09-25",
+  "updated": "2026-09-26",
   "version": 1,
   "window_days": 7,
   "themes": {
-    "naver-lgcns-national-security-ai": {
-      "count": 2,
-      "first_seen": "2026-09-16",
-      "last_seen": "2026-09-18",
-      "status": "normal",
-      "example_titles": [
-        "네이버클라우드-LG CNS, 700B급 국가 보안 AI 공동 개발 — 방어·공격 특화 모델 각각 구축",
-        "네이버-LG CNS, 7000억 원 규모 보안 AI 구축 사업 협력 — 금융·공공 특화 모델 공동 개발"
-      ]
-    },
-    "lawzero-bengio-canada-germany": {
-      "count": 2,
-      "first_seen": "2026-09-17",
-      "last_seen": "2026-09-18",
-      "status": "normal",
-      "example_titles": [
-        "Yoshua Bengio의 LawZero, 캐나다·독일로부터 3억 달러 투자 유치",
-        "LawZero, 시리즈B 3억 달러 유치 — 캐나다·독일 규제 준수 AI 법무 플랫폼"
-      ]
-    },
-    "bengio-losing-control-allin-summit": {
-      "count": 2,
-      "first_seen": "2026-09-17",
-      "last_seen": "2026-09-18",
-      "status": "normal",
-      "example_titles": [
-        "Yoshua Bengio \"AI 통제력을 잃어가고 있다\" — ALL IN 서밋 경고",
-        "베지오, \"인류는 AI 통제권 잃어가고 있다\" — ALL IN 서밋 기조연설"
-      ]
-    },
-    "crux-ai-chip-loan-blackstone-alphabet": {
-      "count": 2,
-      "first_seen": "2026-09-17",
-      "last_seen": "2026-09-18",
-      "status": "normal",
-      "example_titles": [
-        "Crux AI, Blackstone·Alphabet 연계 220억 달러 칩 대출 조달 — 역대 최대 AI 인프라 파이낸싱",
-        "크럭스 AI, 블랙스톤-알파벳 주도 220억 달러 AI 칩 대출 프로그램 확정"
-      ]
-    },
-    "agent-orchestration-bottleneck": {
-      "count": 2,
-      "first_seen": "2026-09-17",
-      "last_seen": "2026-09-18",
-      "status": "normal",
-      "example_titles": [
-        "VentureBeat: AI의 다음 병목은 모델이 아닌 '에이전트 간 협업'",
-        "\"AI 에이전트의 실제 병목은 오케스트레이션 — 추론 속도가 아니다\" 실증 분석"
-      ]
-    },
     "openclaw-agents-production-chaos": {
       "count": 3,
       "first_seen": "2026-09-17",
@@ -515,75 +465,128 @@
       ]
     },
     "openai-agent-australia-medicare": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "status": "normal",
       "example_titles": [
-        "OpenAI 에이전트, 지시 없이 호주 정부 웹사이트 해킹"
+        "OpenAI 에이전트, 지시 없이 호주 정부 웹사이트 해킹",
+        "OpenAI 에이전트, 지시 없이 호주 메디케어 포털 무단 침입 — 정부 시스템 해킹 AI 에이전트 최초 사례"
       ]
     },
     "openai-anthropic-un-security-council": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "status": "normal",
       "example_titles": [
-        "OpenAI·Anthropic CEO, 유엔 안보리서 글로벌 AI 규제 촉구"
+        "OpenAI·Anthropic CEO, 유엔 안보리서 글로벌 AI 규제 촉구",
+        "OpenAI·Anthropic CEO, 유엔 안보리서 \"AI는 인류 전체 위험\" — 글로벌 규제 촉구"
       ]
     },
     "frontier-ai-standards-agency": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "status": "normal",
       "example_titles": [
-        "OpenAI·Anthropic·Google, 공동 AI 표준 기구 설립 추진"
+        "OpenAI·Anthropic·Google, 공동 AI 표준 기구 설립 추진",
+        "Google·OpenAI·Anthropic, 프론티어 AI 자율 표준기구 'SAFA' 연내 출범 추진"
       ]
     },
     "chatgpt-voice-work-agent-gpt6": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "status": "normal",
       "example_titles": [
-        "ChatGPT Voice, Work 에이전트와 GPT-6 모델에 통합"
+        "ChatGPT Voice, Work 에이전트와 GPT-6 모델에 통합",
+        "ChatGPT Voice, GPT-6 3종 모델·Work 에이전트 통합 — 음성으로 문서 작성·이메일 발송"
       ]
     },
     "amazon-seller-assistant-agentic": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "status": "normal",
       "example_titles": [
-        "아마존 셀러 어시스턴트, 24시간 자동화 및 Claude AI 통합"
+        "아마존 셀러 어시스턴트, 24시간 자동화 및 Claude AI 통합",
+        "아마존 셀러 어시스턴트, 24시간 에이전틱 자동화·Claude 통합 출시"
       ]
     },
     "akamai-anthropic-cloud-deal": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "status": "normal",
       "example_titles": [
-        "아카마이·앤트로픽, 116억 달러 클라우드 계약 체결"
+        "아카마이·앤트로픽, 116억 달러 클라우드 계약 체결",
+        "아카마이·앤트로픽, 116억 달러 7년 클라우드 인프라 계약 체결"
       ]
     },
     "tekever-ai-drone-series-d": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "status": "normal",
       "example_titles": [
-        "AI 드론 기업 테케베르, 64억 달러 밸류에이션 달성"
+        "AI 드론 기업 테케베르, 64억 달러 밸류에이션 달성",
+        "AI 드론 기업 테케베르, 5.8억 달러 Series D로 64억 달러 가치 달성"
       ]
     },
     "ema-ai-employee-funding": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "status": "normal",
       "example_titles": [
-        "AI 직원 스타트업 Ema, 7700만 달러 투자 유치"
+        "AI 직원 스타트업 Ema, 7700만 달러 투자 유치",
+        "AI 직원 스타트업 Ema, 7,700만 달러 Series B 조달 — 직전 대비 4배 밸류"
+      ]
+    },
+    "skt-kakao-kt-modu-ai": {
+      "count": 1,
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "status": "normal",
+      "example_titles": [
+        "SKT·KT·카카오, 국민 5,200만 명 대상 '모두의 AI' 베타 이달 출시 임박"
+      ]
+    },
+    "github-taskflow-fuzzing-agent": {
+      "count": 1,
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "status": "normal",
+      "example_titles": [
+        "GitHub 시큐리티랩, C/C++ 자율 퍼징 에이전트 파이프라인 'Taskflow' 오픈소스 공개"
+      ]
+    },
+    "google-vids-gemini-omni-1080p": {
+      "count": 1,
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "status": "normal",
+      "example_titles": [
+        "Google Vids, Gemini Omni 1.1 Flash 탑재 1080p AI 영상 생성 무료 개방"
+      ]
+    },
+    "anthropic-claude-opus-55": {
+      "count": 1,
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, Claude Opus 5.5 출시 — Opus 5 대비 40% 저렴·30% 빠른 속도"
+      ]
+    },
+    "allspark-iris-search-agents": {
+      "count": 1,
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "status": "normal",
+      "example_titles": [
+        "AllSpark, 오픈소스 검색 에이전트 Iris-mini·Iris-pro 공개 — 오픈웨이트 SOTA 달성"
       ]
     }
   }
