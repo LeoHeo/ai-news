@@ -1,8 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-25",
-
-
+  "updated": "2026-09-26",
   "window_days": 7,
   "themes": [
     {
@@ -10,8 +8,6 @@
       "count": 48,
       "first_seen": "2026-07-05",
       "last_seen": "2026-09-20",
-
-
       "articles": [
         "remittance-smb-fintech-growth",
         "remittance-smb-crossborder-2026-07-06",
@@ -61,17 +57,13 @@
         "payments-smb-36pct-2026-09-16",
         "payments-smb-36pct-2026-09-17",
         "payments-smb-36pct-2026-09-20"
-
-
       ]
     },
     {
       "keyword": "fintech-vc-forecast-2026",
-      "count": 54,
+      "count": 56,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-09-21",
-
-
+      "last_seen": "2026-09-26",
       "articles": [
         "investment-fintech-crunchbase",
         "investment-vc-trends-2026-2026-07-14",
@@ -126,9 +118,9 @@
         "investment-h1-funding-2026-09-17",
         "investment-fintech-land-grab-2026-09-19",
         "investment-fintech-h1-23pct-2026-09-20",
-        "investment-eu-fintech-h1-ai-native-2026-09-21"
-
-
+        "investment-eu-fintech-h1-ai-native-2026-09-21",
+        "investment-fintech-weekly-funding",
+        "investment-tearsheet-capital-flows"
       ]
     },
     {
@@ -170,8 +162,6 @@
       "count": 17,
       "first_seen": "2026-08-13",
       "last_seen": "2026-09-25",
-
-
       "articles": [
         "embedded-payments-competition-2026-08-13",
         "payments-embedded-90pct-2026-08-18",
@@ -190,8 +180,6 @@
         "payments-embedded-ma-2026-09-19",
         "payments-doordash-tempo-2026-09-20",
         "investment-embedded-ma-2026-09-25"
-
-
       ]
     },
     {
@@ -199,8 +187,6 @@
       "count": 19,
       "first_seen": "2026-08-17",
       "last_seen": "2026-09-23",
-
-
       "articles": [
         "payments-sea-tokenization-ai-2026-08-17",
         "payments-sea-tokenization-ai-2026-08-18",
@@ -221,8 +207,6 @@
         "payments-redotpay-stablecoin-2026-09-20",
         "payments-sea-tokenization-2026-09-21",
         "investment-sea-tokenization"
-
-
       ]
     },
     {
@@ -230,8 +214,6 @@
       "count": 26,
       "first_seen": "2026-08-20",
       "last_seen": "2026-09-23",
-
-
       "articles": [
         "remittance-oba-fee-2026-08-20",
         "regulation-us-obbba-remittance-tax-2026-08-21",
@@ -259,8 +241,6 @@
         "regulation-obbba-remittance-tax-2026-09-21",
         "remittance-obbba-consultations-2026-09-22",
         "remittance-obbba-fee"
-
-
       ]
     },
     {
@@ -323,8 +303,6 @@
       "count": 13,
       "first_seen": "2026-09-06",
       "last_seen": "2026-09-21",
-
-
       "articles": [
         "digital-banking-revolut-occ-2026-09-06",
         "regulation-revolut-occ-2026-09-09",
@@ -339,8 +317,6 @@
         "digital-banking-revolut-occ-2026-09-19",
         "digital-banking-revolut-private-2026-09-20",
         "digital-banking-revolut-occ-2026-09-21"
-
-
       ]
     },
     {
@@ -370,26 +346,12 @@
       "count": 5,
       "first_seen": "2026-09-09",
       "last_seen": "2026-09-20",
-
       "articles": [
         "payments-sokin-50m-2026-09-09",
         "investment-sokin-2026-09-13",
         "investment-sokin-2026-09-17",
         "investment-sokin-b2b-2026-09-18",
         "investment-sokin-b2b-2026-09-20"
-
-
-      ]
-    },
-    {
-      "keyword": "samsung-naver-pay-integration-korea",
-      "count": 3,
-      "first_seen": "2026-09-09",
-      "last_seen": "2026-09-18",
-      "articles": [
-        "payments-samsung-naver-pay-2026-09-09",
-        "payments-samsung-naver-2026-09-17",
-        "payments-samsung-naver-2026-09-18"
       ]
     },
     {
@@ -409,23 +371,10 @@
       ]
     },
     {
-      "keyword": "us-crypto-clarity-act",
-      "count": 4,
-      "first_seen": "2026-09-15",
-      "last_seen": "2026-09-19",
-      "articles": [
-        "regulation-clarity-act-senate-vote-2026-09-15",
-        "regulation-clarity-act-senate-2026-09-16",
-        "regulation-clarity-act-2026-09-17",
-        "regulation-clarity-act-senate-2026-09-19"
-      ]
-    },
-    {
       "keyword": "fintech-ma-platform-integration",
       "count": 7,
       "first_seen": "2026-09-16",
       "last_seen": "2026-09-23",
-
       "articles": [
         "payments-ma-platform-integration-2026-09-16",
         "investment-ma-platform-2026-09-17",
@@ -434,7 +383,6 @@
         "investment-fintech-bank-acq-2026-09-20",
         "investment-fintech-land-grab-2026-09-21",
         "investment-fintech-national-bank"
-
       ]
     },
     {
@@ -466,57 +414,6 @@
       ]
     },
     {
-      "keyword": "circle-usdc-payments-platform",
-      "count": 2,
-      "first_seen": "2026-09-18",
-      "last_seen": "2026-09-20",
-      "articles": [
-        "payments-circle-usdc-2026-09-18",
-        "payments-circle-usdc-2026-09-20"
-
-      ]
-    },
-    {
-      "keyword": "doordash-tempo-stablecoin-payouts",
-      "count": 2,
-      "first_seen": "2026-09-18",
-      "last_seen": "2026-09-20",
-      "articles": [
-        "payments-doordash-tempo-2026-09-18",
-        "payments-doordash-stablecoin-2026-09-20"
-
-      ]
-    },
-    {
-      "keyword": "redotpay-stablecoin-series-b",
-      "count": 2,
-      "first_seen": "2026-09-18",
-      "last_seen": "2026-09-20",
-      "articles": [
-        "investment-redotpay-series-b-2026-09-18",
-        "investment-redotpay-2026-09-20"
-
-      ]
-    },
-    {
-      "keyword": "hashed-abudhabi-expansion",
-      "count": 1,
-      "first_seen": "2026-09-18",
-      "last_seen": "2026-09-18",
-      "articles": [
-        "investment-hashed-abudhabi-2026-09-18"
-      ]
-    },
-    {
-      "keyword": "infinite-erebor-stablecoin-banking",
-      "count": 1,
-      "first_seen": "2026-09-18",
-      "last_seen": "2026-09-18",
-      "articles": [
-        "digital-banking-infinite-erebor-2026-09-18"
-      ]
-    },
-    {
       "keyword": "korea-simplepay-record-2026",
       "count": 4,
       "first_seen": "2026-09-19",
@@ -526,7 +423,6 @@
         "payments-korea-simplepay-2026-09-20",
         "payments-korea-simplepay-record-2026-09-21",
         "payments-korea-simplepay-record-2026-09-22"
-
       ]
     },
     {
@@ -539,70 +435,6 @@
         "remittance-global-729b-record-2026-09-21",
         "remittance-ifad-729b-2026-09-22",
         "remittance-ifad-729b-2026-09-24"
-      ]
-    },
-    {
-      "keyword": "eu-psd3-liability-reset",
-      "count": 1,
-      "first_seen": "2026-09-19",
-      "last_seen": "2026-09-19",
-      "articles": [
-        "regulation-psd3-reset-2026-09-19"
-      ]
-    },
-    {
-      "keyword": "kaiko-crypto-data-infrastructure",
-      "count": 1,
-      "first_seen": "2026-09-19",
-      "last_seen": "2026-09-19",
-      "articles": [
-        "investment-kaiko-110m-2026-09-19"
-      ]
-    },
-    {
-      "keyword": "ioaura-alipayplusp-smb-korea",
-      "count": 1,
-      "first_seen": "2026-09-19",
-      "last_seen": "2026-09-19",
-      "articles": [
-        "investment-ioaura-alipayplusp-2026-09-19"
-      ]
-    },
-    {
-      "keyword": "seoul-gfci-fintech-ranking",
-      "count": 1,
-      "first_seen": "2026-09-19",
-      "last_seen": "2026-09-19",
-      "articles": [
-        "investment-seoul-financial-rank-7-2026-09-19"
-      ]
-    },
-    {
-      "keyword": "fintech-outrun-banks-profit",
-      "count": 1,
-      "first_seen": "2026-09-20",
-      "last_seen": "2026-09-20",
-      "articles": [
-        "digital-banking-fintech-profit-2026-09-20"
-      ]
-    },
-    {
-      "keyword": "bnpl-global-market-560b",
-      "count": 1,
-      "first_seen": "2026-09-20",
-      "last_seen": "2026-09-20",
-      "articles": [
-        "digital-banking-bnpl-global-2026-09-20"
-      ]
-    },
-    {
-      "keyword": "eu-bnpl-consumer-credit-regulation",
-      "count": 2,
-      "first_seen": "2026-09-20",
-      "last_seen": "2026-09-21",
-      "articles": [
-        "regulation-eu-bnpl-2026-09-20",
-        "regulation-eu-bnpl-ccd2-2026-09-21"
       ]
     },
     {
@@ -631,33 +463,6 @@
       ]
     },
     {
-      "keyword": "jack-henry-rtp-fednow-gateway",
-      "count": 1,
-      "first_seen": "2026-09-22",
-      "last_seen": "2026-09-22",
-      "articles": [
-        "payments-jackhenry-rtp-fednow-2026-09-22"
-      ]
-    },
-    {
-      "keyword": "solvapay-ai-agent-payments",
-      "count": 1,
-      "first_seen": "2026-09-22",
-      "last_seen": "2026-09-22",
-      "articles": [
-        "payments-solvapay-ai-agents-2026-09-22"
-      ]
-    },
-    {
-      "keyword": "revolut-h1-2026-profit",
-      "count": 1,
-      "first_seen": "2026-09-22",
-      "last_seen": "2026-09-22",
-      "articles": [
-        "digital-banking-revolut-profit-2026-09-22"
-      ]
-    },
-    {
       "keyword": "nubank-colombia-expansion",
       "count": 2,
       "first_seen": "2026-09-22",
@@ -665,24 +470,6 @@
       "articles": [
         "digital-banking-nubank-colombia-2026-09-22",
         "digital-banking-nubank-colombia-2026-09-24"
-      ]
-    },
-    {
-      "keyword": "travelwallet-10trillion-milestone",
-      "count": 1,
-      "first_seen": "2026-09-23",
-      "last_seen": "2026-09-23",
-      "articles": [
-        "payments-travelwallet-milestone"
-      ]
-    },
-    {
-      "keyword": "mcards-neobankify-platform",
-      "count": 1,
-      "first_seen": "2026-09-23",
-      "last_seen": "2026-09-23",
-      "articles": [
-        "digital-banking-mcards"
       ]
     },
     {
@@ -722,15 +509,6 @@
       "articles": [
         "investment-softbank-splinks",
         "investment-softbank-splinks-2026-09-24"
-      ]
-    },
-    {
-      "keyword": "pennylane-series-e-2026",
-      "count": 1,
-      "first_seen": "2026-09-23",
-      "last_seen": "2026-09-23",
-      "articles": [
-        "investment-pennylane-175m"
       ]
     },
     {
@@ -875,6 +653,97 @@
       "last_seen": "2026-09-25",
       "articles": [
         "digital-banking-nationwide-equifax-2026-09-25"
+      ]
+    },
+    {
+      "keyword": "sofi-mastercard-stablecoin-settlement",
+      "count": 1,
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "articles": [
+        "payments-sofi-mastercard-stablecoin"
+      ]
+    },
+    {
+      "keyword": "visa-reap-stablecoin-cards",
+      "count": 1,
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "articles": [
+        "payments-visa-reap-stablecoin"
+      ]
+    },
+    {
+      "keyword": "capstone-payments-doj-seizure",
+      "count": 2,
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "articles": [
+        "regulation-doj-capstone-seizure",
+        "regulation-tether-eqibank-frozen"
+      ]
+    },
+    {
+      "keyword": "santander-webster-fed-approval",
+      "count": 1,
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "articles": [
+        "investment-santander-webster-fed"
+      ]
+    },
+    {
+      "keyword": "zaria-occ-trust-bank",
+      "count": 1,
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "articles": [
+        "regulation-zaria-occ-charter"
+      ]
+    },
+    {
+      "keyword": "b2b-supplier-visibility-payments",
+      "count": 1,
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "articles": [
+        "payments-b2b-supplier-visibility"
+      ]
+    },
+    {
+      "keyword": "korea-payment-apps-daily",
+      "count": 1,
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "articles": [
+        "payments-korea-daily-brief-0926"
+      ]
+    },
+    {
+      "keyword": "sibos-2026-banking-ai",
+      "count": 1,
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "articles": [
+        "payments-sibos-2026-banking"
+      ]
+    },
+    {
+      "keyword": "india-insurtech-regulation",
+      "count": 1,
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "articles": [
+        "investment-pb-fintech-turtlemint"
+      ]
+    },
+    {
+      "keyword": "citrea-crest-digital-assets",
+      "count": 1,
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "articles": [
+        "investment-citrea-crest-digital"
       ]
     }
   ]
