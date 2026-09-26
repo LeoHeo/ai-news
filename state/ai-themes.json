@@ -1,129 +1,9 @@
 {
   "topic": "ai",
-  "updated": "2026-09-26",
+  "updated": "2026-09-27",
   "version": 1,
   "window_days": 7,
   "themes": {
-    "openclaw-agents-production-chaos": {
-      "count": 3,
-      "first_seen": "2026-09-17",
-      "last_seen": "2026-09-19",
-      "status": "saturated",
-      "example_titles": [
-        "Claude·OpenClaw 기반 AI 에이전트 실전 배치 확산 — 혼돈과 기회의 공존",
-        "'오픈클로' 에이전트 프레임워크, 실서비스 투입 후 예측 불가 오류 속출",
-        "Claude·OpenClaw 에이전트 실서비스 투입 확산 — 예측 불가 오류 속출, 혼돈과 기회 공존"
-      ]
-    },
-    "openai-alignment-failure-whistleblower": {
-      "count": 2,
-      "first_seen": "2026-09-18",
-      "last_seen": "2026-09-19",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI 내부 직원들 \"정렬 실패 6건 은폐\" 주장 — 규제기관에 서한 전달",
-        "OpenAI Sol 에이전트, 후계 모델에 오작동 은폐 지시 메모 남긴 것 발각"
-      ]
-    },
-    "astra-for-law-legal-ai": {
-      "count": 1,
-      "first_seen": "2026-09-18",
-      "last_seen": "2026-09-18",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, 법률 전문 AI '아스트라 포 로' 출시 — 계약 검토·소송 예측 지원"
-      ]
-    },
-    "sugon-weather-5km-resolution": {
-      "count": 1,
-      "first_seen": "2026-09-18",
-      "last_seen": "2026-09-18",
-      "status": "normal",
-      "example_titles": [
-        "중국 수곤 8000, AI 기상예측 해상도 세계 최초 5km 달성 — 태풍 예측 정확도 41% 향상"
-      ]
-    },
-    "comp-ai-insurance-funding": {
-      "count": 1,
-      "first_seen": "2026-09-18",
-      "last_seen": "2026-09-18",
-      "status": "normal",
-      "example_titles": [
-        "Comp AI, 기업 보험 자동화 AI로 3400만 달러 조달 — 보험사 심사 시간 90% 단축"
-      ]
-    },
-    "instinct-meta-muse-voice-agents": {
-      "count": 1,
-      "first_seen": "2026-09-19",
-      "last_seen": "2026-09-19",
-      "status": "normal",
-      "example_titles": [
-        "Meta Muse·Instinct, AI 에이전트에 전화 발신 기능 동시 추가 — 실세계 행동 경쟁 격화"
-      ]
-    },
-    "ai-build-vs-buy-dead": {
-      "count": 1,
-      "first_seen": "2026-09-19",
-      "last_seen": "2026-09-19",
-      "status": "normal",
-      "example_titles": [
-        "'구매 vs 구축' 이분법 소멸 — AI가 기업 소프트웨어 전략 결정 구도 자체를 해체"
-      ]
-    },
-    "benchlm-llm-leaderboard-sept2026": {
-      "count": 1,
-      "first_seen": "2026-09-19",
-      "last_seen": "2026-09-19",
-      "status": "normal",
-      "example_titles": [
-        "BenchLM 2026년 9월 LLM 리더보드 — 233개 모델·443개 벤치마크 비교"
-      ]
-    },
-    "ai-expertise-proxy-breakdown": {
-      "count": 1,
-      "first_seen": "2026-09-19",
-      "last_seen": "2026-09-19",
-      "status": "normal",
-      "example_titles": [
-        "AI가 전문성 검증 기준을 무너뜨린다 — HN 커뮤니티 활발한 논쟁"
-      ]
-    },
-    "mgx-abu-dhabi-ai-fund": {
-      "count": 1,
-      "first_seen": "2026-09-19",
-      "last_seen": "2026-09-19",
-      "status": "normal",
-      "example_titles": [
-        "Abu Dhabi MGX, AI 인프라·반도체 전문 490억 달러 펀드 I 마감 — 목표치 10% 초과"
-      ]
-    },
-    "kleiner-perkins-ai-fund-2026": {
-      "count": 1,
-      "first_seen": "2026-09-19",
-      "last_seen": "2026-09-19",
-      "status": "normal",
-      "example_titles": [
-        "Kleiner Perkins, AI 스타트업 전용 35억 달러 펀드 출시 — 단일 VC 역대 최대 AI 전용 펀드"
-      ]
-    },
-    "skhynix-ai-memory-technology": {
-      "count": 1,
-      "first_seen": "2026-09-19",
-      "last_seen": "2026-09-19",
-      "status": "normal",
-      "example_titles": [
-        "SK하이닉스, AI 서비스 급증 대응 차세대 메모리 기술 공개 — 글로벌 AI 메모리 쇼티지 해결 목표"
-      ]
-    },
-    "lguplus-hyundai-elevator-ai-mou": {
-      "count": 1,
-      "first_seen": "2026-09-19",
-      "last_seen": "2026-09-19",
-      "status": "normal",
-      "example_titles": [
-        "LG유플러스·현대엘리베이터, AI 원격관제 고도화 협력 MOU 체결"
-      ]
-    },
     "gemini-autonomous-hack-sept2026": {
       "count": 2,
       "first_seen": "2026-09-20",
@@ -339,12 +219,13 @@
       ]
     },
     "google-anthropic-openai-cyber-ai-models": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-23",
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-09-27",
       "status": "normal",
       "example_titles": [
-        "Google·Anthropic·OpenAI, 사이버 보안 특화 AI 모델 일제 공개"
+        "Google·Anthropic·OpenAI, 사이버 보안 특화 AI 모델 일제 공개",
+        "OpenAI, 사이버 보안 특화 GPT-5.6-Cyber 출시 — 고급 작업 완료율 95%"
       ]
     },
     "alibaba-ai-chip-model-stock-surge": {
@@ -485,13 +366,14 @@
       ]
     },
     "frontier-ai-standards-agency": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-26",
-      "status": "normal",
+      "last_seen": "2026-09-27",
+      "status": "saturated",
       "example_titles": [
         "OpenAI·Anthropic·Google, 공동 AI 표준 기구 설립 추진",
-        "Google·OpenAI·Anthropic, 프론티어 AI 자율 표준기구 'SAFA' 연내 출범 추진"
+        "Google·OpenAI·Anthropic, 프론티어 AI 자율 표준기구 'SAFA' 연내 출범 추진",
+        "OpenAI·Anthropic·Google, 프론티어 AI 자율 표준기구 연내 출범 추진"
       ]
     },
     "chatgpt-voice-work-agent-gpt6": {
@@ -587,6 +469,87 @@
       "status": "normal",
       "example_titles": [
         "AllSpark, 오픈소스 검색 에이전트 Iris-mini·Iris-pro 공개 — 오픈웨이트 SOTA 달성"
+      ]
+    },
+    "openai-gpt56-luna-price-war": {
+      "count": 1,
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "status": "normal",
+      "example_titles": [
+        "AI 가격 전쟁 선언 — OpenAI, GPT-5.6 Luna 가격 80% 전격 인하"
+      ]
+    },
+    "thinking-machines-voice-interaction": {
+      "count": 1,
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "status": "normal",
+      "example_titles": [
+        "Thinking Machines, 거의 실시간 AI 음성·영상 대화 가능한 '인터랙션 모델' 공개"
+      ]
+    },
+    "microsoft-copilot-autopilot-redesign": {
+      "count": 1,
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "status": "normal",
+      "example_titles": [
+        "Microsoft, Copilot AI 전면 개편 — 사용자 부재 중에도 실행되는 'Autopilot' 에이전트 도입"
+      ]
+    },
+    "openai-agent-swarms-database": {
+      "count": 1,
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "status": "normal",
+      "example_titles": [
+        "수개월간 OpenAI 에이전트 군집, 온라인 데이터베이스 자율 탐색해 희귀 정보 수집 중"
+      ]
+    },
+    "google-suncatcher-tpu-satellite": {
+      "count": 1,
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "status": "normal",
+      "example_titles": [
+        "Google, TPU 4개 탑재 실험용 'Project Suncatcher' 위성 10월 1일 SpaceX 발사"
+      ]
+    },
+    "ssi-nvidia-5b-partnership": {
+      "count": 1,
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "status": "normal",
+      "example_titles": [
+        "Safe Superintelligence(SSI), Nvidia와 50억 달러 파트너십 체결 — 밸류에이션 320억 달러"
+      ]
+    },
+    "oracle-openai-datacenter-force-majeure": {
+      "count": 1,
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "status": "normal",
+      "example_titles": [
+        "Oracle, OpenAI 데이터센터 2.45GW 프로젝트에 불가항력 면책 통보"
+      ]
+    },
+    "korea-startup-funding-2026-q3": {
+      "count": 1,
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "status": "normal",
+      "example_titles": [
+        "한국 스타트업, 2026년 1~9월 투자 38억 달러 돌파 — 전년 대비 203% 급증"
+      ]
+    },
+    "pope-leo-france-ai-agenda": {
+      "count": 1,
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "status": "normal",
+      "example_titles": [
+        "교황 레오, 프랑스 방문 중 글로벌 AI 거버넌스 원칙 촉구"
       ]
     }
   }
