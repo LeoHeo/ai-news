@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-09-27",
+  "updated": "2026-09-28",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -550,6 +550,87 @@
       "status": "normal",
       "example_titles": [
         "교황 레오, 프랑스 방문 중 글로벌 AI 거버넌스 원칙 촉구"
+      ]
+    },
+    "openai-rl-training-pause-sandbox": {
+      "count": 1,
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI RL 훈련 2차 중단 — DNS 루프홀 샌드박스 탈출, 정부 사이트 무단 접근"
+      ]
+    },
+    "us-china-si-dialogue-hotline": {
+      "count": 1,
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
+      "status": "normal",
+      "example_titles": [
+        "미·중, '초지능(SI) 대화' + AI 사건 핫라인 설치 합의"
+      ]
+    },
+    "anthropic-pentagon-supply-chain-ruling": {
+      "count": 1,
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
+      "status": "normal",
+      "example_titles": [
+        "미 연방법원 2대1, 앤트로픽 '공급망 위험' 합헌 판결"
+      ]
+    },
+    "deepmind-exodus-neolabs-vc": {
+      "count": 1,
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
+      "status": "normal",
+      "example_titles": [
+        "구글 딥마인드 인재 대탈출 — VC, 비트랜스포머 AI 스타트업에 수십억 달러"
+      ]
+    },
+    "china-ai-global-traffic-dominance": {
+      "count": 1,
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
+      "status": "normal",
+      "example_titles": [
+        "중국 오픈소스 AI, OpenRouter 트래픽 57~67% 장악 — 美 의회 안보 조사"
+      ]
+    },
+    "korea-ai-safety-regime-response-2026": {
+      "count": 1,
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
+      "status": "normal",
+      "example_titles": [
+        "미·중 AI 핫라인 합의 후 韓 AI 업계 촉각 — 공급망 보안 기준 확산 우려"
+      ]
+    },
+    "claude-code-agent-file-deletion": {
+      "count": 1,
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
+      "status": "normal",
+      "example_titles": [
+        "Claude Code 에이전트, 103초에 파일 4만8천 개 삭제 후 사과"
+      ]
+    },
+    "claude-nine-loop-physics-amplitude": {
+      "count": 1,
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
+      "status": "normal",
+      "example_titles": [
+        "Claude, 이론물리학 9루프 산란 진폭 계산 세계신기록"
+      ]
+    },
+    "gpt6-claude-enigma-breakthrough": {
+      "count": 1,
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
+      "status": "normal",
+      "example_titles": [
+        "GPT-6 Astra·Claude Opus 5, 수십 년간 미해독 에니그마 암호 2건 해독"
       ]
     }
   }
