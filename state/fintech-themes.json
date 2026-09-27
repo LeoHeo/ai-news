@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-26",
+  "updated": "2026-09-27",
   "window_days": 7,
   "themes": [
     {
@@ -281,24 +281,6 @@
       ]
     },
     {
-      "keyword": "regulation-cfpb-1033",
-      "count": 10,
-      "first_seen": "2026-09-02",
-      "last_seen": "2026-09-19",
-      "articles": [
-        "regulation-cfpb-1033",
-        "regulation-cfpb-1033-2026-09-03",
-        "lending-cfpb-1033-2026-09-04",
-        "regulation-cfpb-1033-2026-09-09",
-        "regulation-cfpb-1033-2026-09-10",
-        "regulation-cfpb-1033-2026-09-14",
-        "regulation-cfpb-1033-2026-09-15",
-        "regulation-cfpb-1033-2026-09-17",
-        "regulation-embedded-finance-us-2026-09-18",
-        "regulation-cfpb-1033-2026-09-19"
-      ]
-    },
-    {
       "keyword": "revolut-occ-us-bank-charter",
       "count": 13,
       "first_seen": "2026-09-06",
@@ -343,15 +325,16 @@
     },
     {
       "keyword": "sokin-series-b-global-payments",
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-09-09",
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-27",
       "articles": [
         "payments-sokin-50m-2026-09-09",
         "investment-sokin-2026-09-13",
         "investment-sokin-2026-09-17",
         "investment-sokin-b2b-2026-09-18",
-        "investment-sokin-b2b-2026-09-20"
+        "investment-sokin-b2b-2026-09-20",
+        "investment-sokin-50m-b2b"
       ]
     },
     {
@@ -657,11 +640,12 @@
     },
     {
       "keyword": "sofi-mastercard-stablecoin-settlement",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-26",
-      "last_seen": "2026-09-26",
+      "last_seen": "2026-09-27",
       "articles": [
-        "payments-sofi-mastercard-stablecoin"
+        "payments-sofi-mastercard-stablecoin",
+        "payments-sofi-stablecoin-cards"
       ]
     },
     {
@@ -744,6 +728,123 @@
       "last_seen": "2026-09-26",
       "articles": [
         "investment-citrea-crest-digital"
+      ]
+    },
+    {
+      "keyword": "mastercard-agent-pay-machines",
+      "count": 1,
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "articles": [
+        "payments-mastercard-agent-pay"
+      ]
+    },
+    {
+      "keyword": "doordash-tempo-stablecoin-payout",
+      "count": 1,
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "articles": [
+        "payments-doordash-tempo-stablecoin"
+      ]
+    },
+    {
+      "keyword": "circle-arc-mainnet-stablecoin",
+      "count": 1,
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "articles": [
+        "payments-circle-arc-mainnet"
+      ]
+    },
+    {
+      "keyword": "ai-agents-payments-infrastructure",
+      "count": 1,
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "articles": [
+        "payments-ai-agents-customer"
+      ]
+    },
+    {
+      "keyword": "jpmorgan-payments-growth-engine",
+      "count": 1,
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "articles": [
+        "payments-jpmorgan-fintech-strategy"
+      ]
+    },
+    {
+      "keyword": "nationwide-temenos-core-migration",
+      "count": 1,
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "articles": [
+        "digital-banking-nationwide-core-migration"
+      ]
+    },
+    {
+      "keyword": "infinite-erebor-stablecoin-baas",
+      "count": 1,
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "articles": [
+        "digital-banking-infinite-erebor-bank"
+      ]
+    },
+    {
+      "keyword": "fintech-profitability-ipo-cycle-2027",
+      "count": 1,
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "articles": [
+        "digital-banking-fintech-profitability"
+      ]
+    },
+    {
+      "keyword": "whitehouse-fintech-payment-rails",
+      "count": 1,
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "articles": [
+        "regulation-whitehouse-fintech-rails"
+      ]
+    },
+    {
+      "keyword": "stablecoin-enterprise-erp-adoption",
+      "count": 1,
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "articles": [
+        "regulation-stablecoin-enterprise-adoption"
+      ]
+    },
+    {
+      "keyword": "inventi-swift-business-connect",
+      "count": 1,
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "articles": [
+        "regulation-inventi-swift-baltics"
+      ]
+    },
+    {
+      "keyword": "mufg-mynt-gcash-investment",
+      "count": 1,
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "articles": [
+        "investment-mufg-mynt-393m"
+      ]
+    },
+    {
+      "keyword": "fis-embedded-finance-baas",
+      "count": 1,
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "articles": [
+        "investment-fis-embedded-finance"
       ]
     }
   ]
