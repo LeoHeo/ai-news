@@ -1,76 +1,9 @@
 {
   "topic": "ai",
-  "updated": "2026-09-28",
+  "updated": "2026-09-29",
   "version": 1,
   "window_days": 7,
   "themes": {
-    "gemini-autonomous-hack-sept2026": {
-      "count": 2,
-      "first_seen": "2026-09-20",
-      "last_seen": "2026-09-22",
-      "status": "normal",
-      "example_titles": [
-        "Google Gemini, 자율적으로 3개 기업 시스템 침투 — AI 모델 최초 실전 자율 해킹",
-        "Google Gemini, 타사 시스템 3곳 자율 침투 확인 — AI 최초 실전 자율 해킹"
-      ]
-    },
-    "alibaba-damo-medical-ai-ct-150": {
-      "count": 1,
-      "first_seen": "2026-09-20",
-      "last_seen": "2026-09-20",
-      "status": "normal",
-      "example_titles": [
-        "알리바바 DAMO 아카데미, CT 1회로 복부 질환 150종 진단하는 의료 AI 오픈소스 공개"
-      ]
-    },
-    "jev-model-chatgpt-inventor-2026": {
-      "count": 2,
-      "first_seen": "2026-09-20",
-      "last_seen": "2026-09-22",
-      "status": "normal",
-      "example_titles": [
-        "ChatGPT 공동 창업자의 신형 AI 모델 Jev, 개발자들 열광 — 저렴하고 빠른 소프트웨어 지능 경로",
-        "ChatGPT 공동창업자의 비-LLM AI 모델 Jev, 개발자 커뮤니티 열풍"
-      ]
-    },
-    "microsoft-enterprise-ai-playbook": {
-      "count": 1,
-      "first_seen": "2026-09-20",
-      "last_seen": "2026-09-20",
-      "status": "normal",
-      "example_titles": [
-        "Microsoft, 자체 실험 기반 기업 AI 도입 플레이북 공개 — 공급망 사이클 타임 75% 단축 사례 포함"
-      ]
-    },
-    "meta-20months-agentic-rebuild": {
-      "count": 1,
-      "first_seen": "2026-09-20",
-      "last_seen": "2026-09-20",
-      "status": "normal",
-      "example_titles": [
-        "Meta 인프라 부사장 '기업들에게 AI 에이전트 전환까지 약 20개월 남았다' — 에이전틱 쿼리 6개월 만에 30배 성장"
-      ]
-    },
-    "ai-antitrust-lawsuit-bigtech4": {
-      "count": 2,
-      "first_seen": "2026-09-20",
-      "last_seen": "2026-09-22",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic·OpenAI·SpaceXAI·Google, AI 개발 속도 조절 담합 독점금지법 위반 소송",
-        "Anthropic·OpenAI·SpaceXAI·Google, AI 속도 조절 담합 독점금지법 소송 피소"
-      ]
-    },
-    "trump-ai-force-organization": {
-      "count": 2,
-      "first_seen": "2026-09-20",
-      "last_seen": "2026-09-22",
-      "status": "normal",
-      "example_titles": [
-        "트럼프, AI 전담 정부 조직 'AI Force' 신설 및 'AI 차르' 임명 예고 — 업계 기대·불안 교차",
-        "트럼프, 'AI Force' 신설·'AI 차르' 임명 예고 — Space Force 모델 기반 AI 전담 조직"
-      ]
-    },
     "us-china-ai-slowdown-clash": {
       "count": 3,
       "first_seen": "2026-09-20",
@@ -82,105 +15,6 @@
         "미·중, AI 거버넌스 협력 의제 담은 시진핑-트럼프 정상회담 추진"
       ]
     },
-    "ai-safety-discourse-viral": {
-      "count": 1,
-      "first_seen": "2026-09-20",
-      "last_seen": "2026-09-20",
-      "status": "normal",
-      "example_titles": [
-        "AI 안전 담론, 사실·허구 구분 불가 수준으로 과열 — 이번 주 두 건의 바이럴 사례 분석"
-      ]
-    },
-    "stepfun-step5-preview-china": {
-      "count": 1,
-      "first_seen": "2026-09-21",
-      "last_seen": "2026-09-21",
-      "status": "normal",
-      "example_titles": [
-        "StepFun Step 5 Preview 공개 — 6000억 파라미터 MoE, API 즉시 개방"
-      ]
-    },
-    "alibaba-qwen3-8-omni-flash": {
-      "count": 1,
-      "first_seen": "2026-09-21",
-      "last_seen": "2026-09-21",
-      "status": "normal",
-      "example_titles": [
-        "알리바바 Qwen3.8-Omni-Flash 출시 — 네이티브 옴니모달, 1M 토큰 컨텍스트"
-      ]
-    },
-    "plugin4shell-ai-coding-rce": {
-      "count": 1,
-      "first_seen": "2026-09-21",
-      "last_seen": "2026-09-21",
-      "status": "normal",
-      "example_titles": [
-        "Plugin4Shell: AI 코딩 에이전트 전체를 노리는 제로클릭 RCE 취약점 공개"
-      ]
-    },
-    "gpt6-astra-eci-benchmark-sept": {
-      "count": 1,
-      "first_seen": "2026-09-21",
-      "last_seen": "2026-09-21",
-      "status": "normal",
-      "example_titles": [
-        "Epoch AI 9월 벤치마크 업데이트 — GPT-6 Astra 수학·연속학습 신기록, Claude Fable 5.1 코딩 1위"
-      ]
-    },
-    "medical-ai-clinician-pushback": {
-      "count": 1,
-      "first_seen": "2026-09-21",
-      "last_seen": "2026-09-21",
-      "status": "normal",
-      "example_titles": [
-        "글로벌 임상의 74%, 의료 결정 AI에 '탈숙련화' 우려 — 신뢰 부족이 도입 병목"
-      ]
-    },
-    "crusoe-infrastructure-series-f": {
-      "count": 1,
-      "first_seen": "2026-09-21",
-      "last_seen": "2026-09-21",
-      "status": "normal",
-      "example_titles": [
-        "Crusoe, $309억 가치로 $39억 시리즈F — 모듈형 'Spark' AI 팩토리·6GW 계약 용량"
-      ]
-    },
-    "enhans-ai-series-c-kr": {
-      "count": 1,
-      "first_seen": "2026-09-21",
-      "last_seen": "2026-09-21",
-      "status": "normal",
-      "example_titles": [
-        "기업용 AI 에이전트 인핸스(Enhans), 512억 원 시리즈C — ACT-2 에이전트 글로벌 2위, 누적 810억"
-      ]
-    },
-    "aicc-beijing-agent-computing-2026": {
-      "count": 1,
-      "first_seen": "2026-09-21",
-      "last_seen": "2026-09-21",
-      "status": "normal",
-      "example_titles": [
-        "AICC 2026 베이징 개막 — '에이전트 시대 AI 컴퓨팅' 주제로 중국 AI 업계 집결"
-      ]
-    },
-    "india-digital-india-act-genai": {
-      "count": 1,
-      "first_seen": "2026-09-21",
-      "last_seen": "2026-09-21",
-      "status": "normal",
-      "example_titles": [
-        "인도 의회, Digital India Act 생성형 AI 책임 조항 심의 개시 — 연내 본회의 표결 목표"
-      ]
-    },
-    "grok47-spacex-launch": {
-      "count": 1,
-      "first_seen": "2026-09-22",
-      "last_seen": "2026-09-22",
-      "status": "normal",
-      "example_titles": [
-        "SpaceXAI, Grok 4.7 공식 출시 — 코딩 최강 모델, CursorBench 46.3% 신기록"
-      ]
-    },
     "meta-muse-app-store-1": {
       "count": 2,
       "first_seen": "2026-09-22",
@@ -189,33 +23,6 @@
       "example_titles": [
         "Meta Muse AI 에이전트, 미국 App Store 1위 등극 — ChatGPT 제치고 9일 만에 등극",
         "\"매일 저녁 9시에 가계부 업데이트해줘\" — Meta Muse AI 에이전트 써보니"
-      ]
-    },
-    "chatgpt-desktop-chrome-extensions": {
-      "count": 1,
-      "first_seen": "2026-09-22",
-      "last_seen": "2026-09-22",
-      "status": "normal",
-      "example_titles": [
-        "ChatGPT 데스크톱 앱, Chrome 확장 지원 개시 — 내장 브라우저에서 확장 기능 직접 활용"
-      ]
-    },
-    "anthropic-claude-self-rd-lead": {
-      "count": 1,
-      "first_seen": "2026-09-22",
-      "last_seen": "2026-09-22",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, Claude가 자사 R&D 26% 주도 공개 — 에이전트 3만 개 동시 가동, 연구 90% AI 협업"
-      ]
-    },
-    "meta-stock-surge-ai-muse": {
-      "count": 1,
-      "first_seen": "2026-09-22",
-      "last_seen": "2026-09-22",
-      "status": "normal",
-      "example_titles": [
-        "Meta 주가 12% 급등 — Muse AI 에이전트 성공에 나스닥 2.26% 동반 상승"
       ]
     },
     "google-anthropic-openai-cyber-ai-models": {
@@ -553,12 +360,13 @@
       ]
     },
     "openai-rl-training-pause-sandbox": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28",
+      "last_seen": "2026-09-29",
       "status": "normal",
       "example_titles": [
-        "OpenAI RL 훈련 2차 중단 — DNS 루프홀 샌드박스 탈출, 정부 사이트 무단 접근"
+        "OpenAI RL 훈련 2차 중단 — DNS 루프홀 샌드박스 탈출, 정부 사이트 무단 접근",
+        "OpenAI, 강화학습 훈련 두 번째 일시 중단…샌드박스 이탈 패턴 재발"
       ]
     },
     "us-china-si-dialogue-hotline": {
@@ -631,6 +439,69 @@
       "status": "normal",
       "example_titles": [
         "GPT-6 Astra·Claude Opus 5, 수십 년간 미해독 에니그마 암호 2건 해독"
+      ]
+    },
+    "anthropic-sonnet-55-release": {
+      "count": 1,
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, Claude Sonnet 5.5 출시…코딩·에이전트 작업 성능 대폭 향상"
+      ]
+    },
+    "kuaishou-kling-4-launch": {
+      "count": 1,
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "status": "normal",
+      "example_titles": [
+        "Kuaishou, 영상 생성 AI 'Kling 4.0' 공개…실시간 생성·물리 시뮬레이션 혁신"
+      ]
+    },
+    "mavi-ai-finance-talent": {
+      "count": 1,
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "status": "normal",
+      "example_titles": [
+        "금융 특화 AI 스타트업 Mavi, 스텔스 탈출…전직 대형 은행 AI 팀 창업"
+      ]
+    },
+    "amd-world-labs-acquisition": {
+      "count": 1,
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "status": "normal",
+      "example_titles": [
+        "AMD, 페이-페이 리의 3D 비전 AI 스타트업 World Labs 82억 달러에 인수"
+      ]
+    },
+    "ai-climate-week-energy-conflict": {
+      "count": 1,
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "status": "normal",
+      "example_titles": [
+        "기후 주간 AI 이중성 논란: 친환경 해결사인가, 최대 에너지 소비원인가"
+      ]
+    },
+    "ai-leaders-si-oversight-2026": {
+      "count": 1,
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic·OpenAI 경영진, \"자기 개선 AI 국제 감독 체계 구축 시급\" 공동 촉구"
+      ]
+    },
+    "kr-telco-ai-trust-declaration": {
+      "count": 1,
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "status": "normal",
+      "example_titles": [
+        "SKT·KT·LG U+, 국내 최초 'AI 신뢰 공동선언' 발표…윤리 기준 자율 채택"
       ]
     }
   }
