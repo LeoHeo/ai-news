@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-09-29",
+  "updated": "2026-09-30",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -502,6 +502,78 @@
       "status": "normal",
       "example_titles": [
         "SKT·KT·LG U+, 국내 최초 'AI 신뢰 공동선언' 발표…윤리 기준 자율 채택"
+      ]
+    },
+    "openai-gpt61-sol-devday": {
+      "count": 1,
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, DevDay에서 GPT-6.1 Sol 발표 — 추론·코딩 최강 모델 자처"
+      ]
+    },
+    "openai-dots-wearable-agent": {
+      "count": 1,
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI 'Dots' 발표 — 웨어러블 AI 에이전트로 스마트폰 대체 도전"
+      ]
+    },
+    "openai-codex-cloud-chatgpt-space": {
+      "count": 1,
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, Codex Cloud·ChatGPT Space 베타 공개 — 협업 AI 개발 환경 진화"
+      ]
+    },
+    "anthropic-ipo-s1-existential": {
+      "count": 1,
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, S-1 제출 — IPO 예비설명서에 '실존적 위험' 명시한 첫 AI 기업"
+      ]
+    },
+    "chatgpt-12b-mau": {
+      "count": 1,
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "status": "normal",
+      "example_titles": [
+        "ChatGPT, 월간 활성 사용자 12억 돌파 — AI 대중화 속도 가속"
+      ]
+    },
+    "samsung-ai-forum-2026": {
+      "count": 1,
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "status": "normal",
+      "example_titles": [
+        "삼성 AI 포럼 2026 개막 — 온디바이스·멀티모달 AI 협력 생태계 구축"
+      ]
+    },
+    "mistral-3b-series-d": {
+      "count": 1,
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "status": "normal",
+      "example_titles": [
+        "미스트랄 AI, €30억 시리즈 D 완료 — 유럽 AI 챔피언 지위 공고화"
+      ]
+    },
+    "us-senate-ai-regulation-framework": {
+      "count": 1,
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "status": "normal",
+      "example_titles": [
+        "미 상원, AI 기업 자율 규제안 폐기 — 법적 구속력 있는 안전 프레임워크 추진"
       ]
     }
   }
