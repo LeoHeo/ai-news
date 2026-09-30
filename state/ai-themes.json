@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-09-30",
+  "updated": "2026-10-01",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -15,16 +15,6 @@
         "미·중, AI 거버넌스 협력 의제 담은 시진핑-트럼프 정상회담 추진"
       ]
     },
-    "meta-muse-app-store-1": {
-      "count": 2,
-      "first_seen": "2026-09-22",
-      "last_seen": "2026-09-23",
-      "status": "normal",
-      "example_titles": [
-        "Meta Muse AI 에이전트, 미국 App Store 1위 등극 — ChatGPT 제치고 9일 만에 등극",
-        "\"매일 저녁 9시에 가계부 업데이트해줘\" — Meta Muse AI 에이전트 써보니"
-      ]
-    },
     "google-anthropic-openai-cyber-ai-models": {
       "count": 2,
       "first_seen": "2026-09-23",
@@ -33,60 +23,6 @@
       "example_titles": [
         "Google·Anthropic·OpenAI, 사이버 보안 특화 AI 모델 일제 공개",
         "OpenAI, 사이버 보안 특화 GPT-5.6-Cyber 출시 — 고급 작업 완료율 95%"
-      ]
-    },
-    "alibaba-ai-chip-model-stock-surge": {
-      "count": 1,
-      "first_seen": "2026-09-23",
-      "last_seen": "2026-09-23",
-      "status": "normal",
-      "example_titles": [
-        "알리바바, 차세대 AI칩·대형 모델 공개로 주가 급등 — 공급망 제약 불확실성 상존"
-      ]
-    },
-    "kr-legal-ai-hallucination-regulation": {
-      "count": 1,
-      "first_seen": "2026-09-23",
-      "last_seen": "2026-09-23",
-      "status": "normal",
-      "example_titles": [
-        "허위 판례 기승인데…\"국내 법률AI만 규제하면 챗GPT로 간다\""
-      ]
-    },
-    "anthropic-misuse-report-sept2026": {
-      "count": 1,
-      "first_seen": "2026-09-23",
-      "last_seen": "2026-09-23",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, 2026년 9월 AI 악용 탐지·대응 보고서 공개"
-      ]
-    },
-    "nasdaq-27k-ai-rally-dotcom-warning": {
-      "count": 1,
-      "first_seen": "2026-09-23",
-      "last_seen": "2026-09-23",
-      "status": "normal",
-      "example_titles": [
-        "나스닥 27,122p 역대 최고치·AI 랠리 지속 — 닷컴 버블 경고 속 향방은"
-      ]
-    },
-    "kr-ai-daily-life-apps-camera": {
-      "count": 1,
-      "first_seen": "2026-09-23",
-      "last_seen": "2026-09-23",
-      "status": "normal",
-      "example_titles": [
-        "냉장고 찍으면 저녁 메뉴 나온다 — AI, '생활 앱' 속으로 빠르게 확산"
-      ]
-    },
-    "kr-ai-procurement-bid-verification": {
-      "count": 1,
-      "first_seen": "2026-09-23",
-      "last_seen": "2026-09-23",
-      "status": "normal",
-      "example_titles": [
-        "AI 입찰 검증 시스템으로 공공 조달 이해충돌 사전 차단 — 탐지율 92%"
       ]
     },
     "claude-art-enzyme-discovery": {
@@ -342,12 +278,13 @@
       ]
     },
     "korea-startup-funding-2026-q3": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-27",
-      "last_seen": "2026-09-27",
+      "last_seen": "2026-10-01",
       "status": "normal",
       "example_titles": [
-        "한국 스타트업, 2026년 1~9월 투자 38억 달러 돌파 — 전년 대비 203% 급증"
+        "한국 스타트업, 2026년 1~9월 투자 38억 달러 돌파 — 전년 대비 203% 급증",
+        "2026년 한국 스타트업 자금 조달 207% 급증 — AI 인프라·딥테크 중심 구조 재편"
       ]
     },
     "pope-leo-france-ai-agenda": {
@@ -532,12 +469,13 @@
       ]
     },
     "anthropic-ipo-s1-existential": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-30",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-01",
       "status": "normal",
       "example_titles": [
-        "Anthropic, S-1 제출 — IPO 예비설명서에 '실존적 위험' 명시한 첫 AI 기업"
+        "Anthropic, S-1 제출 — IPO 예비설명서에 '실존적 위험' 명시한 첫 AI 기업",
+        "Anthropic S-1 제출 — '모델이 인류에 실존적 위험' 명시한 역대 첫 AI 기업 IPO"
       ]
     },
     "chatgpt-12b-mau": {
@@ -574,6 +512,87 @@
       "status": "normal",
       "example_titles": [
         "미 상원, AI 기업 자율 규제안 폐기 — 법적 구속력 있는 안전 프레임워크 추진"
+      ]
+    },
+    "google-gemini-4-argon-launch": {
+      "count": 1,
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "status": "normal",
+      "example_titles": [
+        "구글, 차세대 플래그십 'Gemini 4 Argon' 공개 — 코딩·사이버보안 1M 토큰 출력"
+      ]
+    },
+    "moonshot-kimi-k3-opensource": {
+      "count": 1,
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "status": "normal",
+      "example_titles": [
+        "중국 Moonshot AI, 2.8조 파라미터 오픈소스 모델 'Kimi K3' 공개 — FrontierSWE 81.2점"
+      ]
+    },
+    "meta-muse-smb-expansion": {
+      "count": 1,
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "status": "normal",
+      "example_titles": [
+        "Meta Muse AI 에이전트, 소상공인 확장 — Shopify·Dropbox 연동으로 비즈니스 자동화"
+      ]
+    },
+    "google-gemini-flash-enterprise-cost": {
+      "count": 1,
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "status": "normal",
+      "example_titles": [
+        "구글, Gemini 3.5 Flash로 기업 AI 운영 비용 연간 10억 달러 이상 절감 가능 주장"
+      ]
+    },
+    "ai-coding-agents-pixelleak-github": {
+      "count": 1,
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "status": "normal",
+      "example_titles": [
+        "AI 코딩 에이전트, 300개 기업 내부 이미지 1만3천 개 GitHub에 무단 유출 — 고객 결제 정보·미공개 기능 포함"
+      ]
+    },
+    "modal-labs-750m-funding": {
+      "count": 1,
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "status": "normal",
+      "example_titles": [
+        "AI 추론 인프라 Modal Labs, 7억5000만 달러 펀딩 임박 — 4개월 만에 기업가치 3.4배↑"
+      ]
+    },
+    "openai-30b-preipo-round": {
+      "count": 1,
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, IPO 연기하고 1조4000억 달러 기업가치 300억 달러 프리IPO 투자 유치 추진"
+      ]
+    },
+    "micron-ai-memory-q4-earnings": {
+      "count": 1,
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "status": "normal",
+      "example_titles": [
+        "마이크론, 4분기 AI 데이터센터 메모리 호황 — Q1 매출 615억 달러 전망"
+      ]
+    },
+    "connecticut-ai-regulation-oct2026": {
+      "count": 1,
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "status": "normal",
+      "example_titles": [
+        "코네티컷 주, 10월 1일부터 AI 자동화 의사결정·생성AI 투명성 법 시행"
       ]
     }
   }
