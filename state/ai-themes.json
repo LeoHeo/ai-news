@@ -1,20 +1,9 @@
 {
   "topic": "ai",
-  "updated": "2026-10-01",
+  "updated": "2026-10-02",
   "version": 1,
   "window_days": 7,
   "themes": {
-    "us-china-ai-slowdown-clash": {
-      "count": 3,
-      "first_seen": "2026-09-20",
-      "last_seen": "2026-09-24",
-      "status": "saturated",
-      "example_titles": [
-        "중국, 9월 24일 美·中 정상회담 앞두고 美의 'AI 개발 속도 조절' 요구 전면 거부 — '사다리 걷어차기' 규정",
-        "중국, 미·중 AI 정상회담(9월 24일) 앞두고 개발 속도 조절 요구 전면 거부",
-        "미·중, AI 거버넌스 협력 의제 담은 시진핑-트럼프 정상회담 추진"
-      ]
-    },
     "google-anthropic-openai-cyber-ai-models": {
       "count": 2,
       "first_seen": "2026-09-23",
@@ -23,69 +12,6 @@
       "example_titles": [
         "Google·Anthropic·OpenAI, 사이버 보안 특화 AI 모델 일제 공개",
         "OpenAI, 사이버 보안 특화 GPT-5.6-Cyber 출시 — 고급 작업 완료율 95%"
-      ]
-    },
-    "claude-art-enzyme-discovery": {
-      "count": 1,
-      "first_seen": "2026-09-24",
-      "last_seen": "2026-09-24",
-      "status": "normal",
-      "example_titles": [
-        "Claude, CRISPR 유사 반복 서열 갖는 신규 효소 시스템 발견"
-      ]
-    },
-    "google-envharness-agent-training": {
-      "count": 1,
-      "first_seen": "2026-09-24",
-      "last_seen": "2026-09-24",
-      "status": "normal",
-      "example_titles": [
-        "구글, AI 에이전트 훈련용 오픈소스 진화형 환경 도구 'EnvHarness' 공개"
-      ]
-    },
-    "gallup-ai-daily-users-worried": {
-      "count": 1,
-      "first_seen": "2026-09-24",
-      "last_seen": "2026-09-24",
-      "status": "normal",
-      "example_titles": [
-        "갤럽 조사: AI 매일 사용하는 미국인도 AI의 사회적 영향 불안"
-      ]
-    },
-    "bessemer-ai-fund-5b": {
-      "count": 1,
-      "first_seen": "2026-09-24",
-      "last_seen": "2026-09-24",
-      "status": "normal",
-      "example_titles": [
-        "베세머 벤처스, 57억5000만 달러 신규 펀드 조성...AI 인프라·에이전트 투자 집중"
-      ]
-    },
-    "youtube-ai-video-editing": {
-      "count": 1,
-      "first_seen": "2026-09-24",
-      "last_seen": "2026-09-24",
-      "status": "normal",
-      "example_titles": [
-        "유튜브, 자연어로 영상 편집하는 AI 대화형 편집 도구 출시"
-      ]
-    },
-    "jev-prompt-injection-agent-security": {
-      "count": 1,
-      "first_seen": "2026-09-24",
-      "last_seen": "2026-09-24",
-      "status": "normal",
-      "example_titles": [
-        "AI 에이전트 의사결정 판사로 JEV 채택 확산...프롬프트 인젝션 취약 드러나"
-      ]
-    },
-    "youtube-custom-ai-algorithm": {
-      "count": 1,
-      "first_seen": "2026-09-24",
-      "last_seen": "2026-09-24",
-      "status": "normal",
-      "example_titles": [
-        "유튜브, AI로 개인 맞춤 추천 알고리즘 직접 구성하는 기능 예고"
       ]
     },
     "openai-agent-australia-medicare": {
@@ -109,14 +35,15 @@
       ]
     },
     "frontier-ai-standards-agency": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-27",
+      "last_seen": "2026-10-02",
       "status": "saturated",
       "example_titles": [
         "OpenAI·Anthropic·Google, 공동 AI 표준 기구 설립 추진",
         "Google·OpenAI·Anthropic, 프론티어 AI 자율 표준기구 'SAFA' 연내 출범 추진",
-        "OpenAI·Anthropic·Google, 프론티어 AI 자율 표준기구 연내 출범 추진"
+        "OpenAI·Anthropic·Google, 프론티어 AI 자율 표준기구 연내 출범 추진",
+        "OpenAI·Anthropic·Google, 프론티어 AI 자율규제 표준기구 정식 출범"
       ]
     },
     "chatgpt-voice-work-agent-gpt6": {
@@ -379,12 +306,13 @@
       ]
     },
     "anthropic-sonnet-55-release": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-10-02",
       "status": "normal",
       "example_titles": [
-        "Anthropic, Claude Sonnet 5.5 출시…코딩·에이전트 작업 성능 대폭 향상"
+        "Anthropic, Claude Sonnet 5.5 출시…코딩·에이전트 작업 성능 대폭 향상",
+        "Anthropic Claude Sonnet 5.5 출시 — 코딩·추론 성능 강화"
       ]
     },
     "kuaishou-kling-4-launch": {
@@ -442,21 +370,23 @@
       ]
     },
     "openai-gpt61-sol-devday": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-30",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-02",
       "status": "normal",
       "example_titles": [
-        "OpenAI, DevDay에서 GPT-6.1 Sol 발표 — 추론·코딩 최강 모델 자처"
+        "OpenAI, DevDay에서 GPT-6.1 Sol 발표 — 추론·코딩 최강 모델 자처",
+        "OpenAI DevDay 2026: GPT-6.1 Sol 공개 — 코딩·추론 SOTA 기록"
       ]
     },
     "openai-dots-wearable-agent": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-30",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-02",
       "status": "normal",
       "example_titles": [
-        "OpenAI 'Dots' 발표 — 웨어러블 AI 에이전트로 스마트폰 대체 도전"
+        "OpenAI 'Dots' 발표 — 웨어러블 AI 에이전트로 스마트폰 대체 도전",
+        "OpenAI DevDay 2026: 웨어러블 AI 에이전트 'Dots' 발표"
       ]
     },
     "openai-codex-cloud-chatgpt-space": {
@@ -469,13 +399,14 @@
       ]
     },
     "anthropic-ipo-s1-existential": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "status": "normal",
       "example_titles": [
         "Anthropic, S-1 제출 — IPO 예비설명서에 '실존적 위험' 명시한 첫 AI 기업",
-        "Anthropic S-1 제출 — '모델이 인류에 실존적 위험' 명시한 역대 첫 AI 기업 IPO"
+        "Anthropic S-1 제출 — '모델이 인류에 실존적 위험' 명시한 역대 첫 AI 기업 IPO",
+        "Anthropic IPO S-1: 기업가치 $800B, 연매출 $30B+ — '실존적 위험' 공시 첫 AI 기업"
       ]
     },
     "chatgpt-12b-mau": {
@@ -560,12 +491,13 @@
       ]
     },
     "modal-labs-750m-funding": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "status": "normal",
       "example_titles": [
-        "AI 추론 인프라 Modal Labs, 7억5000만 달러 펀딩 임박 — 4개월 만에 기업가치 3.4배↑"
+        "AI 추론 인프라 Modal Labs, 7억5000만 달러 펀딩 임박 — 4개월 만에 기업가치 3.4배↑",
+        "Modal Labs, $750M 펀딩 확정 — 기업가치 $15.75B"
       ]
     },
     "openai-30b-preipo-round": {
@@ -593,6 +525,42 @@
       "status": "normal",
       "example_titles": [
         "코네티컷 주, 10월 1일부터 AI 자동화 의사결정·생성AI 투명성 법 시행"
+      ]
+    },
+    "anthropic-marketplace-connectors": {
+      "count": 1,
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, Claude Marketplace 출시 — 2,000개 이상 커넥터로 에이전트 생태계 확장"
+      ]
+    },
+    "meta-enterprise-platform-cj-desai": {
+      "count": 1,
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "status": "normal",
+      "example_titles": [
+        "Meta, 기업용 AI 플랫폼 출시 — MongoDB CEO CJ Desai 영입해 엔터프라이즈 공략"
+      ]
+    },
+    "openai-fires-safety-staff": {
+      "count": 1,
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "status": "normal",
+      "example_titles": [
+        "오픈AI, 안전팀 직원 3명 전격 해고 — '상업화 우선' 내부 갈등 폭발"
+      ]
+    },
+    "naver-global-ai-factory-france": {
+      "count": 1,
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "status": "normal",
+      "example_titles": [
+        "네이버, 프랑스 1GW AI 팩토리 투자 확정 — 국내 기업 최초 유럽 초대형 AI 인프라"
       ]
     }
   }
