@@ -1,8 +1,89 @@
 {
   "version": 1,
-  "updated": "2026-09-29",
+  "updated": "2026-10-01",
   "window_days": 7,
   "themes": [
+    {
+      "keyword": "dtcc-tokenization-on-chain",
+      "count": 1,
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "articles": [
+        "payments-dtcc-tokenization-launch"
+      ]
+    },
+    {
+      "keyword": "australia-rba-card-surcharge-reform",
+      "count": 1,
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "articles": [
+        "payments-australia-rba-card-reform"
+      ]
+    },
+    {
+      "keyword": "global-payments-fee-increase-2026",
+      "count": 1,
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "articles": [
+        "payments-global-payments-fee-hike"
+      ]
+    },
+    {
+      "keyword": "eu-bnpl-consumer-credit-2026",
+      "count": 1,
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "articles": [
+        "lending-bnpl-eu-regulation-2026"
+      ]
+    },
+    {
+      "keyword": "fca-openbanking-cvrp-framework",
+      "count": 1,
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "articles": [
+        "regulation-fca-cvrp-consultation"
+      ]
+    },
+    {
+      "keyword": "genius-act-stablecoin-deadline",
+      "count": 1,
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "articles": [
+        "regulation-genius-act-stablecoin"
+      ]
+    },
+    {
+      "keyword": "india-rbi-card-auth-2026",
+      "count": 1,
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "articles": [
+        "regulation-india-rbi-card-auth"
+      ]
+    },
+    {
+      "keyword": "fdta-regulatory-data-standards",
+      "count": 1,
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "articles": [
+        "regulation-fdta-data-standards"
+      ]
+    },
+    {
+      "keyword": "danal-seoulfintech-mou",
+      "count": 1,
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "articles": [
+        "investment-danal-seoulfintech-mou"
+      ]
+    },
     {
       "keyword": "walmart-onepay-tempo-stablecoin",
       "count": 1,
@@ -41,13 +122,14 @@
     },
     {
       "keyword": "sibos-2026-banking-ai",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-09-26",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-10-01",
       "articles": [
         "payments-sibos-2026-banking",
         "payments-sibos-2026-frankfurt-opens",
-        "payments-sibos-preview"
+        "payments-sibos-preview",
+        "payments-sibos-2026-final"
       ]
     },
     {
@@ -61,11 +143,12 @@
     },
     {
       "keyword": "bny-crossborder-digital-wallets",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-10-01",
       "articles": [
-        "remittance-bny-wallets"
+        "remittance-bny-wallets",
+        "remittance-bny-pay-to-wallet"
       ]
     },
     {
@@ -118,11 +201,12 @@
     },
     {
       "keyword": "nubank-monzo-acquisition-talks",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-10-01",
       "articles": [
-        "investment-nubank-monzo"
+        "investment-nubank-monzo",
+        "digital-banking-nu-holdings-denies-monzo"
       ]
     },
     {
@@ -495,9 +579,9 @@
     },
     {
       "keyword": "fintech-vc-forecast-2026",
-      "count": 56,
+      "count": 57,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-09-26",
+      "last_seen": "2026-10-01",
       "articles": [
         "investment-fintech-crunchbase",
         "investment-vc-trends-2026-2026-07-14",
@@ -554,7 +638,8 @@
         "investment-fintech-h1-23pct-2026-09-20",
         "investment-eu-fintech-h1-ai-native-2026-09-21",
         "investment-fintech-weekly-funding",
-        "investment-tearsheet-capital-flows"
+        "investment-tearsheet-capital-flows",
+        "investment-fintech-h1-2026-vc"
       ]
     },
     {
@@ -605,11 +690,12 @@
     },
     {
       "keyword": "korea-payment-apps-daily",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-26",
-      "last_seen": "2026-09-26",
+      "last_seen": "2026-10-01",
       "articles": [
-        "payments-korea-daily-brief-0926"
+        "payments-korea-daily-brief-0926",
+        "payments-korea-daily-record"
       ]
     },
     {
