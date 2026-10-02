@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-10-02",
+  "updated": "2026-10-03",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -446,12 +446,13 @@
       ]
     },
     "google-gemini-4-argon-launch": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-03",
       "status": "normal",
       "example_titles": [
-        "구글, 차세대 플래그십 'Gemini 4 Argon' 공개 — 코딩·사이버보안 1M 토큰 출력"
+        "구글, 차세대 플래그십 'Gemini 4 Argon' 공개 — 코딩·사이버보안 1M 토큰 출력",
+        "구글, Gemini 4 Argon 공개 — 코딩·사이버보안 벤치마크 1위 탈환, 제한 출시"
       ]
     },
     "moonshot-kimi-k3-opensource": {
@@ -537,21 +538,23 @@
       ]
     },
     "meta-enterprise-platform-cj-desai": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "status": "normal",
       "example_titles": [
-        "Meta, 기업용 AI 플랫폼 출시 — MongoDB CEO CJ Desai 영입해 엔터프라이즈 공략"
+        "Meta, 기업용 AI 플랫폼 출시 — MongoDB CEO CJ Desai 영입해 엔터프라이즈 공략",
+        "Meta, 기업용 AI 플랫폼 출시 — MongoDB CEO CJ Desai 영입해 엔터프라이즈 시장 진출 선언"
       ]
     },
     "openai-fires-safety-staff": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "status": "normal",
       "example_titles": [
-        "오픈AI, 안전팀 직원 3명 전격 해고 — '상업화 우선' 내부 갈등 폭발"
+        "오픈AI, 안전팀 직원 3명 전격 해고 — '상업화 우선' 내부 갈등 폭발",
+        "OpenAI, 외부 AI 안전 기관에 기밀 유출 혐의로 안전팀 연구원 3명 전격 해고"
       ]
     },
     "naver-global-ai-factory-france": {
@@ -561,6 +564,78 @@
       "status": "normal",
       "example_titles": [
         "네이버, 프랑스 1GW AI 팩토리 투자 확정 — 국내 기업 최초 유럽 초대형 AI 인프라"
+      ]
+    },
+    "apple-macos-ai-agent-security": {
+      "count": 1,
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "status": "normal",
+      "example_titles": [
+        "Apple, AI 에이전트 위협 이유로 macOS '전체 디스크 접근' 권한 강화 예고"
+      ]
+    },
+    "writer-ai-agents-autonomous": {
+      "count": 1,
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "status": "normal",
+      "example_titles": [
+        "Writer, 수동 지시 없이 작동하는 이벤트 기반 기업용 AI 에이전트 출시"
+      ]
+    },
+    "block-managerbot-square-agent": {
+      "count": 1,
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "status": "normal",
+      "example_titles": [
+        "Block, Square 결제 데이터 활용해 자율 행동하는 AI '매니저봇' 출시"
+      ]
+    },
+    "artificial-analysis-intelligence-index": {
+      "count": 1,
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "status": "normal",
+      "example_titles": [
+        "Artificial Analysis, AI 인텔리전스 지수 개편 — 포화된 기존 벤치마크를 실직업 기반 측정으로 대체"
+      ]
+    },
+    "anthropic-broadcom-tpu-financing": {
+      "count": 1,
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "status": "normal",
+      "example_titles": [
+        "Broadcom, Anthropic TPU 임대비 조달 위해 최대 420억 달러 대출 약정 — IPO S-1 공시"
+      ]
+    },
+    "doxx-net-a16z-ai-agent": {
+      "count": 1,
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "status": "normal",
+      "example_titles": [
+        "Doxx.net, a16z 주도 3,800만 달러 시리즈 A 유치 — AI 에이전트 전용 프라이빗 P2P 네트워크"
+      ]
+    },
+    "openclaw-agent-supply-chain": {
+      "count": 1,
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "status": "normal",
+      "example_titles": [
+        "OpenClaw, 명령 하나로 AI 에이전트 백도어 심기 가능 — 현행 공급망 보안 탐지 체계 무력화"
+      ]
+    },
+    "california-ag-openai-subpoena": {
+      "count": 1,
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "status": "normal",
+      "example_titles": [
+        "캘리포니아 검찰총장, AI 모델 사이버보안 위험 조사 목적으로 OpenAI에 소환장 발부"
       ]
     }
   }
