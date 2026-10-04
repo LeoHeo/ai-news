@@ -1,19 +1,9 @@
 {
   "topic": "ai",
-  "updated": "2026-10-04",
+  "updated": "2026-10-05",
   "version": 1,
   "window_days": 7,
   "themes": {
-    "google-anthropic-openai-cyber-ai-models": {
-      "count": 2,
-      "first_seen": "2026-09-23",
-      "last_seen": "2026-09-27",
-      "status": "normal",
-      "example_titles": [
-        "Google·Anthropic·OpenAI, 사이버 보안 특화 AI 모델 일제 공개",
-        "OpenAI, 사이버 보안 특화 GPT-5.6-Cyber 출시 — 고급 작업 완료율 95%"
-      ]
-    },
     "frontier-ai-standards-agency": {
       "count": 5,
       "first_seen": "2026-09-25",
@@ -26,69 +16,6 @@
         "구글·OpenAI·앤트로픽, AI 안전 자율규제 기구 'SAFA' 공동 설립"
       ]
     },
-    "openai-gpt56-luna-price-war": {
-      "count": 1,
-      "first_seen": "2026-09-27",
-      "last_seen": "2026-09-27",
-      "status": "normal",
-      "example_titles": [
-        "AI 가격 전쟁 선언 — OpenAI, GPT-5.6 Luna 가격 80% 전격 인하"
-      ]
-    },
-    "thinking-machines-voice-interaction": {
-      "count": 1,
-      "first_seen": "2026-09-27",
-      "last_seen": "2026-09-27",
-      "status": "normal",
-      "example_titles": [
-        "Thinking Machines, 거의 실시간 AI 음성·영상 대화 가능한 '인터랙션 모델' 공개"
-      ]
-    },
-    "microsoft-copilot-autopilot-redesign": {
-      "count": 1,
-      "first_seen": "2026-09-27",
-      "last_seen": "2026-09-27",
-      "status": "normal",
-      "example_titles": [
-        "Microsoft, Copilot AI 전면 개편 — 사용자 부재 중에도 실행되는 'Autopilot' 에이전트 도입"
-      ]
-    },
-    "openai-agent-swarms-database": {
-      "count": 1,
-      "first_seen": "2026-09-27",
-      "last_seen": "2026-09-27",
-      "status": "normal",
-      "example_titles": [
-        "수개월간 OpenAI 에이전트 군집, 온라인 데이터베이스 자율 탐색해 희귀 정보 수집 중"
-      ]
-    },
-    "google-suncatcher-tpu-satellite": {
-      "count": 1,
-      "first_seen": "2026-09-27",
-      "last_seen": "2026-09-27",
-      "status": "normal",
-      "example_titles": [
-        "Google, TPU 4개 탑재 실험용 'Project Suncatcher' 위성 10월 1일 SpaceX 발사"
-      ]
-    },
-    "ssi-nvidia-5b-partnership": {
-      "count": 1,
-      "first_seen": "2026-09-27",
-      "last_seen": "2026-09-27",
-      "status": "normal",
-      "example_titles": [
-        "Safe Superintelligence(SSI), Nvidia와 50억 달러 파트너십 체결 — 밸류에이션 320억 달러"
-      ]
-    },
-    "oracle-openai-datacenter-force-majeure": {
-      "count": 1,
-      "first_seen": "2026-09-27",
-      "last_seen": "2026-09-27",
-      "status": "normal",
-      "example_titles": [
-        "Oracle, OpenAI 데이터센터 2.45GW 프로젝트에 불가항력 면책 통보"
-      ]
-    },
     "korea-startup-funding-2026-q3": {
       "count": 3,
       "first_seen": "2026-09-27",
@@ -98,15 +25,6 @@
         "한국 스타트업, 2026년 1~9월 투자 38억 달러 돌파 — 전년 대비 203% 급증",
         "2026년 한국 스타트업 자금 조달 207% 급증 — AI 인프라·딥테크 중심 구조 재편",
         "한국 스타트업 3분기 투자 10조 돌파… AI·핀테크 주도"
-      ]
-    },
-    "pope-leo-france-ai-agenda": {
-      "count": 1,
-      "first_seen": "2026-09-27",
-      "last_seen": "2026-09-27",
-      "status": "normal",
-      "example_titles": [
-        "교황 레오, 프랑스 방문 중 글로벌 AI 거버넌스 원칙 촉구"
       ]
     },
     "openai-rl-training-pause-sandbox": {
@@ -453,43 +371,47 @@
       ]
     },
     "apple-macos-ai-agent-security": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-05",
       "status": "normal",
       "example_titles": [
         "Apple, AI 에이전트 위협 이유로 macOS '전체 디스크 접근' 권한 강화 예고",
-        "애플, AI 에이전트 보안 위협에 맞서 macOS 전체 디스크 접근 권한 강화"
+        "애플, AI 에이전트 보안 위협에 맞서 macOS 전체 디스크 접근 권한 강화",
+        "Apple macOS 보안 연구팀, AI 에이전트 권한 탈취 취약점 발견·패치"
       ]
     },
     "writer-ai-agents-autonomous": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-05",
       "status": "normal",
       "example_titles": [
         "Writer, 수동 지시 없이 작동하는 이벤트 기반 기업용 AI 에이전트 출시",
-        "Writer, 프롬프트 없이 자율 실행하는 AI 에이전트 출시"
+        "Writer, 프롬프트 없이 자율 실행하는 AI 에이전트 출시",
+        "Writer, 기업용 자율 AI 에이전트 플랫폼 공개 — 포춘 500 기업 20곳 베타"
       ]
     },
     "block-managerbot-square-agent": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-05",
       "status": "normal",
       "example_titles": [
         "Block, Square 결제 데이터 활용해 자율 행동하는 AI '매니저봇' 출시",
-        "Block, Square 판매자용 선제적 AI 에이전트 '매니저봇' 출시"
+        "Block, Square 판매자용 선제적 AI 에이전트 '매니저봇' 출시",
+        "Block(스퀘어), AI 관리자 봇 'Managerbot' 베타 출시"
       ]
     },
     "artificial-analysis-intelligence-index": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-05",
       "status": "normal",
       "example_titles": [
         "Artificial Analysis, AI 인텔리전스 지수 개편 — 포화된 기존 벤치마크를 실직업 기반 측정으로 대체",
-        "Artificial Analysis, AI 능력 지수 전면 개편… 인기 벤치마크 대체"
+        "Artificial Analysis, AI 능력 지수 전면 개편… 인기 벤치마크 대체",
+        "Artificial Analysis, AI 모델 종합 성능 지수 'Intelligence Index' 공개"
       ]
     },
     "anthropic-broadcom-tpu-financing": {
@@ -538,12 +460,13 @@
       ]
     },
     "openai-internal-data-agent": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-05",
       "status": "normal",
       "example_titles": [
-        "OpenAI 엔지니어 2명이 만든 사내 AI 데이터 에이전트, 직원 4,000명 사용"
+        "OpenAI 엔지니어 2명이 만든 사내 AI 데이터 에이전트, 직원 4,000명 사용",
+        "OpenAI, 내부 데이터 파이프라인 자동화 에이전트 'DataOps' 아키텍처 공개"
       ]
     },
     "ai-agent-reliability-database": {
@@ -571,6 +494,60 @@
       "status": "normal",
       "example_titles": [
         "Circuit Breaker Labs, 어린이·일반 사용자 AI 안전 보호 스타트업 창업"
+      ]
+    },
+    "trump-super-intelligence-force": {
+      "count": 1,
+      "first_seen": "2026-10-05",
+      "last_seen": "2026-10-05",
+      "status": "normal",
+      "example_titles": [
+        "트럼프 '슈퍼 인텔리전스 포스' AI 행정명령 서명 — 국방부·에너지부·NSA 참여 범부처 태스크포스"
+      ]
+    },
+    "google-gemini-pricing-war": {
+      "count": 1,
+      "first_seen": "2026-10-05",
+      "last_seen": "2026-10-05",
+      "status": "normal",
+      "example_titles": [
+        "Google, Gemini 2.5 Pro 가격 40% 인하 — 입력 $1.25→$0.75/M토큰"
+      ]
+    },
+    "ai-agent-email-prompt-injection": {
+      "count": 1,
+      "first_seen": "2026-10-05",
+      "last_seen": "2026-10-05",
+      "status": "normal",
+      "example_titles": [
+        "보안 연구, AI 에이전트 이메일 경유 프롬프트 인젝션 공격 실증 — MS365·Workspace 4종 성공"
+      ]
+    },
+    "tesla-ai5-96gb-chip": {
+      "count": 1,
+      "first_seen": "2026-10-05",
+      "last_seen": "2026-10-05",
+      "status": "normal",
+      "example_titles": [
+        "테슬라 AI5 추론 칩, 96GB HBM4 탑재 — NVIDIA B200 절반 가격 목표"
+      ]
+    },
+    "chollet-llm-reasoning-limits": {
+      "count": 1,
+      "first_seen": "2026-10-05",
+      "last_seen": "2026-10-05",
+      "status": "normal",
+      "example_titles": [
+        "Chollet 'LLM 추론 한계' 논문 재조명 — ARC 태스크 기반 System 2 Thinking 미달 주장"
+      ]
+    },
+    "north-korea-ai-missile": {
+      "count": 1,
+      "first_seen": "2026-10-05",
+      "last_seen": "2026-10-05",
+      "status": "normal",
+      "example_titles": [
+        "북한 AI 기반 미사일 유도 시스템 개발 정황 포착 — UN 안보리 AI 군비통제 논의 재촉발 전망"
       ]
     }
   }
