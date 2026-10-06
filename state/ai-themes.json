@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-10-06",
+  "updated": "2026-10-07",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -28,16 +28,6 @@
         "한국 스타트업 3분기 투자 10조 돌파 — 4년 만에 최고, AI·딥테크 주도"
       ]
     },
-    "openai-rl-training-pause-sandbox": {
-      "count": 2,
-      "first_seen": "2026-09-28",
-      "last_seen": "2026-09-29",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI RL 훈련 2차 중단 — DNS 루프홀 샌드박스 탈출, 정부 사이트 무단 접근",
-        "OpenAI, 강화학습 훈련 두 번째 일시 중단…샌드박스 이탈 패턴 재발"
-      ]
-    },
     "anthropic-sonnet-55-release": {
       "count": 2,
       "first_seen": "2026-09-29",
@@ -46,60 +36,6 @@
       "example_titles": [
         "Anthropic, Claude Sonnet 5.5 출시…코딩·에이전트 작업 성능 대폭 향상",
         "Anthropic Claude Sonnet 5.5 출시 — 코딩·추론 성능 강화"
-      ]
-    },
-    "kuaishou-kling-4-launch": {
-      "count": 1,
-      "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
-      "status": "normal",
-      "example_titles": [
-        "Kuaishou, 영상 생성 AI 'Kling 4.0' 공개…실시간 생성·물리 시뮬레이션 혁신"
-      ]
-    },
-    "mavi-ai-finance-talent": {
-      "count": 1,
-      "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
-      "status": "normal",
-      "example_titles": [
-        "금융 특화 AI 스타트업 Mavi, 스텔스 탈출…전직 대형 은행 AI 팀 창업"
-      ]
-    },
-    "amd-world-labs-acquisition": {
-      "count": 1,
-      "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
-      "status": "normal",
-      "example_titles": [
-        "AMD, 페이-페이 리의 3D 비전 AI 스타트업 World Labs 82억 달러에 인수"
-      ]
-    },
-    "ai-climate-week-energy-conflict": {
-      "count": 1,
-      "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
-      "status": "normal",
-      "example_titles": [
-        "기후 주간 AI 이중성 논란: 친환경 해결사인가, 최대 에너지 소비원인가"
-      ]
-    },
-    "ai-leaders-si-oversight-2026": {
-      "count": 1,
-      "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic·OpenAI 경영진, \"자기 개선 AI 국제 감독 체계 구축 시급\" 공동 촉구"
-      ]
-    },
-    "kr-telco-ai-trust-declaration": {
-      "count": 1,
-      "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
-      "status": "normal",
-      "example_titles": [
-        "SKT·KT·LG U+, 국내 최초 'AI 신뢰 공동선언' 발표…윤리 기준 자율 채택"
       ]
     },
     "openai-gpt61-sol-devday": {
@@ -122,15 +58,6 @@
         "OpenAI DevDay 2026: 웨어러블 AI 에이전트 'Dots' 발표"
       ]
     },
-    "openai-codex-cloud-chatgpt-space": {
-      "count": 1,
-      "first_seen": "2026-09-30",
-      "last_seen": "2026-09-30",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, Codex Cloud·ChatGPT Space 베타 공개 — 협업 AI 개발 환경 진화"
-      ]
-    },
     "anthropic-ipo-s1-existential": {
       "count": 3,
       "first_seen": "2026-09-30",
@@ -140,42 +67,6 @@
         "Anthropic, S-1 제출 — IPO 예비설명서에 '실존적 위험' 명시한 첫 AI 기업",
         "Anthropic S-1 제출 — '모델이 인류에 실존적 위험' 명시한 역대 첫 AI 기업 IPO",
         "Anthropic IPO S-1: 기업가치 $800B, 연매출 $30B+ — '실존적 위험' 공시 첫 AI 기업"
-      ]
-    },
-    "chatgpt-12b-mau": {
-      "count": 1,
-      "first_seen": "2026-09-30",
-      "last_seen": "2026-09-30",
-      "status": "normal",
-      "example_titles": [
-        "ChatGPT, 월간 활성 사용자 12억 돌파 — AI 대중화 속도 가속"
-      ]
-    },
-    "samsung-ai-forum-2026": {
-      "count": 1,
-      "first_seen": "2026-09-30",
-      "last_seen": "2026-09-30",
-      "status": "normal",
-      "example_titles": [
-        "삼성 AI 포럼 2026 개막 — 온디바이스·멀티모달 AI 협력 생태계 구축"
-      ]
-    },
-    "mistral-3b-series-d": {
-      "count": 1,
-      "first_seen": "2026-09-30",
-      "last_seen": "2026-09-30",
-      "status": "normal",
-      "example_titles": [
-        "미스트랄 AI, €30억 시리즈 D 완료 — 유럽 AI 챔피언 지위 공고화"
-      ]
-    },
-    "us-senate-ai-regulation-framework": {
-      "count": 1,
-      "first_seen": "2026-09-30",
-      "last_seen": "2026-09-30",
-      "status": "normal",
-      "example_titles": [
-        "미 상원, AI 기업 자율 규제안 폐기 — 법적 구속력 있는 안전 프레임워크 추진"
       ]
     },
     "google-gemini-4-argon-launch": {
@@ -585,6 +476,105 @@
       "status": "normal",
       "example_titles": [
         "FCA, 프론티어 AI 모델 기업 활용 보안 리뷰 결과 발표 — 취약점 발견 속도 인간 대응 능력 초과"
+      ]
+    },
+    "reflection-ai-beam-openweight": {
+      "count": 1,
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "status": "normal",
+      "example_titles": [
+        "Reflection AI, 중국 오픈소스 모델 대항 오픈웨이트 'Beam' 출시 — 낮은 컴퓨팅 비용 강점"
+      ]
+    },
+    "flai-ai-dealership-vertical-saas": {
+      "count": 1,
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "status": "normal",
+      "example_titles": [
+        "AI 기반 자동차 딜러십 플랫폼 Flai, 월 5만 건 예약 달성"
+      ]
+    },
+    "kakao-kanana-shutdown-integration": {
+      "count": 1,
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "status": "normal",
+      "example_titles": [
+        "카카오, 독립 AI 서비스 '카나나' 10월 15일 종료 — 카카오톡 통합 AI 전략 공개"
+      ]
+    },
+    "seoul-future-conference-sargent-2026": {
+      "count": 1,
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "status": "normal",
+      "example_titles": [
+        "노벨경제학상 수상자 새전트 \"AI의 과학적 성취, 인간 협력 없이는 한계\""
+      ]
+    },
+    "enterprise-gpu-utilization-2026": {
+      "count": 1,
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "status": "normal",
+      "example_titles": [
+        "기업 AI 도입 현실 — 투자 급증에도 GPU 86%가 절반 이하 가동 (VentureBeat 조사)"
+      ]
+    },
+    "q3-2026-global-funding-record": {
+      "count": 1,
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "status": "normal",
+      "example_titles": [
+        "Q3 2026 글로벌 스타트업 펀딩 신기록 — 십억 달러 빅라운드 건수 사상 최다"
+      ]
+    },
+    "ai-researchers-departing-big-labs": {
+      "count": 1,
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI·Anthropic·Google DeepMind 출신 연구원 8명 잇달아 이탈 — 안전과 상업화 갈등"
+      ]
+    },
+    "nyc-council-ai-hearing-2026": {
+      "count": 1,
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic·OpenAI·Google·Meta 경영진, 뉴욕시의회 AI 위험 공청회서 선서 증언"
+      ]
+    },
+    "korea-ai-financial-hack-2026": {
+      "count": 1,
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "status": "normal",
+      "example_titles": [
+        "한국 금융권 AI 해킹 — 28개 IP, 500개사 보안 취약정보 통보·경찰 수사팀 출범"
+      ]
+    },
+    "gsa-ai-acquisition-policy": {
+      "count": 1,
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "status": "normal",
+      "example_titles": [
+        "미국 GSA, AI 구매 조항 공식 도입 — 10월 19일부터 신규 연방 계약 적용"
+      ]
+    },
+    "korea-national-assembly-ai-audit": {
+      "count": 1,
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "status": "normal",
+      "example_titles": [
+        "한국 과방위 국감, AI·해킹 현안 피상적 논의 — 규제 실효성 우려"
       ]
     }
   }
