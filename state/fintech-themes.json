@@ -1,15 +1,79 @@
 {
   "version": 1,
-  "updated": "2026-10-06",
+  "updated": "2026-10-07",
   "window_days": 7,
   "themes": [
     {
-      "keyword": "fiserv-stablecoin-banking-platform",
+      "keyword": "anchorage-routable-stablecoin-fiat",
       "count": 1,
-      "first_seen": "2026-10-06",
-      "last_seen": "2026-10-06",
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
       "articles": [
-        "payments-fiserv-stablecoin"
+        "payments-anchorage-routable-acquisition"
+      ]
+    },
+    {
+      "keyword": "kb-naverpay-sme-digital-mou",
+      "count": 1,
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "articles": [
+        "payments-kb-naverpay-sme-mou"
+      ]
+    },
+    {
+      "keyword": "equity-bank-neo-wallet-kenya",
+      "count": 1,
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "articles": [
+        "digital-banking-equity-kenya-neo-wallet"
+      ]
+    },
+    {
+      "keyword": "cfpb-openbanking-rule-halted",
+      "count": 1,
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "articles": [
+        "regulation-cfpb-openbanking-halted"
+      ]
+    },
+    {
+      "keyword": "fintech-2026-compliance-rules",
+      "count": 1,
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "articles": [
+        "regulation-eight-compliance-rules-2026"
+      ]
+    },
+    {
+      "keyword": "neopay-noon-payments-acquisition",
+      "count": 1,
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "articles": [
+        "investment-neopay-noon-payments"
+      ]
+    },
+    {
+      "keyword": "settle-fintech-240m-facility",
+      "count": 1,
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "articles": [
+        "investment-settle-240m-facility"
+      ]
+    },
+    {
+      "keyword": "fiserv-stablecoin-banking-platform",
+      "count": 2,
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
+      "articles": [
+        "payments-fiserv-stablecoin",
+        "payments-fiserv-digital-asset-platform"
       ]
     },
     {
@@ -50,11 +114,12 @@
     },
     {
       "keyword": "fed-genius-act-rulemaking",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "articles": [
-        "regulation-fed-genius"
+        "regulation-fed-genius",
+        "regulation-occ-genius-act"
       ]
     },
     {
@@ -77,12 +142,13 @@
     },
     {
       "keyword": "visa-stablecoin-card-growth",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-10-05",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "articles": [
         "payments-visa-stablecoin",
-        "payments-visa-stablecoin"
+        "payments-visa-stablecoin",
+        "payments-visa-bridge-stablecoin-100"
       ]
     },
     {
@@ -271,12 +337,13 @@
     },
     {
       "keyword": "swift-instant-crossborder-banks",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "articles": [
         "remittance-swift-instant-crossborder",
-        "remittance-swift-instant-crossborder"
+        "remittance-swift-instant-crossborder",
+        "remittance-citi-swift-instant"
       ]
     },
     {
@@ -626,117 +693,6 @@
         "payments-korea-daily-brief-0926",
         "payments-korea-daily-record",
         "payments-korea-payments-record"
-      ]
-    },
-    {
-      "keyword": "walmart-onepay-tempo-stablecoin",
-      "count": 1,
-      "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
-      "articles": [
-        "payments-onepay-tempo"
-      ]
-    },
-    {
-      "keyword": "citi-coinbase-stablecoin-corporate",
-      "count": 1,
-      "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
-      "articles": [
-        "payments-citi-coinbase"
-      ]
-    },
-    {
-      "keyword": "stripe-trillion-tpv-milestone",
-      "count": 1,
-      "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
-      "articles": [
-        "payments-stripe-trillion"
-      ]
-    },
-    {
-      "keyword": "fed-b2b-digital-paperwork",
-      "count": 1,
-      "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
-      "articles": [
-        "payments-fed-b2b-paperwork"
-      ]
-    },
-    {
-      "keyword": "terrapay-alipay-crossborder-qr",
-      "count": 1,
-      "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
-      "articles": [
-        "remittance-terrapay-alipay"
-      ]
-    },
-    {
-      "keyword": "citi-japan-instant-crossborder",
-      "count": 1,
-      "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
-      "articles": [
-        "remittance-citi-japan"
-      ]
-    },
-    {
-      "keyword": "nano-banc-digital-bank-failure",
-      "count": 1,
-      "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
-      "articles": [
-        "digital-banking-nano-banc"
-      ]
-    },
-    {
-      "keyword": "affirm-occ-bank-charter",
-      "count": 2,
-      "first_seen": "2026-09-28",
-      "last_seen": "2026-09-29",
-      "articles": [
-        "digital-banking-affirm-occ-charter",
-        "digital-banking-affirm-occ"
-      ]
-    },
-    {
-      "keyword": "fintech-russia-sanctions-evasion",
-      "count": 2,
-      "first_seen": "2026-09-23",
-      "last_seen": "2026-09-29",
-      "articles": [
-        "regulation-fintech-russia-sanctions",
-        "regulation-fintech-russia"
-      ]
-    },
-    {
-      "keyword": "sec-tokenized-stocks-approval",
-      "count": 2,
-      "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29",
-      "articles": [
-        "regulation-sec-tokenized-stocks-2026-09-25",
-        "regulation-sec-crypto"
-      ]
-    },
-    {
-      "keyword": "amex-hyper-agentic-acquisition",
-      "count": 1,
-      "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
-      "articles": [
-        "investment-amex-hyper"
-      ]
-    },
-    {
-      "keyword": "wise-listing-london-to-us",
-      "count": 1,
-      "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
-      "articles": [
-        "investment-wise-listing"
       ]
     },
     {
