@@ -1,8 +1,125 @@
 {
   "version": 1,
-  "updated": "2026-10-07",
+  "updated": "2026-10-08",
   "window_days": 7,
   "themes": [
+    {
+      "keyword": "sap-erp-payment-control-tower",
+      "count": 1,
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "articles": [
+        "payments-sap-erp-control-tower"
+      ]
+    },
+    {
+      "keyword": "stripe-stablecoin-card-global",
+      "count": 1,
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "articles": [
+        "payments-stripe-stablecoin-card"
+      ]
+    },
+    {
+      "keyword": "bmo-mastercard-embedded-card",
+      "count": 1,
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "articles": [
+        "payments-bmo-mastercard-embedded"
+      ]
+    },
+    {
+      "keyword": "bdo-finastra-payplus-upgrade",
+      "count": 1,
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "articles": [
+        "payments-bdo-finastra-payplus"
+      ]
+    },
+    {
+      "keyword": "polygon-tron-usdt-remittance",
+      "count": 1,
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "articles": [
+        "remittance-polygon-tron-usdt"
+      ]
+    },
+    {
+      "keyword": "plaid-ai-credit-fraud-models",
+      "count": 1,
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "articles": [
+        "digital-banking-plaid-ai-models"
+      ]
+    },
+    {
+      "keyword": "monarch-hmBradley-acquisition",
+      "count": 1,
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "articles": [
+        "digital-banking-monarch-hmBradley"
+      ]
+    },
+    {
+      "keyword": "etherfi-moonpay-neobank-infra",
+      "count": 1,
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "articles": [
+        "digital-banking-etherfi-moonpay"
+      ]
+    },
+    {
+      "keyword": "experian-cashflow-cra-launch",
+      "count": 1,
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "articles": [
+        "lending-experian-cashflow-cra"
+      ]
+    },
+    {
+      "keyword": "korea-crypto-crossborder-monitoring",
+      "count": 1,
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "articles": [
+        "regulation-korea-crypto-monitoring"
+      ]
+    },
+    {
+      "keyword": "korea-fx-reform-overseas-payment",
+      "count": 1,
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "articles": [
+        "regulation-korea-fx-reform"
+      ]
+    },
+    {
+      "keyword": "noah-stablecoin-rails-seed",
+      "count": 1,
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "articles": [
+        "investment-noah-stablecoin-seed"
+      ]
+    },
+    {
+      "keyword": "capitolis-eseclending-220m",
+      "count": 1,
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "articles": [
+        "investment-capitolis-eseclending"
+      ]
+    },
     {
       "keyword": "anchorage-routable-stablecoin-fiat",
       "count": 1,
