@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-10-07",
+  "updated": "2026-10-08",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -224,14 +224,15 @@
       ]
     },
     "artificial-analysis-intelligence-index": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-08",
       "status": "normal",
       "example_titles": [
         "Artificial Analysis, AI 인텔리전스 지수 개편 — 포화된 기존 벤치마크를 실직업 기반 측정으로 대체",
         "Artificial Analysis, AI 능력 지수 전면 개편… 인기 벤치마크 대체",
-        "Artificial Analysis, AI 모델 종합 성능 지수 'Intelligence Index' 공개"
+        "Artificial Analysis, AI 모델 종합 성능 지수 'Intelligence Index' 공개",
+        "Artificial Analysis, Mistral Large 4 프리뷰에 인텔리전스 지수 38점 부여 — 美·中 외 AI 최강"
       ]
     },
     "anthropic-broadcom-tpu-financing": {
@@ -575,6 +576,87 @@
       "status": "normal",
       "example_titles": [
         "한국 과방위 국감, AI·해킹 현안 피상적 논의 — 규제 실효성 우려"
+      ]
+    },
+    "haiku-55-release": {
+      "count": 1,
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, Claude Haiku 5.5 정식 출시 — 경량 모델 클래스 성능·속도·비용 전부 1위"
+      ]
+    },
+    "mistral-large-4": {
+      "count": 1,
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "status": "normal",
+      "example_titles": [
+        "Mistral, 1조 파라미터 오픈웨이트 모델 'Large 4' 공개 — 美·中 외 AI 최강 주장"
+      ]
+    },
+    "openai-gpt6-oct-update": {
+      "count": 1,
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, GPT-6 Sol·Luna 10월 업데이트 — 성능 개선 및 ChatGPT UI 통합 확대"
+      ]
+    },
+    "zai-glm53-fast": {
+      "count": 1,
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "status": "normal",
+      "example_titles": [
+        "Z.AI, 에이전틱 코딩 특화 고속 모델 'GLM 5.3 Fast' 출시 — 1M 컨텍스트·초저지연"
+      ]
+    },
+    "google-genie": {
+      "count": 1,
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "status": "normal",
+      "example_titles": [
+        "구글, AI 게임 월드 빌더 'Project Genie' 공개 — 게임사 주가 급락"
+      ]
+    },
+    "anthropic-cyber-verify": {
+      "count": 1,
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, 사이버 보안 검증 프로그램 확대 — 보안 전문가·국가기관 고급 AI 기능 접근 허용"
+      ]
+    },
+    "anthropic-lambda-deal": {
+      "count": 1,
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, Lambda와 350억 달러 컴퓨팅 계약 체결 — 텍사스 350MW 데이터센터 전용"
+      ]
+    },
+    "lambda-ipo-prep": {
+      "count": 1,
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "status": "normal",
+      "example_titles": [
+        "Lambda GPU Cloud, 기업가치 120억 달러로 30억 달러 투자 유치 추진 — IPO 전초전"
+      ]
+    },
+    "ai-power-grid": {
+      "count": 1,
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "status": "normal",
+      "example_titles": [
+        "AI 인프라 병목, 반도체에서 전력망으로 이동 — 플랫폼 자율 제어로 30% 절감 가능"
       ]
     }
   }
