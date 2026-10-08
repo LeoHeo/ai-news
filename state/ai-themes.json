@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-10-08",
+  "updated": "2026-10-09",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -79,42 +79,6 @@
         "구글, Gemini 4 Argon 공개 — 코딩·사이버보안 벤치마크 1위 탈환, 제한 출시"
       ]
     },
-    "moonshot-kimi-k3-opensource": {
-      "count": 1,
-      "first_seen": "2026-10-01",
-      "last_seen": "2026-10-01",
-      "status": "normal",
-      "example_titles": [
-        "중국 Moonshot AI, 2.8조 파라미터 오픈소스 모델 'Kimi K3' 공개 — FrontierSWE 81.2점"
-      ]
-    },
-    "meta-muse-smb-expansion": {
-      "count": 1,
-      "first_seen": "2026-10-01",
-      "last_seen": "2026-10-01",
-      "status": "normal",
-      "example_titles": [
-        "Meta Muse AI 에이전트, 소상공인 확장 — Shopify·Dropbox 연동으로 비즈니스 자동화"
-      ]
-    },
-    "google-gemini-flash-enterprise-cost": {
-      "count": 1,
-      "first_seen": "2026-10-01",
-      "last_seen": "2026-10-01",
-      "status": "normal",
-      "example_titles": [
-        "구글, Gemini 3.5 Flash로 기업 AI 운영 비용 연간 10억 달러 이상 절감 가능 주장"
-      ]
-    },
-    "ai-coding-agents-pixelleak-github": {
-      "count": 1,
-      "first_seen": "2026-10-01",
-      "last_seen": "2026-10-01",
-      "status": "normal",
-      "example_titles": [
-        "AI 코딩 에이전트, 300개 기업 내부 이미지 1만3천 개 GitHub에 무단 유출 — 고객 결제 정보·미공개 기능 포함"
-      ]
-    },
     "modal-labs-750m-funding": {
       "count": 2,
       "first_seen": "2026-10-01",
@@ -123,33 +87,6 @@
       "example_titles": [
         "AI 추론 인프라 Modal Labs, 7억5000만 달러 펀딩 임박 — 4개월 만에 기업가치 3.4배↑",
         "Modal Labs, $750M 펀딩 확정 — 기업가치 $15.75B"
-      ]
-    },
-    "openai-30b-preipo-round": {
-      "count": 1,
-      "first_seen": "2026-10-01",
-      "last_seen": "2026-10-01",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, IPO 연기하고 1조4000억 달러 기업가치 300억 달러 프리IPO 투자 유치 추진"
-      ]
-    },
-    "micron-ai-memory-q4-earnings": {
-      "count": 1,
-      "first_seen": "2026-10-01",
-      "last_seen": "2026-10-01",
-      "status": "normal",
-      "example_titles": [
-        "마이크론, 4분기 AI 데이터센터 메모리 호황 — Q1 매출 615억 달러 전망"
-      ]
-    },
-    "connecticut-ai-regulation-oct2026": {
-      "count": 1,
-      "first_seen": "2026-10-01",
-      "last_seen": "2026-10-01",
-      "status": "normal",
-      "example_titles": [
-        "코네티컷 주, 10월 1일부터 AI 자동화 의사결정·생성AI 투명성 법 시행"
       ]
     },
     "anthropic-marketplace-connectors": {
@@ -579,30 +516,33 @@
       ]
     },
     "haiku-55-release": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "status": "normal",
       "example_titles": [
-        "Anthropic, Claude Haiku 5.5 정식 출시 — 경량 모델 클래스 성능·속도·비용 전부 1위"
+        "Anthropic, Claude Haiku 5.5 정식 출시 — 경량 모델 클래스 성능·속도·비용 전부 1위",
+        "Anthropic, Claude Haiku 5.5 출시 — AI 가격 전쟁 심화"
       ]
     },
     "mistral-large-4": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "status": "normal",
       "example_titles": [
+        "Mistral, 1조 파라미터 오픈웨이트 모델 'Large 4' 공개 — 美·中 외 AI 최강 주장",
         "Mistral, 1조 파라미터 오픈웨이트 모델 'Large 4' 공개 — 美·中 외 AI 최강 주장"
       ]
     },
     "openai-gpt6-oct-update": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "status": "normal",
       "example_titles": [
-        "OpenAI, GPT-6 Sol·Luna 10월 업데이트 — 성능 개선 및 ChatGPT UI 통합 확대"
+        "OpenAI, GPT-6 Sol·Luna 10월 업데이트 — 성능 개선 및 ChatGPT UI 통합 확대",
+        "OpenAI, ChatGPT에 '인텔리전트 UI' 출시 — GPT-6 모델과 시각적 인터페이스 통합"
       ]
     },
     "zai-glm53-fast": {
@@ -657,6 +597,78 @@
       "status": "normal",
       "example_titles": [
         "AI 인프라 병목, 반도체에서 전력망으로 이동 — 플랫폼 자율 제어로 30% 절감 가능"
+      ]
+    },
+    "google-gemini-persistent-agents": {
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "status": "normal",
+      "example_titles": [
+        "구글 클라우드, 기업용 장기 실행 Gemini 에이전트 공개 — 전용 Gmail·캘린더·드라이브 부여"
+      ]
+    },
+    "claude-google-workspace": {
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic Claude, Google Workspace 통합 — Google Docs·Sheets·Slides에서 직접 사용"
+      ]
+    },
+    "microsoft-windows-ai-pc": {
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "status": "normal",
+      "example_titles": [
+        "Microsoft, Nvidia 칩 탑재 AI PC 출시 — Windows 11에 AI 에이전트 샌드박스 기능 추가"
+      ]
+    },
+    "openai-math-372-results": {
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, 미공개 AI 모델이 수학 난제 372개 독립적으로 해결했다고 주장"
+      ]
+    },
+    "manus-ai-500m-funding": {
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "status": "normal",
+      "example_titles": [
+        "Manus AI, Meta 인수 무산 후 첫 투자 5억 달러 유치 — Boyu Capital·IDG Capital 주도"
+      ]
+    },
+    "enterprise-ai-agent-trust": {
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "status": "normal",
+      "example_titles": [
+        "기업 AI 에이전트 신뢰도 급락 — 프로덕션 변경 자율 허용 기업 75%에서 56%로 감소"
+      ]
+    },
+    "uk-dsit-ai-risk-toolkit": {
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "status": "normal",
+      "example_titles": [
+        "영국 DSIT, 공공기관 대상 AI 리스크 관리 툴킷 발표"
+      ]
+    },
+    "google-embeddinggemma-2": {
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "status": "normal",
+      "example_titles": [
+        "구글 DeepMind, EmbeddingGemma 2 공개 — 텍스트·코드·이미지·영상 지원 740M 임베딩 모델"
       ]
     }
   }
