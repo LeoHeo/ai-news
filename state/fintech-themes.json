@@ -1,8 +1,78 @@
 {
   "version": 1,
-  "updated": "2026-10-09",
+  "updated": "2026-10-10",
   "window_days": 7,
   "themes": [
+    {
+      "keyword": "sofi-orbi-mastercard-mexico",
+      "count": 1,
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10",
+      "articles": ["payments-sofi-orbi-mastercard-mexico"]
+    },
+    {
+      "keyword": "nium-redotpay-stablecoin-payout",
+      "count": 1,
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10",
+      "articles": ["remittance-nium-redotpay-stablecoin"]
+    },
+    {
+      "keyword": "revolut-romania-entity-migration",
+      "count": 1,
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10",
+      "articles": ["digital-banking-revolut-romania"]
+    },
+    {
+      "keyword": "vesta-ai-mortgage-seriesb",
+      "count": 1,
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10",
+      "articles": ["lending-vesta-ai-mortgage"]
+    },
+    {
+      "keyword": "finmid-cleavr-lending-rounds",
+      "count": 1,
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10",
+      "articles": ["lending-finmid-cleavr-rounds"]
+    },
+    {
+      "keyword": "wise-hmrc-tax-settlement",
+      "count": 1,
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10",
+      "articles": ["regulation-wise-hmrc-settlement"]
+    },
+    {
+      "keyword": "rain-occ-trust-charter",
+      "count": 1,
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10",
+      "articles": ["regulation-rain-occ-charter"]
+    },
+    {
+      "keyword": "fincen-crypto-recordkeeping-withdrawal",
+      "count": 1,
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10",
+      "articles": ["regulation-fincen-crypto-withdrawal"]
+    },
+    {
+      "keyword": "october-2026-fintech-deadlines",
+      "count": 1,
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10",
+      "articles": ["regulation-october-deadlines"]
+    },
+    {
+      "keyword": "paynetics-novus-acquisition",
+      "count": 1,
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10",
+      "articles": ["investment-paynetics-novus"]
+    },
     {
       "keyword": "mollie-gocardless-pay-bank",
       "count": 1,
@@ -103,10 +173,10 @@
     },
     {
       "keyword": "stripe-stablecoin-card-global",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-08",
-      "articles": ["payments-stripe-stablecoin-card"]
+      "last_seen": "2026-10-10",
+      "articles": ["payments-stripe-stablecoin-card", "payments-stripe-stablecoin-100"]
     },
     {
       "keyword": "bmo-mastercard-embedded-card",
@@ -494,95 +564,18 @@
       "articles": ["remittance-kb-bny-mou", "remittance-kb-bny-digital-payment-mou"]
     },
     {
-      "keyword": "lloyds-visa-usdc-pilot",
-      "count": 1,
-      "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
-      "articles": ["payments-lloyds-visa-usdc"]
-    },
-    {
-      "keyword": "hsbc-redcoin-hkd-stablecoin",
-      "count": 1,
-      "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
-      "articles": ["payments-hsbc-redcoin"]
-    },
-    {
-      "keyword": "finastra-ai-payment-repair",
-      "count": 1,
-      "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
-      "articles": ["payments-finastra-ai"]
-    },
-    {
-      "keyword": "sbi-mesh-moneyforward-stablecoin",
-      "count": 1,
-      "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
-      "articles": ["payments-sbi-mesh-stablecoin"]
-    },
-    {
-      "keyword": "revolut-mexico-banking-launch",
-      "count": 1,
-      "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
-      "articles": ["digital-banking-revolut-mexico"]
-    },
-    {
-      "keyword": "revolut-colombia-banking-license",
-      "count": 1,
-      "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
-      "articles": ["digital-banking-revolut-colombia"]
-    },
-    {
-      "keyword": "klarna-q3-2026-results",
-      "count": 1,
-      "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
-      "articles": ["lending-klarna-q3"]
-    },
-    {
-      "keyword": "india-upi-mdr-oct2026",
-      "count": 3,
-      "first_seen": "2026-10-02",
-      "last_seen": "2026-10-06",
-      "articles": ["regulation-india-upi-mdr", "regulation-india-upi-mdr-court", "digital-banking-india-upi-fee"]
-    },
-    {
-      "keyword": "esma-mica-winddown-guidance",
-      "count": 1,
-      "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
-      "articles": ["regulation-esma-mica"]
-    },
-    {
-      "keyword": "jeeves-stablecoin-banking-110m",
-      "count": 1,
-      "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
-      "articles": ["investment-jeeves-110m"]
-    },
-    {
-      "keyword": "finda-cpo-appointment",
-      "count": 1,
-      "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
-      "articles": ["investment-finda-cpo"]
-    },
-    {
-      "keyword": "sibos-2026-banking-ai",
-      "count": 5,
-      "first_seen": "2026-09-26",
-      "last_seen": "2026-10-02",
-      "articles": ["payments-sibos-2026-banking", "payments-sibos-2026-frankfurt-opens", "payments-sibos-preview", "payments-sibos-2026-final", "payments-sibos-agentic"]
-    },
-    {
       "keyword": "korea-payment-apps-daily",
       "count": 3,
       "first_seen": "2026-09-26",
       "last_seen": "2026-10-05",
       "articles": ["payments-korea-daily-brief-0926", "payments-korea-daily-record", "payments-korea-payments-record"]
+    },
+    {
+      "keyword": "india-upi-mdr-oct2026",
+      "count": 4,
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-10",
+      "articles": ["regulation-india-upi-mdr", "regulation-india-upi-mdr-court", "digital-banking-india-upi-fee", "regulation-india-upi-mdr-1010"]
     },
     {
       "keyword": "fintechos-profitability-ai",
