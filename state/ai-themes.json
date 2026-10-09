@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-10-09",
+  "updated": "2026-10-10",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -28,47 +28,6 @@
         "한국 스타트업 3분기 투자 10조 돌파 — 4년 만에 최고, AI·딥테크 주도"
       ]
     },
-    "anthropic-sonnet-55-release": {
-      "count": 2,
-      "first_seen": "2026-09-29",
-      "last_seen": "2026-10-02",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, Claude Sonnet 5.5 출시…코딩·에이전트 작업 성능 대폭 향상",
-        "Anthropic Claude Sonnet 5.5 출시 — 코딩·추론 성능 강화"
-      ]
-    },
-    "openai-gpt61-sol-devday": {
-      "count": 2,
-      "first_seen": "2026-09-30",
-      "last_seen": "2026-10-02",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, DevDay에서 GPT-6.1 Sol 발표 — 추론·코딩 최강 모델 자처",
-        "OpenAI DevDay 2026: GPT-6.1 Sol 공개 — 코딩·추론 SOTA 기록"
-      ]
-    },
-    "openai-dots-wearable-agent": {
-      "count": 2,
-      "first_seen": "2026-09-30",
-      "last_seen": "2026-10-02",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI 'Dots' 발표 — 웨어러블 AI 에이전트로 스마트폰 대체 도전",
-        "OpenAI DevDay 2026: 웨어러블 AI 에이전트 'Dots' 발표"
-      ]
-    },
-    "anthropic-ipo-s1-existential": {
-      "count": 3,
-      "first_seen": "2026-09-30",
-      "last_seen": "2026-10-02",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, S-1 제출 — IPO 예비설명서에 '실존적 위험' 명시한 첫 AI 기업",
-        "Anthropic S-1 제출 — '모델이 인류에 실존적 위험' 명시한 역대 첫 AI 기업 IPO",
-        "Anthropic IPO S-1: 기업가치 $800B, 연매출 $30B+ — '실존적 위험' 공시 첫 AI 기업"
-      ]
-    },
     "google-gemini-4-argon-launch": {
       "count": 2,
       "first_seen": "2026-10-01",
@@ -77,25 +36,6 @@
       "example_titles": [
         "구글, 차세대 플래그십 'Gemini 4 Argon' 공개 — 코딩·사이버보안 1M 토큰 출력",
         "구글, Gemini 4 Argon 공개 — 코딩·사이버보안 벤치마크 1위 탈환, 제한 출시"
-      ]
-    },
-    "modal-labs-750m-funding": {
-      "count": 2,
-      "first_seen": "2026-10-01",
-      "last_seen": "2026-10-02",
-      "status": "normal",
-      "example_titles": [
-        "AI 추론 인프라 Modal Labs, 7억5000만 달러 펀딩 임박 — 4개월 만에 기업가치 3.4배↑",
-        "Modal Labs, $750M 펀딩 확정 — 기업가치 $15.75B"
-      ]
-    },
-    "anthropic-marketplace-connectors": {
-      "count": 1,
-      "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, Claude Marketplace 출시 — 2,000개 이상 커넥터로 에이전트 생태계 확장"
       ]
     },
     "meta-enterprise-platform-cj-desai": {
@@ -109,22 +49,14 @@
       ]
     },
     "openai-fires-safety-staff": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-10",
       "status": "normal",
       "example_titles": [
         "오픈AI, 안전팀 직원 3명 전격 해고 — '상업화 우선' 내부 갈등 폭발",
-        "OpenAI, 외부 AI 안전 기관에 기밀 유출 혐의로 안전팀 연구원 3명 전격 해고"
-      ]
-    },
-    "naver-global-ai-factory-france": {
-      "count": 1,
-      "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
-      "status": "normal",
-      "example_titles": [
-        "네이버, 프랑스 1GW AI 팩토리 투자 확정 — 국내 기업 최초 유럽 초대형 AI 인프라"
+        "OpenAI, 외부 AI 안전 기관에 기밀 유출 혐의로 안전팀 연구원 3명 전격 해고",
+        "해고된 OpenAI 안전팀 연구원 3명, 회사 AI 모니터링 능력 우려 공개 제기"
       ]
     },
     "apple-macos-ai-agent-security": {
@@ -462,12 +394,13 @@
       ]
     },
     "q3-2026-global-funding-record": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-07",
+      "last_seen": "2026-10-10",
       "status": "normal",
       "example_titles": [
-        "Q3 2026 글로벌 스타트업 펀딩 신기록 — 십억 달러 빅라운드 건수 사상 최다"
+        "Q3 2026 글로벌 스타트업 펀딩 신기록 — 십억 달러 빅라운드 건수 사상 최다",
+        "2026년 Q3 글로벌 AI 스타트업 펀딩 741억 달러 — 77개 라운드 역대 최다 빅딜"
       ]
     },
     "ai-researchers-departing-big-labs": {
@@ -516,13 +449,14 @@
       ]
     },
     "haiku-55-release": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "status": "normal",
       "example_titles": [
         "Anthropic, Claude Haiku 5.5 정식 출시 — 경량 모델 클래스 성능·속도·비용 전부 1위",
-        "Anthropic, Claude Haiku 5.5 출시 — AI 가격 전쟁 심화"
+        "Anthropic, Claude Haiku 5.5 출시 — AI 가격 전쟁 심화",
+        "Claude Haiku 5.5 — AI 가격 전쟁 심화 분석"
       ]
     },
     "mistral-large-4": {
@@ -536,13 +470,14 @@
       ]
     },
     "openai-gpt6-oct-update": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "status": "normal",
       "example_titles": [
         "OpenAI, GPT-6 Sol·Luna 10월 업데이트 — 성능 개선 및 ChatGPT UI 통합 확대",
-        "OpenAI, ChatGPT에 '인텔리전트 UI' 출시 — GPT-6 모델과 시각적 인터페이스 통합"
+        "OpenAI, ChatGPT에 '인텔리전트 UI' 출시 — GPT-6 모델과 시각적 인터페이스 통합",
+        "OpenAI GPT-6 Intelligent UI 전체 사용자 출시 — 무료·Go 요금제까지 확대"
       ]
     },
     "zai-glm53-fast": {
@@ -564,12 +499,13 @@
       ]
     },
     "anthropic-cyber-verify": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-10",
       "status": "normal",
       "example_titles": [
-        "Anthropic, 사이버 보안 검증 프로그램 확대 — 보안 전문가·국가기관 고급 AI 기능 접근 허용"
+        "Anthropic, 사이버 보안 검증 프로그램 확대 — 보안 전문가·국가기관 고급 AI 기능 접근 허용",
+        "Anthropic Cyber Mission — 사이버 보안 전문가·기관에 고급 AI 기능 확대"
       ]
     },
     "anthropic-lambda-deal": {
@@ -669,6 +605,78 @@
       "status": "normal",
       "example_titles": [
         "구글 DeepMind, EmbeddingGemma 2 공개 — 텍스트·코드·이미지·영상 지원 740M 임베딩 모델"
+      ]
+    },
+    "wikimedia-openai-rogue-agents": {
+      "count": 1,
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10",
+      "status": "normal",
+      "example_titles": [
+        "Wikimedia, OpenAI 에이전트가 Wikipedia 무단 편집·툴 탈취 시도했다고 발표"
+      ]
+    },
+    "softbank-gulf-ai-fund": {
+      "count": 1,
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10",
+      "status": "normal",
+      "example_titles": [
+        "SoftBank, 걸프 국부펀드에서 최대 1,000억 달러 AI 운영 펀드 모집 추진"
+      ]
+    },
+    "instinct-personal-ai-funding": {
+      "count": 1,
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10",
+      "status": "normal",
+      "example_titles": [
+        "Instinct, 개인 AI 에이전트로 시리즈 C 10억 달러 조달 — 기업가치 100억 달러"
+      ]
+    },
+    "anthropic-2028-election-ai": {
+      "count": 1,
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, 2028년 미국 대선 후보 위한 초당파 AI 교육 프로그램 출범"
+      ]
+    },
+    "india-meity-ai-advisory": {
+      "count": 1,
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10",
+      "status": "normal",
+      "example_titles": [
+        "인도 IT부(MeitY), 플랫폼에 AI 생성 콘텐츠·딥페이크 모니터링 강화 권고"
+      ]
+    },
+    "white-house-ai-science-pledges": {
+      "count": 1,
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10",
+      "status": "normal",
+      "example_titles": [
+        "백악관 AI 과학 서밋 — 엔비디아 10억, AMD 5억, OpenAI 2억 달러 공약"
+      ]
+    },
+    "openai-math-manuscripts-github": {
+      "count": 1,
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, AI가 생성한 722개 수학 논문 GitHub 공개"
+      ]
+    },
+    "google-gemini-nano-banana": {
+      "count": 1,
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10",
+      "status": "normal",
+      "example_titles": [
+        "Gemini Nano Banana 2.1 — 구글, 소형 온디바이스 모델 최신 버전 출시"
       ]
     }
   }
