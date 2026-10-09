@@ -1,855 +1,595 @@
 {
   "version": 1,
-  "updated": "2026-10-08",
+  "updated": "2026-10-09",
   "window_days": 7,
   "themes": [
+    {
+      "keyword": "mollie-gocardless-pay-bank",
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "articles": ["payments-mollie-gocardless-pay-bank"]
+    },
+    {
+      "keyword": "redotpay-openpayd-stablecoin",
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "articles": ["payments-redotpay-openpayd-stablecoin"]
+    },
+    {
+      "keyword": "korea-bigtech-pg-infra-race",
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "articles": ["payments-korea-bigtech-pg-infra-race"]
+    },
+    {
+      "keyword": "fintech-forward-2026-bahrain",
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "articles": ["payments-fintech-forward-bahrain"]
+    },
+    {
+      "keyword": "redotpay-ripple-nigeria-naira",
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "articles": ["remittance-redotpay-ripple-nigeria-naira"]
+    },
+    {
+      "keyword": "engine-starling-cpo-howein",
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "articles": ["digitalbanking-engine-starling-cpo"]
+    },
+    {
+      "keyword": "zilch-membership-salary-advance",
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "articles": ["lending-zilch-membership-salary-advance"]
+    },
+    {
+      "keyword": "octane-nuveen-350m-facility",
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "articles": ["lending-octane-nuveen-350m"]
+    },
+    {
+      "keyword": "icba-occ-trust-charter-suit",
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "articles": ["regulation-icba-occ-trust-charter-suit"]
+    },
+    {
+      "keyword": "cftc-crypto-retail-leverage",
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "articles": ["regulation-cftc-crypto-retail-leverage"]
+    },
+    {
+      "keyword": "fca-retail-fund-notice-rules",
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "articles": ["regulation-fca-retail-fund-rules"]
+    },
+    {
+      "keyword": "mynt-gcash-philippine-ipo",
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "articles": ["investment-mynt-gcash-philippine-ipo"]
+    },
+    {
+      "keyword": "truelayer-cdp-23m-investment",
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "articles": ["investment-truelayer-cdp-23m"]
+    },
     {
       "keyword": "sap-erp-payment-control-tower",
       "count": 1,
       "first_seen": "2026-10-08",
       "last_seen": "2026-10-08",
-      "articles": [
-        "payments-sap-erp-control-tower"
-      ]
+      "articles": ["payments-sap-erp-control-tower"]
     },
     {
       "keyword": "stripe-stablecoin-card-global",
       "count": 1,
       "first_seen": "2026-10-08",
       "last_seen": "2026-10-08",
-      "articles": [
-        "payments-stripe-stablecoin-card"
-      ]
+      "articles": ["payments-stripe-stablecoin-card"]
     },
     {
       "keyword": "bmo-mastercard-embedded-card",
       "count": 1,
       "first_seen": "2026-10-08",
       "last_seen": "2026-10-08",
-      "articles": [
-        "payments-bmo-mastercard-embedded"
-      ]
+      "articles": ["payments-bmo-mastercard-embedded"]
     },
     {
       "keyword": "bdo-finastra-payplus-upgrade",
       "count": 1,
       "first_seen": "2026-10-08",
       "last_seen": "2026-10-08",
-      "articles": [
-        "payments-bdo-finastra-payplus"
-      ]
+      "articles": ["payments-bdo-finastra-payplus"]
     },
     {
       "keyword": "polygon-tron-usdt-remittance",
       "count": 1,
       "first_seen": "2026-10-08",
       "last_seen": "2026-10-08",
-      "articles": [
-        "remittance-polygon-tron-usdt"
-      ]
+      "articles": ["remittance-polygon-tron-usdt"]
     },
     {
       "keyword": "plaid-ai-credit-fraud-models",
       "count": 1,
       "first_seen": "2026-10-08",
       "last_seen": "2026-10-08",
-      "articles": [
-        "digital-banking-plaid-ai-models"
-      ]
+      "articles": ["digital-banking-plaid-ai-models"]
     },
     {
       "keyword": "monarch-hmBradley-acquisition",
       "count": 1,
       "first_seen": "2026-10-08",
       "last_seen": "2026-10-08",
-      "articles": [
-        "digital-banking-monarch-hmBradley"
-      ]
+      "articles": ["digital-banking-monarch-hmBradley"]
     },
     {
       "keyword": "etherfi-moonpay-neobank-infra",
       "count": 1,
       "first_seen": "2026-10-08",
       "last_seen": "2026-10-08",
-      "articles": [
-        "digital-banking-etherfi-moonpay"
-      ]
+      "articles": ["digital-banking-etherfi-moonpay"]
     },
     {
       "keyword": "experian-cashflow-cra-launch",
       "count": 1,
       "first_seen": "2026-10-08",
       "last_seen": "2026-10-08",
-      "articles": [
-        "lending-experian-cashflow-cra"
-      ]
+      "articles": ["lending-experian-cashflow-cra"]
     },
     {
       "keyword": "korea-crypto-crossborder-monitoring",
       "count": 1,
       "first_seen": "2026-10-08",
       "last_seen": "2026-10-08",
-      "articles": [
-        "regulation-korea-crypto-monitoring"
-      ]
+      "articles": ["regulation-korea-crypto-monitoring"]
     },
     {
       "keyword": "korea-fx-reform-overseas-payment",
       "count": 1,
       "first_seen": "2026-10-08",
       "last_seen": "2026-10-08",
-      "articles": [
-        "regulation-korea-fx-reform"
-      ]
+      "articles": ["regulation-korea-fx-reform"]
     },
     {
       "keyword": "noah-stablecoin-rails-seed",
       "count": 1,
       "first_seen": "2026-10-08",
       "last_seen": "2026-10-08",
-      "articles": [
-        "investment-noah-stablecoin-seed"
-      ]
+      "articles": ["investment-noah-stablecoin-seed"]
     },
     {
       "keyword": "capitolis-eseclending-220m",
       "count": 1,
       "first_seen": "2026-10-08",
       "last_seen": "2026-10-08",
-      "articles": [
-        "investment-capitolis-eseclending"
-      ]
+      "articles": ["investment-capitolis-eseclending"]
     },
     {
       "keyword": "anchorage-routable-stablecoin-fiat",
       "count": 1,
       "first_seen": "2026-10-07",
       "last_seen": "2026-10-07",
-      "articles": [
-        "payments-anchorage-routable-acquisition"
-      ]
+      "articles": ["payments-anchorage-routable-acquisition"]
     },
     {
       "keyword": "kb-naverpay-sme-digital-mou",
       "count": 1,
       "first_seen": "2026-10-07",
       "last_seen": "2026-10-07",
-      "articles": [
-        "payments-kb-naverpay-sme-mou"
-      ]
+      "articles": ["payments-kb-naverpay-sme-mou"]
     },
     {
       "keyword": "equity-bank-neo-wallet-kenya",
       "count": 1,
       "first_seen": "2026-10-07",
       "last_seen": "2026-10-07",
-      "articles": [
-        "digital-banking-equity-kenya-neo-wallet"
-      ]
+      "articles": ["digital-banking-equity-kenya-neo-wallet"]
     },
     {
       "keyword": "cfpb-openbanking-rule-halted",
       "count": 1,
       "first_seen": "2026-10-07",
       "last_seen": "2026-10-07",
-      "articles": [
-        "regulation-cfpb-openbanking-halted"
-      ]
+      "articles": ["regulation-cfpb-openbanking-halted"]
     },
     {
       "keyword": "fintech-2026-compliance-rules",
       "count": 1,
       "first_seen": "2026-10-07",
       "last_seen": "2026-10-07",
-      "articles": [
-        "regulation-eight-compliance-rules-2026"
-      ]
+      "articles": ["regulation-eight-compliance-rules-2026"]
     },
     {
       "keyword": "neopay-noon-payments-acquisition",
       "count": 1,
       "first_seen": "2026-10-07",
       "last_seen": "2026-10-07",
-      "articles": [
-        "investment-neopay-noon-payments"
-      ]
+      "articles": ["investment-neopay-noon-payments"]
     },
     {
       "keyword": "settle-fintech-240m-facility",
       "count": 1,
       "first_seen": "2026-10-07",
       "last_seen": "2026-10-07",
-      "articles": [
-        "investment-settle-240m-facility"
-      ]
+      "articles": ["investment-settle-240m-facility"]
     },
     {
       "keyword": "fiserv-stablecoin-banking-platform",
       "count": 2,
       "first_seen": "2026-10-06",
       "last_seen": "2026-10-07",
-      "articles": [
-        "payments-fiserv-stablecoin",
-        "payments-fiserv-digital-asset-platform"
-      ]
+      "articles": ["payments-fiserv-stablecoin", "payments-fiserv-digital-asset-platform"]
     },
     {
       "keyword": "resona-jcb-stablecoin-retail",
       "count": 1,
       "first_seen": "2026-10-06",
       "last_seen": "2026-10-06",
-      "articles": [
-        "payments-resona-jcb-stablecoin"
-      ]
+      "articles": ["payments-resona-jcb-stablecoin"]
     },
     {
       "keyword": "banks-agentic-commerce-principles",
       "count": 1,
       "first_seen": "2026-10-06",
       "last_seen": "2026-10-06",
-      "articles": [
-        "payments-banks-agentic-commerce"
-      ]
+      "articles": ["payments-banks-agentic-commerce"]
     },
     {
       "keyword": "modern-treasury-occ-trust-bank",
       "count": 1,
       "first_seen": "2026-10-06",
       "last_seen": "2026-10-06",
-      "articles": [
-        "digital-banking-modern-treasury-occ"
-      ]
+      "articles": ["digital-banking-modern-treasury-occ"]
     },
     {
       "keyword": "ipid-singapore-series-a",
       "count": 1,
       "first_seen": "2026-10-06",
       "last_seen": "2026-10-06",
-      "articles": [
-        "investment-ipid-series-a"
-      ]
+      "articles": ["investment-ipid-series-a"]
     },
     {
       "keyword": "fed-genius-act-rulemaking",
       "count": 2,
       "first_seen": "2026-10-06",
       "last_seen": "2026-10-07",
-      "articles": [
-        "regulation-fed-genius",
-        "regulation-occ-genius-act"
-      ]
+      "articles": ["regulation-fed-genius", "regulation-occ-genius-act"]
     },
     {
       "keyword": "hongkong-stablecoin-license-first",
       "count": 1,
       "first_seen": "2026-10-06",
       "last_seen": "2026-10-06",
-      "articles": [
-        "regulation-hk-stablecoin-license"
-      ]
+      "articles": ["regulation-hk-stablecoin-license"]
     },
     {
       "keyword": "tempo-stripe-paradigm-mainnet",
       "count": 1,
       "first_seen": "2026-10-05",
       "last_seen": "2026-10-05",
-      "articles": [
-        "payments-tempo-stripe-paradigm"
-      ]
+      "articles": ["payments-tempo-stripe-paradigm"]
     },
     {
       "keyword": "visa-stablecoin-card-growth",
       "count": 3,
       "first_seen": "2026-10-05",
       "last_seen": "2026-10-07",
-      "articles": [
-        "payments-visa-stablecoin",
-        "payments-visa-stablecoin",
-        "payments-visa-bridge-stablecoin-100"
-      ]
+      "articles": ["payments-visa-stablecoin", "payments-visa-stablecoin", "payments-visa-bridge-stablecoin-100"]
     },
     {
       "keyword": "uk-stablecoin-tokenized-payments-framework",
       "count": 1,
       "first_seen": "2026-10-05",
       "last_seen": "2026-10-05",
-      "articles": [
-        "regulation-uk-stablecoin-framework"
-      ]
+      "articles": ["regulation-uk-stablecoin-framework"]
     },
     {
       "keyword": "grab-atome-bnpl-acquisition",
       "count": 2,
       "first_seen": "2026-10-05",
       "last_seen": "2026-10-06",
-      "articles": [
-        "investment-grab-atome-bnpl",
-        "investment-grab-atome"
-      ]
+      "articles": ["investment-grab-atome-bnpl", "investment-grab-atome"]
     },
     {
       "keyword": "fintechs-outacquire-banks-2026",
       "count": 1,
       "first_seen": "2026-10-05",
       "last_seen": "2026-10-05",
-      "articles": [
-        "investment-fintechs-outacquire"
-      ]
+      "articles": ["investment-fintechs-outacquire"]
     },
     {
       "keyword": "redotpay-stablecoin-seriesb",
       "count": 1,
       "first_seen": "2026-10-05",
       "last_seen": "2026-10-05",
-      "articles": [
-        "investment-redotpay-seriesb"
-      ]
+      "articles": ["investment-redotpay-seriesb"]
     },
     {
       "keyword": "b2b-crossborder-infrastructure-shift",
       "count": 1,
       "first_seen": "2026-10-05",
       "last_seen": "2026-10-05",
-      "articles": [
-        "remittance-b2b-crossborder-shift"
-      ]
+      "articles": ["remittance-b2b-crossborder-shift"]
     },
     {
       "keyword": "embedded-finance-us-compliance",
       "count": 1,
       "first_seen": "2026-10-05",
       "last_seen": "2026-10-05",
-      "articles": [
-        "lending-embedded-finance-us-reg"
-      ]
+      "articles": ["lending-embedded-finance-us-reg"]
     },
     {
       "keyword": "pagaya-upstart-ai-lending",
       "count": 1,
       "first_seen": "2026-10-05",
       "last_seen": "2026-10-05",
-      "articles": [
-        "lending-pagaya-upstart-ai"
-      ]
+      "articles": ["lending-pagaya-upstart-ai"]
     },
     {
       "keyword": "fintech-trade-finance-expansion",
       "count": 1,
       "first_seen": "2026-10-05",
       "last_seen": "2026-10-05",
-      "articles": [
-        "payments-fintech-trade-finance"
-      ]
-    },
-    {
-      "keyword": "pace-act-fed-payment-rails",
-      "count": 2,
-      "first_seen": "2026-10-04",
-      "last_seen": "2026-10-05",
-      "articles": [
-        "regulation-pace-act-fed-rails",
-        "regulation-pace-act-fed-rails-1005"
-      ]
-    },
-    {
-      "keyword": "mas-singapore-stablecoin-framework",
-      "count": 1,
-      "first_seen": "2026-10-04",
-      "last_seen": "2026-10-04",
-      "articles": [
-        "regulation-mas-singapore-stablecoin"
-      ]
-    },
-    {
-      "keyword": "banks-fed-fintech-ach",
-      "count": 1,
-      "first_seen": "2026-10-04",
-      "last_seen": "2026-10-04",
-      "articles": [
-        "regulation-banks-fed-fintech-ach"
-      ]
-    },
-    {
-      "keyword": "fintech-fed-payment-readiness",
-      "count": 1,
-      "first_seen": "2026-10-04",
-      "last_seen": "2026-10-04",
-      "articles": [
-        "regulation-fintech-fed-payment-readiness"
-      ]
-    },
-    {
-      "keyword": "clearinghouse-quant-tokenized-deposits",
-      "count": 1,
-      "first_seen": "2026-10-04",
-      "last_seen": "2026-10-04",
-      "articles": [
-        "payments-clearinghouse-quant-tokenized"
-      ]
-    },
-    {
-      "keyword": "crossborder-cfo-liquidity-strategy",
-      "count": 1,
-      "first_seen": "2026-10-04",
-      "last_seen": "2026-10-04",
-      "articles": [
-        "remittance-crossborder-cfo-strategy"
-      ]
-    },
-    {
-      "keyword": "natwest-fintech-innovation-programme",
-      "count": 2,
-      "first_seen": "2026-10-04",
-      "last_seen": "2026-10-05",
-      "articles": [
-        "digital-banking-natwest-fintech-programme",
-        "digital-banking-natwest-fintech"
-      ]
-    },
-    {
-      "keyword": "neobank-empire-building-2026",
-      "count": 2,
-      "first_seen": "2026-10-04",
-      "last_seen": "2026-10-05",
-      "articles": [
-        "digital-banking-neobank-empire-building",
-        "digital-banking-empire-era"
-      ]
-    },
-    {
-      "keyword": "entravel-travel-fintech-funding",
-      "count": 1,
-      "first_seen": "2026-10-04",
-      "last_seen": "2026-10-04",
-      "articles": [
-        "investment-entravel-travel-fintech-funding"
-      ]
-    },
-    {
-      "keyword": "european-network-for-payments",
-      "count": 1,
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
-      "articles": [
-        "payments-european-network-for-payments"
-      ]
-    },
-    {
-      "keyword": "japan-blockchain-rts-trial",
-      "count": 1,
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
-      "articles": [
-        "payments-japan-blockchain-settlement"
-      ]
-    },
-    {
-      "keyword": "philippines-digital-payments-growth",
-      "count": 1,
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
-      "articles": [
-        "payments-philippines-digital-payments"
-      ]
-    },
-    {
-      "keyword": "swift-instant-crossborder-banks",
-      "count": 3,
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-07",
-      "articles": [
-        "remittance-swift-instant-crossborder",
-        "remittance-swift-instant-crossborder",
-        "remittance-citi-swift-instant"
-      ]
-    },
-    {
-      "keyword": "bnpl-cards-wallets-shift",
-      "count": 1,
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
-      "articles": [
-        "lending-bnpl-cards-wallets"
-      ]
-    },
-    {
-      "keyword": "brazil-stablecoin-crossborder-ban",
-      "count": 1,
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
-      "articles": [
-        "regulation-brazil-stablecoin-ban"
-      ]
-    },
-    {
-      "keyword": "valley-national-bluevine-acquisition",
-      "count": 1,
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
-      "articles": [
-        "investment-valley-national-bluevine"
-      ]
-    },
-    {
-      "keyword": "korea-sto-summit-2026",
-      "count": 2,
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-04",
-      "articles": [
-        "investment-korea-sto-summit",
-        "investment-korea-sto-summit-2026"
-      ]
-    },
-    {
-      "keyword": "fintech-awards-london-2026",
-      "count": 1,
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
-      "articles": [
-        "investment-fintech-awards-london-2026"
-      ]
-    },
-    {
-      "keyword": "lloyds-visa-usdc-pilot",
-      "count": 1,
-      "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
-      "articles": [
-        "payments-lloyds-visa-usdc"
-      ]
-    },
-    {
-      "keyword": "hsbc-redcoin-hkd-stablecoin",
-      "count": 1,
-      "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
-      "articles": [
-        "payments-hsbc-redcoin"
-      ]
-    },
-    {
-      "keyword": "finastra-ai-payment-repair",
-      "count": 1,
-      "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
-      "articles": [
-        "payments-finastra-ai"
-      ]
-    },
-    {
-      "keyword": "sbi-mesh-moneyforward-stablecoin",
-      "count": 1,
-      "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
-      "articles": [
-        "payments-sbi-mesh-stablecoin"
-      ]
-    },
-    {
-      "keyword": "kb-bny-digital-payment-mou",
-      "count": 2,
-      "first_seen": "2026-10-02",
-      "last_seen": "2026-10-03",
-      "articles": [
-        "remittance-kb-bny-mou",
-        "remittance-kb-bny-digital-payment-mou"
-      ]
-    },
-    {
-      "keyword": "revolut-mexico-banking-launch",
-      "count": 1,
-      "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
-      "articles": [
-        "digital-banking-revolut-mexico"
-      ]
-    },
-    {
-      "keyword": "revolut-colombia-banking-license",
-      "count": 1,
-      "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
-      "articles": [
-        "digital-banking-revolut-colombia"
-      ]
-    },
-    {
-      "keyword": "klarna-q3-2026-results",
-      "count": 1,
-      "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
-      "articles": [
-        "lending-klarna-q3"
-      ]
-    },
-    {
-      "keyword": "india-upi-mdr-oct2026",
-      "count": 3,
-      "first_seen": "2026-10-02",
-      "last_seen": "2026-10-06",
-      "articles": [
-        "regulation-india-upi-mdr",
-        "regulation-india-upi-mdr-court",
-        "digital-banking-india-upi-fee"
-      ]
-    },
-    {
-      "keyword": "esma-mica-winddown-guidance",
-      "count": 1,
-      "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
-      "articles": [
-        "regulation-esma-mica"
-      ]
-    },
-    {
-      "keyword": "jeeves-stablecoin-banking-110m",
-      "count": 1,
-      "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
-      "articles": [
-        "investment-jeeves-110m"
-      ]
-    },
-    {
-      "keyword": "finda-cpo-appointment",
-      "count": 1,
-      "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
-      "articles": [
-        "investment-finda-cpo"
-      ]
-    },
-    {
-      "keyword": "dtcc-tokenization-on-chain",
-      "count": 1,
-      "first_seen": "2026-10-01",
-      "last_seen": "2026-10-01",
-      "articles": [
-        "payments-dtcc-tokenization-launch"
-      ]
-    },
-    {
-      "keyword": "australia-rba-card-surcharge-reform",
-      "count": 1,
-      "first_seen": "2026-10-01",
-      "last_seen": "2026-10-01",
-      "articles": [
-        "payments-australia-rba-card-reform"
-      ]
-    },
-    {
-      "keyword": "global-payments-fee-increase-2026",
-      "count": 1,
-      "first_seen": "2026-10-01",
-      "last_seen": "2026-10-01",
-      "articles": [
-        "payments-global-payments-fee-hike"
-      ]
+      "articles": ["payments-fintech-trade-finance"]
     },
     {
       "keyword": "eu-bnpl-consumer-credit-2026",
       "count": 3,
       "first_seen": "2026-10-01",
       "last_seen": "2026-10-05",
-      "articles": [
-        "lending-bnpl-eu-regulation-2026",
-        "lending-eu-bnpl-consumer-credit",
-        "regulation-eu-bnpl-consumer-credit"
-      ]
+      "articles": ["lending-bnpl-eu-regulation-2026", "lending-eu-bnpl-consumer-credit", "regulation-eu-bnpl-consumer-credit"]
     },
     {
-      "keyword": "fca-openbanking-cvrp-framework",
-      "count": 1,
-      "first_seen": "2026-10-01",
-      "last_seen": "2026-10-01",
-      "articles": [
-        "regulation-fca-cvrp-consultation"
-      ]
+      "keyword": "pace-act-fed-payment-rails",
+      "count": 2,
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-05",
+      "articles": ["regulation-pace-act-fed-rails", "regulation-pace-act-fed-rails-1005"]
     },
     {
-      "keyword": "genius-act-stablecoin-deadline",
+      "keyword": "mas-singapore-stablecoin-framework",
       "count": 1,
-      "first_seen": "2026-10-01",
-      "last_seen": "2026-10-01",
-      "articles": [
-        "regulation-genius-act-stablecoin"
-      ]
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "articles": ["regulation-mas-singapore-stablecoin"]
     },
     {
-      "keyword": "india-rbi-card-auth-2026",
+      "keyword": "banks-fed-fintech-ach",
       "count": 1,
-      "first_seen": "2026-10-01",
-      "last_seen": "2026-10-01",
-      "articles": [
-        "regulation-india-rbi-card-auth"
-      ]
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "articles": ["regulation-banks-fed-fintech-ach"]
     },
     {
-      "keyword": "fdta-regulatory-data-standards",
+      "keyword": "fintech-fed-payment-readiness",
       "count": 1,
-      "first_seen": "2026-10-01",
-      "last_seen": "2026-10-01",
-      "articles": [
-        "regulation-fdta-data-standards"
-      ]
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "articles": ["regulation-fintech-fed-payment-readiness"]
     },
     {
-      "keyword": "danal-seoulfintech-mou",
+      "keyword": "clearinghouse-quant-tokenized-deposits",
       "count": 1,
-      "first_seen": "2026-10-01",
-      "last_seen": "2026-10-01",
-      "articles": [
-        "investment-danal-seoulfintech-mou"
-      ]
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "articles": ["payments-clearinghouse-quant-tokenized"]
+    },
+    {
+      "keyword": "crossborder-cfo-liquidity-strategy",
+      "count": 1,
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "articles": ["remittance-crossborder-cfo-strategy"]
+    },
+    {
+      "keyword": "natwest-fintech-innovation-programme",
+      "count": 2,
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-05",
+      "articles": ["digital-banking-natwest-fintech-programme", "digital-banking-natwest-fintech"]
+    },
+    {
+      "keyword": "neobank-empire-building-2026",
+      "count": 2,
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-05",
+      "articles": ["digital-banking-neobank-empire-building", "digital-banking-empire-era"]
+    },
+    {
+      "keyword": "entravel-travel-fintech-funding",
+      "count": 1,
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "articles": ["investment-entravel-travel-fintech-funding"]
+    },
+    {
+      "keyword": "korea-sto-summit-2026",
+      "count": 2,
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
+      "articles": ["investment-korea-sto-summit", "investment-korea-sto-summit-2026"]
+    },
+    {
+      "keyword": "european-network-for-payments",
+      "count": 1,
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "articles": ["payments-european-network-for-payments"]
+    },
+    {
+      "keyword": "japan-blockchain-rts-trial",
+      "count": 1,
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "articles": ["payments-japan-blockchain-settlement"]
+    },
+    {
+      "keyword": "philippines-digital-payments-growth",
+      "count": 1,
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "articles": ["payments-philippines-digital-payments"]
+    },
+    {
+      "keyword": "swift-instant-crossborder-banks",
+      "count": 3,
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-07",
+      "articles": ["remittance-swift-instant-crossborder", "remittance-swift-instant-crossborder", "remittance-citi-swift-instant"]
+    },
+    {
+      "keyword": "bnpl-cards-wallets-shift",
+      "count": 1,
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "articles": ["lending-bnpl-cards-wallets"]
+    },
+    {
+      "keyword": "brazil-stablecoin-crossborder-ban",
+      "count": 1,
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "articles": ["regulation-brazil-stablecoin-ban"]
+    },
+    {
+      "keyword": "valley-national-bluevine-acquisition",
+      "count": 1,
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "articles": ["investment-valley-national-bluevine"]
+    },
+    {
+      "keyword": "fintech-awards-london-2026",
+      "count": 1,
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "articles": ["investment-fintech-awards-london-2026"]
+    },
+    {
+      "keyword": "kb-bny-digital-payment-mou",
+      "count": 2,
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
+      "articles": ["remittance-kb-bny-mou", "remittance-kb-bny-digital-payment-mou"]
+    },
+    {
+      "keyword": "lloyds-visa-usdc-pilot",
+      "count": 1,
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "articles": ["payments-lloyds-visa-usdc"]
+    },
+    {
+      "keyword": "hsbc-redcoin-hkd-stablecoin",
+      "count": 1,
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "articles": ["payments-hsbc-redcoin"]
+    },
+    {
+      "keyword": "finastra-ai-payment-repair",
+      "count": 1,
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "articles": ["payments-finastra-ai"]
+    },
+    {
+      "keyword": "sbi-mesh-moneyforward-stablecoin",
+      "count": 1,
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "articles": ["payments-sbi-mesh-stablecoin"]
+    },
+    {
+      "keyword": "revolut-mexico-banking-launch",
+      "count": 1,
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "articles": ["digital-banking-revolut-mexico"]
+    },
+    {
+      "keyword": "revolut-colombia-banking-license",
+      "count": 1,
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "articles": ["digital-banking-revolut-colombia"]
+    },
+    {
+      "keyword": "klarna-q3-2026-results",
+      "count": 1,
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "articles": ["lending-klarna-q3"]
+    },
+    {
+      "keyword": "india-upi-mdr-oct2026",
+      "count": 3,
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-06",
+      "articles": ["regulation-india-upi-mdr", "regulation-india-upi-mdr-court", "digital-banking-india-upi-fee"]
+    },
+    {
+      "keyword": "esma-mica-winddown-guidance",
+      "count": 1,
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "articles": ["regulation-esma-mica"]
+    },
+    {
+      "keyword": "jeeves-stablecoin-banking-110m",
+      "count": 1,
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "articles": ["investment-jeeves-110m"]
+    },
+    {
+      "keyword": "finda-cpo-appointment",
+      "count": 1,
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "articles": ["investment-finda-cpo"]
     },
     {
       "keyword": "sibos-2026-banking-ai",
       "count": 5,
       "first_seen": "2026-09-26",
       "last_seen": "2026-10-02",
-      "articles": [
-        "payments-sibos-2026-banking",
-        "payments-sibos-2026-frankfurt-opens",
-        "payments-sibos-preview",
-        "payments-sibos-2026-final",
-        "payments-sibos-agentic"
-      ]
-    },
-    {
-      "keyword": "bny-crossborder-digital-wallets",
-      "count": 2,
-      "first_seen": "2026-09-29",
-      "last_seen": "2026-10-01",
-      "articles": [
-        "remittance-bny-wallets",
-        "remittance-bny-pay-to-wallet"
-      ]
-    },
-    {
-      "keyword": "nubank-monzo-acquisition-talks",
-      "count": 2,
-      "first_seen": "2026-09-29",
-      "last_seen": "2026-10-01",
-      "articles": [
-        "investment-nubank-monzo",
-        "digital-banking-nu-holdings-denies-monzo"
-      ]
-    },
-    {
-      "keyword": "fintech-vc-forecast-2026",
-      "count": 57,
-      "first_seen": "2026-07-05",
-      "last_seen": "2026-10-01",
-      "articles": [
-        "investment-fintech-crunchbase",
-        "investment-vc-trends-2026-2026-07-14",
-        "investment-vc-trends-2026",
-        "investment-h1-2026-funding-surge",
-        "investment-h1-2026-funding-surge-2026-07-17",
-        "investment-h1-fintech-funding-2026-07-19",
-        "investment-fintech-h1-28bn",
-        "investment-vc-key-trends",
-        "investment-fintech-h1-286bn",
-        "investment-h1-2026-funding-surge",
-        "investment-h1-2026-funding-surge-2026-07-23",
-        "investment-h1-fintech-funding-2026-07-24",
-        "investment-h1-fintech-funding-2026-07-25",
-        "investment-h1-fintech-funding-2026-07-26",
-        "investment-h1-fintech-funding-2026-07-27",
-        "investment-european-fintech-h1-2026-07-28",
-        "investment-h1-2026-fintech-28b-2026-07-29",
-        "investment-h1-fintech-funding-2026-07-30",
-        "investment-h1-fintech-funding-2026-08-06",
-        "h1-fintech-funding-286bn-2026-08-07",
-        "investment-us-q2-fintech-2026-08-08",
-        "investment-h1-2026-funding-2026-08-09",
-        "investment-h1-funding-aug10",
-        "investment-eu-fintech-h1-ai-native-2026-08-12",
-        "investment-eu-h1-ai-native-2026-08-13",
-        "investment-eu-h1-lowest-deals-2026-08-16",
-        "investment-h1-fintech-funding-2026-08-17",
-        "investment-eu-h1-2026-08-18",
-        "investment-vc-h1-2026-08-20",
-        "investment-fintech-vc-h1-2026-08-21",
-        "investment-fintech-vc-h1-2026-08-24",
-        "investment-fintech-funding-h1-2026-08-25",
-        "investment-h1-funding-2026-08-27",
-        "investment-fintech-h1-funding-2026-08-28",
-        "investment-h1-2026-fintech-2026-08-29",
-        "investment-eu-fintech-h1-2026-08-31",
-        "investment-fintech-h1-funding-2026-09-01",
-        "investment-eu-fintech-h1",
-        "investment-global-h1-crunchbase",
-        "investment-global-h1-crunchbase-2026-09-03",
-        "investment-cbinsights-vc-2026-09-04",
-        "investment-fintech-h1-funding",
-        "investment-kpmg-h1-2026-09-06",
-        "investment-h1-funding",
-        "investment-h1-funding-2026-09-08",
-        "investment-fintech-funding-roundup-2026-09-09",
-        "investment-h1-2026-2026-09-10",
-        "investment-kpmg-h1-2026-09-11",
-        "investment-h1-funding-2026-09-12",
-        "investment-h1-funding-2026-09-13",
-        "investment-h1-funding-2026-09-17",
-        "investment-fintech-land-grab-2026-09-19",
-        "investment-fintech-h1-23pct-2026-09-20",
-        "investment-eu-fintech-h1-ai-native-2026-09-21",
-        "investment-fintech-weekly-funding",
-        "investment-tearsheet-capital-flows",
-        "investment-fintech-h1-2026-vc"
-      ]
+      "articles": ["payments-sibos-2026-banking", "payments-sibos-2026-frankfurt-opens", "payments-sibos-preview", "payments-sibos-2026-final", "payments-sibos-agentic"]
     },
     {
       "keyword": "korea-payment-apps-daily",
       "count": 3,
       "first_seen": "2026-09-26",
       "last_seen": "2026-10-05",
-      "articles": [
-        "payments-korea-daily-brief-0926",
-        "payments-korea-daily-record",
-        "payments-korea-payments-record"
-      ]
+      "articles": ["payments-korea-daily-brief-0926", "payments-korea-daily-record", "payments-korea-payments-record"]
     },
     {
       "keyword": "fintechos-profitability-ai",
       "count": 31,
       "first_seen": "2026-08-23",
       "last_seen": "2026-10-03",
-      "articles": [
-        "digital-banking-fintechos-profitability-2026-08-23",
-        "digital-banking-fintechos-profitability-2026-08-24",
-        "digital-banking-fintechos-profitability-2026-08-25",
-        "digital-banking-fintechos-profitability-2026-08-26",
-        "digital-banking-fintechos-2026-08-27",
-        "digital-banking-fintechos-2026-08-28",
-        "digital-banking-fintechos-2026-08-30",
-        "digital-banking-fintechos-2026-08-31",
-        "digital-banking-fintechos-2026-09-01",
-        "digital-banking-fintechos-2026-09-03",
-        "digital-banking-fintechos-2026-09-04",
-        "digital-banking-fintechos",
-        "digital-banking-fintechos-2026-09-06",
-        "digital-banking-fintechos",
-        "digital-banking-fintechos-2026-09-08",
-        "digital-banking-fintechos-profitability-2026-09-09",
-        "digital-banking-fintechos-2026-09-10",
-        "digital-banking-fintechos-2026-09-11",
-        "digital-banking-fintechos-2026-09-12",
-        "digital-banking-fintechos-2026-09-13",
-        "digital-banking-fintechos-profitable-2026-09-14",
-        "digital-banking-fintechos-2026-09-15",
-        "digital-banking-fintechos-2026-09-16",
-        "digital-banking-fintechos-2026-09-17",
-        "digital-banking-fintechos-2026-09-18",
-        "digital-banking-fintechos-2026-09-19",
-        "digital-banking-fintechos-2026-09-21",
-        "digital-banking-fintechos-ai-module-2026-09-22",
-        "digital-banking-fintechos",
-        "digital-banking-fintechos-genai-suite",
-        "digital-banking-fintechos-profitability"
-      ]
+      "articles": ["digital-banking-fintechos-profitability-2026-08-23", "digital-banking-fintechos-profitability-2026-08-24", "digital-banking-fintechos-profitability-2026-08-25", "digital-banking-fintechos-profitability-2026-08-26", "digital-banking-fintechos-2026-08-27", "digital-banking-fintechos-2026-08-28", "digital-banking-fintechos-2026-08-30", "digital-banking-fintechos-2026-08-31", "digital-banking-fintechos-2026-09-01", "digital-banking-fintechos-2026-09-03", "digital-banking-fintechos-2026-09-04", "digital-banking-fintechos", "digital-banking-fintechos-2026-09-06", "digital-banking-fintechos", "digital-banking-fintechos-2026-09-08", "digital-banking-fintechos-profitability-2026-09-09", "digital-banking-fintechos-2026-09-10", "digital-banking-fintechos-2026-09-11", "digital-banking-fintechos-2026-09-12", "digital-banking-fintechos-2026-09-13", "digital-banking-fintechos-profitable-2026-09-14", "digital-banking-fintechos-2026-09-15", "digital-banking-fintechos-2026-09-16", "digital-banking-fintechos-2026-09-17", "digital-banking-fintechos-2026-09-18", "digital-banking-fintechos-2026-09-19", "digital-banking-fintechos-2026-09-21", "digital-banking-fintechos-ai-module-2026-09-22", "digital-banking-fintechos", "digital-banking-fintechos-genai-suite", "digital-banking-fintechos-profitability"]
     }
   ]
 }
