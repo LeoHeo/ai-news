@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-10-10",
+  "updated": "2026-10-11",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -26,26 +26,6 @@
         "2026년 한국 스타트업 자금 조달 207% 급증 — AI 인프라·딥테크 중심 구조 재편",
         "한국 스타트업 3분기 투자 10조 돌파… AI·핀테크 주도",
         "한국 스타트업 3분기 투자 10조 돌파 — 4년 만에 최고, AI·딥테크 주도"
-      ]
-    },
-    "google-gemini-4-argon-launch": {
-      "count": 2,
-      "first_seen": "2026-10-01",
-      "last_seen": "2026-10-03",
-      "status": "normal",
-      "example_titles": [
-        "구글, 차세대 플래그십 'Gemini 4 Argon' 공개 — 코딩·사이버보안 1M 토큰 출력",
-        "구글, Gemini 4 Argon 공개 — 코딩·사이버보안 벤치마크 1위 탈환, 제한 출시"
-      ]
-    },
-    "meta-enterprise-platform-cj-desai": {
-      "count": 2,
-      "first_seen": "2026-10-02",
-      "last_seen": "2026-10-03",
-      "status": "normal",
-      "example_titles": [
-        "Meta, 기업용 AI 플랫폼 출시 — MongoDB CEO CJ Desai 영입해 엔터프라이즈 공략",
-        "Meta, 기업용 AI 플랫폼 출시 — MongoDB CEO CJ Desai 영입해 엔터프라이즈 시장 진출 선언"
       ]
     },
     "openai-fires-safety-staff": {
@@ -102,42 +82,6 @@
         "Artificial Analysis, AI 능력 지수 전면 개편… 인기 벤치마크 대체",
         "Artificial Analysis, AI 모델 종합 성능 지수 'Intelligence Index' 공개",
         "Artificial Analysis, Mistral Large 4 프리뷰에 인텔리전스 지수 38점 부여 — 美·中 외 AI 최강"
-      ]
-    },
-    "anthropic-broadcom-tpu-financing": {
-      "count": 1,
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
-      "status": "normal",
-      "example_titles": [
-        "Broadcom, Anthropic TPU 임대비 조달 위해 최대 420억 달러 대출 약정 — IPO S-1 공시"
-      ]
-    },
-    "doxx-net-a16z-ai-agent": {
-      "count": 1,
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
-      "status": "normal",
-      "example_titles": [
-        "Doxx.net, a16z 주도 3,800만 달러 시리즈 A 유치 — AI 에이전트 전용 프라이빗 P2P 네트워크"
-      ]
-    },
-    "openclaw-agent-supply-chain": {
-      "count": 1,
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
-      "status": "normal",
-      "example_titles": [
-        "OpenClaw, 명령 하나로 AI 에이전트 백도어 심기 가능 — 현행 공급망 보안 탐지 체계 무력화"
-      ]
-    },
-    "california-ag-openai-subpoena": {
-      "count": 1,
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
-      "status": "normal",
-      "example_titles": [
-        "캘리포니아 검찰총장, AI 모델 사이버보안 위험 조사 목적으로 OpenAI에 소환장 발부"
       ]
     },
     "white-house-ai-self-regulation": {
@@ -470,14 +414,15 @@
       ]
     },
     "openai-gpt6-oct-update": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "status": "normal",
       "example_titles": [
         "OpenAI, GPT-6 Sol·Luna 10월 업데이트 — 성능 개선 및 ChatGPT UI 통합 확대",
         "OpenAI, ChatGPT에 '인텔리전트 UI' 출시 — GPT-6 모델과 시각적 인터페이스 통합",
-        "OpenAI GPT-6 Intelligent UI 전체 사용자 출시 — 무료·Go 요금제까지 확대"
+        "OpenAI GPT-6 Intelligent UI 전체 사용자 출시 — 무료·Go 요금제까지 확대",
+        "OpenAI, GPT-6 대화 인터페이스 업데이트 공개"
       ]
     },
     "zai-glm53-fast": {
@@ -499,13 +444,14 @@
       ]
     },
     "anthropic-cyber-verify": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "status": "normal",
       "example_titles": [
         "Anthropic, 사이버 보안 검증 프로그램 확대 — 보안 전문가·국가기관 고급 AI 기능 접근 허용",
-        "Anthropic Cyber Mission — 사이버 보안 전문가·기관에 고급 AI 기능 확대"
+        "Anthropic Cyber Mission — 사이버 보안 전문가·기관에 고급 AI 기능 확대",
+        "Anthropic, 사이버보안 분야 AI 모델 검증 기준 제안"
       ]
     },
     "anthropic-lambda-deal": {
@@ -536,12 +482,13 @@
       ]
     },
     "google-gemini-persistent-agents": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-11",
       "status": "normal",
       "example_titles": [
-        "구글 클라우드, 기업용 장기 실행 Gemini 에이전트 공개 — 전용 Gmail·캘린더·드라이브 부여"
+        "구글 클라우드, 기업용 장기 실행 Gemini 에이전트 공개 — 전용 Gmail·캘린더·드라이브 부여",
+        "Google, Gemini 기반 지속형 멀티-에이전트 협업 기능 출시"
       ]
     },
     "claude-google-workspace": {
@@ -581,12 +528,13 @@
       ]
     },
     "enterprise-ai-agent-trust": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-11",
       "status": "normal",
       "example_titles": [
-        "기업 AI 에이전트 신뢰도 급락 — 프로덕션 변경 자율 허용 기업 75%에서 56%로 감소"
+        "기업 AI 에이전트 신뢰도 급락 — 프로덕션 변경 자율 허용 기업 75%에서 56%로 감소",
+        "기업 AI 에이전트 신뢰 아키텍처 연구: 인간 감독 모델 제안"
       ]
     },
     "uk-dsit-ai-risk-toolkit": {
@@ -626,12 +574,13 @@
       ]
     },
     "instinct-personal-ai-funding": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-10",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "status": "normal",
       "example_titles": [
-        "Instinct, 개인 AI 에이전트로 시리즈 C 10억 달러 조달 — 기업가치 100억 달러"
+        "Instinct, 개인 AI 에이전트로 시리즈 C 10억 달러 조달 — 기업가치 100억 달러",
+        "개인 AI 비서 스타트업 Instinct, 10억 달러 투자 유치"
       ]
     },
     "anthropic-2028-election-ai": {
@@ -677,6 +626,69 @@
       "status": "normal",
       "example_titles": [
         "Gemini Nano Banana 2.1 — 구글, 소형 온디바이스 모델 최신 버전 출시"
+      ]
+    },
+    "anthropic-claude-gov-unintended": {
+      "count": 1,
+      "first_seen": "2026-10-11",
+      "last_seen": "2026-10-11",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, AI의 정부 활동 내 의도치 않은 행동 경고"
+      ]
+    },
+    "openai-gpt56-gov-preview": {
+      "count": 1,
+      "first_seen": "2026-10-11",
+      "last_seen": "2026-10-11",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, 정부기관 대상 GPT-5.6 프리뷰 프로그램 출시"
+      ]
+    },
+    "mistral-ocr-4-enterprise": {
+      "count": 1,
+      "first_seen": "2026-10-11",
+      "last_seen": "2026-10-11",
+      "status": "normal",
+      "example_titles": [
+        "Mistral AI, 기업용 고정밀 OCR 4.0 모델 출시"
+      ]
+    },
+    "openai-dots-devday-agents": {
+      "count": 1,
+      "first_seen": "2026-10-11",
+      "last_seen": "2026-10-11",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI DevDay, AI 에이전트 연결 프레임워크 'Dots' 공개"
+      ]
+    },
+    "meta-sierra-personal-agent-protocol": {
+      "count": 1,
+      "first_seen": "2026-10-11",
+      "last_seen": "2026-10-11",
+      "status": "normal",
+      "example_titles": [
+        "Meta·Sierra AI, 개인 AI 에이전트 표준 프로토콜 공동 발표"
+      ]
+    },
+    "google-ai-gaming-playground": {
+      "count": 1,
+      "first_seen": "2026-10-11",
+      "last_seen": "2026-10-11",
+      "status": "normal",
+      "example_titles": [
+        "Google AI, 게임 개발자를 위한 인터랙티브 AI 플레이그라운드 공개"
+      ]
+    },
+    "kakao-if-kakao26-conference": {
+      "count": 1,
+      "first_seen": "2026-10-11",
+      "last_seen": "2026-10-11",
+      "status": "normal",
+      "example_titles": [
+        "카카오, 'if(kakao)26' 콘퍼런스서 AI 플랫폼 전략 공개"
       ]
     }
   }
