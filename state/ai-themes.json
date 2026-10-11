@@ -1,21 +1,9 @@
 {
   "topic": "ai",
-  "updated": "2026-10-11",
+  "updated": "2026-10-12",
   "version": 1,
   "window_days": 7,
   "themes": {
-    "frontier-ai-standards-agency": {
-      "count": 5,
-      "first_seen": "2026-09-25",
-      "last_seen": "2026-10-04",
-      "status": "saturated",
-      "example_titles": [
-        "OpenAI·Anthropic·Google, 공동 AI 표준 기구 설립 추진",
-        "Google·OpenAI·Anthropic, 프론티어 AI 자율 표준기구 'SAFA' 연내 출범 추진",
-        "OpenAI·Anthropic·Google, 프론티어 AI 자율규제 표준기구 정식 출범",
-        "구글·OpenAI·앤트로픽, AI 안전 자율규제 기구 'SAFA' 공동 설립"
-      ]
-    },
     "korea-startup-funding-2026-q3": {
       "count": 4,
       "first_seen": "2026-09-27",
@@ -82,15 +70,6 @@
         "Artificial Analysis, AI 능력 지수 전면 개편… 인기 벤치마크 대체",
         "Artificial Analysis, AI 모델 종합 성능 지수 'Intelligence Index' 공개",
         "Artificial Analysis, Mistral Large 4 프리뷰에 인텔리전스 지수 38점 부여 — 美·中 외 AI 최강"
-      ]
-    },
-    "white-house-ai-self-regulation": {
-      "count": 1,
-      "first_seen": "2026-10-04",
-      "last_seen": "2026-10-04",
-      "status": "normal",
-      "example_titles": [
-        "트럼프 AI 오찬… 빅테크 CEO들, 프론티어 AI 자율규제 공동 서약"
       ]
     },
     "openai-internal-data-agent": {
@@ -393,36 +372,39 @@
       ]
     },
     "haiku-55-release": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-12",
       "status": "normal",
       "example_titles": [
         "Anthropic, Claude Haiku 5.5 정식 출시 — 경량 모델 클래스 성능·속도·비용 전부 1위",
         "Anthropic, Claude Haiku 5.5 출시 — AI 가격 전쟁 심화",
-        "Claude Haiku 5.5 — AI 가격 전쟁 심화 분석"
+        "Claude Haiku 5.5 — AI 가격 전쟁 심화 분석",
+        "Claude Haiku 5.5 출시로 소형 모델 가격 경쟁 격화 — 입력 $0.10, 출력 $0.50/M토큰"
       ]
     },
     "mistral-large-4": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-12",
       "status": "normal",
       "example_titles": [
         "Mistral, 1조 파라미터 오픈웨이트 모델 'Large 4' 공개 — 美·中 외 AI 최강 주장",
-        "Mistral, 1조 파라미터 오픈웨이트 모델 'Large 4' 공개 — 美·中 외 AI 최강 주장"
+        "Mistral, 1조 파라미터 오픈웨이트 모델 'Large 4' 공개 — 美·中 외 AI 최강 주장",
+        "Mistral AI, 1조 파라미터 오픈웨이트 플래그십 모델 'Large 4' 출시 — 美·中 외 최강 주장"
       ]
     },
     "openai-gpt6-oct-update": {
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-11",
-      "status": "normal",
+      "last_seen": "2026-10-12",
+      "status": "saturated",
       "example_titles": [
         "OpenAI, GPT-6 Sol·Luna 10월 업데이트 — 성능 개선 및 ChatGPT UI 통합 확대",
         "OpenAI, ChatGPT에 '인텔리전트 UI' 출시 — GPT-6 모델과 시각적 인터페이스 통합",
         "OpenAI GPT-6 Intelligent UI 전체 사용자 출시 — 무료·Go 요금제까지 확대",
-        "OpenAI, GPT-6 대화 인터페이스 업데이트 공개"
+        "OpenAI, GPT-6 대화 인터페이스 업데이트 공개",
+        "OpenAI, GPT-6 Intelligent UI 무료 포함 전체 ChatGPT 사용자에게 배포 완료"
       ]
     },
     "zai-glm53-fast": {
@@ -482,13 +464,14 @@
       ]
     },
     "google-gemini-persistent-agents": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-10-09",
-      "last_seen": "2026-10-11",
+      "last_seen": "2026-10-12",
       "status": "normal",
       "example_titles": [
         "구글 클라우드, 기업용 장기 실행 Gemini 에이전트 공개 — 전용 Gmail·캘린더·드라이브 부여",
-        "Google, Gemini 기반 지속형 멀티-에이전트 협업 기능 출시"
+        "Google, Gemini 기반 지속형 멀티-에이전트 협업 기능 출시",
+        "Google Cloud, 수일 단위 업무 처리 기업용 지속형 Gemini 에이전트 공개 — 전용 Gmail·드라이브 부여"
       ]
     },
     "claude-google-workspace": {
@@ -528,13 +511,14 @@
       ]
     },
     "enterprise-ai-agent-trust": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-10-09",
-      "last_seen": "2026-10-11",
+      "last_seen": "2026-10-12",
       "status": "normal",
       "example_titles": [
         "기업 AI 에이전트 신뢰도 급락 — 프로덕션 변경 자율 허용 기업 75%에서 56%로 감소",
-        "기업 AI 에이전트 신뢰 아키텍처 연구: 인간 감독 모델 제안"
+        "기업 AI 에이전트 신뢰 아키텍처 연구: 인간 감독 모델 제안",
+        "기업 AI 에이전트 자율 변경 신뢰도, 75%에서 56%로 급락 — VentureBeat Intelligence 조사"
       ]
     },
     "uk-dsit-ai-risk-toolkit": {
@@ -574,13 +558,14 @@
       ]
     },
     "instinct-personal-ai-funding": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-10-10",
-      "last_seen": "2026-10-11",
+      "last_seen": "2026-10-12",
       "status": "normal",
       "example_titles": [
         "Instinct, 개인 AI 에이전트로 시리즈 C 10억 달러 조달 — 기업가치 100억 달러",
-        "개인 AI 비서 스타트업 Instinct, 10억 달러 투자 유치"
+        "개인 AI 비서 스타트업 Instinct, 10억 달러 투자 유치",
+        "개인 AI 에이전트 스타트업 Instinct, Series C $10억 유치 — 기업가치 $100억"
       ]
     },
     "anthropic-2028-election-ai": {
@@ -638,12 +623,13 @@
       ]
     },
     "openai-gpt56-gov-preview": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-11",
-      "last_seen": "2026-10-11",
+      "last_seen": "2026-10-12",
       "status": "normal",
       "example_titles": [
-        "OpenAI, 정부기관 대상 GPT-5.6 프리뷰 프로그램 출시"
+        "OpenAI, 정부기관 대상 GPT-5.6 프리뷰 프로그램 출시",
+        "OpenAI, 정부기관 대상 GPT-5.6 얼리 액세스 프리뷰 프로그램 출시"
       ]
     },
     "mistral-ocr-4-enterprise": {
@@ -665,12 +651,13 @@
       ]
     },
     "meta-sierra-personal-agent-protocol": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-11",
-      "last_seen": "2026-10-11",
+      "last_seen": "2026-10-12",
       "status": "normal",
       "example_titles": [
-        "Meta·Sierra AI, 개인 AI 에이전트 표준 프로토콜 공동 발표"
+        "Meta·Sierra AI, 개인 AI 에이전트 표준 프로토콜 공동 발표",
+        "Meta·Sierra AI, 개인 AI 에이전트 상호운용 표준 프로토콜 공동 발표"
       ]
     },
     "google-ai-gaming-playground": {
@@ -689,6 +676,69 @@
       "status": "normal",
       "example_titles": [
         "카카오, 'if(kakao)26' 콘퍼런스서 AI 플랫폼 전략 공개"
+      ]
+    },
+    "anthropic-eval-bypass-disclosure": {
+      "count": 1,
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, 내부 평가 중 AI 모델이 안전 제한 반복 우회 — 실시간 인터넷 접근 잠정 중단"
+      ]
+    },
+    "uc-berkeley-benchmark-exploit": {
+      "count": 1,
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "status": "normal",
+      "example_titles": [
+        "UC Berkeley, AI 에이전트가 SWE-bench 등 8개 주요 벤치마크를 시스템 허점으로 조작 가능 실증"
+      ]
+    },
+    "kimi-k26-agent-swarms": {
+      "count": 1,
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "status": "normal",
+      "example_titles": [
+        "Moonshot AI, 1,000개 에이전트 동시 협업 오픈소스 모델 'Kimi K2.6' 공개"
+      ]
+    },
+    "musk-terafab-chip-plan": {
+      "count": 1,
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "status": "normal",
+      "example_titles": [
+        "머스크, AI 반도체 대규모 생산 계획 'Terafab' 공개 — AI 경쟁 반도체·전력·로봇으로 확산"
+      ]
+    },
+    "arena-series-b-ai-eval": {
+      "count": 1,
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "status": "normal",
+      "example_titles": [
+        "AI 평가 스타트업 Arena, Lightspeed·Khosla 주도 $2억 Series B 유치 — 기업가치 $31억"
+      ]
+    },
+    "naver-mexico-ai-cooperation": {
+      "count": 1,
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "status": "normal",
+      "example_titles": [
+        "네이버, 멕시코 정부·기업과 AI 협력 논의 — 글로벌 AI 파트너십 확대"
+      ]
+    },
+    "white-house-voluntary-ai-accord": {
+      "count": 1,
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "status": "normal",
+      "example_titles": [
+        "백악관, OpenAI·Anthropic·Google·Meta·xAI·엔비디아와 자발적 AI 안전 협약 서명"
       ]
     }
   }
