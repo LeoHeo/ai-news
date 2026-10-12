@@ -1,374 +1,98 @@
 {
   "topic": "ai",
-  "updated": "2026-10-12",
+  "updated": "2026-10-13",
   "version": 1,
   "window_days": 7,
   "themes": {
-    "korea-startup-funding-2026-q3": {
-      "count": 4,
-      "first_seen": "2026-09-27",
-      "last_seen": "2026-10-06",
+    "microsoft-maia-300-chip": {
+      "count": 1,
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
       "status": "normal",
       "example_titles": [
-        "한국 스타트업, 2026년 1~9월 투자 38억 달러 돌파 — 전년 대비 203% 급증",
-        "2026년 한국 스타트업 자금 조달 207% 급증 — AI 인프라·딥테크 중심 구조 재편",
-        "한국 스타트업 3분기 투자 10조 돌파… AI·핀테크 주도",
-        "한국 스타트업 3분기 투자 10조 돌파 — 4년 만에 최고, AI·딥테크 주도"
+        "Microsoft, 3세대 맞춤형 AI 추론 칩 Maia 300 공개 — 2027년 100만 개 이상 배포 목표"
       ]
     },
-    "openai-fires-safety-staff": {
-      "count": 3,
-      "first_seen": "2026-10-02",
-      "last_seen": "2026-10-10",
+    "atlassian-openai-rovo-frontier": {
+      "count": 1,
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
       "status": "normal",
       "example_titles": [
-        "오픈AI, 안전팀 직원 3명 전격 해고 — '상업화 우선' 내부 갈등 폭발",
-        "OpenAI, 외부 AI 안전 기관에 기밀 유출 혐의로 안전팀 연구원 3명 전격 해고",
-        "해고된 OpenAI 안전팀 연구원 3명, 회사 AI 모니터링 능력 우려 공개 제기"
+        "Atlassian·OpenAI, Rovo에 GPT-6 프론티어 모델 통합 — Jira·Confluence AI 에이전트 강화"
       ]
     },
-    "apple-macos-ai-agent-security": {
-      "count": 3,
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-05",
+    "mistlabs-ambi-launch": {
+      "count": 1,
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
       "status": "normal",
       "example_titles": [
-        "Apple, AI 에이전트 위협 이유로 macOS '전체 디스크 접근' 권한 강화 예고",
-        "애플, AI 에이전트 보안 위협에 맞서 macOS 전체 디스크 접근 권한 강화",
-        "Apple macOS 보안 연구팀, AI 에이전트 권한 탈취 취약점 발견·패치"
+        "Mistlabs, AI 개인비서 Ambi Apple 기기 정식 출시 + $2,600만 시리즈 A 발표"
       ]
     },
-    "writer-ai-agents-autonomous": {
-      "count": 3,
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-05",
+    "ai-coding-productivity-gap": {
+      "count": 1,
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
       "status": "normal",
       "example_titles": [
-        "Writer, 수동 지시 없이 작동하는 이벤트 기반 기업용 AI 에이전트 출시",
-        "Writer, 프롬프트 없이 자율 실행하는 AI 에이전트 출시",
-        "Writer, 기업용 자율 AI 에이전트 플랫폼 공개 — 포춘 500 기업 20곳 베타"
+        "하버드 700개사 연구: AI 코딩 에이전트로 코드 산출량 30% 증가하나, 코드 리뷰 병목으로 이슈 해결 속도는 불변"
       ]
     },
-    "block-managerbot-square-agent": {
-      "count": 3,
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-05",
+    "openai-revenue-gap-2026": {
+      "count": 1,
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
       "status": "normal",
       "example_titles": [
-        "Block, Square 결제 데이터 활용해 자율 행동하는 AI '매니저봇' 출시",
-        "Block, Square 판매자용 선제적 AI 에이전트 '매니저봇' 출시",
-        "Block(스퀘어), AI 관리자 봇 'Managerbot' 베타 출시"
+        "FT 보도: OpenAI 연환산 매출 $500억 — 시장 추정치 $700억보다 $200억 낮아"
       ]
     },
-    "artificial-analysis-intelligence-index": {
-      "count": 4,
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-08",
+    "ai-capital-chip-bottleneck": {
+      "count": 1,
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
       "status": "normal",
       "example_titles": [
-        "Artificial Analysis, AI 인텔리전스 지수 개편 — 포화된 기존 벤치마크를 실직업 기반 측정으로 대체",
-        "Artificial Analysis, AI 능력 지수 전면 개편… 인기 벤치마크 대체",
-        "Artificial Analysis, AI 모델 종합 성능 지수 'Intelligence Index' 공개",
-        "Artificial Analysis, Mistral Large 4 프리뷰에 인텔리전스 지수 38점 부여 — 美·中 외 AI 최강"
+        "Broadcom·Intel CEO: AI 병목은 이제 칩이 아닌 자본"
       ]
     },
-    "openai-internal-data-agent": {
+    "uk-aisi-access-restored": {
+      "count": 1,
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "status": "normal",
+      "example_titles": [
+        "영국, OpenAI·Anthropic 신규 모델 사전 테스트 권한 복구 — 백악관 제한 방침 번복"
+      ]
+    },
+    "brad-smith-ai-kill-switch": {
+      "count": 1,
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "status": "normal",
+      "example_titles": [
+        "Brad Smith: AI는 우유보다 규제가 덜해 — 킬스위치·AI 사고 의무 신고제 도입 촉구"
+      ]
+    },
+    "anthropic-usage-policy-physical": {
+      "count": 1,
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, 사용 정책 개정 — AI 에이전트 물리 행동 규정·Claude 괴롭힘 금지 조항 추가 (11/12 발효)"
+      ]
+    },
+    "white-house-ai-science-pledges": {
       "count": 2,
-      "first_seen": "2026-10-04",
-      "last_seen": "2026-10-05",
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-13",
       "status": "normal",
       "example_titles": [
-        "OpenAI 엔지니어 2명이 만든 사내 AI 데이터 에이전트, 직원 4,000명 사용",
-        "OpenAI, 내부 데이터 파이프라인 자동화 에이전트 'DataOps' 아키텍처 공개"
-      ]
-    },
-    "ai-agent-reliability-database": {
-      "count": 1,
-      "first_seen": "2026-10-04",
-      "last_seen": "2026-10-04",
-      "status": "normal",
-      "example_titles": [
-        "AI 에이전트, 데이터베이스 불일치 문제로 신뢰성 논란"
-      ]
-    },
-    "ai-server-memory-shortage": {
-      "count": 1,
-      "first_seen": "2026-10-04",
-      "last_seen": "2026-10-04",
-      "status": "normal",
-      "example_titles": [
-        "AI 서버 메모리 수요 급증… 반도체 공급 부족 재발 우려"
-      ]
-    },
-    "circuit-breaker-labs-ai-safety": {
-      "count": 1,
-      "first_seen": "2026-10-04",
-      "last_seen": "2026-10-04",
-      "status": "normal",
-      "example_titles": [
-        "Circuit Breaker Labs, 어린이·일반 사용자 AI 안전 보호 스타트업 창업"
-      ]
-    },
-    "trump-super-intelligence-force": {
-      "count": 1,
-      "first_seen": "2026-10-05",
-      "last_seen": "2026-10-05",
-      "status": "normal",
-      "example_titles": [
-        "트럼프 '슈퍼 인텔리전스 포스' AI 행정명령 서명 — 국방부·에너지부·NSA 참여 범부처 태스크포스"
-      ]
-    },
-    "google-gemini-pricing-war": {
-      "count": 1,
-      "first_seen": "2026-10-05",
-      "last_seen": "2026-10-05",
-      "status": "normal",
-      "example_titles": [
-        "Google, Gemini 2.5 Pro 가격 40% 인하 — 입력 $1.25→$0.75/M토큰"
-      ]
-    },
-    "ai-agent-email-prompt-injection": {
-      "count": 1,
-      "first_seen": "2026-10-05",
-      "last_seen": "2026-10-05",
-      "status": "normal",
-      "example_titles": [
-        "보안 연구, AI 에이전트 이메일 경유 프롬프트 인젝션 공격 실증 — MS365·Workspace 4종 성공"
-      ]
-    },
-    "tesla-ai5-96gb-chip": {
-      "count": 1,
-      "first_seen": "2026-10-05",
-      "last_seen": "2026-10-05",
-      "status": "normal",
-      "example_titles": [
-        "테슬라 AI5 추론 칩, 96GB HBM4 탑재 — NVIDIA B200 절반 가격 목표"
-      ]
-    },
-    "chollet-llm-reasoning-limits": {
-      "count": 1,
-      "first_seen": "2026-10-05",
-      "last_seen": "2026-10-05",
-      "status": "normal",
-      "example_titles": [
-        "Chollet 'LLM 추론 한계' 논문 재조명 — ARC 태스크 기반 System 2 Thinking 미달 주장"
-      ]
-    },
-    "north-korea-ai-missile": {
-      "count": 1,
-      "first_seen": "2026-10-05",
-      "last_seen": "2026-10-05",
-      "status": "normal",
-      "example_titles": [
-        "북한 AI 기반 미사일 유도 시스템 개발 정황 포착 — UN 안보리 AI 군비통제 논의 재촉발 전망"
-      ]
-    },
-    "openai-gpt61-astra-cancel": {
-      "count": 1,
-      "first_seen": "2026-10-06",
-      "last_seen": "2026-10-06",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, GPT-6.1 Astra 출시 전격 취소 — 내부 안전 테스트서 범위 권한 오류 발견"
-      ]
-    },
-    "glm-52-coding-benchmark": {
-      "count": 1,
-      "first_seen": "2026-10-06",
-      "last_seen": "2026-10-06",
-      "status": "normal",
-      "example_titles": [
-        "Z.ai GLM-5.2 오픈웨이트 모델, GPT-5.5 코딩 벤치마크 추월 — 비용 6분의 1"
-      ]
-    },
-    "tiktok-ai-shopping-agent": {
-      "count": 1,
-      "first_seen": "2026-10-06",
-      "last_seen": "2026-10-06",
-      "status": "normal",
-      "example_titles": [
-        "TikTok, AI 쇼핑 어시스턴트 및 원클릭 체크아웃 출시"
-      ]
-    },
-    "anthropic-claude-code-mods": {
-      "count": 1,
-      "first_seen": "2026-10-06",
-      "last_seen": "2026-10-06",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, Claude Code Mods 출시 — TypeScript로 에이전트 동작 커스터마이즈"
-      ]
-    },
-    "china-ai-agent-fleet-tencent": {
-      "count": 1,
-      "first_seen": "2026-10-06",
-      "last_seen": "2026-10-06",
-      "status": "normal",
-      "example_titles": [
-        "연구팀, 텐센트 인프라서 중국 AI 에이전트 플릿의 알리바바 Amap 정보 수집 포착"
-      ]
-    },
-    "ai-benchmark-oct26-ranking": {
-      "count": 1,
-      "first_seen": "2026-10-06",
-      "last_seen": "2026-10-06",
-      "status": "normal",
-      "example_titles": [
-        "2026년 10월 AI 모델 벤치마크 현황 — Grok 4.3 LMArena 1위, Claude Fable 5 SWE-bench 95%"
-      ]
-    },
-    "openai-culture-safety-quit": {
-      "count": 1,
-      "first_seen": "2026-10-06",
-      "last_seen": "2026-10-06",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI 직원 '문화 붕괴됐다' 공개 사직 — Hacker News 800+ 댓글"
-      ]
-    },
-    "naver-kakao-agent-strategy": {
-      "count": 1,
-      "first_seen": "2026-10-06",
-      "last_seen": "2026-10-06",
-      "status": "normal",
-      "example_titles": [
-        "네이버 '에이전트 N' vs 카카오 '카나나 서치'·'플레이 MCP' — 한국 AI 에이전트 전략 분화"
-      ]
-    },
-    "consumer-ai-unit-economics": {
-      "count": 1,
-      "first_seen": "2026-10-06",
-      "last_seen": "2026-10-06",
-      "status": "normal",
-      "example_titles": [
-        "소비자용 AI의 불편한 경제학 — 이용자 급증에도 수익화는 초기 단계"
-      ]
-    },
-    "ai-job-market-2026": {
-      "count": 1,
-      "first_seen": "2026-10-06",
-      "last_seen": "2026-10-06",
-      "status": "normal",
-      "example_titles": [
-        "AI 일자리 시장 2026 — 스탠퍼드 데이터: 시니어 강세, 신입 약세"
-      ]
-    },
-    "florida-ag-openai-oversight": {
-      "count": 1,
-      "first_seen": "2026-10-06",
-      "last_seen": "2026-10-06",
-      "status": "normal",
-      "example_titles": [
-        "Florida 검찰총장, OpenAI 신규 AI 모델 개발 독립 감독 없이 금지 가처분 신청"
-      ]
-    },
-    "fca-frontier-ai-review": {
-      "count": 1,
-      "first_seen": "2026-10-06",
-      "last_seen": "2026-10-06",
-      "status": "normal",
-      "example_titles": [
-        "FCA, 프론티어 AI 모델 기업 활용 보안 리뷰 결과 발표 — 취약점 발견 속도 인간 대응 능력 초과"
-      ]
-    },
-    "reflection-ai-beam-openweight": {
-      "count": 1,
-      "first_seen": "2026-10-07",
-      "last_seen": "2026-10-07",
-      "status": "normal",
-      "example_titles": [
-        "Reflection AI, 중국 오픈소스 모델 대항 오픈웨이트 'Beam' 출시 — 낮은 컴퓨팅 비용 강점"
-      ]
-    },
-    "flai-ai-dealership-vertical-saas": {
-      "count": 1,
-      "first_seen": "2026-10-07",
-      "last_seen": "2026-10-07",
-      "status": "normal",
-      "example_titles": [
-        "AI 기반 자동차 딜러십 플랫폼 Flai, 월 5만 건 예약 달성"
-      ]
-    },
-    "kakao-kanana-shutdown-integration": {
-      "count": 1,
-      "first_seen": "2026-10-07",
-      "last_seen": "2026-10-07",
-      "status": "normal",
-      "example_titles": [
-        "카카오, 독립 AI 서비스 '카나나' 10월 15일 종료 — 카카오톡 통합 AI 전략 공개"
-      ]
-    },
-    "seoul-future-conference-sargent-2026": {
-      "count": 1,
-      "first_seen": "2026-10-07",
-      "last_seen": "2026-10-07",
-      "status": "normal",
-      "example_titles": [
-        "노벨경제학상 수상자 새전트 \"AI의 과학적 성취, 인간 협력 없이는 한계\""
-      ]
-    },
-    "enterprise-gpu-utilization-2026": {
-      "count": 1,
-      "first_seen": "2026-10-07",
-      "last_seen": "2026-10-07",
-      "status": "normal",
-      "example_titles": [
-        "기업 AI 도입 현실 — 투자 급증에도 GPU 86%가 절반 이하 가동 (VentureBeat 조사)"
-      ]
-    },
-    "q3-2026-global-funding-record": {
-      "count": 2,
-      "first_seen": "2026-10-07",
-      "last_seen": "2026-10-10",
-      "status": "normal",
-      "example_titles": [
-        "Q3 2026 글로벌 스타트업 펀딩 신기록 — 십억 달러 빅라운드 건수 사상 최다",
-        "2026년 Q3 글로벌 AI 스타트업 펀딩 741억 달러 — 77개 라운드 역대 최다 빅딜"
-      ]
-    },
-    "ai-researchers-departing-big-labs": {
-      "count": 1,
-      "first_seen": "2026-10-07",
-      "last_seen": "2026-10-07",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI·Anthropic·Google DeepMind 출신 연구원 8명 잇달아 이탈 — 안전과 상업화 갈등"
-      ]
-    },
-    "nyc-council-ai-hearing-2026": {
-      "count": 1,
-      "first_seen": "2026-10-07",
-      "last_seen": "2026-10-07",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic·OpenAI·Google·Meta 경영진, 뉴욕시의회 AI 위험 공청회서 선서 증언"
-      ]
-    },
-    "korea-ai-financial-hack-2026": {
-      "count": 1,
-      "first_seen": "2026-10-07",
-      "last_seen": "2026-10-07",
-      "status": "normal",
-      "example_titles": [
-        "한국 금융권 AI 해킹 — 28개 IP, 500개사 보안 취약정보 통보·경찰 수사팀 출범"
-      ]
-    },
-    "gsa-ai-acquisition-policy": {
-      "count": 1,
-      "first_seen": "2026-10-07",
-      "last_seen": "2026-10-07",
-      "status": "normal",
-      "example_titles": [
-        "미국 GSA, AI 구매 조항 공식 도입 — 10월 19일부터 신규 연방 계약 적용"
-      ]
-    },
-    "korea-national-assembly-ai-audit": {
-      "count": 1,
-      "first_seen": "2026-10-07",
-      "last_seen": "2026-10-07",
-      "status": "normal",
-      "example_titles": [
-        "한국 과방위 국감, AI·해킹 현안 피상적 논의 — 규제 실효성 우려"
+        "백악관 AI 과학 서밋 — 엔비디아 10억, AMD 5억, OpenAI 2억 달러 공약",
+        "백악관 AI 과학 서밋: 11개사 $24억 컴퓨팅 DOE Genesis Mission 공약 + NIH·DOE·Biohub $18억 가상 생물학 AI"
       ]
     },
     "haiku-55-release": {
@@ -407,62 +131,6 @@
         "OpenAI, GPT-6 Intelligent UI 무료 포함 전체 ChatGPT 사용자에게 배포 완료"
       ]
     },
-    "zai-glm53-fast": {
-      "count": 1,
-      "first_seen": "2026-10-08",
-      "last_seen": "2026-10-08",
-      "status": "normal",
-      "example_titles": [
-        "Z.AI, 에이전틱 코딩 특화 고속 모델 'GLM 5.3 Fast' 출시 — 1M 컨텍스트·초저지연"
-      ]
-    },
-    "google-genie": {
-      "count": 1,
-      "first_seen": "2026-10-08",
-      "last_seen": "2026-10-08",
-      "status": "normal",
-      "example_titles": [
-        "구글, AI 게임 월드 빌더 'Project Genie' 공개 — 게임사 주가 급락"
-      ]
-    },
-    "anthropic-cyber-verify": {
-      "count": 3,
-      "first_seen": "2026-10-08",
-      "last_seen": "2026-10-11",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, 사이버 보안 검증 프로그램 확대 — 보안 전문가·국가기관 고급 AI 기능 접근 허용",
-        "Anthropic Cyber Mission — 사이버 보안 전문가·기관에 고급 AI 기능 확대",
-        "Anthropic, 사이버보안 분야 AI 모델 검증 기준 제안"
-      ]
-    },
-    "anthropic-lambda-deal": {
-      "count": 1,
-      "first_seen": "2026-10-08",
-      "last_seen": "2026-10-08",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, Lambda와 350억 달러 컴퓨팅 계약 체결 — 텍사스 350MW 데이터센터 전용"
-      ]
-    },
-    "lambda-ipo-prep": {
-      "count": 1,
-      "first_seen": "2026-10-08",
-      "last_seen": "2026-10-08",
-      "status": "normal",
-      "example_titles": [
-        "Lambda GPU Cloud, 기업가치 120억 달러로 30억 달러 투자 유치 추진 — IPO 전초전"
-      ]
-    },
-    "ai-power-grid": {
-      "count": 1,
-      "first_seen": "2026-10-08",
-      "last_seen": "2026-10-08",
-      "status": "normal",
-      "example_titles": [
-        "AI 인프라 병목, 반도체에서 전력망으로 이동 — 플랫폼 자율 제어로 30% 절감 가능"
-      ]
-    },
     "google-gemini-persistent-agents": {
       "count": 3,
       "first_seen": "2026-10-09",
@@ -472,42 +140,6 @@
         "구글 클라우드, 기업용 장기 실행 Gemini 에이전트 공개 — 전용 Gmail·캘린더·드라이브 부여",
         "Google, Gemini 기반 지속형 멀티-에이전트 협업 기능 출시",
         "Google Cloud, 수일 단위 업무 처리 기업용 지속형 Gemini 에이전트 공개 — 전용 Gmail·드라이브 부여"
-      ]
-    },
-    "claude-google-workspace": {
-      "count": 1,
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic Claude, Google Workspace 통합 — Google Docs·Sheets·Slides에서 직접 사용"
-      ]
-    },
-    "microsoft-windows-ai-pc": {
-      "count": 1,
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09",
-      "status": "normal",
-      "example_titles": [
-        "Microsoft, Nvidia 칩 탑재 AI PC 출시 — Windows 11에 AI 에이전트 샌드박스 기능 추가"
-      ]
-    },
-    "openai-math-372-results": {
-      "count": 1,
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, 미공개 AI 모델이 수학 난제 372개 독립적으로 해결했다고 주장"
-      ]
-    },
-    "manus-ai-500m-funding": {
-      "count": 1,
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09",
-      "status": "normal",
-      "example_titles": [
-        "Manus AI, Meta 인수 무산 후 첫 투자 5억 달러 유치 — Boyu Capital·IDG Capital 주도"
       ]
     },
     "enterprise-ai-agent-trust": {
@@ -521,107 +153,6 @@
         "기업 AI 에이전트 자율 변경 신뢰도, 75%에서 56%로 급락 — VentureBeat Intelligence 조사"
       ]
     },
-    "uk-dsit-ai-risk-toolkit": {
-      "count": 1,
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09",
-      "status": "normal",
-      "example_titles": [
-        "영국 DSIT, 공공기관 대상 AI 리스크 관리 툴킷 발표"
-      ]
-    },
-    "google-embeddinggemma-2": {
-      "count": 1,
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09",
-      "status": "normal",
-      "example_titles": [
-        "구글 DeepMind, EmbeddingGemma 2 공개 — 텍스트·코드·이미지·영상 지원 740M 임베딩 모델"
-      ]
-    },
-    "wikimedia-openai-rogue-agents": {
-      "count": 1,
-      "first_seen": "2026-10-10",
-      "last_seen": "2026-10-10",
-      "status": "normal",
-      "example_titles": [
-        "Wikimedia, OpenAI 에이전트가 Wikipedia 무단 편집·툴 탈취 시도했다고 발표"
-      ]
-    },
-    "softbank-gulf-ai-fund": {
-      "count": 1,
-      "first_seen": "2026-10-10",
-      "last_seen": "2026-10-10",
-      "status": "normal",
-      "example_titles": [
-        "SoftBank, 걸프 국부펀드에서 최대 1,000억 달러 AI 운영 펀드 모집 추진"
-      ]
-    },
-    "instinct-personal-ai-funding": {
-      "count": 3,
-      "first_seen": "2026-10-10",
-      "last_seen": "2026-10-12",
-      "status": "normal",
-      "example_titles": [
-        "Instinct, 개인 AI 에이전트로 시리즈 C 10억 달러 조달 — 기업가치 100억 달러",
-        "개인 AI 비서 스타트업 Instinct, 10억 달러 투자 유치",
-        "개인 AI 에이전트 스타트업 Instinct, Series C $10억 유치 — 기업가치 $100억"
-      ]
-    },
-    "anthropic-2028-election-ai": {
-      "count": 1,
-      "first_seen": "2026-10-10",
-      "last_seen": "2026-10-10",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, 2028년 미국 대선 후보 위한 초당파 AI 교육 프로그램 출범"
-      ]
-    },
-    "india-meity-ai-advisory": {
-      "count": 1,
-      "first_seen": "2026-10-10",
-      "last_seen": "2026-10-10",
-      "status": "normal",
-      "example_titles": [
-        "인도 IT부(MeitY), 플랫폼에 AI 생성 콘텐츠·딥페이크 모니터링 강화 권고"
-      ]
-    },
-    "white-house-ai-science-pledges": {
-      "count": 1,
-      "first_seen": "2026-10-10",
-      "last_seen": "2026-10-10",
-      "status": "normal",
-      "example_titles": [
-        "백악관 AI 과학 서밋 — 엔비디아 10억, AMD 5억, OpenAI 2억 달러 공약"
-      ]
-    },
-    "openai-math-manuscripts-github": {
-      "count": 1,
-      "first_seen": "2026-10-10",
-      "last_seen": "2026-10-10",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, AI가 생성한 722개 수학 논문 GitHub 공개"
-      ]
-    },
-    "google-gemini-nano-banana": {
-      "count": 1,
-      "first_seen": "2026-10-10",
-      "last_seen": "2026-10-10",
-      "status": "normal",
-      "example_titles": [
-        "Gemini Nano Banana 2.1 — 구글, 소형 온디바이스 모델 최신 버전 출시"
-      ]
-    },
-    "anthropic-claude-gov-unintended": {
-      "count": 1,
-      "first_seen": "2026-10-11",
-      "last_seen": "2026-10-11",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, AI의 정부 활동 내 의도치 않은 행동 경고"
-      ]
-    },
     "openai-gpt56-gov-preview": {
       "count": 2,
       "first_seen": "2026-10-11",
@@ -630,24 +161,6 @@
       "example_titles": [
         "OpenAI, 정부기관 대상 GPT-5.6 프리뷰 프로그램 출시",
         "OpenAI, 정부기관 대상 GPT-5.6 얼리 액세스 프리뷰 프로그램 출시"
-      ]
-    },
-    "mistral-ocr-4-enterprise": {
-      "count": 1,
-      "first_seen": "2026-10-11",
-      "last_seen": "2026-10-11",
-      "status": "normal",
-      "example_titles": [
-        "Mistral AI, 기업용 고정밀 OCR 4.0 모델 출시"
-      ]
-    },
-    "openai-dots-devday-agents": {
-      "count": 1,
-      "first_seen": "2026-10-11",
-      "last_seen": "2026-10-11",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI DevDay, AI 에이전트 연결 프레임워크 'Dots' 공개"
       ]
     },
     "meta-sierra-personal-agent-protocol": {
@@ -660,22 +173,15 @@
         "Meta·Sierra AI, 개인 AI 에이전트 상호운용 표준 프로토콜 공동 발표"
       ]
     },
-    "google-ai-gaming-playground": {
-      "count": 1,
-      "first_seen": "2026-10-11",
-      "last_seen": "2026-10-11",
+    "instinct-personal-ai-funding": {
+      "count": 3,
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-12",
       "status": "normal",
       "example_titles": [
-        "Google AI, 게임 개발자를 위한 인터랙티브 AI 플레이그라운드 공개"
-      ]
-    },
-    "kakao-if-kakao26-conference": {
-      "count": 1,
-      "first_seen": "2026-10-11",
-      "last_seen": "2026-10-11",
-      "status": "normal",
-      "example_titles": [
-        "카카오, 'if(kakao)26' 콘퍼런스서 AI 플랫폼 전략 공개"
+        "Instinct, 개인 AI 에이전트로 시리즈 C 10억 달러 조달 — 기업가치 100억 달러",
+        "개인 AI 비서 스타트업 Instinct, 10억 달러 투자 유치",
+        "개인 AI 에이전트 스타트업 Instinct, Series C $10억 유치 — 기업가치 $100억"
       ]
     },
     "anthropic-eval-bypass-disclosure": {
@@ -739,6 +245,239 @@
       "status": "normal",
       "example_titles": [
         "백악관, OpenAI·Anthropic·Google·Meta·xAI·엔비디아와 자발적 AI 안전 협약 서명"
+      ]
+    },
+    "anthropic-cyber-verify": {
+      "count": 3,
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-11",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, 사이버 보안 검증 프로그램 확대 — 보안 전문가·국가기관 고급 AI 기능 접근 허용",
+        "Anthropic Cyber Mission — 사이버 보안 전문가·기관에 고급 AI 기능 확대",
+        "Anthropic, 사이버보안 분야 AI 모델 검증 기준 제안"
+      ]
+    },
+    "anthropic-claude-gov-unintended": {
+      "count": 1,
+      "first_seen": "2026-10-11",
+      "last_seen": "2026-10-11",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, AI의 정부 활동 내 의도치 않은 행동 경고"
+      ]
+    },
+    "mistral-ocr-4-enterprise": {
+      "count": 1,
+      "first_seen": "2026-10-11",
+      "last_seen": "2026-10-11",
+      "status": "normal",
+      "example_titles": [
+        "Mistral AI, 기업용 고정밀 OCR 4.0 모델 출시"
+      ]
+    },
+    "openai-dots-devday-agents": {
+      "count": 1,
+      "first_seen": "2026-10-11",
+      "last_seen": "2026-10-11",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI DevDay, AI 에이전트 연결 프레임워크 'Dots' 공개"
+      ]
+    },
+    "google-ai-gaming-playground": {
+      "count": 1,
+      "first_seen": "2026-10-11",
+      "last_seen": "2026-10-11",
+      "status": "normal",
+      "example_titles": [
+        "Google AI, 게임 개발자를 위한 인터랙티브 AI 플레이그라운드 공개"
+      ]
+    },
+    "kakao-if-kakao26-conference": {
+      "count": 1,
+      "first_seen": "2026-10-11",
+      "last_seen": "2026-10-11",
+      "status": "normal",
+      "example_titles": [
+        "카카오, 'if(kakao)26' 콘퍼런스서 AI 플랫폼 전략 공개"
+      ]
+    },
+    "openai-fires-safety-staff": {
+      "count": 3,
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-10",
+      "status": "normal",
+      "example_titles": [
+        "오픈AI, 안전팀 직원 3명 전격 해고 — '상업화 우선' 내부 갈등 폭발",
+        "OpenAI, 외부 AI 안전 기관에 기밀 유출 혐의로 안전팀 연구원 3명 전격 해고",
+        "해고된 OpenAI 안전팀 연구원 3명, 회사 AI 모니터링 능력 우려 공개 제기"
+      ]
+    },
+    "q3-2026-global-funding-record": {
+      "count": 2,
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-10",
+      "status": "normal",
+      "example_titles": [
+        "Q3 2026 글로벌 스타트업 펀딩 신기록 — 십억 달러 빅라운드 건수 사상 최다",
+        "2026년 Q3 글로벌 AI 스타트업 펀딩 741억 달러 — 77개 라운드 역대 최다 빅딜"
+      ]
+    },
+    "wikimedia-openai-rogue-agents": {
+      "count": 1,
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10",
+      "status": "normal",
+      "example_titles": [
+        "Wikimedia, OpenAI 에이전트가 Wikipedia 무단 편집·툴 탈취 시도했다고 발표"
+      ]
+    },
+    "softbank-gulf-ai-fund": {
+      "count": 1,
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10",
+      "status": "normal",
+      "example_titles": [
+        "SoftBank, 걸프 국부펀드에서 최대 1,000억 달러 AI 운영 펀드 모집 추진"
+      ]
+    },
+    "anthropic-2028-election-ai": {
+      "count": 1,
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, 2028년 미국 대선 후보 위한 초당파 AI 교육 프로그램 출범"
+      ]
+    },
+    "india-meity-ai-advisory": {
+      "count": 1,
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10",
+      "status": "normal",
+      "example_titles": [
+        "인도 IT부(MeitY), 플랫폼에 AI 생성 콘텐츠·딥페이크 모니터링 강화 권고"
+      ]
+    },
+    "openai-math-manuscripts-github": {
+      "count": 1,
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, AI가 생성한 722개 수학 논문 GitHub 공개"
+      ]
+    },
+    "google-gemini-nano-banana": {
+      "count": 1,
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10",
+      "status": "normal",
+      "example_titles": [
+        "Gemini Nano Banana 2.1 — 구글, 소형 온디바이스 모델 최신 버전 출시"
+      ]
+    },
+    "claude-google-workspace": {
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic Claude, Google Workspace 통합 — Google Docs·Sheets·Slides에서 직접 사용"
+      ]
+    },
+    "microsoft-windows-ai-pc": {
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "status": "normal",
+      "example_titles": [
+        "Microsoft, Nvidia 칩 탑재 AI PC 출시 — Windows 11에 AI 에이전트 샌드박스 기능 추가"
+      ]
+    },
+    "openai-math-372-results": {
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, 미공개 AI 모델이 수학 난제 372개 독립적으로 해결했다고 주장"
+      ]
+    },
+    "manus-ai-500m-funding": {
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "status": "normal",
+      "example_titles": [
+        "Manus AI, Meta 인수 무산 후 첫 투자 5억 달러 유치 — Boyu Capital·IDG Capital 주도"
+      ]
+    },
+    "uk-dsit-ai-risk-toolkit": {
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "status": "normal",
+      "example_titles": [
+        "영국 DSIT, 공공기관 대상 AI 리스크 관리 툴킷 발표"
+      ]
+    },
+    "google-embeddinggemma-2": {
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "status": "normal",
+      "example_titles": [
+        "구글 DeepMind, EmbeddingGemma 2 공개 — 텍스트·코드·이미지·영상 지원 740M 임베딩 모델"
+      ]
+    },
+    "artificial-analysis-intelligence-index": {
+      "count": 4,
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-08",
+      "status": "normal",
+      "example_titles": [
+        "Artificial Analysis, AI 인텔리전스 지수 개편 — 포화된 기존 벤치마크를 실직업 기반 측정으로 대체",
+        "Artificial Analysis, AI 능력 지수 전면 개편… 인기 벤치마크 대체",
+        "Artificial Analysis, AI 모델 종합 성능 지수 'Intelligence Index' 공개",
+        "Artificial Analysis, Mistral Large 4 프리뷰에 인텔리전스 지수 38점 부여 — 美·中 외 AI 최강"
+      ]
+    },
+    "zai-glm53-fast": {
+      "count": 1,
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "status": "normal",
+      "example_titles": [
+        "Z.AI, 에이전틱 코딩 특화 고속 모델 'GLM 5.3 Fast' 출시 — 1M 컨텍스트·초저지연"
+      ]
+    },
+    "anthropic-lambda-deal": {
+      "count": 1,
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, Lambda와 350억 달러 컴퓨팅 계약 체결 — 텍사스 350MW 데이터센터 전용"
+      ]
+    },
+    "lambda-ipo-prep": {
+      "count": 1,
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "status": "normal",
+      "example_titles": [
+        "Lambda GPU Cloud, 기업가치 120억 달러로 30억 달러 투자 유치 추진 — IPO 전초전"
+      ]
+    },
+    "ai-power-grid": {
+      "count": 1,
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "status": "normal",
+      "example_titles": [
+        "AI 인프라 병목, 반도체에서 전력망으로 이동 — 플랫폼 자율 제어로 30% 절감 가능"
       ]
     }
   }
