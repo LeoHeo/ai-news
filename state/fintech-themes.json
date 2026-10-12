@@ -1,8 +1,57 @@
 {
   "version": 1,
-  "updated": "2026-10-12",
+  "updated": "2026-10-13",
   "window_days": 7,
   "themes": [
+    {
+      "keyword": "sap-tereina-agentic-payments",
+      "count": 1,
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "articles": ["payments-sap-tereina-agentic"]
+    },
+    {
+      "keyword": "erp-payment-execution-bank-displacement",
+      "count": 1,
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "articles": ["payments-erp-execution-shift"]
+    },
+    {
+      "keyword": "neobank-fraud-cost-surge",
+      "count": 1,
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "articles": ["digital-banking-neobank-fraud"]
+    },
+    {
+      "keyword": "payoneer-occ-bank-charter-stablecoin",
+      "count": 1,
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "articles": ["digital-banking-payoneer-charter"]
+    },
+    {
+      "keyword": "payjoy-finia-latam-credit-data",
+      "count": 1,
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "articles": ["lending-payjoy-finia-mexico"]
+    },
+    {
+      "keyword": "cert-in-fintech-api-cyberattack",
+      "count": 1,
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "articles": ["regulation-cert-in-api-security"]
+    },
+    {
+      "keyword": "banksalad-kosdaq-ipo-2026",
+      "count": 1,
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "articles": ["investment-banksalad-kosdaq"]
+    },
     {
       "keyword": "credit-card-competition-act-2026",
       "count": 1,
@@ -54,17 +103,17 @@
     },
     {
       "keyword": "opay-us-ipo-filing",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-12",
-      "articles": ["investment-opay-ipo"]
+      "last_seen": "2026-10-13",
+      "articles": ["investment-opay-ipo", "investment-opay-ipo"]
     },
     {
       "keyword": "fintech-weekly-deals-oct2026",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-12",
-      "articles": ["investment-weekly-deals"]
+      "last_seen": "2026-10-13",
+      "articles": ["investment-weekly-deals", "investment-fintech-weekly-deals-oct9"]
     },
     {
       "keyword": "mastercard-offline-europe-mandate",
@@ -82,10 +131,10 @@
     },
     {
       "keyword": "korea-bigtech-pg-infra-race",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-10-09",
-      "last_seen": "2026-10-12",
-      "articles": ["payments-korea-bigtech-pg-infra-race", "payments-korea-pg-race"]
+      "last_seen": "2026-10-13",
+      "articles": ["payments-korea-bigtech-pg-infra-race", "payments-korea-pg-race", "payments-toss-facepay-offline"]
     },
     {
       "keyword": "embedded-finance-us-compliance",
@@ -103,10 +152,10 @@
     },
     {
       "keyword": "india-upi-mdr-oct2026",
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
-      "articles": ["regulation-india-upi-mdr", "regulation-india-upi-mdr-court", "digital-banking-india-upi-fee", "regulation-india-upi-mdr-1010", "regulation-india-upi-mdr"]
+      "last_seen": "2026-10-13",
+      "articles": ["regulation-india-upi-mdr", "regulation-india-upi-mdr-court", "digital-banking-india-upi-fee", "regulation-india-upi-mdr-1010", "regulation-india-upi-mdr", "regulation-india-upi-mdr-delay"]
     },
     {
       "keyword": "adyen-flatpay-shift4-partnership",
@@ -215,10 +264,10 @@
     },
     {
       "keyword": "october-2026-fintech-deadlines",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-10",
-      "last_seen": "2026-10-10",
-      "articles": ["regulation-october-deadlines"]
+      "last_seen": "2026-10-13",
+      "articles": ["regulation-october-deadlines", "regulation-october-deadlines"]
     },
     {
       "keyword": "paynetics-novus-acquisition",
@@ -383,10 +432,10 @@
     },
     {
       "keyword": "korea-fx-reform-overseas-payment",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-11",
-      "articles": ["regulation-korea-fx-reform", "remittance-korea-fx-reform"]
+      "last_seen": "2026-10-13",
+      "articles": ["regulation-korea-fx-reform", "remittance-korea-fx-reform", "remittance-korea-fx-reform-oct"]
     },
     {
       "keyword": "noah-stablecoin-rails-seed",
@@ -501,13 +550,6 @@
       "articles": ["regulation-hk-stablecoin-license"]
     },
     {
-      "keyword": "tempo-stripe-paradigm-mainnet",
-      "count": 1,
-      "first_seen": "2026-10-05",
-      "last_seen": "2026-10-05",
-      "articles": ["payments-tempo-stripe-paradigm"]
-    },
-    {
       "keyword": "visa-stablecoin-card-growth",
       "count": 3,
       "first_seen": "2026-10-05",
@@ -516,10 +558,10 @@
     },
     {
       "keyword": "uk-stablecoin-tokenized-payments-framework",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-10-05",
-      "last_seen": "2026-10-11",
-      "articles": ["regulation-uk-stablecoin-framework", "regulation-uk-treasury"]
+      "last_seen": "2026-10-13",
+      "articles": ["regulation-uk-stablecoin-framework", "regulation-uk-treasury", "regulation-uk-stablecoin-framework"]
     },
     {
       "keyword": "grab-atome-bnpl-acquisition",
@@ -527,76 +569,6 @@
       "first_seen": "2026-10-05",
       "last_seen": "2026-10-06",
       "articles": ["investment-grab-atome-bnpl", "investment-grab-atome"]
-    },
-    {
-      "keyword": "fintechs-outacquire-banks-2026",
-      "count": 1,
-      "first_seen": "2026-10-05",
-      "last_seen": "2026-10-05",
-      "articles": ["investment-fintechs-outacquire"]
-    },
-    {
-      "keyword": "redotpay-stablecoin-seriesb",
-      "count": 1,
-      "first_seen": "2026-10-05",
-      "last_seen": "2026-10-05",
-      "articles": ["investment-redotpay-seriesb"]
-    },
-    {
-      "keyword": "b2b-crossborder-infrastructure-shift",
-      "count": 1,
-      "first_seen": "2026-10-05",
-      "last_seen": "2026-10-05",
-      "articles": ["remittance-b2b-crossborder-shift"]
-    },
-    {
-      "keyword": "pagaya-upstart-ai-lending",
-      "count": 1,
-      "first_seen": "2026-10-05",
-      "last_seen": "2026-10-05",
-      "articles": ["lending-pagaya-upstart-ai"]
-    },
-    {
-      "keyword": "fintech-trade-finance-expansion",
-      "count": 1,
-      "first_seen": "2026-10-05",
-      "last_seen": "2026-10-05",
-      "articles": ["payments-fintech-trade-finance"]
-    },
-    {
-      "keyword": "natwest-fintech-innovation-programme",
-      "count": 2,
-      "first_seen": "2026-10-04",
-      "last_seen": "2026-10-05",
-      "articles": ["digital-banking-natwest-fintech-programme", "digital-banking-natwest-fintech"]
-    },
-    {
-      "keyword": "neobank-empire-building-2026",
-      "count": 2,
-      "first_seen": "2026-10-04",
-      "last_seen": "2026-10-05",
-      "articles": ["digital-banking-neobank-empire-building", "digital-banking-empire-era"]
-    },
-    {
-      "keyword": "eu-bnpl-consumer-credit-2026",
-      "count": 3,
-      "first_seen": "2026-10-01",
-      "last_seen": "2026-10-05",
-      "articles": ["lending-bnpl-eu-regulation-2026", "lending-eu-bnpl-consumer-credit", "regulation-eu-bnpl-consumer-credit"]
-    },
-    {
-      "keyword": "pace-act-fed-payment-rails",
-      "count": 2,
-      "first_seen": "2026-10-04",
-      "last_seen": "2026-10-05",
-      "articles": ["regulation-pace-act-fed-rails", "regulation-pace-act-fed-rails-1005"]
-    },
-    {
-      "keyword": "korea-payment-apps-daily",
-      "count": 3,
-      "first_seen": "2026-09-26",
-      "last_seen": "2026-10-05",
-      "articles": ["payments-korea-daily-brief-0926", "payments-korea-daily-record", "payments-korea-payments-record"]
     }
   ]
 }
