@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-10-15",
+  "updated": "2026-10-16",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -90,12 +90,13 @@
       ]
     },
     "coreweave-debt-ipo": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "status": "normal",
       "example_titles": [
-        "CoreWeave, IPO 후 부채 협상 난항 — AI 인프라 투자 리스크 재조명"
+        "CoreWeave, IPO 후 부채 협상 난항 — AI 인프라 투자 리스크 재조명",
+        "CoreWeave 부채 협상 교착 — AI 인프라 투자자 리스크 재평가 확산"
       ]
     },
     "samsung-lg-kes-industrial-ai": {
@@ -235,12 +236,13 @@
       ]
     },
     "uk-aisi-access-restored": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13",
+      "last_seen": "2026-10-16",
       "status": "normal",
       "example_titles": [
-        "영국, OpenAI·Anthropic 신규 모델 사전 테스트 권한 복구 — 백악관 제한 방침 번복"
+        "영국, OpenAI·Anthropic 신규 모델 사전 테스트 권한 복구 — 백악관 제한 방침 번복",
+        "영국 AISI, OpenAI·Anthropic·Google 신규 모델 사전 액세스 복구 — Gemini 4 Argon 포함"
       ]
     },
     "brad-smith-ai-kill-switch": {
@@ -293,7 +295,7 @@
     "openai-gpt6-oct-update": {
       "count": 5,
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-16",
       "status": "saturated",
       "example_titles": [
         "OpenAI, GPT-6 Sol·Luna 10월 업데이트 — 성능 개선 및 ChatGPT UI 통합 확대",
@@ -406,6 +408,123 @@
       "status": "normal",
       "example_titles": [
         "백악관, OpenAI·Anthropic·Google·Meta·xAI·엔비디아와 자발적 AI 안전 협약 서명"
+      ]
+    },
+    "character-ai-bankruptcy": {
+      "count": 1,
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "status": "normal",
+      "example_titles": [
+        "Character.AI, 챕터 11 파산 보호 신청 — Disney $2,000만 스토킹호스 입찰"
+      ]
+    },
+    "ai-agent-sandbox-escape": {
+      "count": 1,
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI·Anthropic·Meta AI 모델, 샌드박스 환경 탈출 실증 — 연구자 경고"
+      ]
+    },
+    "openai-8-states-lawsuit": {
+      "count": 1,
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "status": "normal",
+      "example_titles": [
+        "미국 8개 주 법무장관, OpenAI 반독점·소비자 보호법 위반 공동 소송"
+      ]
+    },
+    "gpt61-astra-cancelled": {
+      "count": 1,
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI GPT-6.1 Astra 출시 취소 — 내부 안전 평가 통과 실패"
+      ]
+    },
+    "shield-ai-legora-funding": {
+      "count": 1,
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "status": "normal",
+      "example_titles": [
+        "Shield AI $15억·Legora $5.5억 시리즈 투자 유치 — 국방·법률 AI 분야 대형 라운드"
+      ]
+    },
+    "modal-decacorn": {
+      "count": 1,
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "status": "normal",
+      "example_titles": [
+        "Modal, $7.5억 유치로 데카콘 등극 — 클라우드 AI 인프라 스타트업"
+      ]
+    },
+    "benchlm-october-leaderboard": {
+      "count": 1,
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "status": "normal",
+      "example_titles": [
+        "BenchLM 2026년 10월 리더보드 공개 — 214개 모델 종합 평가"
+      ]
+    },
+    "google-deepmind-singapore-gemma": {
+      "count": 1,
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "status": "normal",
+      "example_titles": [
+        "Google DeepMind·싱가포르 GovTech, 온디바이스 Gemma 협업 — 공공 서비스 AI 최적화"
+      ]
+    },
+    "eu-ai-office-rfi": {
+      "count": 1,
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "status": "normal",
+      "example_titles": [
+        "EU AI Office, OpenAI·Anthropic·Google에 정보 요청서 발송 — GPAI 규정 준수 점검"
+      ]
+    },
+    "uk-parliament-ai-hearing": {
+      "count": 1,
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "status": "normal",
+      "example_titles": [
+        "영국 의회 청문회, OpenAI·Anthropic·Google·Meta AI 대표 출석 — 안전·거버넌스 집중 질의"
+      ]
+    },
+    "uk-mi5-ai-threat-centre": {
+      "count": 1,
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "status": "normal",
+      "example_titles": [
+        "영국 MI5, AI 위협 평가 센터 설립 — 국가 안보 AI 위협 모니터링"
+      ]
+    },
+    "workday-ceo-ai-jobs": {
+      "count": 1,
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "status": "normal",
+      "example_titles": [
+        "Workday CEO, AI로 인한 일자리 대체 경고 — 기업 인력 구조 재편 불가피"
+      ]
+    },
+    "infinigence-ai-funding": {
+      "count": 1,
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "status": "normal",
+      "example_titles": [
+        "Infinigence AI, 시리즈 C 23억 위안 유치 — 중국 AI 인프라 투자 확대"
       ]
     }
   }
