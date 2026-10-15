@@ -1,8 +1,127 @@
 {
   "version": 1,
-  "updated": "2026-10-14",
+  "updated": "2026-10-15",
   "window_days": 7,
   "themes": [
+    {
+      "keyword": "standard-chartered-stablecoin-2030",
+      "count": 1,
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "articles": ["payments-standard-chartered-stablecoin-2030"]
+    },
+    {
+      "keyword": "etherfi-moonpay-payments",
+      "count": 1,
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "articles": ["payments-etherfi-moonpay"]
+    },
+    {
+      "keyword": "ripple-privy-xrpl-wallets",
+      "count": 1,
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "articles": ["payments-ripple-privy-xrpl"]
+    },
+    {
+      "keyword": "lumepay-kenya-crossborder",
+      "count": 1,
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "articles": ["remittance-lumepay-kenya"]
+    },
+    {
+      "keyword": "bahrain-terrapay-crossborder",
+      "count": 1,
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "articles": ["remittance-bahrain-terrapay"]
+    },
+    {
+      "keyword": "payward-saldo-bank-acquisition",
+      "count": 1,
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "articles": ["digital-banking-payward-saldo"]
+    },
+    {
+      "keyword": "upgrade-nevada-ilc-charter",
+      "count": 1,
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "articles": ["digital-banking-upgrade-ilc"]
+    },
+    {
+      "keyword": "msufcu-ufcu-merger",
+      "count": 1,
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "articles": ["digital-banking-msufcu-ufcu"]
+    },
+    {
+      "keyword": "revolut-germany-mobile-plan",
+      "count": 1,
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "articles": ["digital-banking-revolut-germany"]
+    },
+    {
+      "keyword": "occ-banks-debanking-inquiry",
+      "count": 1,
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "articles": ["regulation-occ-debanking"]
+    },
+    {
+      "keyword": "doj-euro-exchange-inquiry",
+      "count": 1,
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "articles": ["regulation-doj-euro-exchange"]
+    },
+    {
+      "keyword": "qivalis-emt-stablecoin",
+      "count": 1,
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "articles": ["regulation-qivalis-emt"]
+    },
+    {
+      "keyword": "uk-fintech-fraud-compensation",
+      "count": 1,
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "articles": ["regulation-uk-fraud-compensation"]
+    },
+    {
+      "keyword": "airtel-money-lse-ipo",
+      "count": 1,
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "articles": ["investment-airtel-money-ipo"]
+    },
+    {
+      "keyword": "sprints-vc-fund-revolut",
+      "count": 1,
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "articles": ["investment-sprints-vc-fund"]
+    },
+    {
+      "keyword": "embedded-finance-us-compliance",
+      "count": 3,
+      "first_seen": "2026-10-05",
+      "last_seen": "2026-10-15",
+      "articles": ["lending-embedded-finance-us-reg", "regulation-embedded-finance", "lending-embedded-finance-us-regs"]
+    },
+    {
+      "keyword": "india-upi-mdr-oct2026",
+      "count": 8,
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-15",
+      "articles": ["regulation-india-upi-mdr", "regulation-india-upi-mdr-court", "digital-banking-india-upi-fee", "regulation-india-upi-mdr-1010", "regulation-india-upi-mdr", "regulation-india-upi-mdr-delay", "regulation-india-upi-mdr-1014", "regulation-india-upi-mdr-1015"]
+    },
     {
       "keyword": "gate-visa-stablecoin-card-global",
       "count": 1,
@@ -79,13 +198,6 @@
       "first_seen": "2026-10-12",
       "last_seen": "2026-10-14",
       "articles": ["investment-opay-ipo", "investment-opay-ipo", "lending-opay-ipo-1014"]
-    },
-    {
-      "keyword": "india-upi-mdr-oct2026",
-      "count": 7,
-      "first_seen": "2026-10-02",
-      "last_seen": "2026-10-14",
-      "articles": ["regulation-india-upi-mdr", "regulation-india-upi-mdr-court", "digital-banking-india-upi-fee", "regulation-india-upi-mdr-1010", "regulation-india-upi-mdr", "regulation-india-upi-mdr-delay", "regulation-india-upi-mdr-1014"]
     },
     {
       "keyword": "korea-fx-reform-overseas-payment",
@@ -226,13 +338,6 @@
       "first_seen": "2026-10-10",
       "last_seen": "2026-10-12",
       "articles": ["regulation-rain-occ-charter", "regulation-icba-occ", "regulation-rain-occ"]
-    },
-    {
-      "keyword": "embedded-finance-us-compliance",
-      "count": 2,
-      "first_seen": "2026-10-05",
-      "last_seen": "2026-10-12",
-      "articles": ["lending-embedded-finance-us-reg", "regulation-embedded-finance"]
     },
     {
       "keyword": "swift-instant-crossborder-banks",
