@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-15",
+  "updated": "2026-10-16",
   "window_days": 7,
   "themes": [
     {
@@ -110,10 +110,10 @@
     },
     {
       "keyword": "embedded-finance-us-compliance",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-10-05",
-      "last_seen": "2026-10-15",
-      "articles": ["lending-embedded-finance-us-reg", "regulation-embedded-finance", "lending-embedded-finance-us-regs"]
+      "last_seen": "2026-10-16",
+      "articles": ["lending-embedded-finance-us-reg", "regulation-embedded-finance", "lending-embedded-finance-us-regs", "regulation-embedded-finance-us"]
     },
     {
       "keyword": "india-upi-mdr-oct2026",
@@ -187,10 +187,10 @@
     },
     {
       "keyword": "korea-bigtech-pg-infra-race",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-10-09",
-      "last_seen": "2026-10-14",
-      "articles": ["payments-korea-bigtech-pg-infra-race", "payments-korea-pg-race", "payments-toss-facepay-offline", "payments-korea-bigtech-pg-infra-race-1014"]
+      "last_seen": "2026-10-16",
+      "articles": ["payments-korea-bigtech-pg-infra-race", "payments-korea-pg-race", "payments-toss-facepay-offline", "payments-korea-bigtech-pg-infra-race-1014", "payments-korea-bigtech-pg"]
     },
     {
       "keyword": "opay-us-ipo-filing",
@@ -457,6 +457,62 @@
       "first_seen": "2026-10-10",
       "last_seen": "2026-10-10",
       "articles": ["lending-vesta-ai-mortgage"]
+    },
+    {
+      "keyword": "mastercard-bvnk-global-money-platform",
+      "count": 1,
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "articles": ["payments-mastercard-bvnk-platform"]
+    },
+    {
+      "keyword": "finix-block-cashapp-payments",
+      "count": 1,
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "articles": ["payments-finix-block-cashapp"]
+    },
+    {
+      "keyword": "nuvei-south-africa-license",
+      "count": 1,
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "articles": ["payments-nuvei-south-africa"]
+    },
+    {
+      "keyword": "unit-swift-global-payouts",
+      "count": 1,
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "articles": ["remittance-unit-swift-190"]
+    },
+    {
+      "keyword": "valon-mortgage-series-d",
+      "count": 1,
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "articles": ["lending-valon-150m-serisd"]
+    },
+    {
+      "keyword": "australia-fintech-rd-cgt-concerns",
+      "count": 1,
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "articles": ["regulation-australia-fintech-rd"]
+    },
+    {
+      "keyword": "archa-b2b-credit-61m",
+      "count": 1,
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "articles": ["investment-archa-61m"]
+    },
+    {
+      "keyword": "capitolis-series-e-120m",
+      "count": 1,
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "articles": ["investment-capitolis-120m"]
     }
   ]
 }
