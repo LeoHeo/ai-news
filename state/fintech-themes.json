@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-16",
+  "updated": "2026-10-17",
   "window_days": 7,
   "themes": [
     {
@@ -513,6 +513,76 @@
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16",
       "articles": ["investment-capitolis-120m"]
+    },
+    {
+      "keyword": "visa-china-pboc-clearing",
+      "count": 1,
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-10-17",
+      "articles": ["payments-visa-china-pboc"]
+    },
+    {
+      "keyword": "jpmorgan-ai-agents-block",
+      "count": 1,
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-10-17",
+      "articles": ["payments-jpmorgan-ai-agents"]
+    },
+    {
+      "keyword": "vivid-wise-sme-crossborder",
+      "count": 1,
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-10-17",
+      "articles": ["payments-vivid-wise-sme"]
+    },
+    {
+      "keyword": "credit-agricole-ikb-germany",
+      "count": 1,
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-10-17",
+      "articles": ["digital-banking-credit-agricole-ikb"]
+    },
+    {
+      "keyword": "acorns-frich-acquisition",
+      "count": 1,
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-10-17",
+      "articles": ["digital-banking-acorns-frich"]
+    },
+    {
+      "keyword": "bofa-fincen-aml-penalty",
+      "count": 1,
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-10-17",
+      "articles": ["regulation-bofa-fincen-aml"]
+    },
+    {
+      "keyword": "pliant-uk-emi-fca",
+      "count": 1,
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-10-17",
+      "articles": ["regulation-pliant-uk-emi"]
+    },
+    {
+      "keyword": "boe-imf-cyber-banking-trust",
+      "count": 1,
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-10-17",
+      "articles": ["regulation-boe-imf-cyber"]
+    },
+    {
+      "keyword": "kenya-fintech-investment-approval",
+      "count": 1,
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-10-17",
+      "articles": ["regulation-kenya-fintech-investment"]
+    },
+    {
+      "keyword": "global-fintech-funding-q3-2026",
+      "count": 1,
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-10-17",
+      "articles": ["investment-global-fintech-q3"]
     }
   ]
 }
