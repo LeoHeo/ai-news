@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-18",
+  "updated": "2026-10-19",
   "window_days": 7,
   "themes": [
     {
@@ -187,10 +187,10 @@
     },
     {
       "keyword": "korea-bigtech-pg-infra-race",
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-10-09",
-      "last_seen": "2026-10-18",
-      "articles": ["payments-korea-bigtech-pg-infra-race", "payments-korea-pg-race", "payments-toss-facepay-offline", "payments-korea-bigtech-pg-infra-race-1014", "payments-korea-bigtech-pg", "payments-korea-bigtech-pg-1018"]
+      "last_seen": "2026-10-19",
+      "articles": ["payments-korea-bigtech-pg-infra-race", "payments-korea-pg-race", "payments-toss-facepay-offline", "payments-korea-bigtech-pg-infra-race-1014", "payments-korea-bigtech-pg", "payments-korea-bigtech-pg-1018", "payments-korea-bigtech-pg-1019"]
     },
     {
       "keyword": "opay-us-ipo-filing",
@@ -320,10 +320,10 @@
     },
     {
       "keyword": "ramp-60b-valuation",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-12",
-      "articles": ["investment-ramp-60b"]
+      "last_seen": "2026-10-19",
+      "articles": ["investment-ramp-60b", "investment-ramp-60b-1019"]
     },
     {
       "keyword": "mastercard-offline-europe-mandate",
@@ -347,116 +347,39 @@
       "articles": ["remittance-swift-instant-crossborder", "remittance-swift-instant-crossborder", "remittance-citi-swift-instant", "remittance-swift-pay-alias"]
     },
     {
-      "keyword": "adyen-flatpay-shift4-partnership",
-      "count": 1,
-      "first_seen": "2026-10-11",
-      "last_seen": "2026-10-11",
-      "articles": ["payments-adyen-flatpay"]
-    },
-    {
-      "keyword": "revolut-us-ipo-occ-charter",
-      "count": 1,
-      "first_seen": "2026-10-11",
-      "last_seen": "2026-10-11",
-      "articles": ["digital-banking-revolut-ipo"]
-    },
-    {
-      "keyword": "stripe-parafin-embedded-lending",
-      "count": 1,
-      "first_seen": "2026-10-11",
-      "last_seen": "2026-10-11",
-      "articles": ["lending-stripe-parafin"]
-    },
-    {
-      "keyword": "homeward-ai-mortgage-450m",
-      "count": 1,
-      "first_seen": "2026-10-11",
-      "last_seen": "2026-10-11",
-      "articles": ["lending-homeward"]
-    },
-    {
-      "keyword": "esma-mica-stablecoin-deadline-jan2027",
-      "count": 1,
-      "first_seen": "2026-10-11",
-      "last_seen": "2026-10-11",
-      "articles": ["regulation-esma-mica"]
-    },
-    {
-      "keyword": "basware-trustpair-ap-fraud",
-      "count": 1,
-      "first_seen": "2026-10-11",
-      "last_seen": "2026-10-11",
-      "articles": ["investment-basware-trustpair"]
-    },
-    {
-      "keyword": "ryft-b2b-payments-europe-20m",
-      "count": 1,
-      "first_seen": "2026-10-11",
-      "last_seen": "2026-10-11",
-      "articles": ["investment-ryft"]
-    },
-    {
-      "keyword": "meanwhile-bitcoin-insurance-37m",
-      "count": 1,
-      "first_seen": "2026-10-11",
-      "last_seen": "2026-10-11",
-      "articles": ["investment-meanwhile"]
-    },
-    {
-      "keyword": "fintech-forward-2026-bahrain",
-      "count": 2,
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-11",
-      "articles": ["payments-fintech-forward-bahrain", "investment-fintech-forward-bahrain"]
-    },
-    {
-      "keyword": "icba-occ-trust-charter-suit",
-      "count": 2,
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-11",
-      "articles": ["regulation-icba-occ-trust-charter-suit", "regulation-icba-occ"]
-    },
-    {
-      "keyword": "anchorage-routable-stablecoin-fiat",
-      "count": 2,
-      "first_seen": "2026-10-07",
-      "last_seen": "2026-10-11",
-      "articles": ["payments-anchorage-routable-acquisition", "investment-anchorage-routable"]
-    },
-    {
-      "keyword": "fed-genius-act-rulemaking",
-      "count": 3,
-      "first_seen": "2026-10-06",
-      "last_seen": "2026-10-11",
-      "articles": ["regulation-fed-genius", "regulation-occ-genius-act", "regulation-fed-genius"]
-    },
-    {
       "keyword": "mastercard-bvnk-global-money-platform",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-18",
-      "articles": ["payments-mastercard-bvnk-platform", "payments-mastercard-bvnk-platform-1018"]
+      "last_seen": "2026-10-19",
+      "articles": ["payments-mastercard-bvnk-platform", "payments-mastercard-bvnk-platform-1018", "payments-mastercard-bvnk-1019"]
+    },
+    {
+      "keyword": "straitsx-visa-stablecoin-card-100",
+      "count": 1,
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "articles": ["payments-straitsx-visa-stablecoin-1019"]
     },
     {
       "keyword": "finix-block-cashapp-payments",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-18",
-      "articles": ["payments-finix-block-cashapp", "payments-finix-block-cashapp-1018"]
+      "last_seen": "2026-10-19",
+      "articles": ["payments-finix-block-cashapp", "payments-finix-block-cashapp-1018", "payments-finix-block-cashapp-1019"]
     },
     {
       "keyword": "nuvei-south-africa-license",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-18",
-      "articles": ["payments-nuvei-south-africa", "payments-nuvei-south-africa-1018"]
+      "last_seen": "2026-10-19",
+      "articles": ["payments-nuvei-south-africa", "payments-nuvei-south-africa-1018", "regulation-nuvei-south-africa-1019"]
     },
     {
       "keyword": "unit-swift-global-payouts",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-18",
-      "articles": ["remittance-unit-swift-190", "remittance-unit-swift-190-1018"]
+      "last_seen": "2026-10-19",
+      "articles": ["remittance-unit-swift-190", "remittance-unit-swift-190-1018", "remittance-unit-swift-190-1019"]
     },
     {
       "keyword": "valon-mortgage-series-d",
@@ -488,10 +411,10 @@
     },
     {
       "keyword": "visa-china-pboc-clearing",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
-      "articles": ["payments-visa-china-pboc"]
+      "last_seen": "2026-10-19",
+      "articles": ["payments-visa-china-pboc", "regulation-visa-china-pboc-1019"]
     },
     {
       "keyword": "jpmorgan-ai-agents-block",
@@ -502,10 +425,10 @@
     },
     {
       "keyword": "vivid-wise-sme-crossborder",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
-      "articles": ["payments-vivid-wise-sme"]
+      "last_seen": "2026-10-19",
+      "articles": ["payments-vivid-wise-sme", "remittance-vivid-wise-sme-1019"]
     },
     {
       "keyword": "credit-agricole-ikb-germany",
@@ -516,10 +439,10 @@
     },
     {
       "keyword": "acorns-frich-acquisition",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
-      "articles": ["digital-banking-acorns-frich"]
+      "last_seen": "2026-10-19",
+      "articles": ["digital-banking-acorns-frich", "digital-banking-acorns-frich-1019"]
     },
     {
       "keyword": "bofa-fincen-aml-penalty",
@@ -558,31 +481,52 @@
     },
     {
       "keyword": "crossriver-ripple-rlusd",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-18",
-      "articles": ["payments-crossriver-ripple-rlusd"]
+      "last_seen": "2026-10-19",
+      "articles": ["payments-crossriver-ripple-rlusd", "payments-crossriver-ripple-rlusd-1019"]
     },
     {
       "keyword": "cfpb-debanking-large-banks",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-18",
-      "articles": ["regulation-cfpb-debanking"]
+      "last_seen": "2026-10-19",
+      "articles": ["regulation-cfpb-debanking", "regulation-cfpb-debanking-1019"]
     },
     {
       "keyword": "ant-intl-uae-licenses",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-18",
-      "articles": ["regulation-ant-intl-uae"]
+      "last_seen": "2026-10-19",
+      "articles": ["regulation-ant-intl-uae", "regulation-ant-intl-uae-1019"]
     },
     {
       "keyword": "10x-tungsten-pay-ledger",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-18",
-      "articles": ["digital-banking-10x-tungsten-pay"]
+      "last_seen": "2026-10-19",
+      "articles": ["digital-banking-10x-tungsten-pay", "digital-banking-10x-tungsten-1019"]
+    },
+    {
+      "keyword": "unicredit-ecb-commerzbank-stake",
+      "count": 1,
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "articles": ["digital-banking-unicredit-ecb-1019"]
+    },
+    {
+      "keyword": "emprise-maximum-ai-core-banking",
+      "count": 1,
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "articles": ["digital-banking-emprise-maximum-1019"]
+    },
+    {
+      "keyword": "korea-bigtech-prepaid-refund",
+      "count": 1,
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "articles": ["regulation-korea-prepaid-refund-1019"]
     }
   ]
 }
