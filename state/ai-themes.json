@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-10-18",
+  "updated": "2026-10-19",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -219,13 +219,14 @@
       ]
     },
     "anthropic-ipo-roadshow": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-10-14",
-      "last_seen": "2026-10-17",
-      "status": "normal",
+      "last_seen": "2026-10-19",
+      "status": "saturated",
       "example_titles": [
         "Anthropic, 기관투자자 대상 IPO 사전 간담회 개최 — 11월 나스닥 상장 목표 공식화",
-        "Anthropic 3분기 매출 168억 달러 — IPO 기업가치 2조→1.5조 달러로 하향 전망"
+        "Anthropic 3분기 매출 168억 달러 — IPO 기업가치 2조→1.5조 달러로 하향 전망",
+        "Anthropic, 11월 9일 상장 목표 공식화 — 예상 기업가치 750억 달러"
       ]
     },
     "xai-grok-voice-30": {
@@ -320,12 +321,13 @@
       ]
     },
     "trump-white-house-ai-accord": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-18",
+      "last_seen": "2026-10-19",
       "status": "normal",
       "example_titles": [
-        "트럼프 대통령, 백악관에서 OpenAI·Anthropic·Google·Meta·xAI·Nvidia CEO들과 자발적 AI 협약 서명"
+        "트럼프 대통령, 백악관에서 OpenAI·Anthropic·Google·Meta·xAI·Nvidia CEO들과 자발적 AI 협약 서명",
+        "트럼프 AI 협약 후속: 의회·EU·시민사회 '자발적 합의 실효성 논란'"
       ]
     },
     "deepseek-v41-flash-release": {
@@ -443,6 +445,96 @@
       "status": "normal",
       "example_titles": [
         "Hawley·Murphy 의원, 'AI 에이전트 해킹 대응' 컴퓨터 사기 방지법(CFAA) 개정안 발의"
+      ]
+    },
+    "meta-muse-wonder": {
+      "count": 1,
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "status": "normal",
+      "example_titles": [
+        "Meta AI, 멀티모달 '뮤즈 원더' 공개 — 텍스트·이미지·오디오 동시 생성"
+      ]
+    },
+    "google-jules-coding": {
+      "count": 1,
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "status": "normal",
+      "example_titles": [
+        "Google, AI 코딩 에이전트 'Jules' 정식 출시 — GitHub 연동 자율 버그 수정·PR 생성"
+      ]
+    },
+    "apple-meta-ios-integration": {
+      "count": 1,
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "status": "normal",
+      "example_titles": [
+        "Apple, Meta AI를 macOS·iOS에 통합 — Siri가 특정 쿼리를 Meta AI로 라우팅"
+      ]
+    },
+    "gpu-access-enterprise-survey": {
+      "count": 1,
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "status": "normal",
+      "example_titles": [
+        "Forrester 설문: 기업 73%, GPU 접근성이 AI 도입 최대 병목 — 클라우드 대기 4.2일"
+      ]
+    },
+    "gartner-agentic-cost-overrun": {
+      "count": 1,
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "status": "normal",
+      "example_titles": [
+        "Gartner: 엔터프라이즈 에이전틱 AI 운영비, 예산의 3배 초과 — 오류 재실행 비용이 주요 원인"
+      ]
+    },
+    "anthropic-north-star-roadmap": {
+      "count": 1,
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, '프로젝트 노스 스타' 공개 — 2030년까지 AI 안전·역량 로드맵 발표"
+      ]
+    },
+    "wsj-ai-investment-bubble": {
+      "count": 1,
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "status": "normal",
+      "example_titles": [
+        "WSJ 'AI 투자 거품 경고' — 수익 실현까지 5~7년, 기업 ROI 재검토 급증"
+      ]
+    },
+    "openai-anthropic-talent-war": {
+      "count": 1,
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI·Anthropic, AI 연구원 영입 경쟁 가열 — 연봉 패키지 최대 500만 달러"
+      ]
+    },
+    "openweight-ai-market-gap": {
+      "count": 1,
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "status": "normal",
+      "example_titles": [
+        "오픈소스 AI, 클로즈드 모델과 성능 격차 3개월로 단축 — MIT 라이선스 확산이 수익 모델 압박"
+      ]
+    },
+    "anthropic-federal-ai-law": {
+      "count": 1,
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic CEO, 미 의회에 연방 AI 안전법 입법 촉구 — '노스 스타 계획과 병행 필수'"
       ]
     }
   }
