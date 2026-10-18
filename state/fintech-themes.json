@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-17",
+  "updated": "2026-10-18",
   "window_days": 7,
   "themes": [
     {
@@ -187,10 +187,10 @@
     },
     {
       "keyword": "korea-bigtech-pg-infra-race",
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-10-09",
-      "last_seen": "2026-10-16",
-      "articles": ["payments-korea-bigtech-pg-infra-race", "payments-korea-pg-race", "payments-toss-facepay-offline", "payments-korea-bigtech-pg-infra-race-1014", "payments-korea-bigtech-pg"]
+      "last_seen": "2026-10-18",
+      "articles": ["payments-korea-bigtech-pg-infra-race", "payments-korea-pg-race", "payments-toss-facepay-offline", "payments-korea-bigtech-pg-infra-race-1014", "payments-korea-bigtech-pg", "payments-korea-bigtech-pg-1018"]
     },
     {
       "keyword": "opay-us-ipo-filing",
@@ -431,60 +431,32 @@
       "articles": ["regulation-fed-genius", "regulation-occ-genius-act", "regulation-fed-genius"]
     },
     {
-      "keyword": "sofi-orbi-mastercard-mexico",
-      "count": 1,
-      "first_seen": "2026-10-10",
-      "last_seen": "2026-10-10",
-      "articles": ["payments-sofi-orbi-mastercard-mexico"]
-    },
-    {
-      "keyword": "nium-redotpay-stablecoin-payout",
-      "count": 1,
-      "first_seen": "2026-10-10",
-      "last_seen": "2026-10-10",
-      "articles": ["remittance-nium-redotpay-stablecoin"]
-    },
-    {
-      "keyword": "revolut-romania-entity-migration",
-      "count": 1,
-      "first_seen": "2026-10-10",
-      "last_seen": "2026-10-10",
-      "articles": ["digital-banking-revolut-romania"]
-    },
-    {
-      "keyword": "vesta-ai-mortgage-seriesb",
-      "count": 1,
-      "first_seen": "2026-10-10",
-      "last_seen": "2026-10-10",
-      "articles": ["lending-vesta-ai-mortgage"]
-    },
-    {
       "keyword": "mastercard-bvnk-global-money-platform",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16",
-      "articles": ["payments-mastercard-bvnk-platform"]
+      "last_seen": "2026-10-18",
+      "articles": ["payments-mastercard-bvnk-platform", "payments-mastercard-bvnk-platform-1018"]
     },
     {
       "keyword": "finix-block-cashapp-payments",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16",
-      "articles": ["payments-finix-block-cashapp"]
+      "last_seen": "2026-10-18",
+      "articles": ["payments-finix-block-cashapp", "payments-finix-block-cashapp-1018"]
     },
     {
       "keyword": "nuvei-south-africa-license",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16",
-      "articles": ["payments-nuvei-south-africa"]
+      "last_seen": "2026-10-18",
+      "articles": ["payments-nuvei-south-africa", "payments-nuvei-south-africa-1018"]
     },
     {
       "keyword": "unit-swift-global-payouts",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16",
-      "articles": ["remittance-unit-swift-190"]
+      "last_seen": "2026-10-18",
+      "articles": ["remittance-unit-swift-190", "remittance-unit-swift-190-1018"]
     },
     {
       "keyword": "valon-mortgage-series-d",
@@ -502,10 +474,10 @@
     },
     {
       "keyword": "archa-b2b-credit-61m",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16",
-      "articles": ["investment-archa-61m"]
+      "last_seen": "2026-10-18",
+      "articles": ["investment-archa-61m", "investment-archa-61m-1018"]
     },
     {
       "keyword": "capitolis-series-e-120m",
@@ -583,6 +555,34 @@
       "first_seen": "2026-10-17",
       "last_seen": "2026-10-17",
       "articles": ["investment-global-fintech-q3"]
+    },
+    {
+      "keyword": "crossriver-ripple-rlusd",
+      "count": 1,
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "articles": ["payments-crossriver-ripple-rlusd"]
+    },
+    {
+      "keyword": "cfpb-debanking-large-banks",
+      "count": 1,
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "articles": ["regulation-cfpb-debanking"]
+    },
+    {
+      "keyword": "ant-intl-uae-licenses",
+      "count": 1,
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "articles": ["regulation-ant-intl-uae"]
+    },
+    {
+      "keyword": "10x-tungsten-pay-ledger",
+      "count": 1,
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "articles": ["digital-banking-10x-tungsten-pay"]
     }
   ]
 }
