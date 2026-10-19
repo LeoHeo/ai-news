@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-19",
+  "updated": "2026-10-20",
   "window_days": 7,
   "themes": [
     {
@@ -277,88 +277,25 @@
       "articles": ["regulation-uk-stablecoin-framework", "regulation-uk-treasury", "regulation-uk-stablecoin-framework"]
     },
     {
-      "keyword": "credit-card-competition-act-2026",
-      "count": 1,
-      "first_seen": "2026-10-12",
-      "last_seen": "2026-10-12",
-      "articles": ["payments-credit-card-competition"]
-    },
-    {
-      "keyword": "stripe-fedex-smb-financing",
-      "count": 1,
-      "first_seen": "2026-10-12",
-      "last_seen": "2026-10-12",
-      "articles": ["payments-stripe-fedex"]
-    },
-    {
-      "keyword": "canada-eu-crossborder-payment",
-      "count": 1,
-      "first_seen": "2026-10-12",
-      "last_seen": "2026-10-12",
-      "articles": ["remittance-canada-eu"]
-    },
-    {
-      "keyword": "fed-bowman-supervision-restructuring",
-      "count": 1,
-      "first_seen": "2026-10-12",
-      "last_seen": "2026-10-12",
-      "articles": ["digital-banking-fed-bowman"]
-    },
-    {
-      "keyword": "uk-digital-gilt-blockchain",
-      "count": 1,
-      "first_seen": "2026-10-12",
-      "last_seen": "2026-10-12",
-      "articles": ["digital-banking-uk-gilt"]
-    },
-    {
-      "keyword": "mica-dollar-stablecoin-impact",
-      "count": 1,
-      "first_seen": "2026-10-12",
-      "last_seen": "2026-10-12",
-      "articles": ["regulation-mica-stablecoin"]
-    },
-    {
       "keyword": "ramp-60b-valuation",
-      "count": 2,
-      "first_seen": "2026-10-12",
-      "last_seen": "2026-10-19",
-      "articles": ["investment-ramp-60b", "investment-ramp-60b-1019"]
-    },
-    {
-      "keyword": "mastercard-offline-europe-mandate",
-      "count": 2,
-      "first_seen": "2026-10-11",
-      "last_seen": "2026-10-12",
-      "articles": ["payments-mastercard-offline", "payments-mastercard-offline"]
-    },
-    {
-      "keyword": "rain-occ-trust-charter",
       "count": 3,
-      "first_seen": "2026-10-10",
-      "last_seen": "2026-10-12",
-      "articles": ["regulation-rain-occ-charter", "regulation-icba-occ", "regulation-rain-occ"]
-    },
-    {
-      "keyword": "swift-instant-crossborder-banks",
-      "count": 4,
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-12",
-      "articles": ["remittance-swift-instant-crossborder", "remittance-swift-instant-crossborder", "remittance-citi-swift-instant", "remittance-swift-pay-alias"]
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-20",
+      "articles": ["investment-ramp-60b", "investment-ramp-60b-1019", "investment-ramp-60b"]
     },
     {
       "keyword": "mastercard-bvnk-global-money-platform",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-19",
-      "articles": ["payments-mastercard-bvnk-platform", "payments-mastercard-bvnk-platform-1018", "payments-mastercard-bvnk-1019"]
+      "last_seen": "2026-10-20",
+      "articles": ["payments-mastercard-bvnk-platform", "payments-mastercard-bvnk-platform-1018", "payments-mastercard-bvnk-1019", "payments-mastercard-bvnk"]
     },
     {
       "keyword": "straitsx-visa-stablecoin-card-100",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-19",
-      "articles": ["payments-straitsx-visa-stablecoin-1019"]
+      "last_seen": "2026-10-20",
+      "articles": ["payments-straitsx-visa-stablecoin-1019", "payments-straitsx-visa"]
     },
     {
       "keyword": "finix-block-cashapp-payments",
@@ -425,10 +362,10 @@
     },
     {
       "keyword": "vivid-wise-sme-crossborder",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-19",
-      "articles": ["payments-vivid-wise-sme", "remittance-vivid-wise-sme-1019"]
+      "last_seen": "2026-10-20",
+      "articles": ["payments-vivid-wise-sme", "remittance-vivid-wise-sme-1019", "remittance-vivid-wise"]
     },
     {
       "keyword": "credit-agricole-ikb-germany",
@@ -481,10 +418,10 @@
     },
     {
       "keyword": "crossriver-ripple-rlusd",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-19",
-      "articles": ["payments-crossriver-ripple-rlusd", "payments-crossriver-ripple-rlusd-1019"]
+      "last_seen": "2026-10-20",
+      "articles": ["payments-crossriver-ripple-rlusd", "payments-crossriver-ripple-rlusd-1019", "payments-crossriver-rlusd"]
     },
     {
       "keyword": "cfpb-debanking-large-banks",
@@ -495,10 +432,10 @@
     },
     {
       "keyword": "ant-intl-uae-licenses",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-19",
-      "articles": ["regulation-ant-intl-uae", "regulation-ant-intl-uae-1019"]
+      "last_seen": "2026-10-20",
+      "articles": ["regulation-ant-intl-uae", "regulation-ant-intl-uae-1019", "regulation-ant-uae"]
     },
     {
       "keyword": "10x-tungsten-pay-ledger",
@@ -509,10 +446,10 @@
     },
     {
       "keyword": "unicredit-ecb-commerzbank-stake",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-19",
-      "articles": ["digital-banking-unicredit-ecb-1019"]
+      "last_seen": "2026-10-20",
+      "articles": ["digital-banking-unicredit-ecb-1019", "digital-banking-unicredit-ecb"]
     },
     {
       "keyword": "emprise-maximum-ai-core-banking",
@@ -523,10 +460,52 @@
     },
     {
       "keyword": "korea-bigtech-prepaid-refund",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-19",
-      "articles": ["regulation-korea-prepaid-refund-1019"]
+      "last_seen": "2026-10-20",
+      "articles": ["regulation-korea-prepaid-refund-1019", "regulation-korea-prepaid"]
+    },
+    {
+      "keyword": "banks-ai-agent-access-block",
+      "count": 1,
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "articles": ["digital-banking-banks-ai-block"]
+    },
+    {
+      "keyword": "deutsche-bank-crypto-custody-germany",
+      "count": 1,
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "articles": ["digital-banking-deutsche-crypto"]
+    },
+    {
+      "keyword": "bny-tokenized-pay-to-wallet",
+      "count": 1,
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "articles": ["digital-banking-bny-tokenized"]
+    },
+    {
+      "keyword": "splitit-bank-instalment-card",
+      "count": 1,
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "articles": ["lending-splitit-instalment"]
+    },
+    {
+      "keyword": "occ-genius-act-stablecoin-final",
+      "count": 1,
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "articles": ["regulation-occ-genius-act"]
+    },
+    {
+      "keyword": "treasury-genius-act-rule-comment",
+      "count": 1,
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "articles": ["regulation-treasury-genius-aml"]
     }
   ]
 }
