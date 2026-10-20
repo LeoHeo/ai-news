@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-10-20",
+  "updated": "2026-10-21",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -332,12 +332,13 @@
       ]
     },
     "deepseek-v41-flash-release": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-18",
+      "last_seen": "2026-10-21",
       "status": "normal",
       "example_titles": [
-        "DeepSeek, 552B MOE 오픈모델 V4.1-Flash-1017 공개 — MIT 라이선스·실시간 웹 검색 탑재"
+        "DeepSeek, 552B MOE 오픈모델 V4.1-Flash-1017 공개 — MIT 라이선스·실시간 웹 검색 탑재",
+        "DeepSeek V4.1-Flash-1017, 벤치마크 개선과 동시에 미 정부 기관 사용 금지 — 기업 대응 전략"
       ]
     },
     "reflection-ai-beam-release": {
@@ -449,12 +450,13 @@
       ]
     },
     "meta-muse-wonder": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-21",
       "status": "normal",
       "example_titles": [
-        "Meta AI, 멀티모달 '뮤즈 원더' 공개 — 텍스트·이미지·오디오 동시 생성"
+        "Meta AI, 멀티모달 '뮤즈 원더' 공개 — 텍스트·이미지·오디오 동시 생성",
+        "Meta Muse, 미국 출시 40일 만에 1,000만 다운로드 — ChatGPT 초기 기록의 2.7배"
       ]
     },
     "google-jules-coding": {
@@ -584,12 +586,13 @@
       ]
     },
     "nscale-anthropic-compute-deal": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "status": "normal",
       "example_titles": [
-        "영국 AI 인프라 기업 Nscale, 앤트로픽과 2년 컴퓨트 공급 계약 체결"
+        "영국 AI 인프라 기업 Nscale, 앤트로픽과 2년 컴퓨트 공급 계약 체결",
+        "Anthropic, MS 철수 영국 Essex 데이터센터를 Nscale과 450억 달러 컴퓨트 계약으로 확보 추진"
       ]
     },
     "scale-ai-genesis-platform": {
@@ -635,6 +638,87 @@
       "status": "normal",
       "example_titles": [
         "미 FTC, AI 광고 타겟팅 규제안 초안 공개…업계 의견 수렴"
+      ]
+    },
+    "google-gemini36-flash-agents": {
+      "count": 1,
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "status": "normal",
+      "example_titles": [
+        "Google Gemini 3.6 Flash, 장기 엔지니어링 작업에서 AI 에이전트 토큰 비용 최대 65% 절감"
+      ]
+    },
+    "deepseek-federal-ban": {
+      "count": 1,
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "status": "normal",
+      "example_titles": [
+        "미 연방 민간 기관 전체, 중국 DeepSeek AI 즉시 제거 명령 — 국가 안보 이유"
+      ]
+    },
+    "meta-muse-downloads": {
+      "count": 1,
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "status": "normal",
+      "example_titles": [
+        "Meta Muse, 미국 출시 40일 만에 1,000만 다운로드 — ChatGPT 초기 기록의 2.7배"
+      ]
+    },
+    "eka-physical-ai-funding": {
+      "count": 1,
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "status": "normal",
+      "example_titles": [
+        "피지컬 AI 스타트업 Eka, 전문가 극찬 속 기업가치 14억 5,000만 달러 달성"
+      ]
+    },
+    "asi-funding-series-c": {
+      "count": 1,
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "status": "normal",
+      "example_titles": [
+        "AI 스타트업 ASI, Spark Capital 주도 3억 2,500만 달러 시리즈 C — 기업가치 30억 달러"
+      ]
+    },
+    "tenstorrent-series-e": {
+      "count": 1,
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "status": "normal",
+      "example_titles": [
+        "AI 칩 스타트업 Tenstorrent, 15억 달러 시리즈 E 유치 — 기업가치 62억 달러"
+      ]
+    },
+    "metis-reasoning-launch": {
+      "count": 1,
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "status": "normal",
+      "example_titles": [
+        "Google DeepMind 前 수석 연구원, 런던서 컴퓨트 효율 AI 스타트업 Metis Reasoning 창업"
+      ]
+    },
+    "spacex-ai-business-growth": {
+      "count": 1,
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "status": "normal",
+      "example_titles": [
+        "SpaceX AI 사업부, 3분기 전체 매출의 52% 차지 — 기대 이상 성장"
+      ]
+    },
+    "huggingface-netflix-documentary": {
+      "count": 1,
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "status": "normal",
+      "example_titles": [
+        "Hugging Face CEO, Netflix 'AI Gone Rogue' 다큐멘터리 부정확 공개 경고"
       ]
     }
   }
