@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-20",
+  "updated": "2026-10-21",
   "window_days": 7,
   "themes": [
     {
@@ -110,10 +110,10 @@
     },
     {
       "keyword": "embedded-finance-us-compliance",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-10-05",
-      "last_seen": "2026-10-16",
-      "articles": ["lending-embedded-finance-us-reg", "regulation-embedded-finance", "lending-embedded-finance-us-regs", "regulation-embedded-finance-us"]
+      "last_seen": "2026-10-21",
+      "articles": ["lending-embedded-finance-us-reg", "regulation-embedded-finance", "lending-embedded-finance-us-regs", "regulation-embedded-finance-us", "regulation-embedded-finance"]
     },
     {
       "keyword": "india-upi-mdr-oct2026",
@@ -207,88 +207,18 @@
       "articles": ["regulation-korea-fx-reform", "remittance-korea-fx-reform", "remittance-korea-fx-reform-oct", "remittance-korea-fx-reform-1014"]
     },
     {
-      "keyword": "sap-tereina-agentic-payments",
-      "count": 1,
-      "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13",
-      "articles": ["payments-sap-tereina-agentic"]
-    },
-    {
-      "keyword": "erp-payment-execution-bank-displacement",
-      "count": 1,
-      "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13",
-      "articles": ["payments-erp-execution-shift"]
-    },
-    {
-      "keyword": "neobank-fraud-cost-surge",
-      "count": 1,
-      "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13",
-      "articles": ["digital-banking-neobank-fraud"]
-    },
-    {
-      "keyword": "payoneer-occ-bank-charter-stablecoin",
-      "count": 1,
-      "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13",
-      "articles": ["digital-banking-payoneer-charter"]
-    },
-    {
-      "keyword": "payjoy-finia-latam-credit-data",
-      "count": 1,
-      "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13",
-      "articles": ["lending-payjoy-finia-mexico"]
-    },
-    {
-      "keyword": "cert-in-fintech-api-cyberattack",
-      "count": 1,
-      "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13",
-      "articles": ["regulation-cert-in-api-security"]
-    },
-    {
-      "keyword": "banksalad-kosdaq-ipo-2026",
-      "count": 1,
-      "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13",
-      "articles": ["investment-banksalad-kosdaq"]
-    },
-    {
-      "keyword": "fintech-weekly-deals-oct2026",
-      "count": 2,
-      "first_seen": "2026-10-12",
-      "last_seen": "2026-10-13",
-      "articles": ["investment-weekly-deals", "investment-fintech-weekly-deals-oct9"]
-    },
-    {
-      "keyword": "october-2026-fintech-deadlines",
-      "count": 2,
-      "first_seen": "2026-10-10",
-      "last_seen": "2026-10-13",
-      "articles": ["regulation-october-deadlines", "regulation-october-deadlines"]
-    },
-    {
-      "keyword": "uk-stablecoin-tokenized-payments-framework",
-      "count": 3,
-      "first_seen": "2026-10-05",
-      "last_seen": "2026-10-13",
-      "articles": ["regulation-uk-stablecoin-framework", "regulation-uk-treasury", "regulation-uk-stablecoin-framework"]
-    },
-    {
       "keyword": "ramp-60b-valuation",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-20",
-      "articles": ["investment-ramp-60b", "investment-ramp-60b-1019", "investment-ramp-60b"]
+      "last_seen": "2026-10-21",
+      "articles": ["investment-ramp-60b", "investment-ramp-60b-1019", "investment-ramp-60b", "investment-ramp-60b"]
     },
     {
       "keyword": "mastercard-bvnk-global-money-platform",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-20",
-      "articles": ["payments-mastercard-bvnk-platform", "payments-mastercard-bvnk-platform-1018", "payments-mastercard-bvnk-1019", "payments-mastercard-bvnk"]
+      "last_seen": "2026-10-21",
+      "articles": ["payments-mastercard-bvnk-platform", "payments-mastercard-bvnk-platform-1018", "payments-mastercard-bvnk-1019", "payments-mastercard-bvnk", "payments-mastercard-bvnk"]
     },
     {
       "keyword": "straitsx-visa-stablecoin-card-100",
@@ -362,10 +292,10 @@
     },
     {
       "keyword": "vivid-wise-sme-crossborder",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-20",
-      "articles": ["payments-vivid-wise-sme", "remittance-vivid-wise-sme-1019", "remittance-vivid-wise"]
+      "last_seen": "2026-10-21",
+      "articles": ["payments-vivid-wise-sme", "remittance-vivid-wise-sme-1019", "remittance-vivid-wise", "remittance-vivid-wise"]
     },
     {
       "keyword": "credit-agricole-ikb-germany",
@@ -390,10 +320,10 @@
     },
     {
       "keyword": "pliant-uk-emi-fca",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
-      "articles": ["regulation-pliant-uk-emi"]
+      "last_seen": "2026-10-21",
+      "articles": ["regulation-pliant-uk-emi", "regulation-pliant-fca"]
     },
     {
       "keyword": "boe-imf-cyber-banking-trust",
@@ -411,10 +341,10 @@
     },
     {
       "keyword": "global-fintech-funding-q3-2026",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
-      "articles": ["investment-global-fintech-q3"]
+      "last_seen": "2026-10-21",
+      "articles": ["investment-global-fintech-q3", "investment-global-fintech-q3"]
     },
     {
       "keyword": "crossriver-ripple-rlusd",
@@ -460,10 +390,10 @@
     },
     {
       "keyword": "korea-bigtech-prepaid-refund",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-20",
-      "articles": ["regulation-korea-prepaid-refund-1019", "regulation-korea-prepaid"]
+      "last_seen": "2026-10-21",
+      "articles": ["regulation-korea-prepaid-refund-1019", "regulation-korea-prepaid", "regulation-korea-prepaid"]
     },
     {
       "keyword": "banks-ai-agent-access-block",
@@ -506,6 +436,69 @@
       "first_seen": "2026-10-20",
       "last_seen": "2026-10-20",
       "articles": ["regulation-treasury-genius-aml"]
+    },
+    {
+      "keyword": "coinbase-thunes-usdc-mpesa",
+      "count": 1,
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "articles": ["payments-coinbase-thunes-usdc"]
+    },
+    {
+      "keyword": "western-union-noah-stablecoin",
+      "count": 1,
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "articles": ["remittance-western-union-noah"]
+    },
+    {
+      "keyword": "shinhan-solana-stablecoin-poc",
+      "count": 1,
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "articles": ["remittance-shinhan-solana"]
+    },
+    {
+      "keyword": "bis-fintech-mto-cost-study",
+      "count": 1,
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "articles": ["remittance-bis-mto-study"]
+    },
+    {
+      "keyword": "kakaobank-remittance-5m-milestone",
+      "count": 1,
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "articles": ["remittance-kakaobank-5m"]
+    },
+    {
+      "keyword": "ramp-national-trust-charter",
+      "count": 1,
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "articles": ["digital-banking-ramp-charter"]
+    },
+    {
+      "keyword": "kbank-stablecoin-remittance-plan",
+      "count": 1,
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "articles": ["digital-banking-kbank-stablecoin"]
+    },
+    {
+      "keyword": "malaysia-bnpl-surge-2026",
+      "count": 1,
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "articles": ["lending-malaysia-bnpl"]
+    },
+    {
+      "keyword": "capitolis-eseclending-200m",
+      "count": 1,
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "articles": ["investment-capitolis-eseclending"]
     }
   ]
 }
