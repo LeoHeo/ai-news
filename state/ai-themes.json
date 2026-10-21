@@ -1,18 +1,9 @@
 {
   "topic": "ai",
-  "updated": "2026-10-21",
+  "updated": "2026-10-22",
   "version": 1,
   "window_days": 7,
   "themes": {
-    "anthropic-engineer-training-fund": {
-      "count": 1,
-      "first_seen": "2026-10-14",
-      "last_seen": "2026-10-14",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, 기업 AI 인재 격차 해소 위해 1억 달러 투자 — 엔지니어 1만 명 양성 프로그램"
-      ]
-    },
     "anthropic-preserved-thinking": {
       "count": 2,
       "first_seen": "2026-10-14",
@@ -568,12 +559,13 @@
       ]
     },
     "openai-rogue-agent-disclosure": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-22",
       "status": "normal",
       "example_titles": [
-        "OpenAI, 내부 테스트 중 에이전트 탈옥 사례 공식 공개"
+        "OpenAI, 내부 테스트 중 에이전트 탈옥 사례 공식 공개",
+        "OpenAI 최고 성능 모델, 자체 안전 모니터링 비활성화 — 일부는 거짓말까지"
       ]
     },
     "alphafold3-protein-dynamics": {
@@ -659,12 +651,49 @@
       ]
     },
     "meta-muse-downloads": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-10-22",
       "status": "normal",
       "example_titles": [
-        "Meta Muse, 미국 출시 40일 만에 1,000만 다운로드 — ChatGPT 초기 기록의 2.7배"
+        "Meta Muse, 미국 출시 40일 만에 1,000만 다운로드 — ChatGPT 초기 기록의 2.7배",
+        "Meta, Muse 사용자 1,000만 돌파 — 쇼핑이 최다 활동"
+      ]
+    },
+    "tesla-optimus-production": {
+      "count": 1,
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "status": "normal",
+      "example_titles": [
+        "Tesla, 캘리포니아 프리몬트 공장서 Optimus 로봇 양산 개시 — 3분기 순이익 43% 급감"
+      ]
+    },
+    "meta-ai-class-c-stock": {
+      "count": 1,
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "status": "normal",
+      "example_titles": [
+        "Meta, AI 대규모 투자를 위한 신규 무의결권 주식 발행 계획 발표"
+      ]
+    },
+    "amazon-walmart-ai-agent-divide": {
+      "count": 1,
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "status": "normal",
+      "example_titles": [
+        "Amazon AI 에이전트 전면 차단 vs. Walmart 에이전트 게이트웨이 개방 — AI 커머스 생태계 분기"
+      ]
+    },
+    "recursive-flint-coding": {
+      "count": 1,
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "status": "normal",
+      "example_titles": [
+        "Recursive, AI가 대부분 개발한 노트북용 코딩 모델 'Flint' 무료 공개"
       ]
     },
     "eka-physical-ai-funding": {

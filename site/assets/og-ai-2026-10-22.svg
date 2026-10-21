@@ -21,19 +21,19 @@
 
   <text x="80" y="330" font-family="system-ui, -apple-system, sans-serif"
         font-size="40" fill="rgba(255,255,255,0.75)">
-    2026-07-23
+    2026-10-22
   </text>
 
   <rect x="80" y="370" width="200" height="48" rx="24"
         fill="rgba(255,255,255,0.1)" stroke="rgba(255,255,255,0.2)" stroke-width="1"/>
   <text x="180" y="401" font-family="system-ui, -apple-system, sans-serif"
         font-size="22" fill="rgba(255,255,255,0.9)" text-anchor="middle">
-    14건의 뉴스
+    6건의 뉴스
   </text>
 
   <text x="80" y="480" font-family="system-ui, -apple-system, sans-serif"
         font-size="22" fill="rgba(255,255,255,0.5)">
-    Models 1건 · Products 3건 · Research 1건 · Industry 5건 · Regulation 4건
+    Models 1 · Products 2 · Industry 2 · Regulation 1
   </text>
 
   <text x="80" y="570" font-family="system-ui, -apple-system, sans-serif"
