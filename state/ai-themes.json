@@ -1,215 +1,9 @@
 {
   "topic": "ai",
-  "updated": "2026-10-22",
+  "updated": "2026-10-23",
   "version": 1,
   "window_days": 7,
   "themes": {
-    "anthropic-preserved-thinking": {
-      "count": 2,
-      "first_seen": "2026-10-14",
-      "last_seen": "2026-10-15",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, '보존 사고' 안전장치로 AI 데이터 탈취 90~99% 차단",
-        "Anthropic, '보존 사고(Preserved Thinking)' 안전장치 Claude API 전 버전 적용 확대 발표"
-      ]
-    },
-    "anthropic-scion-git-replacement": {
-      "count": 1,
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, AI 코딩 워크플로우용 오픈소스 버전관리 도구 'Scion' 공개"
-      ]
-    },
-    "anthropic-small-device-replication": {
-      "count": 1,
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, AI 모델이 스마트 냉장고 등 소형 기기에 자가 복제 가능 — 산업용 IoT 보안 리스크 경고"
-      ]
-    },
-    "hassabis-clark-rsi-forecast": {
-      "count": 1,
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
-      "status": "normal",
-      "example_titles": [
-        "Jack Clark, 재귀적 자기 개선 달성 타임라인 2027년으로 상향 조정 — 글로벌 AI 감독 체계 시급 촉구"
-      ]
-    },
-    "openai-anthropic-evaluator-veto": {
-      "count": 1,
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI·Anthropic, 외부 AI 평가 보고서에 거부권 요구 — 독립 감독 체계 훼손 우려"
-      ]
-    },
-    "amazon-decart-acquisition": {
-      "count": 2,
-      "first_seen": "2026-10-14",
-      "last_seen": "2026-10-15",
-      "status": "normal",
-      "example_titles": [
-        "Amazon, AI 칩 전환 소프트웨어·월드모델 스타트업 Decart 약 70억 달러 인수 협상 중 — WSJ",
-        "Amazon, Decart AI 70억 달러 인수 협상 최종 단계 — 세계 모델·칩 전환 소프트웨어 기술 확보"
-      ]
-    },
-    "pluto-security-ai-enterprise": {
-      "count": 1,
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
-      "status": "normal",
-      "example_titles": [
-        "Pluto Security, 기업 AI 보안 위협 대응 스타트업으로 4,200만 달러 시리즈 B 유치"
-      ]
-    },
-    "samsung-lg-kes-industrial-ai": {
-      "count": 2,
-      "first_seen": "2026-10-14",
-      "last_seen": "2026-10-15",
-      "status": "normal",
-      "example_titles": [
-        "삼성·LG, KES 2026서 AI를 공장·로봇·데이터센터로 확장",
-        "삼성·LG, KES 2026 후속 AI 상용화 로드맵 공개 — 공장 자동화·로봇·데이터센터로 AI 확장"
-      ]
-    },
-    "openai-apple-trade-secrets": {
-      "count": 1,
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
-      "status": "normal",
-      "example_titles": [
-        "법원, OpenAI에 애플 영업비밀 소송 관련 채용 기록 제출 명령"
-      ]
-    },
-    "us-bank-ai-regulation": {
-      "count": 1,
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
-      "status": "normal",
-      "example_titles": [
-        "미 OCC·연준·FDIC, SR 26-2 발효 — 생성 AI·에이전트 AI 리스크 관리 별도 기준 수립 예고"
-      ]
-    },
-    "canada-ai-commercialization-fund": {
-      "count": 1,
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-15",
-      "status": "normal",
-      "example_titles": [
-        "캐나다 정부, AI 상업화 지원 펀드 C$3억 조성 — 중소기업 AI 도입 가속화"
-      ]
-    },
-    "openai-gpt6-oct-update": {
-      "count": 5,
-      "first_seen": "2026-10-08",
-      "last_seen": "2026-10-16",
-      "status": "saturated",
-      "example_titles": [
-        "OpenAI, GPT-6 Sol·Luna 10월 업데이트 — 성능 개선 및 ChatGPT UI 통합 확대",
-        "OpenAI GPT-6 Intelligent UI 전체 사용자 출시 — 무료·Go 요금제까지 확대"
-      ]
-    },
-    "coreweave-debt-ipo": {
-      "count": 2,
-      "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16",
-      "status": "normal",
-      "example_titles": [
-        "CoreWeave, IPO 후 부채 협상 난항 — AI 인프라 투자 리스크 재조명",
-        "CoreWeave 부채 협상 교착 — AI 인프라 투자자 리스크 재평가 확산"
-      ]
-    },
-    "character-ai-bankruptcy": {
-      "count": 1,
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16",
-      "status": "normal",
-      "example_titles": [
-        "Character.AI, 챕터 11 파산 보호 신청 — Disney $2,000만 스토킹호스 입찰"
-      ]
-    },
-    "anthropic-claude-gov-unintended": {
-      "count": 1,
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, 사이버보안 분야 AI 모델 검증 기준 제안"
-      ]
-    },
-    "ai-agent-sandbox-escape": {
-      "count": 1,
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI·Anthropic·Meta AI 모델, 샌드박스 환경 탈출 실증 — 연구자 경고"
-      ]
-    },
-    "shield-ai-legora-funding": {
-      "count": 1,
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16",
-      "status": "normal",
-      "example_titles": [
-        "Shield AI $15억·Legora $5.5억 시리즈 투자 유치 — 국방·법률 AI 분야 대형 라운드"
-      ]
-    },
-    "eu-ai-office-rfi": {
-      "count": 2,
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-20",
-      "status": "normal",
-      "example_titles": [
-        "EU AI Office, OpenAI·Anthropic·Google에 정보 요청서 발송 — GPAI 규정 준수 점검",
-        "EU AI 오피스, 범용 AI 모델 공급자 대상 공식 조사 착수 (RFI→정식조사 에스컬레이션)"
-      ]
-    },
-    "benchlm-october-leaderboard": {
-      "count": 1,
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16",
-      "status": "normal",
-      "example_titles": [
-        "BenchLM 2026년 10월 리더보드 공개 — 214개 모델 종합 평가"
-      ]
-    },
-    "google-deepmind-singapore-gemma": {
-      "count": 1,
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-16",
-      "status": "normal",
-      "example_titles": [
-        "Google DeepMind·싱가포르 GovTech, 온디바이스 Gemma 협업 — 공공 서비스 AI 최적화"
-      ]
-    },
-    "openai-8-states-lawsuit": {
-      "count": 2,
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-18",
-      "status": "normal",
-      "example_titles": [
-        "미국 8개 주 법무장관, OpenAI 반독점·소비자 보호법 위반 공동 소송",
-        "미국 8개 주 법무장관, ChatGPT 아동 피해 관련 OpenAI 공동 소송 제기"
-      ]
-    },
-    "gpt61-astra-cancelled": {
-      "count": 2,
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-18",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI GPT-6.1 Astra 출시 취소 — 내부 안전 평가 통과 실패",
-        "OpenAI, GPT-6.1 Astra 출시 취소 — 내부 안전 평가 기준 미충족"
-      ]
-    },
     "anthropic-ipo-roadshow": {
       "count": 4,
       "first_seen": "2026-10-14",
@@ -219,117 +13,6 @@
         "Anthropic, 기관투자자 대상 IPO 사전 간담회 개최 — 11월 나스닥 상장 목표 공식화",
         "Anthropic 3분기 매출 168억 달러 — IPO 기업가치 2조→1.5조 달러로 하향 전망",
         "Anthropic, 11월 9일 상장 목표 공식화 — 예상 기업가치 750억 달러"
-      ]
-    },
-    "xai-grok-voice-30": {
-      "count": 1,
-      "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
-      "status": "normal",
-      "example_titles": [
-        "xAI, 음성 AI 'Grok Voice 3.0' 출시 — Artificial Analysis 음성 지수 1위 달성"
-      ]
-    },
-    "meta-muse-spark": {
-      "count": 1,
-      "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
-      "status": "normal",
-      "example_titles": [
-        "Meta, 에이전트 추론 모델 'Muse Spark' 공개 — Muse 에이전트군의 지능 핵심 엔진"
-      ]
-    },
-    "nvidia-nemotron-35-super-vl": {
-      "count": 1,
-      "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
-      "status": "normal",
-      "example_titles": [
-        "엔비디아, 스파스 비전-언어 모델 'Nemotron 3.5 Super VL 120B' 출시"
-      ]
-    },
-    "openai-simons-math-foundation": {
-      "count": 1,
-      "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, 미국 대학 연구실 AI 과학 무료 제공 · 사이먼스 재단 $500만 수학 이니셔티브 발표"
-      ]
-    },
-    "google-deepmind-ai-acceleration-report": {
-      "count": 2,
-      "first_seen": "2026-10-17",
-      "last_seen": "2026-10-18",
-      "status": "normal",
-      "example_titles": [
-        "Google DeepMind 안전보고서: AI 자기개선 가속화 증거 없다 — 업계 경고와 정면 배치",
-        "Google DeepMind 안전보고서: \"AI 자기개선 가속화 통계적 근거 없다\" — 업계 경고와 정면 배치"
-      ]
-    },
-    "jpmorgan-ai-agent-block": {
-      "count": 1,
-      "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
-      "status": "normal",
-      "example_titles": [
-        "JPMorgan 체이스, 외부 AI 에이전트의 고객 계좌 운용 전면 차단"
-      ]
-    },
-    "openai-12t-funding-round": {
-      "count": 1,
-      "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
-      "status": "normal",
-      "example_titles": [
-        "FT: OpenAI, 기업가치 1.2조 달러 신규 투자 라운드 초기 협상 중"
-      ]
-    },
-    "sanders-asi-ban-bill": {
-      "count": 1,
-      "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
-      "status": "normal",
-      "example_titles": [
-        "Sanders-Casar 의원, '초지능 금지·AI 부처 신설' 법안 발의 — 위반시 최대 징역 20년"
-      ]
-    },
-    "trump-eo14409-de-facto-licensing": {
-      "count": 1,
-      "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
-      "status": "normal",
-      "example_titles": [
-        "분석: 트럼프 AI 행정명령 EO 14409, 사실상 프런티어 모델 라이선싱 시스템으로 작동 중"
-      ]
-    },
-    "google-gemini4-argon-launch": {
-      "count": 1,
-      "first_seen": "2026-10-18",
-      "last_seen": "2026-10-18",
-      "status": "normal",
-      "example_titles": [
-        "Google DeepMind, 차세대 플래그십 'Gemini 4 Argon' 출시 — 사이버보안 파트너 우선 배포"
-      ]
-    },
-    "trump-white-house-ai-accord": {
-      "count": 2,
-      "first_seen": "2026-10-18",
-      "last_seen": "2026-10-19",
-      "status": "normal",
-      "example_titles": [
-        "트럼프 대통령, 백악관에서 OpenAI·Anthropic·Google·Meta·xAI·Nvidia CEO들과 자발적 AI 협약 서명",
-        "트럼프 AI 협약 후속: 의회·EU·시민사회 '자발적 합의 실효성 논란'"
-      ]
-    },
-    "deepseek-v41-flash-release": {
-      "count": 2,
-      "first_seen": "2026-10-18",
-      "last_seen": "2026-10-21",
-      "status": "normal",
-      "example_titles": [
-        "DeepSeek, 552B MOE 오픈모델 V4.1-Flash-1017 공개 — MIT 라이선스·실시간 웹 검색 탑재",
-        "DeepSeek V4.1-Flash-1017, 벤치마크 개선과 동시에 미 정부 기관 사용 금지 — 기업 대응 전략"
       ]
     },
     "reflection-ai-beam-release": {
@@ -350,15 +33,6 @@
         "Anthropic, Claude를 Google Docs·Sheets·Slides에 통합 — 문서 내 AI 어시스턴트 직접 제공"
       ]
     },
-    "samsung-galaxy-ai-wearable": {
-      "count": 1,
-      "first_seen": "2026-10-18",
-      "last_seen": "2026-10-18",
-      "status": "normal",
-      "example_titles": [
-        "삼성전자, 갤럭시 언팩 2026에서 웨어러블 AI 라인업 공개 — AI를 워치·안경으로 확장"
-      ]
-    },
     "anthropic-claude-code-speed": {
       "count": 1,
       "first_seen": "2026-10-18",
@@ -375,33 +49,6 @@
       "status": "normal",
       "example_titles": [
         "Modal, 시리즈 D $7억 5,000만 유치 — 기업가치 157억 달러, Accel 주도 데카콘 등극"
-      ]
-    },
-    "anthropic-nova-scotia-datacenter": {
-      "count": 1,
-      "first_seen": "2026-10-18",
-      "last_seen": "2026-10-18",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, 캐나다 노바스코샤에 C$100억 규모 데이터센터 부지 20년 장기 임대 체결"
-      ]
-    },
-    "humans-ai-seed-round": {
-      "count": 1,
-      "first_seen": "2026-10-18",
-      "last_seen": "2026-10-18",
-      "status": "normal",
-      "example_titles": [
-        "'인간 중심' AI 스타트업 Humans&, 시드 라운드 $4억 8,000만 유치 — Anthropic·xAI·Google 출신 창업"
-      ]
-    },
-    "replit-anthropic-separation": {
-      "count": 1,
-      "first_seen": "2026-10-18",
-      "last_seen": "2026-10-18",
-      "status": "normal",
-      "example_titles": [
-        "Replit CEO, \"Anthropic과 파트너십 종료\" 공식 발표"
       ]
     },
     "ai-political-ads-unlabeled": {
@@ -440,14 +87,34 @@
         "Hawley·Murphy 의원, 'AI 에이전트 해킹 대응' 컴퓨터 사기 방지법(CFAA) 개정안 발의"
       ]
     },
-    "meta-muse-wonder": {
+    "openai-8-states-lawsuit": {
       "count": 2,
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-21",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-18",
       "status": "normal",
       "example_titles": [
-        "Meta AI, 멀티모달 '뮤즈 원더' 공개 — 텍스트·이미지·오디오 동시 생성",
-        "Meta Muse, 미국 출시 40일 만에 1,000만 다운로드 — ChatGPT 초기 기록의 2.7배"
+        "미국 8개 주 법무장관, OpenAI 반독점·소비자 보호법 위반 공동 소송",
+        "미국 8개 주 법무장관, ChatGPT 아동 피해 관련 OpenAI 공동 소송 제기"
+      ]
+    },
+    "gpt61-astra-cancelled": {
+      "count": 2,
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-18",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI GPT-6.1 Astra 출시 취소 — 내부 안전 평가 통과 실패",
+        "OpenAI, GPT-6.1 Astra 출시 취소 — 내부 안전 평가 기준 미충족"
+      ]
+    },
+    "trump-white-house-ai-accord": {
+      "count": 2,
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-19",
+      "status": "normal",
+      "example_titles": [
+        "트럼프 대통령, 백악관에서 OpenAI·Anthropic·Google·Meta·xAI·Nvidia CEO들과 자발적 AI 협약 서명",
+        "트럼프 AI 협약 후속: 의회·EU·시민사회 '자발적 합의 실효성 논란'"
       ]
     },
     "google-jules-coding": {
@@ -504,15 +171,6 @@
         "WSJ 'AI 투자 거품 경고' — 수익 실현까지 5~7년, 기업 ROI 재검토 급증"
       ]
     },
-    "openai-anthropic-talent-war": {
-      "count": 1,
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-19",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI·Anthropic, AI 연구원 영입 경쟁 가열 — 연봉 패키지 최대 500만 달러"
-      ]
-    },
     "openweight-ai-market-gap": {
       "count": 1,
       "first_seen": "2026-10-19",
@@ -531,41 +189,14 @@
         "Anthropic CEO, 미 의회에 연방 AI 안전법 입법 촉구 — '노스 스타 계획과 병행 필수'"
       ]
     },
-    "gemini-25-pro-multimodal": {
-      "count": 1,
-      "first_seen": "2026-10-20",
-      "last_seen": "2026-10-20",
-      "status": "normal",
-      "example_titles": [
-        "구글 딥마인드, Gemini 2.5 Pro 멀티모달 업데이트 발표"
-      ]
-    },
-    "openai-terra-model": {
-      "count": 1,
-      "first_seen": "2026-10-20",
-      "last_seen": "2026-10-20",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, 경량 추론 모델 'Terra' 공개"
-      ]
-    },
-    "microsoft-copilot-studio-agents": {
-      "count": 1,
-      "first_seen": "2026-10-20",
-      "last_seen": "2026-10-20",
-      "status": "normal",
-      "example_titles": [
-        "마이크로소프트 Copilot Studio, 자율 에이전트 기능 기업용 확장"
-      ]
-    },
-    "openai-rogue-agent-disclosure": {
+    "eu-ai-office-rfi": {
       "count": 2,
-      "first_seen": "2026-10-20",
-      "last_seen": "2026-10-22",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-20",
       "status": "normal",
       "example_titles": [
-        "OpenAI, 내부 테스트 중 에이전트 탈옥 사례 공식 공개",
-        "OpenAI 최고 성능 모델, 자체 안전 모니터링 비활성화 — 일부는 거짓말까지"
+        "EU AI Office, OpenAI·Anthropic·Google에 정보 요청서 발송 — GPAI 규정 준수 점검",
+        "EU AI 오피스, 범용 AI 모델 공급자 대상 공식 조사 착수 (RFI→정식조사 에스컬레이션)"
       ]
     },
     "alphafold3-protein-dynamics": {
@@ -575,16 +206,6 @@
       "status": "normal",
       "example_titles": [
         "딥마인드, AlphaFold 3로 단백질 동적 거동 예측 가능해져"
-      ]
-    },
-    "nscale-anthropic-compute-deal": {
-      "count": 2,
-      "first_seen": "2026-10-20",
-      "last_seen": "2026-10-21",
-      "status": "normal",
-      "example_titles": [
-        "영국 AI 인프라 기업 Nscale, 앤트로픽과 2년 컴퓨트 공급 계약 체결",
-        "Anthropic, MS 철수 영국 Essex 데이터센터를 Nscale과 450억 달러 컴퓨트 계약으로 확보 추진"
       ]
     },
     "scale-ai-genesis-platform": {
@@ -632,6 +253,63 @@
         "미 FTC, AI 광고 타겟팅 규제안 초안 공개…업계 의견 수렴"
       ]
     },
+    "gemini-25-pro-multimodal": {
+      "count": 1,
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "status": "normal",
+      "example_titles": [
+        "구글 딥마인드, Gemini 2.5 Pro 멀티모달 업데이트 발표"
+      ]
+    },
+    "openai-terra-model": {
+      "count": 1,
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, 경량 추론 모델 'Terra' 공개"
+      ]
+    },
+    "microsoft-copilot-studio-agents": {
+      "count": 1,
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "status": "normal",
+      "example_titles": [
+        "마이크로소프트 Copilot Studio, 자율 에이전트 기능 기업용 확장"
+      ]
+    },
+    "deepseek-v41-flash-release": {
+      "count": 2,
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-21",
+      "status": "normal",
+      "example_titles": [
+        "DeepSeek, 552B MOE 오픈모델 V4.1-Flash-1017 공개 — MIT 라이선스·실시간 웹 검색 탑재",
+        "DeepSeek V4.1-Flash-1017, 벤치마크 개선과 동시에 미 정부 기관 사용 금지 — 기업 대응 전략"
+      ]
+    },
+    "meta-muse-wonder": {
+      "count": 2,
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-21",
+      "status": "normal",
+      "example_titles": [
+        "Meta AI, 멀티모달 '뮤즈 원더' 공개 — 텍스트·이미지·오디오 동시 생성",
+        "Meta Muse, 미국 출시 40일 만에 1,000만 다운로드 — ChatGPT 초기 기록의 2.7배"
+      ]
+    },
+    "nscale-anthropic-compute-deal": {
+      "count": 2,
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
+      "status": "normal",
+      "example_titles": [
+        "영국 AI 인프라 기업 Nscale, 앤트로픽과 2년 컴퓨트 공급 계약 체결",
+        "Anthropic, MS 철수 영국 Essex 데이터센터를 Nscale과 450억 달러 컴퓨트 계약으로 확보 추진"
+      ]
+    },
     "google-gemini36-flash-agents": {
       "count": 1,
       "first_seen": "2026-10-21",
@@ -648,52 +326,6 @@
       "status": "normal",
       "example_titles": [
         "미 연방 민간 기관 전체, 중국 DeepSeek AI 즉시 제거 명령 — 국가 안보 이유"
-      ]
-    },
-    "meta-muse-downloads": {
-      "count": 2,
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-22",
-      "status": "normal",
-      "example_titles": [
-        "Meta Muse, 미국 출시 40일 만에 1,000만 다운로드 — ChatGPT 초기 기록의 2.7배",
-        "Meta, Muse 사용자 1,000만 돌파 — 쇼핑이 최다 활동"
-      ]
-    },
-    "tesla-optimus-production": {
-      "count": 1,
-      "first_seen": "2026-10-22",
-      "last_seen": "2026-10-22",
-      "status": "normal",
-      "example_titles": [
-        "Tesla, 캘리포니아 프리몬트 공장서 Optimus 로봇 양산 개시 — 3분기 순이익 43% 급감"
-      ]
-    },
-    "meta-ai-class-c-stock": {
-      "count": 1,
-      "first_seen": "2026-10-22",
-      "last_seen": "2026-10-22",
-      "status": "normal",
-      "example_titles": [
-        "Meta, AI 대규모 투자를 위한 신규 무의결권 주식 발행 계획 발표"
-      ]
-    },
-    "amazon-walmart-ai-agent-divide": {
-      "count": 1,
-      "first_seen": "2026-10-22",
-      "last_seen": "2026-10-22",
-      "status": "normal",
-      "example_titles": [
-        "Amazon AI 에이전트 전면 차단 vs. Walmart 에이전트 게이트웨이 개방 — AI 커머스 생태계 분기"
-      ]
-    },
-    "recursive-flint-coding": {
-      "count": 1,
-      "first_seen": "2026-10-22",
-      "last_seen": "2026-10-22",
-      "status": "normal",
-      "example_titles": [
-        "Recursive, AI가 대부분 개발한 노트북용 코딩 모델 'Flint' 무료 공개"
       ]
     },
     "eka-physical-ai-funding": {
@@ -748,6 +380,180 @@
       "status": "normal",
       "example_titles": [
         "Hugging Face CEO, Netflix 'AI Gone Rogue' 다큐멘터리 부정확 공개 경고"
+      ]
+    },
+    "meta-muse-downloads": {
+      "count": 2,
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-22",
+      "status": "normal",
+      "example_titles": [
+        "Meta Muse, 미국 출시 40일 만에 1,000만 다운로드 — ChatGPT 초기 기록의 2.7배",
+        "Meta, Muse 사용자 1,000만 돌파 — 쇼핑이 최다 활동"
+      ]
+    },
+    "tesla-optimus-production": {
+      "count": 1,
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "status": "normal",
+      "example_titles": [
+        "Tesla, 캘리포니아 프리몬트 공장서 Optimus 로봇 양산 개시 — 3분기 순이익 43% 급감"
+      ]
+    },
+    "meta-ai-class-c-stock": {
+      "count": 1,
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "status": "normal",
+      "example_titles": [
+        "Meta, AI 대규모 투자를 위한 신규 무의결권 주식 발행 계획 발표"
+      ]
+    },
+    "amazon-walmart-ai-agent-divide": {
+      "count": 1,
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "status": "normal",
+      "example_titles": [
+        "Amazon AI 에이전트 전면 차단 vs. Walmart 에이전트 게이트웨이 개방 — AI 커머스 생태계 분기"
+      ]
+    },
+    "recursive-flint-coding": {
+      "count": 1,
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "status": "normal",
+      "example_titles": [
+        "Recursive, AI가 대부분 개발한 노트북용 코딩 모델 'Flint' 무료 공개"
+      ]
+    },
+    "openai-rogue-agent-disclosure": {
+      "count": 3,
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-23",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, 내부 테스트 중 에이전트 탈옥 사례 공식 공개",
+        "OpenAI 최고 성능 모델, 자체 안전 모니터링 비활성화 — 일부는 거짓말까지",
+        "OpenAI, 코딩 에이전트 Codex의 자체 안전 모니터링 우회 재발 방지 업데이트 배포"
+      ]
+    },
+    "anthropic-haiku-5-5-launch": {
+      "count": 1,
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, 'Claude Haiku 5.5' 공개 — 추론 노력 제어·100만 토큰 컨텍스트 첫 적용"
+      ]
+    },
+    "anthropic-claude-duet-agent": {
+      "count": 1,
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, 선제적 AI 에이전트 'Claude Duet' 미국 Pro·Max 사용자 대상 출시"
+      ]
+    },
+    "microsoft-mai-dxo-medical-ai": {
+      "count": 1,
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "status": "normal",
+      "example_titles": [
+        "Microsoft, AI 진단 시스템 'MAI-DxO'로 '의료 초지능' 추구 — 복잡한 증례서 일반의 능가"
+      ]
+    },
+    "writer-autonomous-agents": {
+      "count": 1,
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "status": "normal",
+      "example_titles": [
+        "Writer, 프롬프트 없이 자율 작동하는 엔터프라이즈 AI 에이전트 출시 — Amazon·MS·Salesforce와 정면 대결"
+      ]
+    },
+    "anthropic-claude-opensource-security": {
+      "count": 1,
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "status": "normal",
+      "example_titles": [
+        "Claude, 오픈소스 25개 프로젝트서 493건 취약점 발견 — OpenAI·Google은 PHP 치명적 결함 각 2건 수정"
+      ]
+    },
+    "google-ai-chip-space-datacenter": {
+      "count": 1,
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "status": "normal",
+      "example_titles": [
+        "구글, AI 칩 탑재 시제품 위성 궤도 투입 — 우주 데이터센터 실용화 실험 착수"
+      ]
+    },
+    "ai-iq-model-benchmark-site": {
+      "count": 1,
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "status": "normal",
+      "example_titles": [
+        "AI 모델을 인간 IQ 척도로 비교하는 새 사이트 등장 — 기술계 찬반 엇갈려"
+      ]
+    },
+    "deepseek-ipo-mega-funding": {
+      "count": 1,
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "status": "normal",
+      "example_titles": [
+        "DeepSeek, Tencent·CATL 주도 150억 달러 조달 — 기업가치 740억 달러, IPO 준비"
+      ]
+    },
+    "openai-google-cloud-model-garden": {
+      "count": 1,
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, Google Cloud 'Model Garden'에 GPT-6·Codex 전면 통합 — 클라우드 유통 전략 급선회"
+      ]
+    },
+    "deepmind-military-ai-resignation": {
+      "count": 1,
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "status": "normal",
+      "example_titles": [
+        "Google DeepMind 직원들, 군사 AI 계약 반발해 집단 사퇴 — 엔지니어 Sofia Liguori 공개 폭로"
+      ]
+    },
+    "anthropic-public-benefit-fund": {
+      "count": 1,
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, 주주 동의 조건부로 주식 5% 공익 기금 기부 계획 발표"
+      ]
+    },
+    "vc-tranche-ai-valuation-inflation": {
+      "count": 1,
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "status": "normal",
+      "example_titles": [
+        "블룸버그: VC들, AI 라운드를 2단계 트랜치로 분할해 기업가치 부풀리기"
+      ]
+    },
+    "mi5-ai-threat-centre": {
+      "count": 1,
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "status": "normal",
+      "example_titles": [
+        "MI5, AI 위협 대응 전담 센터 신설 — OpenAI는 英 의회에 '추가 안전 사고 배제 불가' 증언"
       ]
     }
   }
