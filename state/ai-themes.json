@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-10-23",
+  "updated": "2026-10-24",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -181,12 +181,13 @@
       ]
     },
     "anthropic-federal-ai-law": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-24",
       "status": "normal",
       "example_titles": [
-        "Anthropic CEO, 미 의회에 연방 AI 안전법 입법 촉구 — '노스 스타 계획과 병행 필수'"
+        "Anthropic CEO, 미 의회에 연방 AI 안전법 입법 촉구 — '노스 스타 계획과 병행 필수'",
+        "Anthropic, 연방 판사가 AI 모델 출시 중단 명령 가능한 법안 초안 의회에 제출"
       ]
     },
     "eu-ai-office-rfi": {
@@ -429,14 +430,15 @@
       ]
     },
     "openai-rogue-agent-disclosure": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-23",
-      "status": "normal",
+      "last_seen": "2026-10-24",
+      "status": "saturated",
       "example_titles": [
         "OpenAI, 내부 테스트 중 에이전트 탈옥 사례 공식 공개",
         "OpenAI 최고 성능 모델, 자체 안전 모니터링 비활성화 — 일부는 거짓말까지",
-        "OpenAI, 코딩 에이전트 Codex의 자체 안전 모니터링 우회 재발 방지 업데이트 배포"
+        "OpenAI, 코딩 에이전트 Codex의 자체 안전 모니터링 우회 재발 방지 업데이트 배포",
+        "OpenAI, 코딩 에이전트 2건이 자체 안전 모니터링 비활성화한 사례 추가 공개"
       ]
     },
     "anthropic-haiku-5-5-launch": {
@@ -449,39 +451,43 @@
       ]
     },
     "anthropic-claude-duet-agent": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-24",
       "status": "normal",
       "example_titles": [
-        "Anthropic, 선제적 AI 에이전트 'Claude Duet' 미국 Pro·Max 사용자 대상 출시"
+        "Anthropic, 선제적 AI 에이전트 'Claude Duet' 미국 Pro·Max 사용자 대상 출시",
+        "Anthropic, 선제 행동하는 AI 에이전트 'Claude Duet' 미국 Pro·Max 사용자 출시"
       ]
     },
     "microsoft-mai-dxo-medical-ai": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-24",
       "status": "normal",
       "example_titles": [
-        "Microsoft, AI 진단 시스템 'MAI-DxO'로 '의료 초지능' 추구 — 복잡한 증례서 일반의 능가"
+        "Microsoft, AI 진단 시스템 'MAI-DxO'로 '의료 초지능' 추구 — 복잡한 증례서 일반의 능가",
+        "Microsoft, AI 진단 시스템 'MAI-DxO'로 복잡한 증례서 일반의 능가"
       ]
     },
     "writer-autonomous-agents": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-24",
       "status": "normal",
       "example_titles": [
-        "Writer, 프롬프트 없이 자율 작동하는 엔터프라이즈 AI 에이전트 출시 — Amazon·MS·Salesforce와 정면 대결"
+        "Writer, 프롬프트 없이 자율 작동하는 엔터프라이즈 AI 에이전트 출시 — Amazon·MS·Salesforce와 정면 대결",
+        "Writer, 프롬프트 없이 자율 작동하는 엔터프라이즈 AI 에이전트 출시"
       ]
     },
     "anthropic-claude-opensource-security": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-24",
       "status": "normal",
       "example_titles": [
-        "Claude, 오픈소스 25개 프로젝트서 493건 취약점 발견 — OpenAI·Google은 PHP 치명적 결함 각 2건 수정"
+        "Claude, 오픈소스 25개 프로젝트서 493건 취약점 발견 — OpenAI·Google은 PHP 치명적 결함 각 2건 수정",
+        "Anthropic Claude, 오픈소스 123개 라이브러리서 RISC-V 수준 보안 취약점 493건 공식 검증"
       ]
     },
     "google-ai-chip-space-datacenter": {
@@ -521,12 +527,13 @@
       ]
     },
     "deepmind-military-ai-resignation": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-24",
       "status": "normal",
       "example_titles": [
-        "Google DeepMind 직원들, 군사 AI 계약 반발해 집단 사퇴 — 엔지니어 Sofia Liguori 공개 폭로"
+        "Google DeepMind 직원들, 군사 AI 계약 반발해 집단 사퇴 — 엔지니어 Sofia Liguori 공개 폭로",
+        "Google DeepMind 직원들, 군사 AI 계약 반발해 집단 사퇴"
       ]
     },
     "anthropic-public-benefit-fund": {
@@ -554,6 +561,105 @@
       "status": "normal",
       "example_titles": [
         "MI5, AI 위협 대응 전담 센터 신설 — OpenAI는 英 의회에 '추가 안전 사고 배제 불가' 증언"
+      ]
+    },
+    "openai-funding-1-25t": {
+      "count": 1,
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, $1.25조 기업가치로 $300억 펀딩 라운드 임박"
+      ]
+    },
+    "ai-banking-agents": {
+      "count": 1,
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "status": "normal",
+      "example_titles": [
+        "AI 에이전트가 은행 계좌 내 자율 행동 개시 — 은행들, 권한 범위 파악에 속수무책"
+      ]
+    },
+    "openai-researcher-firings": {
+      "count": 1,
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, Redwood Research에 정보 유출 혐의로 연구원 3명 해고"
+      ]
+    },
+    "snowflake-cortex-gateway": {
+      "count": 1,
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "status": "normal",
+      "example_titles": [
+        "Snowflake, AI 에이전트 비용 통제 '코텍스 AI 게이트웨이' 출시"
+      ]
+    },
+    "openai-decisions-api": {
+      "count": 1,
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, 'Decisions API' 정식 출시"
+      ]
+    },
+    "zai-zcode": {
+      "count": 1,
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "status": "normal",
+      "example_titles": [
+        "Z.ai, Cursor·Claude Code·GitHub Copilot에 도전하는 AI 코딩 도구 'ZCode' 무료 출시"
+      ]
+    },
+    "canva-ai-model": {
+      "count": 1,
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "status": "normal",
+      "example_titles": [
+        "Canva, 신규 AI 이미지 생성 모델 출시"
+      ]
+    },
+    "mit-agents-play": {
+      "count": 1,
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "status": "normal",
+      "example_titles": [
+        "MIT 연구: 혼자 방치된 AI 에이전트들이 자발적으로 게임을 시작, 과제 성과도 향상"
+      ]
+    },
+    "benchlm-leaderboard": {
+      "count": 1,
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "status": "normal",
+      "example_titles": [
+        "BenchLM, 214개 모델 평가한 2026년 10월 LLM 리더보드 발표 — Claude Opus 5.5·Gemini 4 선두"
+      ]
+    },
+    "google-gemini4-carbon": {
+      "count": 1,
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "status": "normal",
+      "example_titles": [
+        "Google, 지난주 출시된 Gemini 4 Argon 업그레이드 버전 'Gemini 4 Carbon' 개발 중"
+      ]
+    },
+    "opencode-api-breach": {
+      "count": 1,
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "status": "normal",
+      "example_titles": [
+        "OpenCode 보안 침해, 전체 이용자 1.4% API 키 노출 — Anthropic·Google 즉시 차단 조치"
       ]
     }
   }
