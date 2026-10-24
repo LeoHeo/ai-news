@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-10-24",
+  "updated": "2026-10-25",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -660,6 +660,96 @@
       "status": "normal",
       "example_titles": [
         "OpenCode 보안 침해, 전체 이용자 1.4% API 키 노출 — Anthropic·Google 즉시 차단 조치"
+      ]
+    },
+    "ai-php-vulnerability-discovery": {
+      "count": 1,
+      "first_seen": "2026-10-25",
+      "last_seen": "2026-10-25",
+      "status": "normal",
+      "example_titles": [
+        "AI가 웹사이트 70%에 영향 주는 PHP RCE 취약점 발견"
+      ]
+    },
+    "openai-offline-training-policy": {
+      "count": 1,
+      "first_seen": "2026-10-25",
+      "last_seen": "2026-10-25",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, 프런티어 모델 훈련 전면 오프라인 전환 정책 발표"
+      ]
+    },
+    "anthropic-agentic-ai-foundation": {
+      "count": 1,
+      "first_seen": "2026-10-25",
+      "last_seen": "2026-10-25",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, Agent Skills 프레임워크를 비영리 AAIF에 오픈소스로 기증"
+      ]
+    },
+    "nvidia-gtc-berlin-2026": {
+      "count": 1,
+      "first_seen": "2026-10-25",
+      "last_seen": "2026-10-25",
+      "status": "normal",
+      "example_titles": [
+        "Nvidia GTC 베를린 2026 개막 — 유럽 AI 인프라·규제 대응 청사진 공개"
+      ]
+    },
+    "minimax-m31-flash-launch": {
+      "count": 1,
+      "first_seen": "2026-10-25",
+      "last_seen": "2026-10-25",
+      "status": "normal",
+      "example_titles": [
+        "MiniMax M3.1 Flash 정식 출시 — 경량 추론 벤치마크 신기록"
+      ]
+    },
+    "amazon-cloud-ai-sold-out": {
+      "count": 1,
+      "first_seen": "2026-10-25",
+      "last_seen": "2026-10-25",
+      "status": "normal",
+      "example_titles": [
+        "Amazon, AWS AI 컴퓨팅 용량 2026년 전량 선예약 완료 확인"
+      ]
+    },
+    "block-dessa-speech-model": {
+      "count": 1,
+      "first_seen": "2026-10-25",
+      "last_seen": "2026-10-25",
+      "status": "normal",
+      "example_titles": [
+        "Block(구 스퀘어), Dessa 음성-음성 AI 모델 오픈소스 공개"
+      ]
+    },
+    "anthropic-life-sciences-call": {
+      "count": 1,
+      "first_seen": "2026-10-25",
+      "last_seen": "2026-10-25",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, 생명과학 분야 게스트 연구원 프로그램 모집 시작"
+      ]
+    },
+    "anthropic-stubbs-ltbt": {
+      "count": 1,
+      "first_seen": "2026-10-25",
+      "last_seen": "2026-10-25",
+      "status": "normal",
+      "example_titles": [
+        "물리학자 크리스토퍼 스텁스, Anthropic 장기 기술 자문단(LTBT) 합류"
+      ]
+    },
+    "citadel-ai-bubble-warning": {
+      "count": 1,
+      "first_seen": "2026-10-25",
+      "last_seen": "2026-10-25",
+      "status": "normal",
+      "example_titles": [
+        "시타델 CEO 켄 그리핀, AI 투자 버블 가능성 공개 경고"
       ]
     }
   }
