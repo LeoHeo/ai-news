@@ -1,91 +1,19 @@
 {
   "topic": "ai",
-  "updated": "2026-10-26",
+  "updated": "2026-10-27",
   "version": 1,
   "window_days": 7,
   "themes": {
     "anthropic-ipo-roadshow": {
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-10-14",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-27",
       "status": "saturated",
       "example_titles": [
         "Anthropic, 기관투자자 대상 IPO 사전 간담회 개최 — 11월 나스닥 상장 목표 공식화",
         "Anthropic 3분기 매출 168억 달러 — IPO 기업가치 2조→1.5조 달러로 하향 전망",
-        "Anthropic, 11월 9일 상장 목표 공식화 — 예상 기업가치 750억 달러"
-      ]
-    },
-    "trump-white-house-ai-accord": {
-      "count": 2,
-      "first_seen": "2026-10-18",
-      "last_seen": "2026-10-19",
-      "status": "normal",
-      "example_titles": [
-        "트럼프 대통령, 백악관에서 OpenAI·Anthropic·Google·Meta·xAI·Nvidia CEO들과 자발적 AI 협약 서명",
-        "트럼프 AI 협약 후속: 의회·EU·시민사회 '자발적 합의 실효성 논란'"
-      ]
-    },
-    "google-jules-coding": {
-      "count": 1,
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-19",
-      "status": "normal",
-      "example_titles": [
-        "Google, AI 코딩 에이전트 'Jules' 정식 출시 — GitHub 연동 자율 버그 수정·PR 생성"
-      ]
-    },
-    "apple-meta-ios-integration": {
-      "count": 1,
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-19",
-      "status": "normal",
-      "example_titles": [
-        "Apple, Meta AI를 macOS·iOS에 통합 — Siri가 특정 쿼리를 Meta AI로 라우팅"
-      ]
-    },
-    "gpu-access-enterprise-survey": {
-      "count": 1,
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-19",
-      "status": "normal",
-      "example_titles": [
-        "Forrester 설문: 기업 73%, GPU 접근성이 AI 도입 최대 병목 — 클라우드 대기 4.2일"
-      ]
-    },
-    "gartner-agentic-cost-overrun": {
-      "count": 1,
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-19",
-      "status": "normal",
-      "example_titles": [
-        "Gartner: 엔터프라이즈 에이전틱 AI 운영비, 예산의 3배 초과 — 오류 재실행 비용이 주요 원인"
-      ]
-    },
-    "anthropic-north-star-roadmap": {
-      "count": 1,
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-19",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, '프로젝트 노스 스타' 공개 — 2030년까지 AI 안전·역량 로드맵 발표"
-      ]
-    },
-    "wsj-ai-investment-bubble": {
-      "count": 1,
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-19",
-      "status": "normal",
-      "example_titles": [
-        "WSJ 'AI 투자 거품 경고' — 수익 실현까지 5~7년, 기업 ROI 재검토 급증"
-      ]
-    },
-    "openweight-ai-market-gap": {
-      "count": 1,
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-19",
-      "status": "normal",
-      "example_titles": [
-        "오픈소스 AI, 클로즈드 모델과 성능 격차 3개월로 단축 — MIT 라이선스 확산이 수익 모델 압박"
+        "Anthropic, 11월 9일 상장 목표 공식화 — 예상 기업가치 750억 달러",
+        "Anthropic, IPO S-1 공식 제출… \"AI 존재론적 위험\" 공시"
       ]
     },
     "anthropic-federal-ai-law": {
@@ -172,12 +100,13 @@
       ]
     },
     "openai-terra-model": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-27",
       "status": "normal",
       "example_titles": [
-        "OpenAI, 경량 추론 모델 'Terra' 공개"
+        "OpenAI, 경량 추론 모델 'Terra' 공개",
+        "OpenAI, GPT-6.1 Terra 전격 출시… 추론·코딩 성능 대폭 향상"
       ]
     },
     "microsoft-copilot-studio-agents": {
@@ -758,6 +687,87 @@
       "status": "normal",
       "example_titles": [
         "2026 중간선거 앞두고 AI 챗봇 선거 편향 실험 연구 발표"
+      ]
+    },
+    "moonshot-kimi-k31-pro": {
+      "count": 1,
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "status": "normal",
+      "example_titles": [
+        "Moonshot AI, Kimi K3.1 Pro 공개… 중국 최고 수준 추론 모델 주장"
+      ]
+    },
+    "accenture-claude-spend-cap": {
+      "count": 1,
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "status": "normal",
+      "example_titles": [
+        "Accenture, 직원 Claude 사용 월 $29 한도 설정"
+      ]
+    },
+    "verizon-aws-ai-fiber": {
+      "count": 1,
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "status": "normal",
+      "example_titles": [
+        "Verizon-AWS, 20억 달러 규모 AI 광섬유 인프라 계약 체결"
+      ]
+    },
+    "october-2026-ai-funding-surge": {
+      "count": 1,
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "status": "normal",
+      "example_titles": [
+        "2026년 10월 AI 투자 총액 741억 달러 돌파… 월간 최고치 경신"
+      ]
+    },
+    "uk-dsit-ai-risk-toolkit": {
+      "count": 1,
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "status": "normal",
+      "example_titles": [
+        "영국 DSIT, 기업용 AI 리스크 관리 툴킷 공개"
+      ]
+    },
+    "china-ai-employment-review": {
+      "count": 1,
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "status": "normal",
+      "example_titles": [
+        "중국, AI 고용 영향 정기 심사 의무화 추진"
+      ]
+    },
+    "us-chatbot-act-senate": {
+      "count": 1,
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "status": "normal",
+      "example_titles": [
+        "미국 상원, CHATBOT Act 발의… AI와의 대화 의무 고지"
+      ]
+    },
+    "anthropic-s1-safety-disclosure": {
+      "count": 1,
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic S-1, AI 존재론적 위험 공식 리스크로 SEC 공시"
+      ]
+    },
+    "eu-ai-act-implementation-prep": {
+      "count": 1,
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "status": "normal",
+      "example_titles": [
+        "EU, AI Act 본격 시행 준비 가속… 고위험 시스템 등록 마감 임박"
       ]
     }
   }
