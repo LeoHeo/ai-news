@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-25",
+  "updated": "2026-10-26",
   "window_days": 7,
   "themes": [
     {
@@ -19,17 +19,17 @@
     },
     {
       "keyword": "occ-genius-act-stablecoin-final",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24",
-      "articles": ["regulation-occ-genius-act", "regulation-occ-genius-act", "regulation-occ-genius-act-final", "regulation-occ-genius-act"]
+      "last_seen": "2026-10-26",
+      "articles": ["regulation-occ-genius-act", "regulation-occ-genius-act", "regulation-occ-genius-act-final", "regulation-occ-genius-act", "regulation-occ-genius-act-final"]
     },
     {
       "keyword": "embedded-finance-us-compliance",
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-10-05",
-      "last_seen": "2026-10-21",
-      "articles": ["lending-embedded-finance-us-reg", "regulation-embedded-finance", "lending-embedded-finance-us-regs", "regulation-embedded-finance-us", "regulation-embedded-finance"]
+      "last_seen": "2026-10-26",
+      "articles": ["lending-embedded-finance-us-reg", "regulation-embedded-finance", "lending-embedded-finance-us-regs", "regulation-embedded-finance-us", "regulation-embedded-finance", "regulation-embedded-finance-us"]
     },
     {
       "keyword": "ramp-60b-valuation",
@@ -110,10 +110,10 @@
     },
     {
       "keyword": "ramp-national-trust-charter",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-10-21",
-      "last_seen": "2026-10-23",
-      "articles": ["digital-banking-ramp-charter", "digital-banking-ramp-charter", "digital-banking-ramp-charter-1023"]
+      "last_seen": "2026-10-26",
+      "articles": ["digital-banking-ramp-charter", "digital-banking-ramp-charter", "digital-banking-ramp-charter-1023", "digital-banking-ramp-charter-1026"]
     },
     {
       "keyword": "malaysia-bnpl-surge-2026",
@@ -159,10 +159,10 @@
     },
     {
       "keyword": "mastercard-stablecoin-security-svc",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-22",
-      "articles": ["payments-mastercard-stablecoin-sec"]
+      "last_seen": "2026-10-26",
+      "articles": ["payments-mastercard-stablecoin-sec", "payments-mastercard-stablecoin-sec"]
     },
     {
       "keyword": "tether-peso-bolivia-usdt",
@@ -352,6 +352,48 @@
       "first_seen": "2026-10-25",
       "last_seen": "2026-10-25",
       "articles": ["investment-whop-series-d"]
+    },
+    {
+      "keyword": "seoul-fintech-week-2026",
+      "count": 1,
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "articles": ["digital-banking-seoul-ftw-2026"]
+    },
+    {
+      "keyword": "kakao-pay-ai-agent-keynote",
+      "count": 1,
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "articles": ["digital-banking-kakao-pay-ai-agent"]
+    },
+    {
+      "keyword": "fintech-banking-partner-leverage",
+      "count": 1,
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "articles": ["digital-banking-fintech-bank-leverage"]
+    },
+    {
+      "keyword": "sezzle-national-bank-bnpl",
+      "count": 1,
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "articles": ["lending-sezzle-bank-charter"]
+    },
+    {
+      "keyword": "fintech-weekly-deals-oct25",
+      "count": 1,
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "articles": ["investment-fintech-weekly-oct25"]
+    },
+    {
+      "keyword": "bis-crossborder-paper-1385",
+      "count": 1,
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "articles": ["remittance-bis-crossborder-paper"]
     }
   ]
 }
