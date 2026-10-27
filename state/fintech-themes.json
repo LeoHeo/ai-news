@@ -1,28 +1,14 @@
 {
   "version": 1,
-  "updated": "2026-10-27",
+  "updated": "2026-10-28",
   "window_days": 7,
   "themes": [
     {
-      "keyword": "splitit-bank-instalment-card",
-      "count": 1,
-      "first_seen": "2026-10-20",
-      "last_seen": "2026-10-20",
-      "articles": ["lending-splitit-instalment"]
-    },
-    {
-      "keyword": "treasury-genius-act-rule-comment",
-      "count": 1,
-      "first_seen": "2026-10-20",
-      "last_seen": "2026-10-20",
-      "articles": ["regulation-treasury-genius-aml"]
-    },
-    {
       "keyword": "occ-genius-act-stablecoin-final",
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-27",
-      "articles": ["regulation-occ-genius-act", "regulation-occ-genius-act", "regulation-occ-genius-act-final", "regulation-occ-genius-act", "regulation-occ-genius-act-final", "regulation-occ-stablecoin-banks-1027"]
+      "last_seen": "2026-10-28",
+      "articles": ["regulation-occ-genius-act", "regulation-occ-genius-act", "regulation-occ-genius-act-final", "regulation-occ-genius-act", "regulation-occ-genius-act-final", "regulation-occ-stablecoin-banks-1027", "regulation-occ-genius-final-1028"]
     },
     {
       "keyword": "embedded-finance-us-compliance",
@@ -306,10 +292,10 @@
     },
     {
       "keyword": "hsbc-redcoin-payme-hkd",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-10-25",
-      "last_seen": "2026-10-27",
-      "articles": ["payments-hsbc-redcoin", "payments-hsbc-redcoin-1027"]
+      "last_seen": "2026-10-28",
+      "articles": ["payments-hsbc-redcoin", "payments-hsbc-redcoin-1027", "payments-hsbc-redcoin-1028"]
     },
     {
       "keyword": "visa-b2b-agentic-commercial-card",
@@ -355,10 +341,10 @@
     },
     {
       "keyword": "seoul-fintech-week-2026",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-27",
-      "articles": ["digital-banking-seoul-ftw-2026", "digital-banking-seoul-ftw-1027"]
+      "last_seen": "2026-10-28",
+      "articles": ["digital-banking-seoul-ftw-2026", "digital-banking-seoul-ftw-1027", "digital-banking-seoul-ftw-1028"]
     },
     {
       "keyword": "kakao-pay-ai-agent-keynote",
@@ -376,10 +362,10 @@
     },
     {
       "keyword": "sezzle-national-bank-bnpl",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-27",
-      "articles": ["lending-sezzle-bank-charter", "lending-sezzle-occ-1027"]
+      "last_seen": "2026-10-28",
+      "articles": ["lending-sezzle-bank-charter", "lending-sezzle-occ-1027", "lending-sezzle-occ-1028"]
     },
     {
       "keyword": "fintech-weekly-deals-oct25",
@@ -397,38 +383,38 @@
     },
     {
       "keyword": "lseg-octus-private-credit",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "articles": ["investment-lseg-octus"]
+      "last_seen": "2026-10-28",
+      "articles": ["investment-lseg-octus", "investment-lseg-octus-1028"]
     },
     {
       "keyword": "toss-facepay-biometric",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "articles": ["payments-toss-facepay"]
+      "last_seen": "2026-10-28",
+      "articles": ["payments-toss-facepay", "payments-toss-facepay-1028"]
     },
     {
       "keyword": "revolut-philippines-launch",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "articles": ["digital-banking-revolut-ph"]
+      "last_seen": "2026-10-28",
+      "articles": ["digital-banking-revolut-ph", "digital-banking-revolut-ph-1028"]
     },
     {
       "keyword": "klarna-freshbooks-b2b-bnpl",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "articles": ["payments-klarna-freshbooks"]
+      "last_seen": "2026-10-28",
+      "articles": ["payments-klarna-freshbooks", "payments-klarna-freshbooks-1028"]
     },
     {
       "keyword": "coinbase-ireland-fine",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "articles": ["regulation-coinbase-ireland-fine"]
+      "last_seen": "2026-10-28",
+      "articles": ["regulation-coinbase-ireland-fine", "regulation-coinbase-ireland-1028"]
     },
     {
       "keyword": "tech-mahindra-finastra-partnership",
@@ -453,10 +439,31 @@
     },
     {
       "keyword": "payments-canada-rtr-golive",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "articles": ["payments-canada-rtr"]
+      "last_seen": "2026-10-28",
+      "articles": ["payments-canada-rtr", "payments-canada-rtr-1028"]
+    },
+    {
+      "keyword": "revolut-boe-internal-probe",
+      "count": 1,
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-28",
+      "articles": ["digital-banking-revolut-boe"]
+    },
+    {
+      "keyword": "global-fintech-q3-funding-decline",
+      "count": 1,
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-28",
+      "articles": ["investment-fintech-q3-funding"]
+    },
+    {
+      "keyword": "redotpay-ipo-5b",
+      "count": 1,
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-28",
+      "articles": ["investment-redotpay-ipo"]
     }
   ]
 }
