@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "updated": "2026-10-28",
+  "updated": "2026-10-29",
   "window_days": 7,
   "themes": [
     {
       "keyword": "occ-genius-act-stablecoin-final",
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-28",
-      "articles": ["regulation-occ-genius-act", "regulation-occ-genius-act", "regulation-occ-genius-act-final", "regulation-occ-genius-act", "regulation-occ-genius-act-final", "regulation-occ-stablecoin-banks-1027", "regulation-occ-genius-final-1028"]
+      "last_seen": "2026-10-29",
+      "articles": ["regulation-occ-genius-act", "regulation-occ-genius-act", "regulation-occ-genius-act-final", "regulation-occ-genius-act", "regulation-occ-genius-act-final", "regulation-occ-stablecoin-banks-1027", "regulation-occ-genius-final-1028", "regulation-genius-act-1029"]
     },
     {
       "keyword": "embedded-finance-us-compliance",
@@ -16,69 +16,6 @@
       "first_seen": "2026-10-05",
       "last_seen": "2026-10-26",
       "articles": ["lending-embedded-finance-us-reg", "regulation-embedded-finance", "lending-embedded-finance-us-regs", "regulation-embedded-finance-us", "regulation-embedded-finance", "regulation-embedded-finance-us"]
-    },
-    {
-      "keyword": "ramp-60b-valuation",
-      "count": 4,
-      "first_seen": "2026-10-12",
-      "last_seen": "2026-10-21",
-      "articles": ["investment-ramp-60b", "investment-ramp-60b-1019", "investment-ramp-60b", "investment-ramp-60b"]
-    },
-    {
-      "keyword": "mastercard-bvnk-global-money-platform",
-      "count": 5,
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-21",
-      "articles": ["payments-mastercard-bvnk-platform", "payments-mastercard-bvnk-platform-1018", "payments-mastercard-bvnk-1019", "payments-mastercard-bvnk", "payments-mastercard-bvnk"]
-    },
-    {
-      "keyword": "vivid-wise-sme-crossborder",
-      "count": 4,
-      "first_seen": "2026-10-17",
-      "last_seen": "2026-10-21",
-      "articles": ["payments-vivid-wise-sme", "remittance-vivid-wise-sme-1019", "remittance-vivid-wise", "remittance-vivid-wise"]
-    },
-    {
-      "keyword": "pliant-uk-emi-fca",
-      "count": 2,
-      "first_seen": "2026-10-17",
-      "last_seen": "2026-10-21",
-      "articles": ["regulation-pliant-uk-emi", "regulation-pliant-fca"]
-    },
-    {
-      "keyword": "global-fintech-funding-q3-2026",
-      "count": 2,
-      "first_seen": "2026-10-17",
-      "last_seen": "2026-10-21",
-      "articles": ["investment-global-fintech-q3", "investment-global-fintech-q3"]
-    },
-    {
-      "keyword": "western-union-noah-stablecoin",
-      "count": 1,
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "articles": ["remittance-western-union-noah"]
-    },
-    {
-      "keyword": "shinhan-solana-stablecoin-poc",
-      "count": 1,
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "articles": ["remittance-shinhan-solana"]
-    },
-    {
-      "keyword": "bis-fintech-mto-cost-study",
-      "count": 1,
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "articles": ["remittance-bis-mto-study"]
-    },
-    {
-      "keyword": "kbank-stablecoin-remittance-plan",
-      "count": 1,
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "articles": ["digital-banking-kbank-stablecoin"]
     },
     {
       "keyword": "coinbase-thunes-usdc-mpesa",
@@ -285,17 +222,17 @@
     },
     {
       "keyword": "korea-bigtech-prepaid-refund",
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-24",
-      "articles": ["regulation-korea-prepaid-refund-1019", "regulation-korea-prepaid", "regulation-korea-prepaid", "regulation-korea-prepaid", "regulation-korea-bigtech-prepaid"]
+      "last_seen": "2026-10-29",
+      "articles": ["regulation-korea-prepaid-refund-1019", "regulation-korea-prepaid", "regulation-korea-prepaid", "regulation-korea-prepaid", "regulation-korea-bigtech-prepaid", "regulation-korea-prepaid-1029"]
     },
     {
       "keyword": "hsbc-redcoin-payme-hkd",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-10-25",
-      "last_seen": "2026-10-28",
-      "articles": ["payments-hsbc-redcoin", "payments-hsbc-redcoin-1027", "payments-hsbc-redcoin-1028"]
+      "last_seen": "2026-10-29",
+      "articles": ["payments-hsbc-redcoin", "payments-hsbc-redcoin-1027", "payments-hsbc-redcoin-1028", "payments-hsbc-redcoin-1029"]
     },
     {
       "keyword": "visa-b2b-agentic-commercial-card",
@@ -362,10 +299,10 @@
     },
     {
       "keyword": "sezzle-national-bank-bnpl",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-28",
-      "articles": ["lending-sezzle-bank-charter", "lending-sezzle-occ-1027", "lending-sezzle-occ-1028"]
+      "last_seen": "2026-10-29",
+      "articles": ["lending-sezzle-bank-charter", "lending-sezzle-occ-1027", "lending-sezzle-occ-1028", "lending-sezzle-occ-1029"]
     },
     {
       "keyword": "fintech-weekly-deals-oct25",
@@ -383,38 +320,38 @@
     },
     {
       "keyword": "lseg-octus-private-credit",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-28",
-      "articles": ["investment-lseg-octus", "investment-lseg-octus-1028"]
+      "last_seen": "2026-10-29",
+      "articles": ["investment-lseg-octus", "investment-lseg-octus-1028", "investment-lseg-octus-1029"]
     },
     {
       "keyword": "toss-facepay-biometric",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-28",
-      "articles": ["payments-toss-facepay", "payments-toss-facepay-1028"]
+      "last_seen": "2026-10-29",
+      "articles": ["payments-toss-facepay", "payments-toss-facepay-1028", "payments-toss-facepay-1029"]
     },
     {
       "keyword": "revolut-philippines-launch",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-28",
-      "articles": ["digital-banking-revolut-ph", "digital-banking-revolut-ph-1028"]
+      "last_seen": "2026-10-29",
+      "articles": ["digital-banking-revolut-ph", "digital-banking-revolut-ph-1028", "digital-banking-revolut-ph-1029"]
     },
     {
       "keyword": "klarna-freshbooks-b2b-bnpl",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-28",
-      "articles": ["payments-klarna-freshbooks", "payments-klarna-freshbooks-1028"]
+      "last_seen": "2026-10-29",
+      "articles": ["payments-klarna-freshbooks", "payments-klarna-freshbooks-1028", "lending-klarna-freshbooks-1029"]
     },
     {
       "keyword": "coinbase-ireland-fine",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-28",
-      "articles": ["regulation-coinbase-ireland-fine", "regulation-coinbase-ireland-1028"]
+      "last_seen": "2026-10-29",
+      "articles": ["regulation-coinbase-ireland-fine", "regulation-coinbase-ireland-1028", "regulation-coinbase-ireland-1029"]
     },
     {
       "keyword": "tech-mahindra-finastra-partnership",
@@ -446,24 +383,45 @@
     },
     {
       "keyword": "revolut-boe-internal-probe",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28",
-      "articles": ["digital-banking-revolut-boe"]
+      "last_seen": "2026-10-29",
+      "articles": ["digital-banking-revolut-boe", "digital-banking-revolut-boe-1029"]
     },
     {
       "keyword": "global-fintech-q3-funding-decline",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28",
-      "articles": ["investment-fintech-q3-funding"]
+      "last_seen": "2026-10-29",
+      "articles": ["investment-fintech-q3-funding", "investment-global-q3-funding-1029"]
     },
     {
       "keyword": "redotpay-ipo-5b",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28",
-      "articles": ["investment-redotpay-ipo"]
+      "last_seen": "2026-10-29",
+      "articles": ["investment-redotpay-ipo", "investment-redotpay-ipo-1029"]
+    },
+    {
+      "keyword": "epi-ideal-wero-migration",
+      "count": 1,
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "articles": ["payments-epi-wero"]
+    },
+    {
+      "keyword": "robinhood-q3-2026-earnings",
+      "count": 1,
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "articles": ["digital-banking-robinhood-q3"]
+    },
+    {
+      "keyword": "coinbase-mica-stablecoin-deadline",
+      "count": 1,
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "articles": ["regulation-coinbase-mica"]
     }
   ]
 }
