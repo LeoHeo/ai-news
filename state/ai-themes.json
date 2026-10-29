@@ -1,20 +1,20 @@
 {
   "topic": "ai",
-  "updated": "2026-10-29",
+  "updated": "2026-10-30",
   "version": 1,
   "window_days": 7,
   "themes": {
     "anthropic-ipo-roadshow": {
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-10-14",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-30",
       "status": "saturated",
       "example_titles": [
         "Anthropic, 기관투자자 대상 IPO 사전 간담회 개최 — 11월 나스닥 상장 목표 공식화",
         "Anthropic 3분기 매출 168억 달러 — IPO 기업가치 2조→1.5조 달러로 하향 전망",
         "Anthropic, 11월 9일 상장 목표 공식화 — 예상 기업가치 750억 달러",
         "Anthropic, IPO S-1 공식 제출… \"AI 존재론적 위험\" 공시",
-        "Anthropic, 나스닥 'ANT' 상장 위한 S-1 SEC 공식 제출… 상반기 매출 163억 달러 공개"
+        "아마존, 앤트로픽 IPO 시 1,000억 달러 이상 수익 가능"
       ]
     },
     "anthropic-federal-ai-law": {
@@ -35,52 +35,6 @@
       "example_titles": [
         "OpenAI, 경량 추론 모델 'Terra' 공개",
         "OpenAI, GPT-6.1 Terra 전격 출시… 추론·코딩 성능 대폭 향상"
-      ]
-    },
-    "meta-muse-downloads": {
-      "count": 2,
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-22",
-      "status": "normal",
-      "example_titles": [
-        "Meta Muse, 미국 출시 40일 만에 1,000만 다운로드 — ChatGPT 초기 기록의 2.7배",
-        "Meta, Muse 사용자 1,000만 돌파 — 쇼핑이 최다 활동"
-      ]
-    },
-    "tesla-optimus-production": {
-      "count": 1,
-      "first_seen": "2026-10-22",
-      "last_seen": "2026-10-22",
-      "status": "normal",
-      "example_titles": [
-        "Tesla, 캘리포니아 프리몬트 공장서 Optimus 로봇 양산 개시 — 3분기 순이익 43% 급감"
-      ]
-    },
-    "meta-ai-class-c-stock": {
-      "count": 1,
-      "first_seen": "2026-10-22",
-      "last_seen": "2026-10-22",
-      "status": "normal",
-      "example_titles": [
-        "Meta, AI 대규모 투자를 위한 신규 무의결권 주식 발행 계획 발표"
-      ]
-    },
-    "amazon-walmart-ai-agent-divide": {
-      "count": 1,
-      "first_seen": "2026-10-22",
-      "last_seen": "2026-10-22",
-      "status": "normal",
-      "example_titles": [
-        "Amazon AI 에이전트 전면 차단 vs. Walmart 에이전트 게이트웨이 개방 — AI 커머스 생태계 분기"
-      ]
-    },
-    "recursive-flint-coding": {
-      "count": 1,
-      "first_seen": "2026-10-22",
-      "last_seen": "2026-10-22",
-      "status": "normal",
-      "example_titles": [
-        "Recursive, AI가 대부분 개발한 노트북용 코딩 모델 'Flint' 무료 공개"
       ]
     },
     "openai-rogue-agent-disclosure": {
@@ -299,13 +253,14 @@
       ]
     },
     "google-gemini4-carbon": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-10-24",
-      "last_seen": "2026-10-29",
-      "status": "normal",
+      "last_seen": "2026-10-30",
+      "status": "demoted",
       "example_titles": [
         "Google, 지난주 출시된 Gemini 4 Argon 업그레이드 버전 'Gemini 4 Carbon' 개발 중",
-        "Google, Gemini 4 Carbon 공개 — 업데이트된 어려운 벤치마크서 세계 1위 탈환, 접근은 제한"
+        "Google, Gemini 4 Carbon 공개 — 업데이트된 어려운 벤치마크서 세계 1위 탈환, 접근은 제한",
+        "구글, 사이버 보안 특화 Gemini 4 Carbon 공개"
       ]
     },
     "opencode-api-breach": {
@@ -777,6 +732,78 @@
       "status": "normal",
       "example_titles": [
         "Amazon, 직원 AI 사용 강제화 완화 — Anthropic, 내부 활용 통계 공개"
+      ]
+    },
+    "alibaba-qwen-image-release": {
+      "count": 1,
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "status": "normal",
+      "example_titles": [
+        "알리바바 Qwen 최신 이미지 생성 모델, Hugging Face에 공개"
+      ]
+    },
+    "minimax-mcode-stack-oss": {
+      "count": 1,
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "status": "normal",
+      "example_titles": [
+        "MiniMax, 코딩 에이전트 MCode Stack 오픈소스 공개"
+      ]
+    },
+    "akamai-ai-inference-sandbox": {
+      "count": 1,
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "status": "normal",
+      "example_titles": [
+        "아카마이, AI 추론 인프라·에이전트 샌드박스 베타 출시"
+      ]
+    },
+    "anthropic-claude-red-team-exploits": {
+      "count": 1,
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "status": "normal",
+      "example_titles": [
+        "앤트로픽 레드팀, 미출시 Claude 모델 취약점 체인 공개"
+      ]
+    },
+    "alphabet-q3-2026-earnings": {
+      "count": 1,
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "status": "normal",
+      "example_titles": [
+        "알파벳 Q3 2026 실적: 매출 $127.6B +25%, 구글 클라우드 $30.7B +103%"
+      ]
+    },
+    "oracle-google-tpu-oci-deal": {
+      "count": 1,
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "status": "normal",
+      "example_titles": [
+        "오라클, 2027년부터 자사 OCI에서 구글 TPU 제공 예정"
+      ]
+    },
+    "meta-ai-training-terms": {
+      "count": 1,
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "status": "normal",
+      "example_titles": [
+        "메타, 10월 30일부터 상업 약관 개정 — 뉴스 사이트 스크래핑 허용"
+      ]
+    },
+    "openai-election-monitoring-2026": {
+      "count": 1,
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, 2026 미국 중간선거 대비 선거 모니터링 센터 운영"
       ]
     }
   }
