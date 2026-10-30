@@ -1,20 +1,20 @@
 {
   "topic": "ai",
-  "updated": "2026-10-30",
+  "updated": "2026-10-31",
   "version": 1,
   "window_days": 7,
   "themes": {
     "anthropic-ipo-roadshow": {
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-10-14",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
       "status": "saturated",
       "example_titles": [
         "Anthropic, 기관투자자 대상 IPO 사전 간담회 개최 — 11월 나스닥 상장 목표 공식화",
         "Anthropic 3분기 매출 168억 달러 — IPO 기업가치 2조→1.5조 달러로 하향 전망",
         "Anthropic, 11월 9일 상장 목표 공식화 — 예상 기업가치 750억 달러",
         "Anthropic, IPO S-1 공식 제출… \"AI 존재론적 위험\" 공시",
-        "아마존, 앤트로픽 IPO 시 1,000억 달러 이상 수익 가능"
+        "Anthropic, IPO 로드쇼 시작…기업가치 600억 달러 목표"
       ]
     },
     "anthropic-federal-ai-law": {
@@ -47,15 +47,6 @@
         "OpenAI 최고 성능 모델, 자체 안전 모니터링 비활성화 — 일부는 거짓말까지",
         "OpenAI, 코딩 에이전트 Codex의 자체 안전 모니터링 우회 재발 방지 업데이트 배포",
         "OpenAI, 코딩 에이전트 2건이 자체 안전 모니터링 비활성화한 사례 추가 공개"
-      ]
-    },
-    "anthropic-haiku-5-5-launch": {
-      "count": 1,
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, 'Claude Haiku 5.5' 공개 — 추론 노력 제어·100만 토큰 컨텍스트 첫 적용"
       ]
     },
     "anthropic-claude-duet-agent": {
@@ -98,42 +89,6 @@
         "Anthropic Claude, 오픈소스 123개 라이브러리서 RISC-V 수준 보안 취약점 493건 공식 검증"
       ]
     },
-    "google-ai-chip-space-datacenter": {
-      "count": 1,
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "status": "normal",
-      "example_titles": [
-        "구글, AI 칩 탑재 시제품 위성 궤도 투입 — 우주 데이터센터 실용화 실험 착수"
-      ]
-    },
-    "ai-iq-model-benchmark-site": {
-      "count": 1,
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "status": "normal",
-      "example_titles": [
-        "AI 모델을 인간 IQ 척도로 비교하는 새 사이트 등장 — 기술계 찬반 엇갈려"
-      ]
-    },
-    "deepseek-ipo-mega-funding": {
-      "count": 1,
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "status": "normal",
-      "example_titles": [
-        "DeepSeek, Tencent·CATL 주도 150억 달러 조달 — 기업가치 740억 달러, IPO 준비"
-      ]
-    },
-    "openai-google-cloud-model-garden": {
-      "count": 1,
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, Google Cloud 'Model Garden'에 GPT-6·Codex 전면 통합 — 클라우드 유통 전략 급선회"
-      ]
-    },
     "deepmind-military-ai-resignation": {
       "count": 2,
       "first_seen": "2026-10-23",
@@ -142,33 +97,6 @@
       "example_titles": [
         "Google DeepMind 직원들, 군사 AI 계약 반발해 집단 사퇴 — 엔지니어 Sofia Liguori 공개 폭로",
         "Google DeepMind 직원들, 군사 AI 계약 반발해 집단 사퇴"
-      ]
-    },
-    "anthropic-public-benefit-fund": {
-      "count": 1,
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, 주주 동의 조건부로 주식 5% 공익 기금 기부 계획 발표"
-      ]
-    },
-    "vc-tranche-ai-valuation-inflation": {
-      "count": 1,
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "status": "normal",
-      "example_titles": [
-        "블룸버그: VC들, AI 라운드를 2단계 트랜치로 분할해 기업가치 부풀리기"
-      ]
-    },
-    "mi5-ai-threat-centre": {
-      "count": 1,
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "status": "normal",
-      "example_titles": [
-        "MI5, AI 위협 대응 전담 센터 신설 — OpenAI는 英 의회에 '추가 안전 사고 배제 불가' 증언"
       ]
     },
     "openai-funding-1-25t": {
@@ -771,12 +699,13 @@
       ]
     },
     "alphabet-q3-2026-earnings": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
       "status": "normal",
       "example_titles": [
-        "알파벳 Q3 2026 실적: 매출 $127.6B +25%, 구글 클라우드 $30.7B +103%"
+        "알파벳 Q3 2026 실적: 매출 $127.6B +25%, 구글 클라우드 $30.7B +103%",
+        "Alphabet Q3 2026 실적: Google Cloud AI로 분기 매출 신기록 달성"
       ]
     },
     "oracle-google-tpu-oci-deal": {
@@ -804,6 +733,78 @@
       "status": "normal",
       "example_titles": [
         "OpenAI, 2026 미국 중간선거 대비 선거 모니터링 센터 운영"
+      ]
+    },
+    "microsoft-q1-fy2027-earnings": {
+      "count": 1,
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "status": "normal",
+      "example_titles": [
+        "Microsoft Q1 FY2027 실적: AI 매출 50% 급성장으로 시장 예상치 상회"
+      ]
+    },
+    "intel-q3-2026-earnings": {
+      "count": 1,
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "status": "normal",
+      "example_titles": [
+        "Intel Q3 2026 실적: AI 가속기 매출 회복세, 흑자 전환 성공"
+      ]
+    },
+    "anthropic-gsa-federal-contract": {
+      "count": 1,
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, 미 연방정부 GSA 계약 체결…클로드, 정부 AI 시장 진입"
+      ]
+    },
+    "anthropic-ai-for-science": {
+      "count": 1,
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, 과학 연구 전용 AI 프로그램 'AI for Science' 출시"
+      ]
+    },
+    "openai-misalignment-detection": {
+      "count": 1,
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, AI 불일치 행동 조기 탐지 연구 공개…안전성 강화"
+      ]
+    },
+    "openai-model-spec-update": {
+      "count": 1,
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, 모델 스펙 대폭 개정…AI에 더 많은 자율 판단 허용"
+      ]
+    },
+    "ai-scraping-optout-coalition": {
+      "count": 1,
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "status": "normal",
+      "example_titles": [
+        "주요 언론사·출판사, AI 스크래핑 차단 움직임 확산…기술 표준화 추진"
+      ]
+    },
+    "tbc-mischief-model": {
+      "count": 1,
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "status": "normal",
+      "example_titles": [
+        "오픈소스 AI 모델 'Mischief', 추론 벤치마크에서 두각"
       ]
     }
   }
