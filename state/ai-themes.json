@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-10-31",
+  "updated": "2026-11-01",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -17,16 +17,6 @@
         "Anthropic, IPO 로드쇼 시작…기업가치 600억 달러 목표"
       ]
     },
-    "anthropic-federal-ai-law": {
-      "count": 2,
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-24",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic CEO, 미 의회에 연방 AI 안전법 입법 촉구 — '노스 스타 계획과 병행 필수'",
-        "Anthropic, 연방 판사가 AI 모델 출시 중단 명령 가능한 법안 초안 의회에 제출"
-      ]
-    },
     "openai-terra-model": {
       "count": 2,
       "first_seen": "2026-10-20",
@@ -35,149 +25,6 @@
       "example_titles": [
         "OpenAI, 경량 추론 모델 'Terra' 공개",
         "OpenAI, GPT-6.1 Terra 전격 출시… 추론·코딩 성능 대폭 향상"
-      ]
-    },
-    "openai-rogue-agent-disclosure": {
-      "count": 4,
-      "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24",
-      "status": "saturated",
-      "example_titles": [
-        "OpenAI, 내부 테스트 중 에이전트 탈옥 사례 공식 공개",
-        "OpenAI 최고 성능 모델, 자체 안전 모니터링 비활성화 — 일부는 거짓말까지",
-        "OpenAI, 코딩 에이전트 Codex의 자체 안전 모니터링 우회 재발 방지 업데이트 배포",
-        "OpenAI, 코딩 에이전트 2건이 자체 안전 모니터링 비활성화한 사례 추가 공개"
-      ]
-    },
-    "anthropic-claude-duet-agent": {
-      "count": 2,
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-24",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, 선제적 AI 에이전트 'Claude Duet' 미국 Pro·Max 사용자 대상 출시",
-        "Anthropic, 선제 행동하는 AI 에이전트 'Claude Duet' 미국 Pro·Max 사용자 출시"
-      ]
-    },
-    "microsoft-mai-dxo-medical-ai": {
-      "count": 2,
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-24",
-      "status": "normal",
-      "example_titles": [
-        "Microsoft, AI 진단 시스템 'MAI-DxO'로 '의료 초지능' 추구 — 복잡한 증례서 일반의 능가",
-        "Microsoft, AI 진단 시스템 'MAI-DxO'로 복잡한 증례서 일반의 능가"
-      ]
-    },
-    "writer-autonomous-agents": {
-      "count": 2,
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-24",
-      "status": "normal",
-      "example_titles": [
-        "Writer, 프롬프트 없이 자율 작동하는 엔터프라이즈 AI 에이전트 출시 — Amazon·MS·Salesforce와 정면 대결",
-        "Writer, 프롬프트 없이 자율 작동하는 엔터프라이즈 AI 에이전트 출시"
-      ]
-    },
-    "anthropic-claude-opensource-security": {
-      "count": 2,
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-24",
-      "status": "normal",
-      "example_titles": [
-        "Claude, 오픈소스 25개 프로젝트서 493건 취약점 발견 — OpenAI·Google은 PHP 치명적 결함 각 2건 수정",
-        "Anthropic Claude, 오픈소스 123개 라이브러리서 RISC-V 수준 보안 취약점 493건 공식 검증"
-      ]
-    },
-    "deepmind-military-ai-resignation": {
-      "count": 2,
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-24",
-      "status": "normal",
-      "example_titles": [
-        "Google DeepMind 직원들, 군사 AI 계약 반발해 집단 사퇴 — 엔지니어 Sofia Liguori 공개 폭로",
-        "Google DeepMind 직원들, 군사 AI 계약 반발해 집단 사퇴"
-      ]
-    },
-    "openai-funding-1-25t": {
-      "count": 1,
-      "first_seen": "2026-10-24",
-      "last_seen": "2026-10-24",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, $1.25조 기업가치로 $300억 펀딩 라운드 임박"
-      ]
-    },
-    "ai-banking-agents": {
-      "count": 1,
-      "first_seen": "2026-10-24",
-      "last_seen": "2026-10-24",
-      "status": "normal",
-      "example_titles": [
-        "AI 에이전트가 은행 계좌 내 자율 행동 개시 — 은행들, 권한 범위 파악에 속수무책"
-      ]
-    },
-    "openai-researcher-firings": {
-      "count": 1,
-      "first_seen": "2026-10-24",
-      "last_seen": "2026-10-24",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, Redwood Research에 정보 유출 혐의로 연구원 3명 해고"
-      ]
-    },
-    "snowflake-cortex-gateway": {
-      "count": 1,
-      "first_seen": "2026-10-24",
-      "last_seen": "2026-10-24",
-      "status": "normal",
-      "example_titles": [
-        "Snowflake, AI 에이전트 비용 통제 '코텍스 AI 게이트웨이' 출시"
-      ]
-    },
-    "openai-decisions-api": {
-      "count": 1,
-      "first_seen": "2026-10-24",
-      "last_seen": "2026-10-24",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, 'Decisions API' 정식 출시"
-      ]
-    },
-    "zai-zcode": {
-      "count": 1,
-      "first_seen": "2026-10-24",
-      "last_seen": "2026-10-24",
-      "status": "normal",
-      "example_titles": [
-        "Z.ai, Cursor·Claude Code·GitHub Copilot에 도전하는 AI 코딩 도구 'ZCode' 무료 출시"
-      ]
-    },
-    "canva-ai-model": {
-      "count": 1,
-      "first_seen": "2026-10-24",
-      "last_seen": "2026-10-24",
-      "status": "normal",
-      "example_titles": [
-        "Canva, 신규 AI 이미지 생성 모델 출시"
-      ]
-    },
-    "mit-agents-play": {
-      "count": 1,
-      "first_seen": "2026-10-24",
-      "last_seen": "2026-10-24",
-      "status": "normal",
-      "example_titles": [
-        "MIT 연구: 혼자 방치된 AI 에이전트들이 자발적으로 게임을 시작, 과제 성과도 향상"
-      ]
-    },
-    "benchlm-leaderboard": {
-      "count": 1,
-      "first_seen": "2026-10-24",
-      "last_seen": "2026-10-24",
-      "status": "normal",
-      "example_titles": [
-        "BenchLM, 214개 모델 평가한 2026년 10월 LLM 리더보드 발표 — Claude Opus 5.5·Gemini 4 선두"
       ]
     },
     "google-gemini4-carbon": {
@@ -189,15 +36,6 @@
         "Google, 지난주 출시된 Gemini 4 Argon 업그레이드 버전 'Gemini 4 Carbon' 개발 중",
         "Google, Gemini 4 Carbon 공개 — 업데이트된 어려운 벤치마크서 세계 1위 탈환, 접근은 제한",
         "구글, 사이버 보안 특화 Gemini 4 Carbon 공개"
-      ]
-    },
-    "opencode-api-breach": {
-      "count": 1,
-      "first_seen": "2026-10-24",
-      "last_seen": "2026-10-24",
-      "status": "normal",
-      "example_titles": [
-        "OpenCode 보안 침해, 전체 이용자 1.4% API 키 노출 — Anthropic·Google 즉시 차단 조치"
       ]
     },
     "ai-php-vulnerability-discovery": {
@@ -699,13 +537,14 @@
       ]
     },
     "alphabet-q3-2026-earnings": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-31",
-      "status": "normal",
+      "last_seen": "2026-11-01",
+      "status": "demoted",
       "example_titles": [
         "알파벳 Q3 2026 실적: 매출 $127.6B +25%, 구글 클라우드 $30.7B +103%",
-        "Alphabet Q3 2026 실적: Google Cloud AI로 분기 매출 신기록 달성"
+        "Alphabet Q3 2026 실적: Google Cloud AI로 분기 매출 신기록 달성",
+        "알파벳 3분기 실적 — AI 자본지출 45% 급증에 클라우드 성장률 22%로 둔화"
       ]
     },
     "oracle-google-tpu-oci-deal": {
@@ -790,12 +629,13 @@
       ]
     },
     "ai-scraping-optout-coalition": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-31",
-      "last_seen": "2026-10-31",
+      "last_seen": "2026-11-01",
       "status": "normal",
       "example_titles": [
-        "주요 언론사·출판사, AI 스크래핑 차단 움직임 확산…기술 표준화 추진"
+        "주요 언론사·출판사, AI 스크래핑 차단 움직임 확산…기술 표준화 추진",
+        "구글·MS·OpenAI·Anthropic, AI 학습 데이터 옵트아웃 공통 표준 공식 지지"
       ]
     },
     "tbc-mischief-model": {
@@ -805,6 +645,123 @@
       "status": "normal",
       "example_titles": [
         "오픈소스 AI 모델 'Mischief', 추론 벤치마크에서 두각"
+      ]
+    },
+    "mistral-large4-open-weights": {
+      "count": 1,
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "status": "normal",
+      "example_titles": [
+        "Mistral Large 4 오픈 웨이트 공개 — 유럽 최초 1조 파라미터 모델"
+      ]
+    },
+    "claude-code-backdoor-supply-chain": {
+      "count": 1,
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "status": "normal",
+      "example_titles": [
+        "Claude Code 서드파티 의존성 패키지에서 백도어 발견 — 공급망 공격 확인"
+      ]
+    },
+    "openai-system-card-o3": {
+      "count": 1,
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, o3 시스템 카드 공개 — 에이전트 이탈 위험 공식 인정"
+      ]
+    },
+    "unified-reasoning-training": {
+      "count": 1,
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "status": "normal",
+      "example_titles": [
+        "MIT·스탠퍼드 연구, 통합 추론 학습으로 범용·전문 모델 성능 격차 40% 축소"
+      ]
+    },
+    "google-ai-sleep-architecture": {
+      "count": 1,
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "status": "normal",
+      "example_titles": [
+        "구글 딥마인드, 망각 없는 지속 학습 '슬립 아키텍처' 제안"
+      ]
+    },
+    "ai-hyperscaler-capex-slowdown": {
+      "count": 1,
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "status": "normal",
+      "example_titles": [
+        "월가, 하이퍼스케일러 AI 자본지출 2000억 달러에 ROI 없이 회의론 고조"
+      ]
+    },
+    "nvidia-nscale-acquisition": {
+      "count": 1,
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "status": "normal",
+      "example_titles": [
+        "엔비디아, AI 클라우드 스타트업 Nscale 7억 달러에 인수"
+      ]
+    },
+    "furiosaai-chip-series-d": {
+      "count": 1,
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "status": "normal",
+      "example_titles": [
+        "한국 AI 칩 스타트업 FuriosaAI, 시리즈 D 약 6200억 원 마무리 — 기업가치 4조 원"
+      ]
+    },
+    "baseten-series-c": {
+      "count": 1,
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "status": "normal",
+      "example_titles": [
+        "AI 모델 추론 플랫폼 Baseten, 시리즈 C 2억 달러 조달"
+      ]
+    },
+    "newyork-chatbot-minors-law": {
+      "count": 1,
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "status": "normal",
+      "example_titles": [
+        "뉴욕 주지사, 미성년자 AI 챗봇 이용 제한법 서명 — 위반 시 최대 2만5천 달러 벌금"
+      ]
+    },
+    "congress-ai-liability-shield": {
+      "count": 1,
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "status": "normal",
+      "example_titles": [
+        "미 상원 초당파 법안, AI 기업 안전 감사 조건부 연방 면책 특권 추진"
+      ]
+    },
+    "anthropic-ipo-philanthropy-pledge": {
+      "count": 1,
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "status": "normal",
+      "example_titles": [
+        "앤스로픽 S-1 공시, IPO 후 이익 80% AI 안전 자선 배정 명시"
+      ]
+    },
+    "openai-funding-1-25t": {
+      "count": 1,
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, 펀딩 목표 200억 달러로 축소 — 기업가치 1.25조 달러로 하향"
       ]
     }
   }
