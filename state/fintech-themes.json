@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updated": "2026-11-01",
+  "updated": "2026-11-02",
   "window_days": 7,
   "themes": [
     {
       "keyword": "occ-genius-act-stablecoin-final",
-      "count": 10,
+      "count": 11,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-02",
       "articles": [
         "regulation-occ-genius-act",
         "regulation-occ-genius-act",
@@ -18,14 +18,15 @@
         "regulation-occ-genius-final-1028",
         "regulation-genius-act-1029",
         "regulation-occ-genius-1031",
-        "regulation-occ-genius-act-stablecoin-1101"
+        "regulation-occ-genius-act-stablecoin-1101",
+        "regulation-occ-genius-act-stablecoin"
       ]
     },
     {
       "keyword": "korea-bigtech-prepaid-refund",
-      "count": 9,
+      "count": 10,
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-02",
       "articles": [
         "regulation-korea-prepaid-refund-1019",
         "regulation-korea-prepaid",
@@ -35,7 +36,8 @@
         "regulation-korea-prepaid-1029",
         "regulation-korea-prepaid-1030",
         "regulation-korea-prepaid-1031",
-        "regulation-korea-bigtech-prepaid-refund-1101"
+        "regulation-korea-bigtech-prepaid-refund-1101",
+        "regulation-korea-bigtech-prepaid"
       ]
     },
     {
@@ -67,6 +69,20 @@
       ]
     },
     {
+      "keyword": "revolut-boe-internal-probe",
+      "count": 6,
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-11-02",
+      "articles": [
+        "digital-banking-revolut-boe",
+        "digital-banking-revolut-boe-1029",
+        "digital-banking-revolut-boe-1030",
+        "digital-banking-revolut-boe-1031",
+        "digital-banking-revolut-boe-internal-probe-1101",
+        "digital-banking-revolut-boe-revenue"
+      ]
+    },
+    {
       "keyword": "toss-facepay-biometric",
       "count": 5,
       "first_seen": "2026-10-27",
@@ -77,19 +93,6 @@
         "payments-toss-facepay-1029",
         "payments-toss-facepay-1030",
         "payments-naverpay-toss-facepay-1031"
-      ]
-    },
-    {
-      "keyword": "revolut-boe-internal-probe",
-      "count": 5,
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-11-01",
-      "articles": [
-        "digital-banking-revolut-boe",
-        "digital-banking-revolut-boe-1029",
-        "digital-banking-revolut-boe-1030",
-        "digital-banking-revolut-boe-1031",
-        "digital-banking-revolut-boe-internal-probe-1101"
       ]
     },
     {
@@ -128,12 +131,13 @@
     },
     {
       "keyword": "stripe-b2b-pay-launch",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-31",
+      "last_seen": "2026-11-02",
       "articles": [
         "payments-stripe-b2b-1030",
-        "payments-stripe-b2b-1031"
+        "payments-stripe-b2b-1031",
+        "payments-stripe-b2b-instant"
       ]
     },
     {
@@ -148,12 +152,24 @@
     },
     {
       "keyword": "nhnonghyup-moonpay-finger-mou",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-02",
       "articles": [
         "remittance-nhnonghyup-moonpay-1031",
-        "remittance-nhnonghyup-moonpay-finger-mou-1101"
+        "remittance-nhnonghyup-moonpay-finger-mou-1101",
+        "remittance-nhnonghyup-moonpay-finger"
+      ]
+    },
+    {
+      "keyword": "epi-ideal-wero-migration",
+      "count": 3,
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-11-02",
+      "articles": [
+        "payments-epi-wero",
+        "payments-epi-wero-1030",
+        "payments-epi-wero-migration"
       ]
     },
     {
@@ -167,11 +183,12 @@
     },
     {
       "keyword": "tech-mahindra-mastercard-b2b",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-31",
-      "last_seen": "2026-10-31",
+      "last_seen": "2026-11-02",
       "articles": [
-        "payments-tech-mahindra-mastercard-1031"
+        "payments-tech-mahindra-mastercard-1031",
+        "payments-tech-mahindra-mastercard"
       ]
     },
     {
@@ -218,16 +235,6 @@
         "payments-canada-rtr",
         "payments-canada-rtr-1028",
         "payments-canada-rtr-1030"
-      ]
-    },
-    {
-      "keyword": "epi-ideal-wero-migration",
-      "count": 2,
-      "first_seen": "2026-10-29",
-      "last_seen": "2026-10-30",
-      "articles": [
-        "payments-epi-wero",
-        "payments-epi-wero-1030"
       ]
     },
     {
@@ -409,60 +416,6 @@
       ]
     },
     {
-      "keyword": "visa-b2b-agentic-commercial-card",
-      "count": 1,
-      "first_seen": "2026-10-25",
-      "last_seen": "2026-10-25",
-      "articles": [
-        "payments-visa-b2b-agentic"
-      ]
-    },
-    {
-      "keyword": "stripe-treasury-ai-agents",
-      "count": 1,
-      "first_seen": "2026-10-25",
-      "last_seen": "2026-10-25",
-      "articles": [
-        "payments-stripe-treasury-agents"
-      ]
-    },
-    {
-      "keyword": "moneygram-stablecoin-app-launch",
-      "count": 1,
-      "first_seen": "2026-10-25",
-      "last_seen": "2026-10-25",
-      "articles": [
-        "remittance-moneygram-stablecoin"
-      ]
-    },
-    {
-      "keyword": "nigeria-cbn-remittance-band-removal",
-      "count": 1,
-      "first_seen": "2026-10-25",
-      "last_seen": "2026-10-25",
-      "articles": [
-        "remittance-nigeria-cbn-band"
-      ]
-    },
-    {
-      "keyword": "customers-bank-palantir-aip",
-      "count": 1,
-      "first_seen": "2026-10-25",
-      "last_seen": "2026-10-25",
-      "articles": [
-        "digital-banking-customers-palantir"
-      ]
-    },
-    {
-      "keyword": "whop-series-d-funding",
-      "count": 1,
-      "first_seen": "2026-10-25",
-      "last_seen": "2026-10-25",
-      "articles": [
-        "investment-whop-series-d"
-      ]
-    },
-    {
       "keyword": "kalshi-billion-valuation",
       "count": 1,
       "first_seen": "2026-11-01",
@@ -473,11 +426,12 @@
     },
     {
       "keyword": "photonpay-40m-series-b",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-02",
       "articles": [
-        "investment-photonpay-40m-1101"
+        "investment-photonpay-40m-1101",
+        "investment-photonpay-40m"
       ]
     },
     {
@@ -491,11 +445,12 @@
     },
     {
       "keyword": "pakistan-fintech-remittance-q3",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-02",
       "articles": [
-        "remittance-pakistan-fintech-q3-1101"
+        "remittance-pakistan-fintech-q3-1101",
+        "remittance-pakistan-banks"
       ]
     },
     {
@@ -509,11 +464,12 @@
     },
     {
       "keyword": "docomo-smtb-digital-banking-2027",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-02",
       "articles": [
-        "digital-banking-docomo-smtb-1101"
+        "digital-banking-docomo-smtb-1101",
+        "digital-banking-docomo-smtb-neobank-cash"
       ]
     },
     {
@@ -523,6 +479,51 @@
       "last_seen": "2026-11-01",
       "articles": [
         "payments-polygon-solana-cross-chain-1101"
+      ]
+    },
+    {
+      "keyword": "ecb-digital-euro-providers",
+      "count": 1,
+      "first_seen": "2026-11-02",
+      "last_seen": "2026-11-02",
+      "articles": [
+        "payments-ecb-digital-euro-providers"
+      ]
+    },
+    {
+      "keyword": "paynet-duitnow-alipayplus",
+      "count": 1,
+      "first_seen": "2026-11-02",
+      "last_seen": "2026-11-02",
+      "articles": [
+        "payments-paynet-duitnow-alipayplus"
+      ]
+    },
+    {
+      "keyword": "apple-google-pay-uzbekistan",
+      "count": 1,
+      "first_seen": "2026-11-02",
+      "last_seen": "2026-11-02",
+      "articles": [
+        "payments-apple-google-uzbekistan"
+      ]
+    },
+    {
+      "keyword": "collective-selfemployed-100m",
+      "count": 1,
+      "first_seen": "2026-11-02",
+      "last_seen": "2026-11-02",
+      "articles": [
+        "investment-collective-100m"
+      ]
+    },
+    {
+      "keyword": "thailand-stablecoin-bnpl-regulation",
+      "count": 1,
+      "first_seen": "2026-11-02",
+      "last_seen": "2026-11-02",
+      "articles": [
+        "regulation-thailand-stablecoin-bnpl"
       ]
     }
   ]
