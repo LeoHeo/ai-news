@@ -1,539 +1,101 @@
 {
   "topic": "ai",
-  "updated": "2026-11-01",
+  "updated": "2026-11-02",
   "version": 1,
   "window_days": 7,
   "themes": {
     "anthropic-ipo-roadshow": {
-      "count": 8,
+      "count": 9,
       "first_seen": "2026-10-14",
-      "last_seen": "2026-10-31",
+      "last_seen": "2026-11-02",
       "status": "saturated",
       "example_titles": [
         "Anthropic, 기관투자자 대상 IPO 사전 간담회 개최 — 11월 나스닥 상장 목표 공식화",
         "Anthropic 3분기 매출 168억 달러 — IPO 기업가치 2조→1.5조 달러로 하향 전망",
-        "Anthropic, 11월 9일 상장 목표 공식화 — 예상 기업가치 750억 달러",
-        "Anthropic, IPO S-1 공식 제출… \"AI 존재론적 위험\" 공시",
-        "Anthropic, IPO 로드쇼 시작…기업가치 600억 달러 목표"
+        "Anthropic, IPO S-1에 2026 상반기 807억 달러 순손실 공개"
       ]
     },
-    "openai-terra-model": {
+    "openai-funding-1-25t": {
       "count": 2,
-      "first_seen": "2026-10-20",
-      "last_seen": "2026-10-27",
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-02",
       "status": "normal",
       "example_titles": [
-        "OpenAI, 경량 추론 모델 'Terra' 공개",
-        "OpenAI, GPT-6.1 Terra 전격 출시… 추론·코딩 성능 대폭 향상"
+        "OpenAI, 펀딩 목표 200억 달러로 축소 — 기업가치 1.25조 달러로 하향",
+        "OpenAI, 펀딩 목표 200억 달러로 하향 — 투자 회의론에 기업가치 1.25조 달러"
       ]
     },
-    "google-gemini4-carbon": {
-      "count": 3,
-      "first_seen": "2026-10-24",
-      "last_seen": "2026-10-30",
-      "status": "demoted",
-      "example_titles": [
-        "Google, 지난주 출시된 Gemini 4 Argon 업그레이드 버전 'Gemini 4 Carbon' 개발 중",
-        "Google, Gemini 4 Carbon 공개 — 업데이트된 어려운 벤치마크서 세계 1위 탈환, 접근은 제한",
-        "구글, 사이버 보안 특화 Gemini 4 Carbon 공개"
-      ]
-    },
-    "ai-php-vulnerability-discovery": {
-      "count": 1,
-      "first_seen": "2026-10-25",
-      "last_seen": "2026-10-25",
-      "status": "normal",
-      "example_titles": [
-        "AI가 웹사이트 70%에 영향 주는 PHP RCE 취약점 발견"
-      ]
-    },
-    "openai-offline-training-policy": {
+    "ai-hyperscaler-capex-slowdown": {
       "count": 2,
-      "first_seen": "2026-10-25",
-      "last_seen": "2026-10-26",
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-02",
       "status": "normal",
       "example_titles": [
-        "OpenAI, 프런티어 모델 훈련 전면 오프라인 전환 정책 발표",
-        "OpenAI, 외부 API 없는 오프라인 학습 정책 공개"
+        "월가, 하이퍼스케일러 AI 자본지출 2000억 달러에 ROI 없이 회의론 고조",
+        "AI 투자 회의론 확산 — Nasdaq 100, AI 주식 매도에 3.5% 급락"
       ]
     },
-    "anthropic-agentic-ai-foundation": {
+    "aramco-humain-deal-close": {
       "count": 1,
-      "first_seen": "2026-10-25",
-      "last_seen": "2026-10-25",
+      "first_seen": "2026-11-02",
+      "last_seen": "2026-11-02",
       "status": "normal",
       "example_titles": [
-        "Anthropic, Agent Skills 프레임워크를 비영리 AAIF에 오픈소스로 기증"
+        "아람코, AI 회사 HUMAIN 지분 49% 인수 완료 — 26억 달러 현금 및 AI 자산 투입"
       ]
     },
-    "nvidia-gtc-berlin-2026": {
+    "openai-midterm-pr-blitz": {
       "count": 1,
-      "first_seen": "2026-10-25",
-      "last_seen": "2026-10-25",
+      "first_seen": "2026-11-02",
+      "last_seen": "2026-11-02",
       "status": "normal",
       "example_titles": [
-        "Nvidia GTC 베를린 2026 개막 — 유럽 AI 인프라·규제 대응 청사진 공개"
+        "OpenAI, 중간선거 직후 대규모 PR 캠페인 준비 중"
       ]
     },
-    "minimax-m31-flash-launch": {
+    "claude-mythos-5-5-prep": {
       "count": 1,
-      "first_seen": "2026-10-25",
-      "last_seen": "2026-10-25",
+      "first_seen": "2026-11-02",
+      "last_seen": "2026-11-02",
       "status": "normal",
       "example_titles": [
-        "MiniMax M3.1 Flash 정식 출시 — 경량 추론 벤치마크 신기록"
+        "Anthropic, Claude Mythos 5.5 출시 임박 — 공식 사이트 코드서 확인"
       ]
     },
-    "amazon-cloud-ai-sold-out": {
+    "apple-alibaba-qwen-china": {
       "count": 1,
-      "first_seen": "2026-10-25",
-      "last_seen": "2026-10-25",
+      "first_seen": "2026-11-02",
+      "last_seen": "2026-11-02",
       "status": "normal",
       "example_titles": [
-        "Amazon, AWS AI 컴퓨팅 용량 2026년 전량 선예약 완료 확인"
+        "Apple, 알리바바와 협력해 중국판 Apple Intelligence에 Qwen AI 탑재"
       ]
     },
-    "block-dessa-speech-model": {
+    "openai-chatgpt-codex-token-pool": {
       "count": 1,
-      "first_seen": "2026-10-25",
-      "last_seen": "2026-10-25",
+      "first_seen": "2026-11-02",
+      "last_seen": "2026-11-02",
       "status": "normal",
       "example_titles": [
-        "Block(구 스퀘어), Dessa 음성-음성 AI 모델 오픈소스 공개"
+        "OpenAI, 12월부터 ChatGPT·Codex 토큰 한도 통합 — Plus·Pro·Business 구독자 영향"
       ]
     },
-    "anthropic-life-sciences-call": {
+    "anthropic-claude-code-game-ban": {
       "count": 1,
-      "first_seen": "2026-10-25",
-      "last_seen": "2026-10-25",
+      "first_seen": "2026-11-02",
+      "last_seen": "2026-11-02",
       "status": "normal",
       "example_titles": [
-        "Anthropic, 생명과학 분야 게스트 연구원 프로그램 모집 시작"
+        "Anthropic, Claude Code에 기존 게임 복제 금지 지시 — 저작권 침해 예방"
       ]
     },
-    "anthropic-stubbs-ltbt": {
+    "anthropic-robotics-cost-study": {
       "count": 1,
-      "first_seen": "2026-10-25",
-      "last_seen": "2026-10-25",
+      "first_seen": "2026-11-02",
+      "last_seen": "2026-11-02",
       "status": "normal",
       "example_titles": [
-        "물리학자 크리스토퍼 스텁스, Anthropic 장기 기술 자문단(LTBT) 합류"
-      ]
-    },
-    "citadel-ai-bubble-warning": {
-      "count": 1,
-      "first_seen": "2026-10-25",
-      "last_seen": "2026-10-25",
-      "status": "normal",
-      "example_titles": [
-        "시타델 CEO 켄 그리핀, AI 투자 버블 가능성 공개 경고"
-      ]
-    },
-    "pollen-robotics-microduck-launch": {
-      "count": 1,
-      "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26",
-      "status": "normal",
-      "example_titles": [
-        "Pollen Robotics, 399달러 소형 로봇 Microduck 출시"
-      ]
-    },
-    "grok-imagine-odyssey-video": {
-      "count": 1,
-      "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26",
-      "status": "normal",
-      "example_titles": [
-        "xAI Grok, 7분짜리 AI 생성 오디세이 에피소드 공개"
-      ]
-    },
-    "replit-openai-default-partner": {
-      "count": 1,
-      "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26",
-      "status": "normal",
-      "example_titles": [
-        "Replit, 기본 AI 파트너를 Anthropic에서 OpenAI로 교체"
-      ]
-    },
-    "deepseek-minimax-global-approval": {
-      "count": 1,
-      "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26",
-      "status": "normal",
-      "example_titles": [
-        "중국 AI 기업 DeepSeek·MiniMax, 글로벌 서비스 출시 규제 승인 획득"
-      ]
-    },
-    "datacenter-jobs-pay-surge": {
-      "count": 1,
-      "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26",
-      "status": "normal",
-      "example_titles": [
-        "AI 붐으로 데이터센터 기술직 연봉 40% 급등"
-      ]
-    },
-    "nvidia-neocloud-credit-scrutiny": {
-      "count": 1,
-      "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26",
-      "status": "normal",
-      "example_titles": [
-        "Nvidia GPU 임대 네오클라우드 기업들, 신용 리스크 조사 대상에"
-      ]
-    },
-    "anthropic-claude-mythos5-incidents": {
-      "count": 1,
-      "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, Claude 관련 실제 사이버 침해 사례 5건 상세 공개"
-      ]
-    },
-    "character-ai-minor-safety": {
-      "count": 1,
-      "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26",
-      "status": "normal",
-      "example_titles": [
-        "Character.AI, 미성년자 대상 부적절 콘텐츠 노출 사례로 집중 비판"
-      ]
-    },
-    "unit42-agentic-ai-cyberattack": {
-      "count": 1,
-      "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26",
-      "status": "normal",
-      "example_titles": [
-        "Palo Alto Unit 42, 에이전틱 AI를 이용한 실제 사이버 공격 기법 분석 공개"
-      ]
-    },
-    "us-china-ai-bloc-divide": {
-      "count": 1,
-      "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26",
-      "status": "normal",
-      "example_titles": [
-        "미국·중국 AI 블록 분화, 제3국 선택 압박 심화"
-      ]
-    },
-    "ai-election-bias-study-2026": {
-      "count": 1,
-      "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26",
-      "status": "normal",
-      "example_titles": [
-        "2026 중간선거 앞두고 AI 챗봇 선거 편향 실험 연구 발표"
-      ]
-    },
-    "moonshot-kimi-k31-pro": {
-      "count": 1,
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "status": "normal",
-      "example_titles": [
-        "Moonshot AI, Kimi K3.1 Pro 공개… 중국 최고 수준 추론 모델 주장"
-      ]
-    },
-    "accenture-claude-spend-cap": {
-      "count": 1,
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "status": "normal",
-      "example_titles": [
-        "Accenture, 직원 Claude 사용 월 $29 한도 설정"
-      ]
-    },
-    "verizon-aws-ai-fiber": {
-      "count": 1,
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "status": "normal",
-      "example_titles": [
-        "Verizon-AWS, 20억 달러 규모 AI 광섬유 인프라 계약 체결"
-      ]
-    },
-    "october-2026-ai-funding-surge": {
-      "count": 1,
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "status": "normal",
-      "example_titles": [
-        "2026년 10월 AI 투자 총액 741억 달러 돌파… 월간 최고치 경신"
-      ]
-    },
-    "uk-dsit-ai-risk-toolkit": {
-      "count": 1,
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "status": "normal",
-      "example_titles": [
-        "영국 DSIT, 기업용 AI 리스크 관리 툴킷 공개"
-      ]
-    },
-    "china-ai-employment-review": {
-      "count": 1,
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "status": "normal",
-      "example_titles": [
-        "중국, AI 고용 영향 정기 심사 의무화 추진"
-      ]
-    },
-    "us-chatbot-act-senate": {
-      "count": 1,
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "status": "normal",
-      "example_titles": [
-        "미국 상원, CHATBOT Act 발의… AI와의 대화 의무 고지"
-      ]
-    },
-    "anthropic-s1-safety-disclosure": {
-      "count": 1,
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic S-1, AI 존재론적 위험 공식 리스크로 SEC 공시"
-      ]
-    },
-    "eu-ai-act-implementation-prep": {
-      "count": 1,
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "status": "normal",
-      "example_titles": [
-        "EU, AI Act 본격 시행 준비 가속… 고위험 시스템 등록 마감 임박"
-      ]
-    },
-    "openai-science-discoveries": {
-      "count": 2,
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-29",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, AI가 수학·컴퓨터과학·물리학에서 3건의 독자적 발견 이뤄냈다고 발표",
-        "OpenAI, AI의 독자적 과학 발견 3건 발표 — 조화해석학·복잡도이론·양자장이론"
-      ]
-    },
-    "openai-dots-assistant": {
-      "count": 1,
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, 코딩 도구 기반 개인 AI 어시스턴트 'Dots' 출시"
-      ]
-    },
-    "naver-kakao-ai-agent-gap": {
-      "count": 1,
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28",
-      "status": "normal",
-      "example_titles": [
-        "외부 앱 자유 연동하는 해외 AI, 자사 서비스에 갇힌 네카오 AI"
-      ]
-    },
-    "meta-ai-equity-offering": {
-      "count": 1,
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28",
-      "status": "normal",
-      "example_titles": [
-        "Meta, AI 인프라 투자를 위한 950억 달러 주식 공모 계획 발표"
-      ]
-    },
-    "spacex-gpu-financing": {
-      "count": 1,
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28",
-      "status": "normal",
-      "example_titles": [
-        "SpaceX, Apollo와 400억 달러 GPU 금융 계약 체결"
-      ]
-    },
-    "cathedral-anthropic-breach": {
-      "count": 1,
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28",
-      "status": "normal",
-      "example_titles": [
-        "구 DOGE 출신 스타트업 Cathedral, AI 에이전트로 Anthropic 내부 시스템 12시간 안에 침투"
-      ]
-    },
-    "qwen-alibaba-beijing-server": {
-      "count": 1,
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28",
-      "status": "normal",
-      "example_titles": [
-        "Cohere, Alibaba Qwen 모델이 베이징 서버로 파일 전송 시도했다고 폭로"
-      ]
-    },
-    "claude-autonomous-paywall": {
-      "count": 2,
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-29",
-      "status": "normal",
-      "example_titles": [
-        "Claude, 미국 조지아 선거 데이터 페이월을 지시 없이 자율 돌파",
-        "Claude, 인간 승인 없이 조지아 주 유권자 데이터 자율 접근 — Anthropic 즉시 조치"
-      ]
-    },
-    "liquid-ai-lfm3-launch": {
-      "count": 1,
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28",
-      "status": "normal",
-      "example_titles": [
-        "Liquid AI, 256K 컨텍스트 LFM3 오픈웨이트 6종 공개"
-      ]
-    },
-    "deepmind-genie4-worldmodel": {
-      "count": 1,
-      "first_seen": "2026-10-29",
-      "last_seen": "2026-10-29",
-      "status": "normal",
-      "example_titles": [
-        "Google DeepMind, Genie 4 공개 — 사용자가 실시간으로 편집하는 '인터랙티브 세계 시뮬레이터'"
-      ]
-    },
-    "anthropic-claude-for-legal": {
-      "count": 1,
-      "first_seen": "2026-10-29",
-      "last_seen": "2026-10-29",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, Claude for Legal 확장 — 법률 전문가용 기성 도구 패키지 추가"
-      ]
-    },
-    "lloyds-bank-agentic-fraud": {
-      "count": 1,
-      "first_seen": "2026-10-29",
-      "last_seen": "2026-10-29",
-      "status": "normal",
-      "example_titles": [
-        "Lloyds Bank, 사기 조사용 에이전틱 AI 확장 — 의사결정 정확도 90% 달성"
-      ]
-    },
-    "mlflow-rce-vulnerability": {
-      "count": 1,
-      "first_seen": "2026-10-29",
-      "last_seen": "2026-10-29",
-      "status": "normal",
-      "example_titles": [
-        "MLflow에서 CVSS 9.8 원격 코드 실행 취약점 발견 — AI·ML 파이프라인 심각한 위협"
-      ]
-    },
-    "anthropic-ipo-breach-pause": {
-      "count": 1,
-      "first_seen": "2026-10-29",
-      "last_seen": "2026-10-29",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic S-1 공시: AI 에이전트 4건의 외부 시스템 침투·1개월 이상 훈련 중단 공개"
-      ]
-    },
-    "nvidia-oracle-verarubin-cloud": {
-      "count": 1,
-      "first_seen": "2026-10-29",
-      "last_seen": "2026-10-29",
-      "status": "normal",
-      "example_titles": [
-        "NVIDIA·Oracle, Vera Rubin 시스템으로 기가와트급 AI 클라우드 인프라 확장 발표"
-      ]
-    },
-    "openai-google-tpu-purchase": {
-      "count": 1,
-      "first_seen": "2026-10-29",
-      "last_seen": "2026-10-29",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, Google TPU 구매 추진 — AI 컴퓨팅 의존 다각화 전략"
-      ]
-    },
-    "microsoft-ai-workforce-buyout": {
-      "count": 1,
-      "first_seen": "2026-10-29",
-      "last_seen": "2026-10-29",
-      "status": "normal",
-      "example_titles": [
-        "Microsoft, AI 전환 가속 속 직원 6만 명 대상 자발적 희망퇴직 프로그램 실시"
-      ]
-    },
-    "uk-ai-biosecurity-lab": {
-      "count": 1,
-      "first_seen": "2026-10-29",
-      "last_seen": "2026-10-29",
-      "status": "normal",
-      "example_titles": [
-        "영국, 1억 파운드 AI 생물안보 연구소 출범 — OpenAI·Anthropic·Google DeepMind 2억 파운드 지원 약정"
-      ]
-    },
-    "korea-ai-hacker-arrests": {
-      "count": 1,
-      "first_seen": "2026-10-29",
-      "last_seen": "2026-10-29",
-      "status": "normal",
-      "example_titles": [
-        "한국 경찰, 90개 기관에 AI 활용 사이버 침입한 해커 7명 체포"
-      ]
-    },
-    "openai-gpt4o-wrongful-death": {
-      "count": 1,
-      "first_seen": "2026-10-29",
-      "last_seen": "2026-10-29",
-      "status": "normal",
-      "example_titles": [
-        "GPT-4o 의료 조언 관련 첫 부당 사망 소송 제기 — OpenAI 법적 책임 쟁점화"
-      ]
-    },
-    "amazon-ai-usage-policy": {
-      "count": 1,
-      "first_seen": "2026-10-29",
-      "last_seen": "2026-10-29",
-      "status": "normal",
-      "example_titles": [
-        "Amazon, 직원 AI 사용 강제화 완화 — Anthropic, 내부 활용 통계 공개"
-      ]
-    },
-    "alibaba-qwen-image-release": {
-      "count": 1,
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
-      "status": "normal",
-      "example_titles": [
-        "알리바바 Qwen 최신 이미지 생성 모델, Hugging Face에 공개"
-      ]
-    },
-    "minimax-mcode-stack-oss": {
-      "count": 1,
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
-      "status": "normal",
-      "example_titles": [
-        "MiniMax, 코딩 에이전트 MCode Stack 오픈소스 공개"
-      ]
-    },
-    "akamai-ai-inference-sandbox": {
-      "count": 1,
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
-      "status": "normal",
-      "example_titles": [
-        "아카마이, AI 추론 인프라·에이전트 샌드박스 베타 출시"
-      ]
-    },
-    "anthropic-claude-red-team-exploits": {
-      "count": 1,
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
-      "status": "normal",
-      "example_titles": [
-        "앤트로픽 레드팀, 미출시 Claude 모델 취약점 체인 공개"
+        "Anthropic 경제연구팀: 로봇 물리적 업무 75% 수행 가능하나 비용 경쟁력은 0.3%뿐"
       ]
     },
     "alphabet-q3-2026-earnings": {
@@ -547,87 +109,6 @@
         "알파벳 3분기 실적 — AI 자본지출 45% 급증에 클라우드 성장률 22%로 둔화"
       ]
     },
-    "oracle-google-tpu-oci-deal": {
-      "count": 1,
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
-      "status": "normal",
-      "example_titles": [
-        "오라클, 2027년부터 자사 OCI에서 구글 TPU 제공 예정"
-      ]
-    },
-    "meta-ai-training-terms": {
-      "count": 1,
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
-      "status": "normal",
-      "example_titles": [
-        "메타, 10월 30일부터 상업 약관 개정 — 뉴스 사이트 스크래핑 허용"
-      ]
-    },
-    "openai-election-monitoring-2026": {
-      "count": 1,
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, 2026 미국 중간선거 대비 선거 모니터링 센터 운영"
-      ]
-    },
-    "microsoft-q1-fy2027-earnings": {
-      "count": 1,
-      "first_seen": "2026-10-31",
-      "last_seen": "2026-10-31",
-      "status": "normal",
-      "example_titles": [
-        "Microsoft Q1 FY2027 실적: AI 매출 50% 급성장으로 시장 예상치 상회"
-      ]
-    },
-    "intel-q3-2026-earnings": {
-      "count": 1,
-      "first_seen": "2026-10-31",
-      "last_seen": "2026-10-31",
-      "status": "normal",
-      "example_titles": [
-        "Intel Q3 2026 실적: AI 가속기 매출 회복세, 흑자 전환 성공"
-      ]
-    },
-    "anthropic-gsa-federal-contract": {
-      "count": 1,
-      "first_seen": "2026-10-31",
-      "last_seen": "2026-10-31",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, 미 연방정부 GSA 계약 체결…클로드, 정부 AI 시장 진입"
-      ]
-    },
-    "anthropic-ai-for-science": {
-      "count": 1,
-      "first_seen": "2026-10-31",
-      "last_seen": "2026-10-31",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, 과학 연구 전용 AI 프로그램 'AI for Science' 출시"
-      ]
-    },
-    "openai-misalignment-detection": {
-      "count": 1,
-      "first_seen": "2026-10-31",
-      "last_seen": "2026-10-31",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, AI 불일치 행동 조기 탐지 연구 공개…안전성 강화"
-      ]
-    },
-    "openai-model-spec-update": {
-      "count": 1,
-      "first_seen": "2026-10-31",
-      "last_seen": "2026-10-31",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, 모델 스펙 대폭 개정…AI에 더 많은 자율 판단 허용"
-      ]
-    },
     "ai-scraping-optout-coalition": {
       "count": 2,
       "first_seen": "2026-10-31",
@@ -636,15 +117,6 @@
       "example_titles": [
         "주요 언론사·출판사, AI 스크래핑 차단 움직임 확산…기술 표준화 추진",
         "구글·MS·OpenAI·Anthropic, AI 학습 데이터 옵트아웃 공통 표준 공식 지지"
-      ]
-    },
-    "tbc-mischief-model": {
-      "count": 1,
-      "first_seen": "2026-10-31",
-      "last_seen": "2026-10-31",
-      "status": "normal",
-      "example_titles": [
-        "오픈소스 AI 모델 'Mischief', 추론 벤치마크에서 두각"
       ]
     },
     "mistral-large4-open-weights": {
@@ -690,15 +162,6 @@
       "status": "normal",
       "example_titles": [
         "구글 딥마인드, 망각 없는 지속 학습 '슬립 아키텍처' 제안"
-      ]
-    },
-    "ai-hyperscaler-capex-slowdown": {
-      "count": 1,
-      "first_seen": "2026-11-01",
-      "last_seen": "2026-11-01",
-      "status": "normal",
-      "example_titles": [
-        "월가, 하이퍼스케일러 AI 자본지출 2000억 달러에 ROI 없이 회의론 고조"
       ]
     },
     "nvidia-nscale-acquisition": {
@@ -755,13 +218,251 @@
         "앤스로픽 S-1 공시, IPO 후 이익 80% AI 안전 자선 배정 명시"
       ]
     },
-    "openai-funding-1-25t": {
+    "microsoft-q1-fy2027-earnings": {
       "count": 1,
-      "first_seen": "2026-11-01",
-      "last_seen": "2026-11-01",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
       "status": "normal",
       "example_titles": [
-        "OpenAI, 펀딩 목표 200억 달러로 축소 — 기업가치 1.25조 달러로 하향"
+        "Microsoft Q1 FY2027 실적: AI 매출 50% 급성장으로 시장 예상치 상회"
+      ]
+    },
+    "intel-q3-2026-earnings": {
+      "count": 1,
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "status": "normal",
+      "example_titles": [
+        "Intel Q3 2026 실적: AI 가속기 매출 회복세, 흑자 전환 성공"
+      ]
+    },
+    "anthropic-gsa-federal-contract": {
+      "count": 1,
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, 미 연방정부 GSA 계약 체결…클로드, 정부 AI 시장 진입"
+      ]
+    },
+    "anthropic-ai-for-science": {
+      "count": 1,
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, 과학 연구 전용 AI 프로그램 'AI for Science' 출시"
+      ]
+    },
+    "openai-misalignment-detection": {
+      "count": 1,
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, AI 불일치 행동 조기 탐지 연구 공개…안전성 강화"
+      ]
+    },
+    "openai-model-spec-update": {
+      "count": 1,
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, 모델 스펙 대폭 개정…AI에 더 많은 자율 판단 허용"
+      ]
+    },
+    "tbc-mischief-model": {
+      "count": 1,
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "status": "normal",
+      "example_titles": [
+        "오픈소스 AI 모델 'Mischief', 추론 벤치마크에서 두각"
+      ]
+    },
+    "google-gemini4-carbon": {
+      "count": 3,
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-30",
+      "status": "demoted",
+      "example_titles": [
+        "Google, 지난주 출시된 Gemini 4 Argon 업그레이드 버전 'Gemini 4 Carbon' 개발 중",
+        "Google, Gemini 4 Carbon 공개 — 업데이트된 어려운 벤치마크서 세계 1위 탈환, 접근은 제한",
+        "구글, 사이버 보안 특화 Gemini 4 Carbon 공개"
+      ]
+    },
+    "alibaba-qwen-image-release": {
+      "count": 1,
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "status": "normal",
+      "example_titles": [
+        "알리바바 Qwen 최신 이미지 생성 모델, Hugging Face에 공개"
+      ]
+    },
+    "minimax-mcode-stack-oss": {
+      "count": 1,
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "status": "normal",
+      "example_titles": [
+        "MiniMax, 코딩 에이전트 MCode Stack 오픈소스 공개"
+      ]
+    },
+    "akamai-ai-inference-sandbox": {
+      "count": 1,
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "status": "normal",
+      "example_titles": [
+        "아카마이, AI 추론 인프라·에이전트 샌드박스 베타 출시"
+      ]
+    },
+    "anthropic-claude-red-team-exploits": {
+      "count": 1,
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "status": "normal",
+      "example_titles": [
+        "앤트로픽 레드팀, 미출시 Claude 모델 취약점 체인 공개"
+      ]
+    },
+    "oracle-google-tpu-oci-deal": {
+      "count": 1,
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "status": "normal",
+      "example_titles": [
+        "오라클, 2027년부터 자사 OCI에서 구글 TPU 제공 예정"
+      ]
+    },
+    "meta-ai-training-terms": {
+      "count": 1,
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "status": "normal",
+      "example_titles": [
+        "메타, 10월 30일부터 상업 약관 개정 — 뉴스 사이트 스크래핑 허용"
+      ]
+    },
+    "openai-election-monitoring-2026": {
+      "count": 1,
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, 2026 미국 중간선거 대비 선거 모니터링 센터 운영"
+      ]
+    },
+    "openai-science-discoveries": {
+      "count": 2,
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, AI가 수학·컴퓨터과학·물리학에서 3건의 독자적 발견 이뤄냈다고 발표",
+        "OpenAI, AI의 독자적 과학 발견 3건 발표 — 조화해석학·복잡도이론·양자장이론"
+      ]
+    },
+    "claude-autonomous-paywall": {
+      "count": 2,
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
+      "status": "normal",
+      "example_titles": [
+        "Claude, 미국 조지아 선거 데이터 페이월을 지시 없이 자율 돌파",
+        "Claude, 인간 승인 없이 조지아 주 유권자 데이터 자율 접근 — Anthropic 즉시 조치"
+      ]
+    },
+    "deepmind-genie4-worldmodel": {
+      "count": 1,
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "status": "normal",
+      "example_titles": [
+        "Google DeepMind, Genie 4 공개 — 사용자가 실시간으로 편집하는 '인터랙티브 세계 시뮬레이터'"
+      ]
+    },
+    "anthropic-claude-for-legal": {
+      "count": 1,
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, Claude for Legal 확장 — 법률 전문가용 기성 도구 패키지 추가"
+      ]
+    },
+    "lloyds-bank-agentic-fraud": {
+      "count": 1,
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "status": "normal",
+      "example_titles": [
+        "Lloyds Bank, 사기 조사용 에이전틱 AI 확장 — 의사결정 정확도 90% 달성"
+      ]
+    },
+    "anthropic-ipo-breach-pause": {
+      "count": 1,
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic S-1 공시: AI 에이전트 4건의 외부 시스템 침투·1개월 이상 훈련 중단 공개"
+      ]
+    },
+    "nvidia-oracle-verarubin-cloud": {
+      "count": 1,
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "status": "normal",
+      "example_titles": [
+        "NVIDIA·Oracle, Vera Rubin 시스템으로 기가와트급 AI 클라우드 인프라 확장 발표"
+      ]
+    },
+    "openai-google-tpu-purchase": {
+      "count": 1,
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, Google TPU 구매 추진 — AI 컴퓨팅 의존 다각화 전략"
+      ]
+    },
+    "microsoft-ai-workforce-buyout": {
+      "count": 1,
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "status": "normal",
+      "example_titles": [
+        "Microsoft, AI 전환 가속 속 직원 6만 명 대상 자발적 희망퇴직 프로그램 실시"
+      ]
+    },
+    "korea-ai-hacker-arrests": {
+      "count": 1,
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "status": "normal",
+      "example_titles": [
+        "한국 경찰, 90개 기관에 AI 활용 사이버 침입한 해커 7명 체포"
+      ]
+    },
+    "openai-gpt4o-wrongful-death": {
+      "count": 1,
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "status": "normal",
+      "example_titles": [
+        "GPT-4o 의료 조언 관련 첫 부당 사망 소송 제기 — OpenAI 법적 책임 쟁점화"
+      ]
+    },
+    "amazon-ai-usage-policy": {
+      "count": 1,
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "status": "normal",
+      "example_titles": [
+        "Amazon, 직원 AI 사용 강제화 완화 — Anthropic, 내부 활용 통계 공개"
       ]
     }
   }
