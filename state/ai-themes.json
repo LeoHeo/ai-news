@@ -1,13 +1,13 @@
 {
   "topic": "ai",
-  "updated": "2026-11-02",
+  "updated": "2026-11-03",
   "version": 1,
   "window_days": 7,
   "themes": {
     "anthropic-ipo-roadshow": {
-      "count": 9,
+      "count": 10,
       "first_seen": "2026-10-14",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-03",
       "status": "saturated",
       "example_titles": [
         "Anthropic, 기관투자자 대상 IPO 사전 간담회 개최 — 11월 나스닥 상장 목표 공식화",
@@ -16,9 +16,9 @@
       ]
     },
     "openai-funding-1-25t": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-03",
       "status": "normal",
       "example_titles": [
         "OpenAI, 펀딩 목표 200억 달러로 축소 — 기업가치 1.25조 달러로 하향",
@@ -54,9 +54,9 @@
       ]
     },
     "claude-mythos-5-5-prep": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-03",
       "status": "normal",
       "example_titles": [
         "Anthropic, Claude Mythos 5.5 출시 임박 — 공식 사이트 코드서 확인"
@@ -72,18 +72,18 @@
       ]
     },
     "openai-chatgpt-codex-token-pool": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-03",
       "status": "normal",
       "example_titles": [
         "OpenAI, 12월부터 ChatGPT·Codex 토큰 한도 통합 — Plus·Pro·Business 구독자 영향"
       ]
     },
     "anthropic-claude-code-game-ban": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-03",
       "status": "normal",
       "example_titles": [
         "Anthropic, Claude Code에 기존 게임 복제 금지 지시 — 저작권 침해 예방"
@@ -463,6 +463,42 @@
       "status": "normal",
       "example_titles": [
         "Amazon, 직원 AI 사용 강제화 완화 — Anthropic, 내부 활용 통계 공개"
+      ]
+    },
+    "abu-dhabi-openai-gov-deals": {
+      "count": 1,
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "status": "normal",
+      "example_titles": [
+        "아부다비, AI 네이티브 정부 위해 OpenAI와 4건 파트너십 체결"
+      ]
+    },
+    "anthropic-claude-eu-watermark": {
+      "count": 1,
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, EU AI Act 의무로 구형 Claude 4종 텍스트 워터마크 적용"
+      ]
+    },
+    "openai-2028-election-lobbying": {
+      "count": 1,
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI 로비스트, 2028 대선 후보들에 AI 정책 준비 촉구"
+      ]
+    },
+    "deepfake-apps-platform-network": {
+      "count": 1,
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "status": "normal",
+      "example_titles": [
+        "Wired, Apple·Meta 앱스토어 딥페이크 앱 400종 네트워크 폭로"
       ]
     }
   }
