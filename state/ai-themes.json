@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-11-03",
+  "updated": "2026-11-04",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -72,21 +72,23 @@
       ]
     },
     "openai-chatgpt-codex-token-pool": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "status": "normal",
       "example_titles": [
-        "OpenAI, 12월부터 ChatGPT·Codex 토큰 한도 통합 — Plus·Pro·Business 구독자 영향"
+        "OpenAI, 12월부터 ChatGPT·Codex 토큰 한도 통합 — Plus·Pro·Business 구독자 영향",
+        "OpenAI, ChatGPT '채팅·워크' 탭 통합 — Codex와 토큰 한도 일원화 함께 시행"
       ]
     },
     "anthropic-claude-code-game-ban": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-03",
-      "status": "normal",
+      "last_seen": "2026-11-04",
+      "status": "demoted",
       "example_titles": [
-        "Anthropic, Claude Code에 기존 게임 복제 금지 지시 — 저작권 침해 예방"
+        "Anthropic, Claude Code에 기존 게임 복제 금지 지시 — 저작권 침해 예방",
+        "Anthropic, Claude Code에 기존 게임 복제 금지 지시 추가"
       ]
     },
     "anthropic-robotics-cost-study": {
@@ -499,6 +501,123 @@
       "status": "normal",
       "example_titles": [
         "Wired, Apple·Meta 앱스토어 딥페이크 앱 400종 네트워크 폭로"
+      ]
+    },
+    "anthropic-rsi-warning": {
+      "count": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, \"AI 재귀적 자기개선(RSI) 능력 임박\" 공식 경고"
+      ]
+    },
+    "publishers-brave-lawsuit": {
+      "count": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "status": "normal",
+      "example_titles": [
+        "뉴욕타임스 등 언론사 연합, Brave 브라우저의 AI 스크래핑·페이월 우회 혐의로 소송"
+      ]
+    },
+    "gpt6-astra-weight-editing": {
+      "count": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "status": "normal",
+      "example_titles": [
+        "GPT-6 Astra, Qwen 모델 가중치 직접 편집 — 수학 능력 6배 향상 보고"
+      ]
+    },
+    "openai-lifeval-benchmark": {
+      "count": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, 일상 과제 AI 성능 측정 벤치마크 'LifeVal' 출시"
+      ]
+    },
+    "agentic-web-analysis": {
+      "count": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "status": "normal",
+      "example_titles": [
+        "MIT 테크리뷰, \"에이전트 웹 시대 도래\""
+      ]
+    },
+    "openai-loyalty-humans-spec": {
+      "count": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, AI 모델 행동 원칙 발표 — '인간에 대한 충성'을 최우선으로 제시"
+      ]
+    },
+    "musk-grok-bot-throttle": {
+      "count": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "status": "normal",
+      "example_titles": [
+        "머스크, Grok 봇 사용 한도 긴급 축소 — \"지속 불가능한 비용\" 공개 인정"
+      ]
+    },
+    "xiaomi-ai-hardware-oss": {
+      "count": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "status": "normal",
+      "example_titles": [
+        "샤오미, 약 150위안짜리 AI 하드웨어 오픈소스 공개 — 에이전트·스마트홈 제어"
+      ]
+    },
+    "42ai-behavior-world-model": {
+      "count": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "status": "normal",
+      "example_titles": [
+        "42AI, 6250만 달러 투자 유치로 스텔스 모드 해제 — 인간 행동 예측 세계 모델 공개"
+      ]
+    },
+    "trajectory-ai-training-funding": {
+      "count": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "status": "normal",
+      "example_titles": [
+        "Trajectory, 비기술 전문가도 AI 모델 훈련 가능한 플랫폼으로 4500만 달러 조달"
+      ]
+    },
+    "pixverse-openai-partnership": {
+      "count": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "status": "normal",
+      "example_titles": [
+        "PixVerse(아이시 테크놀로지)와 OpenAI, AI 비디오 창작 분야 심층 파트너십 체결"
+      ]
+    },
+    "openai-grid-protectors-program": {
+      "count": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, 데이터센터 전력망 안정화 지원 프로그램 'Grid Protectors' 출범"
+      ]
+    },
+    "sensetime-sensenova-flash": {
+      "count": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "status": "normal",
+      "example_titles": [
+        "센스타임, 고신뢰 과제 특화 모델 'SenseNova 6.8 Flash' 무료 공개"
       ]
     }
   }
