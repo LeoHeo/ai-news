@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-02",
+  "updated": "2026-11-03",
   "window_days": 7,
   "themes": [
     {
@@ -24,9 +24,9 @@
     },
     {
       "keyword": "korea-bigtech-prepaid-refund",
-      "count": 10,
+      "count": 11,
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-03",
       "articles": [
         "regulation-korea-prepaid-refund-1019",
         "regulation-korea-prepaid",
@@ -37,7 +37,8 @@
         "regulation-korea-prepaid-1030",
         "regulation-korea-prepaid-1031",
         "regulation-korea-bigtech-prepaid-refund-1101",
-        "regulation-korea-bigtech-prepaid"
+        "regulation-korea-bigtech-prepaid",
+        "regulation-korea-bigtech-prepaid-refund"
       ]
     },
     {
@@ -84,15 +85,16 @@
     },
     {
       "keyword": "toss-facepay-biometric",
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-31",
+      "last_seen": "2026-11-03",
       "articles": [
         "payments-toss-facepay",
         "payments-toss-facepay-1028",
         "payments-toss-facepay-1029",
         "payments-toss-facepay-1030",
-        "payments-naverpay-toss-facepay-1031"
+        "payments-naverpay-toss-facepay-1031",
+        "payments-naver-toss-facepay"
       ]
     },
     {
@@ -183,12 +185,13 @@
     },
     {
       "keyword": "tech-mahindra-mastercard-b2b",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-03",
       "articles": [
         "payments-tech-mahindra-mastercard-1031",
-        "payments-tech-mahindra-mastercard"
+        "payments-tech-mahindra-mastercard",
+        "payments-tech-mahindra-mastercard-b2b"
       ]
     },
     {
@@ -344,78 +347,6 @@
       ]
     },
     {
-      "keyword": "embedded-finance-us-compliance",
-      "count": 6,
-      "first_seen": "2026-10-05",
-      "last_seen": "2026-10-26",
-      "articles": [
-        "lending-embedded-finance-us-reg",
-        "regulation-embedded-finance",
-        "lending-embedded-finance-us-regs",
-        "regulation-embedded-finance-us",
-        "regulation-embedded-finance",
-        "regulation-embedded-finance-us"
-      ]
-    },
-    {
-      "keyword": "ramp-national-trust-charter",
-      "count": 4,
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-26",
-      "articles": [
-        "digital-banking-ramp-charter",
-        "digital-banking-ramp-charter",
-        "digital-banking-ramp-charter-1023",
-        "digital-banking-ramp-charter-1026"
-      ]
-    },
-    {
-      "keyword": "mastercard-stablecoin-security-svc",
-      "count": 2,
-      "first_seen": "2026-10-22",
-      "last_seen": "2026-10-26",
-      "articles": [
-        "payments-mastercard-stablecoin-sec",
-        "payments-mastercard-stablecoin-sec"
-      ]
-    },
-    {
-      "keyword": "kakao-pay-ai-agent-keynote",
-      "count": 1,
-      "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26",
-      "articles": [
-        "digital-banking-kakao-pay-ai-agent"
-      ]
-    },
-    {
-      "keyword": "fintech-banking-partner-leverage",
-      "count": 1,
-      "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26",
-      "articles": [
-        "digital-banking-fintech-bank-leverage"
-      ]
-    },
-    {
-      "keyword": "fintech-weekly-deals-oct25",
-      "count": 1,
-      "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26",
-      "articles": [
-        "investment-fintech-weekly-oct25"
-      ]
-    },
-    {
-      "keyword": "bis-crossborder-paper-1385",
-      "count": 1,
-      "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26",
-      "articles": [
-        "remittance-bis-crossborder-paper"
-      ]
-    },
-    {
       "keyword": "kalshi-billion-valuation",
       "count": 1,
       "first_seen": "2026-11-01",
@@ -464,12 +395,13 @@
     },
     {
       "keyword": "docomo-smtb-digital-banking-2027",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-03",
       "articles": [
         "digital-banking-docomo-smtb-1101",
-        "digital-banking-docomo-smtb-neobank-cash"
+        "digital-banking-docomo-smtb-neobank-cash",
+        "digital-banking-docomo-smtb-neobank-cash-1103"
       ]
     },
     {
@@ -524,6 +456,132 @@
       "last_seen": "2026-11-02",
       "articles": [
         "regulation-thailand-stablecoin-bnpl"
+      ]
+    },
+    {
+      "keyword": "global-payments-pe-takeover",
+      "count": 1,
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "articles": [
+        "investment-global-payments-pe-takeover"
+      ]
+    },
+    {
+      "keyword": "opay-ipo-withdrawal",
+      "count": 1,
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "articles": [
+        "investment-opay-ipo-withdrawal"
+      ]
+    },
+    {
+      "keyword": "bilt-lava-acquisition",
+      "count": 1,
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "articles": [
+        "investment-bilt-lava-acquisition"
+      ]
+    },
+    {
+      "keyword": "nevis-series-b-ai-wealth",
+      "count": 1,
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "articles": [
+        "investment-nevis-series-b"
+      ]
+    },
+    {
+      "keyword": "revolut-nz-bank-license",
+      "count": 1,
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "articles": [
+        "digital-banking-revolut-nz-license"
+      ]
+    },
+    {
+      "keyword": "nbkc-baas-lincoln",
+      "count": 1,
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "articles": [
+        "digital-banking-nbkc-baas-lincoln"
+      ]
+    },
+    {
+      "keyword": "okx-mastercard-card-us",
+      "count": 1,
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "articles": [
+        "payments-okx-mastercard-card-us"
+      ]
+    },
+    {
+      "keyword": "uber-hsbc-tokenized-deposits",
+      "count": 1,
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "articles": [
+        "payments-uber-hsbc-tokenized-deposits"
+      ]
+    },
+    {
+      "keyword": "cimb-duitnow-alipayplus-expand",
+      "count": 1,
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "articles": [
+        "payments-cimb-duitnow-alipayplus"
+      ]
+    },
+    {
+      "keyword": "thunes-unionpay-china-payout",
+      "count": 1,
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "articles": [
+        "remittance-thunes-unionpay-china"
+      ]
+    },
+    {
+      "keyword": "razorpay-ifsca-licence",
+      "count": 1,
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "articles": [
+        "remittance-razorpay-ifsca"
+      ]
+    },
+    {
+      "keyword": "korea-digital-asset-basic-act",
+      "count": 1,
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "articles": [
+        "regulation-korea-digital-asset-basic-act"
+      ]
+    },
+    {
+      "keyword": "sepa-address-deadline-postponed",
+      "count": 1,
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "articles": [
+        "regulation-sepa-address-postponed"
+      ]
+    },
+    {
+      "keyword": "klarna-squire-bnpl-barbershops",
+      "count": 1,
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "articles": [
+        "lending-klarna-squire-bnpl"
       ]
     }
   ]
