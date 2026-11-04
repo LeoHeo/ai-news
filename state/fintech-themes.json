@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-03",
+  "updated": "2026-11-04",
   "window_days": 7,
   "themes": [
     {
@@ -24,9 +24,9 @@
     },
     {
       "keyword": "korea-bigtech-prepaid-refund",
-      "count": 11,
+      "count": 12,
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "articles": [
         "regulation-korea-prepaid-refund-1019",
         "regulation-korea-prepaid",
@@ -38,7 +38,8 @@
         "regulation-korea-prepaid-1031",
         "regulation-korea-bigtech-prepaid-refund-1101",
         "regulation-korea-bigtech-prepaid",
-        "regulation-korea-bigtech-prepaid-refund"
+        "regulation-korea-bigtech-prepaid-refund",
+        "regulation-korea-bigtech-prepaid-1104"
       ]
     },
     {
@@ -85,16 +86,17 @@
     },
     {
       "keyword": "toss-facepay-biometric",
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "articles": [
         "payments-toss-facepay",
         "payments-toss-facepay-1028",
         "payments-toss-facepay-1029",
         "payments-toss-facepay-1030",
         "payments-naverpay-toss-facepay-1031",
-        "payments-naver-toss-facepay"
+        "payments-naver-toss-facepay",
+        "payments-toss-facepay-1104"
       ]
     },
     {
@@ -320,33 +322,6 @@
       ]
     },
     {
-      "keyword": "tech-mahindra-finastra-partnership",
-      "count": 1,
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "articles": [
-        "investment-tech-mahindra-finastra"
-      ]
-    },
-    {
-      "keyword": "finsei-thredd-embedded-investing",
-      "count": 1,
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "articles": [
-        "payments-finsei-thredd"
-      ]
-    },
-    {
-      "keyword": "quirin-tuum-core-banking",
-      "count": 1,
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "articles": [
-        "digital-banking-quirin-tuum"
-      ]
-    },
-    {
       "keyword": "kalshi-billion-valuation",
       "count": 1,
       "first_seen": "2026-11-01",
@@ -357,12 +332,13 @@
     },
     {
       "keyword": "photonpay-40m-series-b",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-04",
       "articles": [
         "investment-photonpay-40m-1101",
-        "investment-photonpay-40m"
+        "investment-photonpay-40m",
+        "investment-photonpay-40m-1104"
       ]
     },
     {
@@ -395,13 +371,14 @@
     },
     {
       "keyword": "docomo-smtb-digital-banking-2027",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "articles": [
         "digital-banking-docomo-smtb-1101",
         "digital-banking-docomo-smtb-neobank-cash",
-        "digital-banking-docomo-smtb-neobank-cash-1103"
+        "digital-banking-docomo-smtb-neobank-cash-1103",
+        "digital-banking-docomo-smtb-1104"
       ]
     },
     {
@@ -460,20 +437,22 @@
     },
     {
       "keyword": "global-payments-pe-takeover",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "articles": [
-        "investment-global-payments-pe-takeover"
+        "investment-global-payments-pe-takeover",
+        "investment-global-payments-pe-1104"
       ]
     },
     {
       "keyword": "opay-ipo-withdrawal",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "articles": [
-        "investment-opay-ipo-withdrawal"
+        "investment-opay-ipo-withdrawal",
+        "investment-opay-ipo-1104"
       ]
     },
     {
@@ -487,20 +466,22 @@
     },
     {
       "keyword": "nevis-series-b-ai-wealth",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "articles": [
-        "investment-nevis-series-b"
+        "investment-nevis-series-b",
+        "investment-nevis-series-b-1104"
       ]
     },
     {
       "keyword": "revolut-nz-bank-license",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "articles": [
-        "digital-banking-revolut-nz-license"
+        "digital-banking-revolut-nz-license",
+        "digital-banking-revolut-nz-1104"
       ]
     },
     {
@@ -514,20 +495,22 @@
     },
     {
       "keyword": "okx-mastercard-card-us",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "articles": [
-        "payments-okx-mastercard-card-us"
+        "payments-okx-mastercard-card-us",
+        "payments-okx-mastercard-1104"
       ]
     },
     {
       "keyword": "uber-hsbc-tokenized-deposits",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "articles": [
-        "payments-uber-hsbc-tokenized-deposits"
+        "payments-uber-hsbc-tokenized-deposits",
+        "payments-uber-hsbc-1104"
       ]
     },
     {
@@ -541,29 +524,32 @@
     },
     {
       "keyword": "thunes-unionpay-china-payout",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "articles": [
-        "remittance-thunes-unionpay-china"
+        "remittance-thunes-unionpay-china",
+        "remittance-thunes-unionpay-1104"
       ]
     },
     {
       "keyword": "razorpay-ifsca-licence",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "articles": [
-        "remittance-razorpay-ifsca"
+        "remittance-razorpay-ifsca",
+        "remittance-razorpay-ifsca-1104"
       ]
     },
     {
       "keyword": "korea-digital-asset-basic-act",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "articles": [
-        "regulation-korea-digital-asset-basic-act"
+        "regulation-korea-digital-asset-basic-act",
+        "regulation-korea-digital-asset-1104"
       ]
     },
     {
@@ -582,6 +568,24 @@
       "last_seen": "2026-11-03",
       "articles": [
         "lending-klarna-squire-bnpl"
+      ]
+    },
+    {
+      "keyword": "tencent-visa-agentic-mou",
+      "count": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "articles": [
+        "payments-tencent-visa-mou-1104"
+      ]
+    },
+    {
+      "keyword": "klarna-instore-bnpl",
+      "count": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "articles": [
+        "lending-klarna-clover-bnpl-1104"
       ]
     }
   ]
