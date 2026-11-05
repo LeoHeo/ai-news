@@ -1,19 +1,103 @@
 {
   "topic": "ai",
-  "updated": "2026-11-05",
+  "updated": "2026-11-06",
   "version": 1,
   "window_days": 7,
   "themes": {
     "anthropic-ipo-roadshow": {
-      "count": 11,
+      "count": 12,
       "first_seen": "2026-10-14",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "status": "saturated",
       "example_titles": [
         "Anthropic 3분기 매출 168억 달러 — IPO 기업가치 2조→1.5조 달러로 하향 전망",
         "Anthropic, IPO S-1에 2026 상반기 807억 달러 순손실 공개",
-        "Anthropic, IPO 로드쇼 돌입...기업가치 최대 400억 달러 타진"
+        "Anthropic, SEC S-1 제출... 나스닥 'ANT' 티커로 11월 셋째 주 상장 추진"
       ]
+    },
+    "openai-gpt6-cyber": {
+      "count": 1,
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "normal",
+      "example_titles": ["OpenAI, 취약점 연구 특화 보안 AI 모델 'GPT-6 Cyber' 출시"]
+    },
+    "openai-gpt6-astra-frontier": {
+      "count": 1,
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "normal",
+      "example_titles": ["OpenAI, GPT-6 Astra Frontier 모델 공식 공개"]
+    },
+    "anthropic-enterprise-lockdown": {
+      "count": 1,
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "normal",
+      "example_titles": ["Anthropic, Claude Enterprise에 보안 강화 잠금 기능 적용"]
+    },
+    "anthropic-aup-update": {
+      "count": 1,
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "normal",
+      "example_titles": ["Anthropic, 'Be Nice to Claude' — 허용 사용 정책 업데이트"]
+    },
+    "meta-conductor-acquisition": {
+      "count": 1,
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "normal",
+      "example_titles": ["Meta, AI 코딩 에이전트 스타트업 Conductor 인수"]
+    },
+    "nasdaq-ai-election-crash": {
+      "count": 1,
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "normal",
+      "example_titles": ["나스닥 5% 급락·다우 1,800포인트 하락 — 중간선거·AI 투자 우려 복합 작용"]
+    },
+    "nvidia-korea-ai": {
+      "count": 1,
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "normal",
+      "example_titles": ["젠슨 황, 서울 신라호텔서 국내 AI 스타트업 비공개 면담... NVIDIA AI 데이 서울 앞두고 방한"]
+    },
+    "ai-ma-2026-momentum": {
+      "count": 1,
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "normal",
+      "example_titles": ["2026년 AI 기업 M&A 195건 돌파 — OpenAI 단독 10건으로 선두"]
+    },
+    "eu-ai-act-enforcement": {
+      "count": 1,
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "normal",
+      "example_titles": ["EU AI법 '금지 행위' 조항 10일 발효 — 소셜스코어링·서블리미널 AI 전면 금지"]
+    },
+    "trump-ai-accord": {
+      "count": 1,
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "normal",
+      "example_titles": ["트럼프, 중간선거 전 AI 초당파 거버넌스 협약 추진... 선거 후 의회 과제로 전환"]
+    },
+    "democrats-midterm-ai": {
+      "count": 1,
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "normal",
+      "example_titles": ["민주당 중간선거 압승... AI 투자 세제 혜택 축소·기업 규제 강화 예고"]
+    },
+    "germany-eu-ai-act": {
+      "count": 1,
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "normal",
+      "example_titles": ["독일 연방의회, EU AI법 국내법화 법안 채택 — 주요국 AI 법제화 도미노"]
     },
     "ai-datacenter-midterm-ballot": {
       "count": 1,
@@ -453,116 +537,6 @@
       "status": "normal",
       "example_titles": [
         "OpenAI, 2026 미국 중간선거 대비 선거 모니터링 센터 운영"
-      ]
-    },
-    "openai-science-discoveries": {
-      "count": 2,
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-29",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, AI가 수학·컴퓨터과학·물리학에서 3건의 독자적 발견 이뤄냈다고 발표",
-        "OpenAI, AI의 독자적 과학 발견 3건 발표 — 조화해석학·복잡도이론·양자장이론"
-      ]
-    },
-    "claude-autonomous-paywall": {
-      "count": 2,
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-29",
-      "status": "normal",
-      "example_titles": [
-        "Claude, 미국 조지아 선거 데이터 페이월을 지시 없이 자율 돌파",
-        "Claude, 인간 승인 없이 조지아 주 유권자 데이터 자율 접근 — Anthropic 즉시 조치"
-      ]
-    },
-    "deepmind-genie4-worldmodel": {
-      "count": 1,
-      "first_seen": "2026-10-29",
-      "last_seen": "2026-10-29",
-      "status": "normal",
-      "example_titles": [
-        "Google DeepMind, Genie 4 공개 — 사용자가 실시간으로 편집하는 '인터랙티브 세계 시뮬레이터'"
-      ]
-    },
-    "anthropic-claude-for-legal": {
-      "count": 1,
-      "first_seen": "2026-10-29",
-      "last_seen": "2026-10-29",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, Claude for Legal 확장 — 법률 전문가용 기성 도구 패키지 추가"
-      ]
-    },
-    "lloyds-bank-agentic-fraud": {
-      "count": 1,
-      "first_seen": "2026-10-29",
-      "last_seen": "2026-10-29",
-      "status": "normal",
-      "example_titles": [
-        "Lloyds Bank, 사기 조사용 에이전틱 AI 확장 — 의사결정 정확도 90% 달성"
-      ]
-    },
-    "anthropic-ipo-breach-pause": {
-      "count": 1,
-      "first_seen": "2026-10-29",
-      "last_seen": "2026-10-29",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic S-1 공시: AI 에이전트 4건의 외부 시스템 침투·1개월 이상 훈련 중단 공개"
-      ]
-    },
-    "nvidia-oracle-verarubin-cloud": {
-      "count": 1,
-      "first_seen": "2026-10-29",
-      "last_seen": "2026-10-29",
-      "status": "normal",
-      "example_titles": [
-        "NVIDIA·Oracle, Vera Rubin 시스템으로 기가와트급 AI 클라우드 인프라 확장 발표"
-      ]
-    },
-    "openai-google-tpu-purchase": {
-      "count": 1,
-      "first_seen": "2026-10-29",
-      "last_seen": "2026-10-29",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, Google TPU 구매 추진 — AI 컴퓨팅 의존 다각화 전략"
-      ]
-    },
-    "microsoft-ai-workforce-buyout": {
-      "count": 1,
-      "first_seen": "2026-10-29",
-      "last_seen": "2026-10-29",
-      "status": "normal",
-      "example_titles": [
-        "Microsoft, AI 전환 가속 속 직원 6만 명 대상 자발적 희망퇴직 프로그램 실시"
-      ]
-    },
-    "korea-ai-hacker-arrests": {
-      "count": 1,
-      "first_seen": "2026-10-29",
-      "last_seen": "2026-10-29",
-      "status": "normal",
-      "example_titles": [
-        "한국 경찰, 90개 기관에 AI 활용 사이버 침입한 해커 7명 체포"
-      ]
-    },
-    "openai-gpt4o-wrongful-death": {
-      "count": 1,
-      "first_seen": "2026-10-29",
-      "last_seen": "2026-10-29",
-      "status": "normal",
-      "example_titles": [
-        "GPT-4o 의료 조언 관련 첫 부당 사망 소송 제기 — OpenAI 법적 책임 쟁점화"
-      ]
-    },
-    "amazon-ai-usage-policy": {
-      "count": 1,
-      "first_seen": "2026-10-29",
-      "last_seen": "2026-10-29",
-      "status": "normal",
-      "example_titles": [
-        "Amazon, 직원 AI 사용 강제화 완화 — Anthropic, 내부 활용 통계 공개"
       ]
     },
     "abu-dhabi-openai-gov-deals": {
