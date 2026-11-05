@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-05",
+  "updated": "2026-11-06",
   "window_days": 7,
   "themes": [
     {
@@ -282,38 +282,6 @@
       ]
     },
     {
-      "keyword": "revolut-philippines-launch",
-      "count": 3,
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-29",
-      "articles": [
-        "digital-banking-revolut-ph",
-        "digital-banking-revolut-ph-1028",
-        "digital-banking-revolut-ph-1029"
-      ]
-    },
-    {
-      "keyword": "coinbase-ireland-fine",
-      "count": 3,
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-29",
-      "articles": [
-        "regulation-coinbase-ireland-fine",
-        "regulation-coinbase-ireland-1028",
-        "regulation-coinbase-ireland-1029"
-      ]
-    },
-    {
-      "keyword": "global-fintech-q3-funding-decline",
-      "count": 2,
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-29",
-      "articles": [
-        "investment-fintech-q3-funding",
-        "investment-global-q3-funding-1029"
-      ]
-    },
-    {
       "keyword": "kalshi-billion-valuation",
       "count": 1,
       "first_seen": "2026-11-01",
@@ -430,12 +398,13 @@
     },
     {
       "keyword": "global-payments-pe-takeover",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "articles": [
         "investment-global-payments-pe-takeover",
         "investment-global-payments-pe-1104",
+        "investment-global-payments-lbo",
         "investment-global-payments-lbo"
       ]
     },
@@ -544,12 +513,13 @@
     },
     {
       "keyword": "korea-digital-asset-basic-act",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "articles": [
         "regulation-korea-digital-asset-basic-act",
         "regulation-korea-digital-asset-1104",
+        "regulation-korea-digital-asset-act",
         "regulation-korea-digital-asset-act"
       ]
     },
@@ -592,20 +562,22 @@
     },
     {
       "keyword": "tencent-mastercard-agentic-mou",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "articles": [
+        "payments-tencent-mastercard-mou",
         "payments-tencent-mastercard-mou"
       ]
     },
     {
       "keyword": "stripe-stablecoin-global-payouts",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "articles": [
-        "payments-stripe-stablecoin-payouts"
+        "payments-stripe-stablecoin-payouts",
+        "payments-stripe-stablecoin-160markets"
       ]
     },
     {
@@ -637,11 +609,102 @@
     },
     {
       "keyword": "revolut-115b-valuation",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "articles": [
-        "investment-revolut-115b"
+        "investment-revolut-115b",
+        "digital-banking-revolut-115b"
+      ]
+    },
+    {
+      "keyword": "doordash-tempo-stablecoin",
+      "count": 1,
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "articles": [
+        "payments-doordash-tempo-stablecoin"
+      ]
+    },
+    {
+      "keyword": "naverpay-satisfaction-top",
+      "count": 1,
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "articles": [
+        "payments-naverpay-satisfaction-top"
+      ]
+    },
+    {
+      "keyword": "banking-circle-stablecoin-settle",
+      "count": 1,
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "articles": [
+        "payments-banking-circle-stablecoin"
+      ]
+    },
+    {
+      "keyword": "remitly-q3-2026-record",
+      "count": 1,
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "articles": [
+        "remittance-remitly-q3-record"
+      ]
+    },
+    {
+      "keyword": "yellow-card-gomoney-brazil",
+      "count": 1,
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "articles": [
+        "remittance-yellow-card-gomoney"
+      ]
+    },
+    {
+      "keyword": "tenpay-unionpay-remittance-mou",
+      "count": 1,
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "articles": [
+        "remittance-tenpay-unionpay-mou"
+      ]
+    },
+    {
+      "keyword": "bis-fintech-crossborder-cost",
+      "count": 1,
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "articles": [
+        "remittance-bis-fintech-crossborder"
+      ]
+    },
+    {
+      "keyword": "eu-fida-withdrawal-2026",
+      "count": 1,
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "articles": [
+        "regulation-eu-fida-withdrawal"
+      ]
+    },
+    {
+      "keyword": "oppfi-bank-charter-withdrawal",
+      "count": 1,
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "articles": [
+        "regulation-oppfi-bank-charter"
+      ]
+    },
+    {
+      "keyword": "finra-webull-identity-fine",
+      "count": 1,
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "articles": [
+        "regulation-finra-webull-fine"
       ]
     }
   ]
