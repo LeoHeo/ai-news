@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -16,11 +16,14 @@
       ]
     },
     "openai-gpt6-cyber": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-07",
       "status": "normal",
-      "example_titles": ["OpenAI, 취약점 연구 특화 보안 AI 모델 'GPT-6 Cyber' 출시"]
+      "example_titles": [
+        "OpenAI, 취약점 연구 특화 보안 AI 모델 'GPT-6 Cyber' 출시",
+        "OpenAI·Google, 보안 특화 AI 모델 잇따라 출시"
+      ]
     },
     "openai-gpt6-astra-frontier": {
       "count": 1,
@@ -86,11 +89,14 @@
       "example_titles": ["트럼프, 중간선거 전 AI 초당파 거버넌스 협약 추진... 선거 후 의회 과제로 전환"]
     },
     "democrats-midterm-ai": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-07",
       "status": "normal",
-      "example_titles": ["민주당 중간선거 압승... AI 투자 세제 혜택 축소·기업 규제 강화 예고"]
+      "example_titles": [
+        "민주당 중간선거 압승... AI 투자 세제 혜택 축소·기업 규제 강화 예고",
+        "민주당, 의회 장악 준비하며 AI 규제 가드레일 도입 공언"
+      ]
     },
     "germany-eu-ai-act": {
       "count": 1,
@@ -466,77 +472,14 @@
       ]
     },
     "google-gemini4-carbon": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-10-24",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-11-07",
       "status": "demoted",
       "example_titles": [
         "Google, 지난주 출시된 Gemini 4 Argon 업그레이드 버전 'Gemini 4 Carbon' 개발 중",
         "Google, Gemini 4 Carbon 공개 — 업데이트된 어려운 벤치마크서 세계 1위 탈환, 접근은 제한",
-        "구글, 사이버 보안 특화 Gemini 4 Carbon 공개"
-      ]
-    },
-    "alibaba-qwen-image-release": {
-      "count": 1,
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
-      "status": "normal",
-      "example_titles": [
-        "알리바바 Qwen 최신 이미지 생성 모델, Hugging Face에 공개"
-      ]
-    },
-    "minimax-mcode-stack-oss": {
-      "count": 1,
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
-      "status": "normal",
-      "example_titles": [
-        "MiniMax, 코딩 에이전트 MCode Stack 오픈소스 공개"
-      ]
-    },
-    "akamai-ai-inference-sandbox": {
-      "count": 1,
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
-      "status": "normal",
-      "example_titles": [
-        "아카마이, AI 추론 인프라·에이전트 샌드박스 베타 출시"
-      ]
-    },
-    "anthropic-claude-red-team-exploits": {
-      "count": 1,
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
-      "status": "normal",
-      "example_titles": [
-        "앤트로픽 레드팀, 미출시 Claude 모델 취약점 체인 공개"
-      ]
-    },
-    "oracle-google-tpu-oci-deal": {
-      "count": 1,
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
-      "status": "normal",
-      "example_titles": [
-        "오라클, 2027년부터 자사 OCI에서 구글 TPU 제공 예정"
-      ]
-    },
-    "meta-ai-training-terms": {
-      "count": 1,
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
-      "status": "normal",
-      "example_titles": [
-        "메타, 10월 30일부터 상업 약관 개정 — 뉴스 사이트 스크래핑 허용"
-      ]
-    },
-    "openai-election-monitoring-2026": {
-      "count": 1,
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, 2026 미국 중간선거 대비 선거 모니터링 센터 운영"
+        "과학 이미지 AI 평가: Gemini 4 Carbon 최고 64%·모델간 비용 격차 99배"
       ]
     },
     "abu-dhabi-openai-gov-deals": {
@@ -690,6 +633,96 @@
       "status": "normal",
       "example_titles": [
         "센스타임, 고신뢰 과제 특화 모델 'SenseNova 6.8 Flash' 무료 공개"
+      ]
+    },
+    "ramp-ai-spending-stall": {
+      "count": 1,
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "status": "normal",
+      "example_titles": [
+        "Ramp 데이터: AI 지출 성장 정체 — Anthropic IPO 임박 시점에 나온 경보"
+      ]
+    },
+    "deepmind-rsa-vulnerability": {
+      "count": 1,
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "status": "normal",
+      "example_titles": [
+        "DeepMind AI 에이전트, 1024비트 RSA 취약점 2건 발견"
+      ]
+    },
+    "deepmind-nda-ban": {
+      "count": 1,
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "status": "normal",
+      "example_titles": [
+        "DeepMind 직원들, 구글 비판 평생 금지 조항에 반발"
+      ]
+    },
+    "kospi-ai-selloff": {
+      "count": 1,
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "status": "normal",
+      "example_titles": [
+        "코스피 8% 급락 — AI 성장 공포 확산, 전문가 \"사이클 종료 아닌 최악 시나리오 반영\""
+      ]
+    },
+    "openai-whitehouse-datacenter-push": {
+      "count": 1,
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "status": "normal",
+      "example_titles": [
+        "데이터센터 주민 반대 투표에도 오픈AI·백악관 \"투자 계속\" 선언"
+      ]
+    },
+    "kakao-q3-ai-deficit": {
+      "count": 1,
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "status": "normal",
+      "example_titles": [
+        "카카오 3분기 역대 최대 영업이익 2403억 원, AI 사업 적자 640억 원으로 확대"
+      ]
+    },
+    "altman-korea-visit": {
+      "count": 1,
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "status": "normal",
+      "example_titles": [
+        "샘 올트먼, 삼성·네이버·카카오 서울 연쇄 회동 — 한국 AI 전환·인프라 협력 확대"
+      ]
+    },
+    "sand-ai-funding": {
+      "count": 1,
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "status": "normal",
+      "example_titles": [
+        "Sand.ai, 코너스톤·왕수 공동 주도로 시리즈 A+ 2억 달러 유치"
+      ]
+    },
+    "naver-kakao-ai-ads": {
+      "count": 1,
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "status": "normal",
+      "example_titles": [
+        "네이버·카카오, 중소 광고주 위한 AI 광고 집행 도구 출시"
+      ]
+    },
+    "llm-benchmark-nov2026": {
+      "count": 1,
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "status": "normal",
+      "example_titles": [
+        "LLM 벤치마크 순위 (11월 2026): BenchLM 1위 Gemini 4 Carbon, Vals 1위 Claude Sonnet 5.5"
       ]
     }
   }
