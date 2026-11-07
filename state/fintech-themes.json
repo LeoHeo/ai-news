@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-06",
+  "updated": "2026-11-08",
   "window_days": 7,
   "themes": [
     {
@@ -42,20 +42,6 @@
         "regulation-korea-bigtech-prepaid-refund",
         "regulation-korea-bigtech-prepaid-1104",
         "regulation-korea-prepaid-refund"
-      ]
-    },
-    {
-      "keyword": "hsbc-redcoin-payme-hkd",
-      "count": 6,
-      "first_seen": "2026-10-25",
-      "last_seen": "2026-10-31",
-      "articles": [
-        "payments-hsbc-redcoin",
-        "payments-hsbc-redcoin-1027",
-        "payments-hsbc-redcoin-1028",
-        "payments-hsbc-redcoin-1029",
-        "payments-hsbc-redcoin-1030",
-        "payments-hsbc-redcoin-1031"
       ]
     },
     {
@@ -103,40 +89,6 @@
       ]
     },
     {
-      "keyword": "redotpay-ipo-5b",
-      "count": 4,
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-31",
-      "articles": [
-        "investment-redotpay-ipo",
-        "investment-redotpay-ipo-1029",
-        "investment-redotpay-ipo-1030",
-        "investment-redotpay-ipo-1031"
-      ]
-    },
-    {
-      "keyword": "robinhood-q3-2026-earnings",
-      "count": 3,
-      "first_seen": "2026-10-29",
-      "last_seen": "2026-10-31",
-      "articles": [
-        "digital-banking-robinhood-q3",
-        "digital-banking-robinhood-q3-1030",
-        "digital-banking-robinhood-q3-1031"
-      ]
-    },
-    {
-      "keyword": "coinbase-mica-stablecoin-deadline",
-      "count": 3,
-      "first_seen": "2026-10-29",
-      "last_seen": "2026-10-31",
-      "articles": [
-        "regulation-coinbase-mica",
-        "regulation-coinbase-mica-1030",
-        "regulation-coinbase-mica-1031"
-      ]
-    },
-    {
       "keyword": "stripe-b2b-pay-launch",
       "count": 3,
       "first_seen": "2026-10-30",
@@ -180,15 +132,6 @@
       ]
     },
     {
-      "keyword": "swift-faster-payments-africa-gap",
-      "count": 1,
-      "first_seen": "2026-10-31",
-      "last_seen": "2026-10-31",
-      "articles": [
-        "remittance-swift-17-1031"
-      ]
-    },
-    {
       "keyword": "tech-mahindra-mastercard-b2b",
       "count": 3,
       "first_seen": "2026-10-31",
@@ -197,88 +140,6 @@
         "payments-tech-mahindra-mastercard-1031",
         "payments-tech-mahindra-mastercard",
         "payments-tech-mahindra-mastercard-b2b"
-      ]
-    },
-    {
-      "keyword": "standard-chartered-zodia-custody",
-      "count": 2,
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-30",
-      "articles": [
-        "digital-banking-standard-chartered-zodia-1023",
-        "digital-banking-sc-zodia-1030"
-      ]
-    },
-    {
-      "keyword": "sezzle-national-bank-bnpl",
-      "count": 5,
-      "first_seen": "2026-10-26",
-      "last_seen": "2026-10-30",
-      "articles": [
-        "lending-sezzle-bank-charter",
-        "lending-sezzle-occ-1027",
-        "lending-sezzle-occ-1028",
-        "lending-sezzle-occ-1029",
-        "lending-sezzle-occ-1030"
-      ]
-    },
-    {
-      "keyword": "klarna-freshbooks-b2b-bnpl",
-      "count": 4,
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-30",
-      "articles": [
-        "payments-klarna-freshbooks",
-        "payments-klarna-freshbooks-1028",
-        "lending-klarna-freshbooks-1029",
-        "lending-klarna-freshbooks-1030"
-      ]
-    },
-    {
-      "keyword": "payments-canada-rtr-golive",
-      "count": 3,
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-30",
-      "articles": [
-        "payments-canada-rtr",
-        "payments-canada-rtr-1028",
-        "payments-canada-rtr-1030"
-      ]
-    },
-    {
-      "keyword": "adyen-ebitda-cost-cut",
-      "count": 1,
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
-      "articles": [
-        "payments-adyen-ebitda-1030"
-      ]
-    },
-    {
-      "keyword": "xtransfer-hk-fintech-week",
-      "count": 1,
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
-      "articles": [
-        "remittance-xtransfer-hk-1030"
-      ]
-    },
-    {
-      "keyword": "filipinos-bnpl-usage",
-      "count": 1,
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
-      "articles": [
-        "lending-filipinos-bnpl-1030"
-      ]
-    },
-    {
-      "keyword": "canada-stablecoin-regulation",
-      "count": 1,
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
-      "articles": [
-        "regulation-canada-stablecoin-1030"
       ]
     },
     {
@@ -398,25 +259,27 @@
     },
     {
       "keyword": "global-payments-pe-takeover",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-08",
       "articles": [
         "investment-global-payments-pe-takeover",
         "investment-global-payments-pe-1104",
         "investment-global-payments-lbo",
-        "investment-global-payments-lbo"
+        "investment-global-payments-lbo",
+        "investment-global-payments-pe"
       ]
     },
     {
       "keyword": "opay-ipo-withdrawal",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-08",
       "articles": [
         "investment-opay-ipo-withdrawal",
         "investment-opay-ipo-1104",
-        "investment-opay-ipo"
+        "investment-opay-ipo",
+        "regulation-opay-ipo-halt"
       ]
     },
     {
@@ -609,12 +472,13 @@
     },
     {
       "keyword": "revolut-115b-valuation",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-08",
       "articles": [
         "investment-revolut-115b",
-        "digital-banking-revolut-115b"
+        "digital-banking-revolut-115b",
+        "digital-banking-revolut-115b-1108"
       ]
     },
     {
@@ -705,6 +569,132 @@
       "last_seen": "2026-11-06",
       "articles": [
         "regulation-finra-webull-fine"
+      ]
+    },
+    {
+      "keyword": "pliant-b2b-ai-payments",
+      "count": 1,
+      "first_seen": "2026-11-08",
+      "last_seen": "2026-11-08",
+      "articles": [
+        "payments-pliant-b2b-ai"
+      ]
+    },
+    {
+      "keyword": "eu-canada-rtr-link",
+      "count": 1,
+      "first_seen": "2026-11-08",
+      "last_seen": "2026-11-08",
+      "articles": [
+        "payments-eu-canada-rtr"
+      ]
+    },
+    {
+      "keyword": "visa-singapore-ai-hub",
+      "count": 1,
+      "first_seen": "2026-11-08",
+      "last_seen": "2026-11-08",
+      "articles": [
+        "payments-visa-singapore-ai"
+      ]
+    },
+    {
+      "keyword": "adyen-q3-2026-growth",
+      "count": 1,
+      "first_seen": "2026-11-08",
+      "last_seen": "2026-11-08",
+      "articles": [
+        "payments-adyen-q3"
+      ]
+    },
+    {
+      "keyword": "segpay-pay-by-bank-europe",
+      "count": 1,
+      "first_seen": "2026-11-08",
+      "last_seen": "2026-11-08",
+      "articles": [
+        "payments-segpay-pbbank"
+      ]
+    },
+    {
+      "keyword": "indusind-jpmorgan-xpedite",
+      "count": 1,
+      "first_seen": "2026-11-08",
+      "last_seen": "2026-11-08",
+      "articles": [
+        "remittance-indusind-jpmorgan"
+      ]
+    },
+    {
+      "keyword": "bitso-150b-tpv-2026",
+      "count": 1,
+      "first_seen": "2026-11-08",
+      "last_seen": "2026-11-08",
+      "articles": [
+        "remittance-bitso-150b"
+      ]
+    },
+    {
+      "keyword": "monzo-75b-fundraising",
+      "count": 1,
+      "first_seen": "2026-11-08",
+      "last_seen": "2026-11-08",
+      "articles": [
+        "digital-banking-monzo-75b"
+      ]
+    },
+    {
+      "keyword": "block-q3-2026-earnings",
+      "count": 1,
+      "first_seen": "2026-11-08",
+      "last_seen": "2026-11-08",
+      "articles": [
+        "digital-banking-block-q3"
+      ]
+    },
+    {
+      "keyword": "funding-circle-ceo-change",
+      "count": 1,
+      "first_seen": "2026-11-08",
+      "last_seen": "2026-11-08",
+      "articles": [
+        "lending-funding-circle-ceo"
+      ]
+    },
+    {
+      "keyword": "cert-in-ai-payment-threat",
+      "count": 1,
+      "first_seen": "2026-11-08",
+      "last_seen": "2026-11-08",
+      "articles": [
+        "regulation-cert-in-ai-threat"
+      ]
+    },
+    {
+      "keyword": "korea-card-stablecoin-scope",
+      "count": 1,
+      "first_seen": "2026-11-08",
+      "last_seen": "2026-11-08",
+      "articles": [
+        "regulation-korea-card-stablecoin"
+      ]
+    },
+    {
+      "keyword": "dtcc-tokenization-launch",
+      "count": 1,
+      "first_seen": "2026-11-08",
+      "last_seen": "2026-11-08",
+      "articles": [
+        "investment-morgan-stanley-dtcc"
+      ]
+    },
+    {
+      "keyword": "tzero-spac-350m",
+      "count": 1,
+      "first_seen": "2026-11-08",
+      "last_seen": "2026-11-08",
+      "articles": [
+        "investment-tzero-spac"
       ]
     }
   ]
