@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-11-08",
+  "updated": "2026-11-09",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -89,12 +89,13 @@
       ]
     },
     "eu-ai-act-enforcement": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-09",
       "status": "normal",
       "example_titles": [
-        "EU AI법 '금지 행위' 조항 10일 발효 — 소셜스코어링·서블리미널 AI 전면 금지"
+        "EU AI법 '금지 행위' 조항 10일 발효 — 소셜스코어링·서블리미널 AI 전면 금지",
+        "EU AI법 금지 행위 조항 11월 10일 발효 — 소셜 스코어링·무차별 안면인식 등 위반 시 최대 7,500만 유로 벌금"
       ]
     },
     "trump-ai-accord": {
@@ -336,126 +337,6 @@
         "Anthropic 경제연구팀: 로봇 물리적 업무 75% 수행 가능하나 비용 경쟁력은 0.3%뿐"
       ]
     },
-    "alphabet-q3-2026-earnings": {
-      "count": 3,
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-11-01",
-      "status": "demoted",
-      "example_titles": [
-        "알파벳 Q3 2026 실적: 매출 $127.6B +25%, 구글 클라우드 $30.7B +103%",
-        "Alphabet Q3 2026 실적: Google Cloud AI로 분기 매출 신기록 달성",
-        "알파벳 3분기 실적 — AI 자본지출 45% 급증에 클라우드 성장률 22%로 둔화"
-      ]
-    },
-    "ai-scraping-optout-coalition": {
-      "count": 2,
-      "first_seen": "2026-10-31",
-      "last_seen": "2026-11-01",
-      "status": "normal",
-      "example_titles": [
-        "주요 언론사·출판사, AI 스크래핑 차단 움직임 확산…기술 표준화 추진",
-        "구글·MS·OpenAI·Anthropic, AI 학습 데이터 옵트아웃 공통 표준 공식 지지"
-      ]
-    },
-    "mistral-large4-open-weights": {
-      "count": 1,
-      "first_seen": "2026-11-01",
-      "last_seen": "2026-11-01",
-      "status": "normal",
-      "example_titles": [
-        "Mistral Large 4 오픈 웨이트 공개 — 유럽 최초 1조 파라미터 모델"
-      ]
-    },
-    "claude-code-backdoor-supply-chain": {
-      "count": 1,
-      "first_seen": "2026-11-01",
-      "last_seen": "2026-11-01",
-      "status": "normal",
-      "example_titles": [
-        "Claude Code 서드파티 의존성 패키지에서 백도어 발견 — 공급망 공격 확인"
-      ]
-    },
-    "openai-system-card-o3": {
-      "count": 1,
-      "first_seen": "2026-11-01",
-      "last_seen": "2026-11-01",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, o3 시스템 카드 공개 — 에이전트 이탈 위험 공식 인정"
-      ]
-    },
-    "unified-reasoning-training": {
-      "count": 1,
-      "first_seen": "2026-11-01",
-      "last_seen": "2026-11-01",
-      "status": "normal",
-      "example_titles": [
-        "MIT·스탠퍼드 연구, 통합 추론 학습으로 범용·전문 모델 성능 격차 40% 축소"
-      ]
-    },
-    "google-ai-sleep-architecture": {
-      "count": 1,
-      "first_seen": "2026-11-01",
-      "last_seen": "2026-11-01",
-      "status": "normal",
-      "example_titles": [
-        "구글 딥마인드, 망각 없는 지속 학습 '슬립 아키텍처' 제안"
-      ]
-    },
-    "nvidia-nscale-acquisition": {
-      "count": 1,
-      "first_seen": "2026-11-01",
-      "last_seen": "2026-11-01",
-      "status": "normal",
-      "example_titles": [
-        "엔비디아, AI 클라우드 스타트업 Nscale 7억 달러에 인수"
-      ]
-    },
-    "furiosaai-chip-series-d": {
-      "count": 1,
-      "first_seen": "2026-11-01",
-      "last_seen": "2026-11-01",
-      "status": "normal",
-      "example_titles": [
-        "한국 AI 칩 스타트업 FuriosaAI, 시리즈 D 약 6200억 원 마무리 — 기업가치 4조 원"
-      ]
-    },
-    "baseten-series-c": {
-      "count": 1,
-      "first_seen": "2026-11-01",
-      "last_seen": "2026-11-01",
-      "status": "normal",
-      "example_titles": [
-        "AI 모델 추론 플랫폼 Baseten, 시리즈 C 2억 달러 조달"
-      ]
-    },
-    "newyork-chatbot-minors-law": {
-      "count": 1,
-      "first_seen": "2026-11-01",
-      "last_seen": "2026-11-01",
-      "status": "normal",
-      "example_titles": [
-        "뉴욕 주지사, 미성년자 AI 챗봇 이용 제한법 서명 — 위반 시 최대 2만5천 달러 벌금"
-      ]
-    },
-    "congress-ai-liability-shield": {
-      "count": 1,
-      "first_seen": "2026-11-01",
-      "last_seen": "2026-11-01",
-      "status": "normal",
-      "example_titles": [
-        "미 상원 초당파 법안, AI 기업 안전 감사 조건부 연방 면책 특권 추진"
-      ]
-    },
-    "anthropic-ipo-philanthropy-pledge": {
-      "count": 1,
-      "first_seen": "2026-11-01",
-      "last_seen": "2026-11-01",
-      "status": "normal",
-      "example_titles": [
-        "앤스로픽 S-1 공시, IPO 후 이익 80% AI 안전 자선 배정 명시"
-      ]
-    },
     "google-gemini4-carbon": {
       "count": 4,
       "first_seen": "2026-10-24",
@@ -675,12 +556,13 @@
       ]
     },
     "altman-korea-visit": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-07",
-      "last_seen": "2026-11-07",
+      "last_seen": "2026-11-09",
       "status": "normal",
       "example_titles": [
-        "샘 올트먼, 삼성·네이버·카카오 서울 연쇄 회동 — 한국 AI 전환·인프라 협력 확대"
+        "샘 올트먼, 삼성·네이버·카카오 서울 연쇄 회동 — 한국 AI 전환·인프라 협력 확대",
+        "샘 올트먼, 11월 15일 카카오 방문 예정 — 한국 AI 파트너십 협의"
       ]
     },
     "sand-ai-funding": {
@@ -807,6 +689,87 @@
       "status": "normal",
       "example_titles": [
         "미 하원 소위원장 3인, 젠슨 황에 11월 18일 비공개 브리핑 요청 — Q3 실적 발표 전날"
+      ]
+    },
+    "anthropic-onepwr-power-deal": {
+      "count": 1,
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, OnePwr와 34억 달러 가스 발전기 계약 — 데이터센터 전력 인프라 직접 확보"
+      ]
+    },
+    "mistral-le-chonk-weights": {
+      "count": 1,
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "status": "normal",
+      "example_titles": [
+        "Mistral, 오픈소스 'Le Chonk' 가중치 성능 업그레이드 버전 공개"
+      ]
+    },
+    "chatgpt-korea-usage-growth": {
+      "count": 1,
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "status": "normal",
+      "example_titles": [
+        "ChatGPT 국내 MAU 1876만 명 돌파 — 모바일인덱스 집계, 전달 대비 소폭 증가"
+      ]
+    },
+    "grok-api-text-watermark": {
+      "count": 1,
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "status": "normal",
+      "example_titles": [
+        "xAI, Grok API 텍스트 워터마킹 11월 7일 도입 — AI 생성 콘텐츠 식별 기술 적용"
+      ]
+    },
+    "microsoft-oracle-cloud-exit": {
+      "count": 1,
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "status": "normal",
+      "example_titles": [
+        "마이크로소프트, 오라클 AI 클라우드 협업 종료 — 'Oracle AI Infrastructure' 계약 철수"
+      ]
+    },
+    "fal-inference-series-f": {
+      "count": 1,
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "status": "normal",
+      "example_titles": [
+        "fal, 시리즈 F에서 13억 달러 조달 — 기업가치 160억 달러, AI 추론 인프라 급성장"
+      ]
+    },
+    "dan-ives-ai-bull-forecast": {
+      "count": 1,
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "status": "normal",
+      "example_titles": [
+        "댄 아이브스 \"AI 파티는 이제 시작\" — 나스닥 2027년 2만5000 목표 유지"
+      ]
+    },
+    "unist-military-ai-hub": {
+      "count": 1,
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "status": "normal",
+      "example_titles": [
+        "UNIST, 국방 AI 허브 출범 — 울산과기원 군사 AI 연구 센터 설립"
+      ]
+    },
+    "us-congress-ai-safety-push": {
+      "count": 1,
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "status": "normal",
+      "example_titles": [
+        "美 기술 정책 단체, 의회에 AI 안전성 입법 촉구 연합 구성"
       ]
     }
   }
