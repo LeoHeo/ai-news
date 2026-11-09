@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-11-09",
+  "updated": "2026-11-10",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -19,7 +19,7 @@
       "count": 3,
       "first_seen": "2026-11-06",
       "last_seen": "2026-11-08",
-      "status": "normal",
+      "status": "demoted",
       "example_titles": [
         "OpenAI, 취약점 연구 특화 보안 AI 모델 'GPT-6 Cyber' 출시",
         "OpenAI·Google, 보안 특화 AI 모델 잇따라 출시"
@@ -89,13 +89,14 @@
       ]
     },
     "eu-ai-act-enforcement": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-09",
-      "status": "normal",
+      "last_seen": "2026-11-10",
+      "status": "demoted",
       "example_titles": [
         "EU AI법 '금지 행위' 조항 10일 발효 — 소셜스코어링·서블리미널 AI 전면 금지",
-        "EU AI법 금지 행위 조항 11월 10일 발효 — 소셜 스코어링·무차별 안면인식 등 위반 시 최대 7,500만 유로 벌금"
+        "EU AI법 금지 행위 조항 11월 10일 발효 — 소셜 스코어링·무차별 안면인식 등 위반 시 최대 7,500만 유로 벌금",
+        "EU AI법 Article 5 금지 행위 오늘 발효 — 소셜 스코어링·무차별 안면인식·서블리미널 AI 전면 금지, 위반 시 최대 7,500만 유로 벌금"
       ]
     },
     "trump-ai-accord": {
@@ -108,13 +109,14 @@
       ]
     },
     "democrats-midterm-ai": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-07",
-      "status": "normal",
+      "last_seen": "2026-11-10",
+      "status": "demoted",
       "example_titles": [
         "민주당 중간선거 압승... AI 투자 세제 혜택 축소·기업 규제 강화 예고",
-        "민주당, 의회 장악 준비하며 AI 규제 가드레일 도입 공언"
+        "민주당, 의회 장악 준비하며 AI 규제 가드레일 도입 공언",
+        "민주당 의회 장악 후 AI 규제 강화 가속 — Pritzker 주지사, 연방 AI 프레임워크 즉각 입법 촉구"
       ]
     },
     "germany-eu-ai-act": {
@@ -256,38 +258,10 @@
       "count": 4,
       "first_seen": "2026-11-01",
       "last_seen": "2026-11-08",
-      "status": "normal",
+      "status": "demoted",
       "example_titles": [
         "OpenAI, 펀딩 목표 200억 달러로 축소 — 기업가치 1.25조 달러로 하향",
         "OpenAI, 펀딩 목표 200억 달러로 하향 — 투자 회의론에 기업가치 1.25조 달러"
-      ]
-    },
-    "ai-hyperscaler-capex-slowdown": {
-      "count": 2,
-      "first_seen": "2026-11-01",
-      "last_seen": "2026-11-02",
-      "status": "normal",
-      "example_titles": [
-        "월가, 하이퍼스케일러 AI 자본지출 2000억 달러에 ROI 없이 회의론 고조",
-        "AI 투자 회의론 확산 — Nasdaq 100, AI 주식 매도에 3.5% 급락"
-      ]
-    },
-    "aramco-humain-deal-close": {
-      "count": 1,
-      "first_seen": "2026-11-02",
-      "last_seen": "2026-11-02",
-      "status": "normal",
-      "example_titles": [
-        "아람코, AI 회사 HUMAIN 지분 49% 인수 완료 — 26억 달러 현금 및 AI 자산 투입"
-      ]
-    },
-    "openai-midterm-pr-blitz": {
-      "count": 1,
-      "first_seen": "2026-11-02",
-      "last_seen": "2026-11-02",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, 중간선거 직후 대규모 PR 캠페인 준비 중"
       ]
     },
     "claude-mythos-5-5-prep": {
@@ -299,20 +273,11 @@
         "Anthropic, Claude Mythos 5.5 출시 임박 — 공식 사이트 코드서 확인"
       ]
     },
-    "apple-alibaba-qwen-china": {
-      "count": 1,
-      "first_seen": "2026-11-02",
-      "last_seen": "2026-11-02",
-      "status": "normal",
-      "example_titles": [
-        "Apple, 알리바바와 협력해 중국판 Apple Intelligence에 Qwen AI 탑재"
-      ]
-    },
     "openai-chatgpt-codex-token-pool": {
       "count": 3,
       "first_seen": "2026-11-02",
       "last_seen": "2026-11-04",
-      "status": "normal",
+      "status": "demoted",
       "example_titles": [
         "OpenAI, 12월부터 ChatGPT·Codex 토큰 한도 통합 — Plus·Pro·Business 구독자 영향",
         "OpenAI, ChatGPT '채팅·워크' 탭 통합 — Codex와 토큰 한도 일원화 함께 시행"
@@ -326,15 +291,6 @@
       "example_titles": [
         "Anthropic, Claude Code에 기존 게임 복제 금지 지시 — 저작권 침해 예방",
         "Anthropic, Claude Code에 기존 게임 복제 금지 지시 추가"
-      ]
-    },
-    "anthropic-robotics-cost-study": {
-      "count": 1,
-      "first_seen": "2026-11-02",
-      "last_seen": "2026-11-02",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic 경제연구팀: 로봇 물리적 업무 75% 수행 가능하나 비용 경쟁력은 0.3%뿐"
       ]
     },
     "google-gemini4-carbon": {
@@ -556,13 +512,14 @@
       ]
     },
     "altman-korea-visit": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-07",
-      "last_seen": "2026-11-09",
-      "status": "normal",
+      "last_seen": "2026-11-10",
+      "status": "demoted",
       "example_titles": [
         "샘 올트먼, 삼성·네이버·카카오 서울 연쇄 회동 — 한국 AI 전환·인프라 협력 확대",
-        "샘 올트먼, 11월 15일 카카오 방문 예정 — 한국 AI 파트너십 협의"
+        "샘 올트먼, 11월 15일 카카오 방문 예정 — 한국 AI 파트너십 협의",
+        "샘 올트먼, 11월 15일 카카오 방문 확정 — 삼성·네이버 연쇄 회동 이어 한국 AI 파트너십 본격화"
       ]
     },
     "sand-ai-funding": {
@@ -620,12 +577,13 @@
       ]
     },
     "thinking-machines-lab-5b": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-10",
       "status": "normal",
       "example_titles": [
-        "씽킹 머신스 랩, Accel 주도 50억 달러 투자 유치 — 기업가치 400억 달러, 엔비디아도 참여"
+        "씽킹 머신스 랩, Accel 주도 50억 달러 투자 유치 — 기업가치 400억 달러, 엔비디아도 참여",
+        "씽킹 머신스 랩, Accel 주도 50억 달러 투자 최종 클로징 임박 — 기업가치 400억 달러"
       ]
     },
     "google-wyoming-datacenter": {
@@ -770,6 +728,96 @@
       "status": "normal",
       "example_titles": [
         "美 기술 정책 단체, 의회에 AI 안전성 입법 촉구 연합 구성"
+      ]
+    },
+    "anthropic-fable-mythos-5-2": {
+      "count": 1,
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, Claude Fable 5.2·Mythos 5.2 출시 — IPO 직전 가격·속도 동시 개선"
+      ]
+    },
+    "anthropic-security-breach": {
+      "count": 1,
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, 10월 말 제3자 무단 내부 시스템 접근 발생 — IPO 직전 엔터프라이즈 고객에 보안 침해 공식 통보"
+      ]
+    },
+    "apple-ai-budget-cut": {
+      "count": 1,
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "status": "normal",
+      "example_titles": [
+        "Apple, 직원 AI 도구 일일 예산 $300→$200 삭감 — AI 운용 비용 압박 가시화"
+      ]
+    },
+    "chai-roche-drug-discovery": {
+      "count": 1,
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "status": "normal",
+      "example_titles": [
+        "Roche, Chai Discovery의 Chai-3 모델로 복수 신약 개발 프로그램 운영 — AI 신약 발견 플랫폼 계약"
+      ]
+    },
+    "nvidia-korea-startup-investments": {
+      "count": 1,
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "status": "normal",
+      "example_titles": [
+        "NVIDIA, 한국 AI 스타트업 4개사 투자 발표 — Point2·Motif Technologies·RLWRLD·Upstage 대상"
+      ]
+    },
+    "nvidia-ai-day-seoul-2026": {
+      "count": 1,
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "status": "normal",
+      "example_titles": [
+        "NVIDIA AI Day 서울 2일차 — AI 추론 최적화·에이전트 개발 개발자 핸즈온 진행"
+      ]
+    },
+    "boson-ai-funding": {
+      "count": 1,
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "status": "normal",
+      "example_titles": [
+        "Boson AI, 시리즈 A 투자 유치 완료 — AI 로보틱스 솔루션 플랫폼 가속"
+      ]
+    },
+    "china-ai-agent-identity": {
+      "count": 1,
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "status": "normal",
+      "example_titles": [
+        "중국, AI 에이전트 신원 관리 '여권' 제도 추진 — 통신부 42호 고시에서 에이전트 신원 등록 의무화"
+      ]
+    },
+    "trump-si-task-force": {
+      "count": 1,
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "status": "normal",
+      "example_titles": [
+        "Trump 초지능 태스크포스 가동 — AI 관련 기소 조율·주(州) AI 규제 도전 2개 임무 부여"
+      ]
+    },
+    "ny-raise-act-registration": {
+      "count": 1,
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "status": "normal",
+      "example_titles": [
+        "뉴욕주 RAISE Act, 11월부터 프런티어 AI 개발사 등록 의무화 — 2027년 1월 전면 시행 앞두고 선행 등록 개시"
       ]
     }
   }
