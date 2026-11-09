@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-08",
+  "updated": "2026-11-09",
   "window_days": 7,
   "themes": [
     {
@@ -122,13 +122,14 @@
     },
     {
       "keyword": "epi-ideal-wero-migration",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-10-29",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-09",
       "articles": [
         "payments-epi-wero",
         "payments-epi-wero-1030",
-        "payments-epi-wero-migration"
+        "payments-epi-wero-migration",
+        "payments-epi-wero"
       ]
     },
     {
@@ -143,15 +144,6 @@
       ]
     },
     {
-      "keyword": "kalshi-billion-valuation",
-      "count": 1,
-      "first_seen": "2026-11-01",
-      "last_seen": "2026-11-01",
-      "articles": [
-        "investment-kalshi-billion-valuation-1101"
-      ]
-    },
-    {
       "keyword": "photonpay-40m-series-b",
       "count": 3,
       "first_seen": "2026-11-01",
@@ -160,34 +152,6 @@
         "investment-photonpay-40m-1101",
         "investment-photonpay-40m",
         "investment-photonpay-40m-1104"
-      ]
-    },
-    {
-      "keyword": "vitalswap-west-africa-remittance",
-      "count": 1,
-      "first_seen": "2026-11-01",
-      "last_seen": "2026-11-01",
-      "articles": [
-        "remittance-vitalswap-west-africa-1101"
-      ]
-    },
-    {
-      "keyword": "pakistan-fintech-remittance-q3",
-      "count": 2,
-      "first_seen": "2026-11-01",
-      "last_seen": "2026-11-02",
-      "articles": [
-        "remittance-pakistan-fintech-q3-1101",
-        "remittance-pakistan-banks"
-      ]
-    },
-    {
-      "keyword": "india-ed-fintech-crypto-fema",
-      "count": 1,
-      "first_seen": "2026-11-01",
-      "last_seen": "2026-11-01",
-      "articles": [
-        "regulation-india-ed-fintech-crypto-1101"
       ]
     },
     {
@@ -204,70 +168,17 @@
       ]
     },
     {
-      "keyword": "polygon-solana-cross-chain-payments",
-      "count": 1,
-      "first_seen": "2026-11-01",
-      "last_seen": "2026-11-01",
-      "articles": [
-        "payments-polygon-solana-cross-chain-1101"
-      ]
-    },
-    {
-      "keyword": "ecb-digital-euro-providers",
-      "count": 1,
-      "first_seen": "2026-11-02",
-      "last_seen": "2026-11-02",
-      "articles": [
-        "payments-ecb-digital-euro-providers"
-      ]
-    },
-    {
-      "keyword": "paynet-duitnow-alipayplus",
-      "count": 1,
-      "first_seen": "2026-11-02",
-      "last_seen": "2026-11-02",
-      "articles": [
-        "payments-paynet-duitnow-alipayplus"
-      ]
-    },
-    {
-      "keyword": "apple-google-pay-uzbekistan",
-      "count": 1,
-      "first_seen": "2026-11-02",
-      "last_seen": "2026-11-02",
-      "articles": [
-        "payments-apple-google-uzbekistan"
-      ]
-    },
-    {
-      "keyword": "collective-selfemployed-100m",
-      "count": 1,
-      "first_seen": "2026-11-02",
-      "last_seen": "2026-11-02",
-      "articles": [
-        "investment-collective-100m"
-      ]
-    },
-    {
-      "keyword": "thailand-stablecoin-bnpl-regulation",
-      "count": 1,
-      "first_seen": "2026-11-02",
-      "last_seen": "2026-11-02",
-      "articles": [
-        "regulation-thailand-stablecoin-bnpl"
-      ]
-    },
-    {
       "keyword": "global-payments-pe-takeover",
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-09",
       "articles": [
         "investment-global-payments-pe-takeover",
         "investment-global-payments-pe-1104",
         "investment-global-payments-lbo",
         "investment-global-payments-lbo",
-        "investment-global-payments-pe"
+        "investment-global-payments-pe",
+        "payments-global-payments-pe"
       ]
     },
     {
@@ -283,25 +194,6 @@
       ]
     },
     {
-      "keyword": "bilt-lava-acquisition",
-      "count": 1,
-      "first_seen": "2026-11-03",
-      "last_seen": "2026-11-03",
-      "articles": [
-        "investment-bilt-lava-acquisition"
-      ]
-    },
-    {
-      "keyword": "nevis-series-b-ai-wealth",
-      "count": 2,
-      "first_seen": "2026-11-03",
-      "last_seen": "2026-11-04",
-      "articles": [
-        "investment-nevis-series-b",
-        "investment-nevis-series-b-1104"
-      ]
-    },
-    {
       "keyword": "revolut-nz-bank-license",
       "count": 3,
       "first_seen": "2026-11-03",
@@ -310,15 +202,6 @@
         "digital-banking-revolut-nz-license",
         "digital-banking-revolut-nz-1104",
         "digital-banking-revolut-nz"
-      ]
-    },
-    {
-      "keyword": "nbkc-baas-lincoln",
-      "count": 1,
-      "first_seen": "2026-11-03",
-      "last_seen": "2026-11-03",
-      "articles": [
-        "digital-banking-nbkc-baas-lincoln"
       ]
     },
     {
@@ -341,15 +224,6 @@
         "payments-uber-hsbc-tokenized-deposits",
         "payments-uber-hsbc-1104",
         "payments-uber-hsbc-tokenized"
-      ]
-    },
-    {
-      "keyword": "cimb-duitnow-alipayplus-expand",
-      "count": 1,
-      "first_seen": "2026-11-03",
-      "last_seen": "2026-11-03",
-      "articles": [
-        "payments-cimb-duitnow-alipayplus"
       ]
     },
     {
@@ -387,15 +261,6 @@
       ]
     },
     {
-      "keyword": "sepa-address-deadline-postponed",
-      "count": 1,
-      "first_seen": "2026-11-03",
-      "last_seen": "2026-11-03",
-      "articles": [
-        "regulation-sepa-address-postponed"
-      ]
-    },
-    {
       "keyword": "klarna-squire-bnpl-barbershops",
       "count": 2,
       "first_seen": "2026-11-03",
@@ -403,24 +268,6 @@
       "articles": [
         "lending-klarna-squire-bnpl",
         "lending-klarna-squire-bnpl"
-      ]
-    },
-    {
-      "keyword": "tencent-visa-agentic-mou",
-      "count": 1,
-      "first_seen": "2026-11-04",
-      "last_seen": "2026-11-04",
-      "articles": [
-        "payments-tencent-visa-mou-1104"
-      ]
-    },
-    {
-      "keyword": "klarna-instore-bnpl",
-      "count": 1,
-      "first_seen": "2026-11-04",
-      "last_seen": "2026-11-04",
-      "articles": [
-        "lending-klarna-clover-bnpl-1104"
       ]
     },
     {
@@ -444,131 +291,15 @@
       ]
     },
     {
-      "keyword": "onepay-usdc-checking",
-      "count": 1,
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05",
-      "articles": [
-        "digital-banking-onepay-usdc"
-      ]
-    },
-    {
-      "keyword": "fiserv-project-elevate-jana",
-      "count": 1,
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05",
-      "articles": [
-        "payments-fiserv-elevate-jana"
-      ]
-    },
-    {
-      "keyword": "eu-psr-impersonation-fraud",
-      "count": 1,
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05",
-      "articles": [
-        "regulation-eu-psr-fraud"
-      ]
-    },
-    {
       "keyword": "revolut-115b-valuation",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-09",
       "articles": [
         "investment-revolut-115b",
         "digital-banking-revolut-115b",
-        "digital-banking-revolut-115b-1108"
-      ]
-    },
-    {
-      "keyword": "doordash-tempo-stablecoin",
-      "count": 1,
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "articles": [
-        "payments-doordash-tempo-stablecoin"
-      ]
-    },
-    {
-      "keyword": "naverpay-satisfaction-top",
-      "count": 1,
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "articles": [
-        "payments-naverpay-satisfaction-top"
-      ]
-    },
-    {
-      "keyword": "banking-circle-stablecoin-settle",
-      "count": 1,
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "articles": [
-        "payments-banking-circle-stablecoin"
-      ]
-    },
-    {
-      "keyword": "remitly-q3-2026-record",
-      "count": 1,
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "articles": [
-        "remittance-remitly-q3-record"
-      ]
-    },
-    {
-      "keyword": "yellow-card-gomoney-brazil",
-      "count": 1,
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "articles": [
-        "remittance-yellow-card-gomoney"
-      ]
-    },
-    {
-      "keyword": "tenpay-unionpay-remittance-mou",
-      "count": 1,
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "articles": [
-        "remittance-tenpay-unionpay-mou"
-      ]
-    },
-    {
-      "keyword": "bis-fintech-crossborder-cost",
-      "count": 1,
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "articles": [
-        "remittance-bis-fintech-crossborder"
-      ]
-    },
-    {
-      "keyword": "eu-fida-withdrawal-2026",
-      "count": 1,
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "articles": [
-        "regulation-eu-fida-withdrawal"
-      ]
-    },
-    {
-      "keyword": "oppfi-bank-charter-withdrawal",
-      "count": 1,
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "articles": [
-        "regulation-oppfi-bank-charter"
-      ]
-    },
-    {
-      "keyword": "finra-webull-identity-fine",
-      "count": 1,
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "articles": [
-        "regulation-finra-webull-fine"
+        "digital-banking-revolut-115b-1108",
+        "digital-banking-revolut-115b"
       ]
     },
     {
@@ -636,11 +367,12 @@
     },
     {
       "keyword": "monzo-75b-fundraising",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-09",
       "articles": [
-        "digital-banking-monzo-75b"
+        "digital-banking-monzo-75b",
+        "digital-banking-monzo-vc"
       ]
     },
     {
@@ -695,6 +427,114 @@
       "last_seen": "2026-11-08",
       "articles": [
         "investment-tzero-spac"
+      ]
+    },
+    {
+      "keyword": "eu-bnpl-ccd-november2026",
+      "count": 1,
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "articles": [
+        "regulation-eu-bnpl"
+      ]
+    },
+    {
+      "keyword": "uk-bnpl-fca-july2026",
+      "count": 1,
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "articles": [
+        "regulation-uk-bnpl"
+      ]
+    },
+    {
+      "keyword": "nigeria-stablecoin-capital-rule",
+      "count": 1,
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "articles": [
+        "regulation-nigeria-stablecoin"
+      ]
+    },
+    {
+      "keyword": "tosspayments-viva-merger",
+      "count": 1,
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "articles": [
+        "investment-tosspayments"
+      ]
+    },
+    {
+      "keyword": "nmi-dwolla-a2a-acquisition",
+      "count": 1,
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "articles": [
+        "investment-nmi-dwolla"
+      ]
+    },
+    {
+      "keyword": "airwallex-b2b-cross-border-cards",
+      "count": 1,
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "articles": [
+        "payments-airwallex-boost"
+      ]
+    },
+    {
+      "keyword": "us-payment-hubs-rtp-fednow",
+      "count": 1,
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "articles": [
+        "payments-hubs-rtp"
+      ]
+    },
+    {
+      "keyword": "fintech-trade-finance-expansion",
+      "count": 1,
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "articles": [
+        "payments-trade-finance"
+      ]
+    },
+    {
+      "keyword": "cross-river-rlusd-247-remittance",
+      "count": 1,
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "articles": [
+        "remittance-cross-river"
+      ]
+    },
+    {
+      "keyword": "tazapay-fy2026-revenue-growth",
+      "count": 1,
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "articles": [
+        "remittance-tazapay"
+      ]
+    },
+    {
+      "keyword": "remote-embedded-expense-cards",
+      "count": 1,
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "articles": [
+        "digital-banking-remote-cards"
+      ]
+    },
+    {
+      "keyword": "us-bank-lending-standards-tight",
+      "count": 1,
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "articles": [
+        "lending-bank-standards"
       ]
     }
   ]
