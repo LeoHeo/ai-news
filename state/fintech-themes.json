@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-09",
+  "updated": "2026-11-10",
   "window_days": 7,
   "themes": [
     {
@@ -45,34 +45,6 @@
       ]
     },
     {
-      "keyword": "lseg-octus-private-credit",
-      "count": 6,
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-11-01",
-      "articles": [
-        "investment-lseg-octus",
-        "investment-lseg-octus-1028",
-        "investment-lseg-octus-1029",
-        "investment-lseg-octus-1030",
-        "investment-lseg-octus-1031",
-        "investment-lseg-octus-private-credit-1101"
-      ]
-    },
-    {
-      "keyword": "revolut-boe-internal-probe",
-      "count": 6,
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-11-02",
-      "articles": [
-        "digital-banking-revolut-boe",
-        "digital-banking-revolut-boe-1029",
-        "digital-banking-revolut-boe-1030",
-        "digital-banking-revolut-boe-1031",
-        "digital-banking-revolut-boe-internal-probe-1101",
-        "digital-banking-revolut-boe-revenue"
-      ]
-    },
-    {
       "keyword": "toss-facepay-biometric",
       "count": 8,
       "first_seen": "2026-10-27",
@@ -86,38 +58,6 @@
         "payments-naver-toss-facepay",
         "payments-toss-facepay-1104",
         "payments-toss-facepay"
-      ]
-    },
-    {
-      "keyword": "stripe-b2b-pay-launch",
-      "count": 3,
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-11-02",
-      "articles": [
-        "payments-stripe-b2b-1030",
-        "payments-stripe-b2b-1031",
-        "payments-stripe-b2b-instant"
-      ]
-    },
-    {
-      "keyword": "wealthsimple-series-2026",
-      "count": 2,
-      "first_seen": "2026-10-31",
-      "last_seen": "2026-11-01",
-      "articles": [
-        "investment-wealthsimple-1031",
-        "investment-wealthsimple-series-2026-1101"
-      ]
-    },
-    {
-      "keyword": "nhnonghyup-moonpay-finger-mou",
-      "count": 3,
-      "first_seen": "2026-10-31",
-      "last_seen": "2026-11-02",
-      "articles": [
-        "remittance-nhnonghyup-moonpay-1031",
-        "remittance-nhnonghyup-moonpay-finger-mou-1101",
-        "remittance-nhnonghyup-moonpay-finger"
       ]
     },
     {
@@ -169,16 +109,17 @@
     },
     {
       "keyword": "global-payments-pe-takeover",
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "articles": [
         "investment-global-payments-pe-takeover",
         "investment-global-payments-pe-1104",
         "investment-global-payments-lbo",
         "investment-global-payments-lbo",
         "investment-global-payments-pe",
-        "payments-global-payments-pe"
+        "payments-global-payments-pe",
+        "investment-global-payments-lbo-1110"
       ]
     },
     {
@@ -292,14 +233,15 @@
     },
     {
       "keyword": "revolut-115b-valuation",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "articles": [
         "investment-revolut-115b",
         "digital-banking-revolut-115b",
         "digital-banking-revolut-115b-1108",
-        "digital-banking-revolut-115b"
+        "digital-banking-revolut-115b",
+        "digital-banking-revolut-115b-1110"
       ]
     },
     {
@@ -313,11 +255,12 @@
     },
     {
       "keyword": "eu-canada-rtr-link",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-10",
       "articles": [
-        "payments-eu-canada-rtr"
+        "payments-eu-canada-rtr",
+        "payments-canada-eu-rtp-1110"
       ]
     },
     {
@@ -340,11 +283,12 @@
     },
     {
       "keyword": "segpay-pay-by-bank-europe",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-08",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-10",
       "articles": [
-        "payments-segpay-pbbank"
+        "payments-segpay-pbbank",
+        "payments-segpay-pbbank-1110"
       ]
     },
     {
@@ -367,12 +311,13 @@
     },
     {
       "keyword": "monzo-75b-fundraising",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-08",
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "articles": [
         "digital-banking-monzo-75b",
-        "digital-banking-monzo-vc"
+        "digital-banking-monzo-vc",
+        "digital-banking-monzo-75b-1110"
       ]
     },
     {
@@ -458,11 +403,12 @@
     },
     {
       "keyword": "tosspayments-viva-merger",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "articles": [
-        "investment-tosspayments"
+        "investment-tosspayments",
+        "investment-tosspayments-1110"
       ]
     },
     {
@@ -535,6 +481,87 @@
       "last_seen": "2026-11-09",
       "articles": [
         "lending-bank-standards"
+      ]
+    },
+    {
+      "keyword": "clink-mastercard-agent-pay",
+      "count": 1,
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "articles": [
+        "payments-clink-mastercard-agent"
+      ]
+    },
+    {
+      "keyword": "visa-senegal-digital-mou",
+      "count": 1,
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "articles": [
+        "payments-visa-senegal"
+      ]
+    },
+    {
+      "keyword": "synctera-baas-fundraising",
+      "count": 1,
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "articles": [
+        "digital-banking-synctera-baas"
+      ]
+    },
+    {
+      "keyword": "nubank-mercado-pago-crypto-halt",
+      "count": 1,
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "articles": [
+        "digital-banking-nubank-crypto"
+      ]
+    },
+    {
+      "keyword": "wahda-backbase-digital-banking",
+      "count": 1,
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "articles": [
+        "digital-banking-wahda-backbase"
+      ]
+    },
+    {
+      "keyword": "coinbase-occ-trust-charter",
+      "count": 1,
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "articles": [
+        "regulation-coinbase-occ"
+      ]
+    },
+    {
+      "keyword": "galaxy-digital-occ-charter",
+      "count": 1,
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "articles": [
+        "regulation-galaxy-occ"
+      ]
+    },
+    {
+      "keyword": "fca-transaction-reporting-reform",
+      "count": 1,
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "articles": [
+        "regulation-fca-tx-report"
+      ]
+    },
+    {
+      "keyword": "thailand-stablecoin-bnpl-rule",
+      "count": 1,
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "articles": [
+        "regulation-thailand-stablecoin"
       ]
     }
   ]
