@@ -1,13 +1,13 @@
 {
   "topic": "ai",
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "version": 1,
   "window_days": 7,
   "themes": {
     "anthropic-ipo-roadshow": {
-      "count": 13,
+      "count": 14,
       "first_seen": "2026-10-14",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "status": "saturated",
       "example_titles": [
         "Anthropic 3분기 매출 168억 달러 — IPO 기업가치 2조→1.5조 달러로 하향 전망",
@@ -264,15 +264,6 @@
         "OpenAI, 펀딩 목표 200억 달러로 하향 — 투자 회의론에 기업가치 1.25조 달러"
       ]
     },
-    "claude-mythos-5-5-prep": {
-      "count": 2,
-      "first_seen": "2026-11-02",
-      "last_seen": "2026-11-03",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, Claude Mythos 5.5 출시 임박 — 공식 사이트 코드서 확인"
-      ]
-    },
     "openai-chatgpt-codex-token-pool": {
       "count": 3,
       "first_seen": "2026-11-02",
@@ -302,42 +293,6 @@
         "Google, 지난주 출시된 Gemini 4 Argon 업그레이드 버전 'Gemini 4 Carbon' 개발 중",
         "Google, Gemini 4 Carbon 공개 — 업데이트된 어려운 벤치마크서 세계 1위 탈환, 접근은 제한",
         "과학 이미지 AI 평가: Gemini 4 Carbon 최고 64%·모델간 비용 격차 99배"
-      ]
-    },
-    "abu-dhabi-openai-gov-deals": {
-      "count": 1,
-      "first_seen": "2026-11-03",
-      "last_seen": "2026-11-03",
-      "status": "normal",
-      "example_titles": [
-        "아부다비, AI 네이티브 정부 위해 OpenAI와 4건 파트너십 체결"
-      ]
-    },
-    "anthropic-claude-eu-watermark": {
-      "count": 1,
-      "first_seen": "2026-11-03",
-      "last_seen": "2026-11-03",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, EU AI Act 의무로 구형 Claude 4종 텍스트 워터마크 적용"
-      ]
-    },
-    "openai-2028-election-lobbying": {
-      "count": 1,
-      "first_seen": "2026-11-03",
-      "last_seen": "2026-11-03",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI 로비스트, 2028 대선 후보들에 AI 정책 준비 촉구"
-      ]
-    },
-    "deepfake-apps-platform-network": {
-      "count": 1,
-      "first_seen": "2026-11-03",
-      "last_seen": "2026-11-03",
-      "status": "normal",
-      "example_titles": [
-        "Wired, Apple·Meta 앱스토어 딥페이크 앱 400종 네트워크 폭로"
       ]
     },
     "anthropic-rsi-warning": {
@@ -818,6 +773,69 @@
       "status": "normal",
       "example_titles": [
         "뉴욕주 RAISE Act, 11월부터 프런티어 AI 개발사 등록 의무화 — 2027년 1월 전면 시행 앞두고 선행 등록 개시"
+      ]
+    },
+    "meta-muse-ember-launch": {
+      "count": 1,
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "status": "normal",
+      "example_titles": [
+        "Meta, 에이전트용 소형 모델 'Muse Ember' 출시 — Claude Haiku 5.5 동급 성능에 3분의 1 비용"
+      ]
+    },
+    "google-tpu-8tx-8i-max": {
+      "count": 1,
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "status": "normal",
+      "example_titles": [
+        "Google, 에이전트 시대 겨냥 8세대 TPU 8i Max·8tx 출시 — AI 칩 고객 100개사 돌파"
+      ]
+    },
+    "apple-intelligence-paid-tier": {
+      "count": 1,
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "status": "normal",
+      "example_titles": [
+        "Apple, $49.99 'Intelligence 사용 팩' 첫 출시 — Creator Studio 앱 월 한도 초과 시 추가 사용권"
+      ]
+    },
+    "lg-exaone-free-api": {
+      "count": 1,
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "status": "normal",
+      "example_titles": [
+        "LG AI연구원, K-엑사원 2.5 API 무료 개방 — 8주 만에 성능 70% 향상, DeepSeek와 경쟁"
+      ]
+    },
+    "nvidia-ceo-spy-investigation": {
+      "count": 1,
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "status": "normal",
+      "example_titles": [
+        "Nvidia 이사회, CEO 젠슨 황 중국 스파이 혐의 관계 독립 조사 착수 — 하원 11월 18일 증언 요청"
+      ]
+    },
+    "fireworks-ai-llmjacking-breach": {
+      "count": 1,
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "status": "normal",
+      "example_titles": [
+        "Fireworks AI 2차 보안 침해 확인 — 고객 데이터셋·모델 가중치 유출, LLMJacking 공격 추정"
+      ]
+    },
+    "trump-ai-guardrails-openness": {
+      "count": 1,
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "status": "normal",
+      "example_titles": [
+        "트럼프, AI 안전 가드레일에 \"반대 없다\" — 60분 인터뷰서 대중 우위 조건부 규제 허용 시사"
       ]
     }
   }
