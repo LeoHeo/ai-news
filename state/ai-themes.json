@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-11-12",
+  "updated": "2026-11-13",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -34,12 +34,13 @@
       ]
     },
     "deepmind-alphagenome-2": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "status": "normal",
       "example_titles": [
-        "Google DeepMind AlphaGenome 2 출시"
+        "Google DeepMind AlphaGenome 2 출시",
+        "구글 딥마인드, AlphaGenome 2로 유전체 해석 정확도 대폭 향상"
       ]
     },
     "deepmind-signal-code-verify": {
@@ -71,13 +72,14 @@
       ]
     },
     "nvidia-ceo-spy-investigation": {
-      "count": 2,
+      "count": 4,
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-12",
-      "status": "normal",
+      "last_seen": "2026-11-13",
+      "status": "demoted",
       "example_titles": [
         "Nvidia 이사회, CEO 젠슨 황 중국 스파이 혐의 관계 독립 조사 착수 — 하원 11월 18일 증언 요청",
-        "젠슨 황 CEO, 미국 AI 정책 무대에서 퇴장"
+        "젠슨 황 CEO, 스파이 혐의 조사 압박에 엔비디아 사임",
+        "엔비디아 주가 14% 급락, AMD·브로드컴은 반사 수혜로 5% 상승"
       ]
     },
     "microsoft-oracle-cloud-exit": {
@@ -610,130 +612,49 @@
         "독일 연방의회, EU AI법 국내법화 법안 채택 — 주요국 AI 법제화 도미노"
       ]
     },
-    "ai-datacenter-midterm-ballot": {
+    "spacex-ai-datacenter-74b": {
       "count": 1,
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
       "status": "normal",
       "example_titles": [
-        "미국 중간선거, AI 데이터센터 반대 주민투표 6개 주에서 통과"
+        "스페이스X, 텍사스·애리조나에 740억 달러 규모 AI 데이터센터 건설 추진"
       ]
     },
-    "hinton-ai-moratorium-warning": {
+    "samsung-ai-glasses-launch": {
       "count": 1,
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
       "status": "normal",
       "example_titles": [
-        "힌턴 \"AI 개발 경쟁 멈춰야...10년 내 인류 통제 불가 위험\""
+        "삼성, 'Intelligent Eyewear' AI 안경 12월 10일 공개 예고"
       ]
     },
-    "meta-ai-infrastructure-bonds": {
+    "naver-kakao-ai-strategy": {
       "count": 1,
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
       "status": "normal",
       "example_titles": [
-        "Meta, AI 인프라 투자 위해 100억 달러 채권 발행 추진"
+        "네이버 2조원 컴퓨팅 계약 수주 · 카카오 '카나나 스페이스' CBT 돌입"
       ]
     },
-    "anthropic-message-threads": {
+    "intel-korea-ai-alliance": {
       "count": 1,
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
       "status": "normal",
       "example_titles": [
-        "Anthropic, '메시지 스레드' 기능 베타 출시"
+        "인텔 코리아, 23개사 K-AI 풀스택 얼라이언스 출범"
       ]
     },
-    "apple-deepmind-siri-hire": {
+    "fractile-ai-chip-funding": {
       "count": 1,
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
       "status": "normal",
       "example_titles": [
-        "Apple, Siri AI 고도화 위해 구글 딥마인드 출신 핵심 연구자 영입"
-      ]
-    },
-    "openai-compute-campus-expansion": {
-      "count": 1,
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, 텍사스·아이다호에 'AI 컴퓨트 캠퍼스' 추가 건설 계획"
-      ]
-    },
-    "amd-mi350-revenue-beat": {
-      "count": 1,
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05",
-      "status": "normal",
-      "example_titles": [
-        "AMD, AI 가속기 수요 폭증에 연간 매출 전망 15% 상향 조정"
-      ]
-    },
-    "google-malaysia-datacenter": {
-      "count": 1,
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05",
-      "status": "normal",
-      "example_titles": [
-        "구글, 말레이시아에 20억 달러 규모 AI 데이터센터 착공"
-      ]
-    },
-    "openai-bug-bounty-100k": {
-      "count": 1,
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, 버그 바운티 최대 포상금 10만 달러로 대폭 인상"
-      ]
-    },
-    "openai-driscoll-national-security": {
-      "count": 1,
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, 전 미 국가안보보좌관 출신 댄 드리스콜 정책 자문으로 영입"
-      ]
-    },
-    "china-iso-ai-standards": {
-      "count": 1,
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05",
-      "status": "normal",
-      "example_titles": [
-        "중국, AI 안전 국제 표준화 선점 위해 ISO 제안서 제출"
-      ]
-    },
-    "eu-gemini-copyright-probe": {
-      "count": 1,
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05",
-      "status": "normal",
-      "example_titles": [
-        "EU, 구글 Gemini의 뉴스 콘텐츠 무단 사용에 대해 저작권법 위반 조사 착수"
-      ]
-    },
-    "suleyman-ai-consciousness": {
-      "count": 1,
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05",
-      "status": "normal",
-      "example_titles": [
-        "머스타파 술레이만 \"AI 의식 여부, 10년 내 판별 불가...도덕적 판단 필요\""
-      ]
-    },
-    "grok-c2pa-watermark-eu": {
-      "count": 1,
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05",
-      "status": "normal",
-      "example_titles": [
-        "X, EU 규정 준수 위해 Grok AI 생성 이미지에 워터마크 기능 추가"
+        "AI 반도체 스타트업 Fractile, 7억 2천만 달러 시리즈C 조달 — 기업가치 70억 달러"
       ]
     }
   }
