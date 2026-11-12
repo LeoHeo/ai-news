@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updated": "2026-11-12",
+  "updated": "2026-11-13",
   "window_days": 7,
   "themes": [
     {
       "keyword": "occ-genius-act-stablecoin-final",
-      "count": 14,
+      "count": 15,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "articles": [
         "regulation-occ-genius-act",
         "regulation-occ-genius-act",
@@ -22,7 +22,8 @@
         "regulation-occ-genius-act-stablecoin",
         "regulation-occ-genius-act",
         "regulation-occ-genius-act-1111",
-        "regulation-occ-genius-act-1112"
+        "regulation-occ-genius-act-1112",
+        "regulation-occ-genius-act-1113"
       ]
     },
     {
@@ -183,14 +184,15 @@
     },
     {
       "keyword": "monzo-75b-fundraising",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-11-08",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "articles": [
         "digital-banking-monzo-75b",
         "digital-banking-monzo-vc",
         "digital-banking-monzo-75b-1110",
-        "digital-banking-monzo-75b-1112"
+        "digital-banking-monzo-75b-1112",
+        "investment-monzo-75b-1113"
       ]
     },
     {
@@ -276,14 +278,15 @@
     },
     {
       "keyword": "tosspayments-viva-merger",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "articles": [
         "investment-tosspayments",
         "investment-tosspayments-1110",
         "investment-tosspayments-1111",
-        "investment-tosspayments-1112"
+        "investment-tosspayments-1112",
+        "investment-tosspayments-1113"
       ]
     },
     {
@@ -409,12 +412,13 @@
     },
     {
       "keyword": "coinbase-occ-trust-charter",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "articles": [
         "regulation-coinbase-occ",
-        "regulation-coinbase-occ-1112"
+        "regulation-coinbase-occ-1112",
+        "regulation-coinbase-occ-1113"
       ]
     },
     {
@@ -446,22 +450,24 @@
     },
     {
       "keyword": "canada-rtr-launch",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "articles": [
         "payments-canada-rtr-launch",
-        "payments-canada-rtr-1112"
+        "payments-canada-rtr-1112",
+        "payments-canada-rtr-1113"
       ]
     },
     {
       "keyword": "naverpay-facesign-promo",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "articles": [
         "payments-naverpay-facesign",
-        "payments-naverpay-facesign-1112"
+        "payments-naverpay-facesign-1112",
+        "payments-naverpay-facesign-1113"
       ]
     },
     {
@@ -475,69 +481,76 @@
     },
     {
       "keyword": "nexi-ratepay-affirm-sale",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "articles": [
         "lending-nexi-ratepay-affirm",
-        "lending-nexi-ratepay-affirm-1112"
+        "lending-nexi-ratepay-affirm-1112",
+        "lending-nexi-ratepay-affirm-1113"
       ]
     },
     {
       "keyword": "eu-fida-withdrawal",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "articles": [
         "regulation-eu-fida-withdrawal",
-        "regulation-eu-fida-withdrawal-1112"
+        "regulation-eu-fida-withdrawal-1112",
+        "regulation-eu-fida-withdrawal-1113"
       ]
     },
     {
       "keyword": "korea-id-verification-simplepay",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "articles": [
         "regulation-korea-id-verification",
-        "regulation-korea-id-verification-1112"
+        "regulation-korea-id-verification-1112",
+        "regulation-korea-id-verification-1113"
       ]
     },
     {
       "keyword": "oppfi-bank-charter-withdrawal",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "articles": [
         "regulation-oppfi-bank-withdrawal",
-        "regulation-oppfi-bank-1112"
+        "regulation-oppfi-bank-1112",
+        "digital-banking-oppfi-charter-1113"
       ]
     },
     {
       "keyword": "bank-stablecoin-consortium-270m",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "articles": [
-        "payments-bank-stablecoin-consortium-1112"
+        "payments-bank-stablecoin-consortium-1112",
+        "payments-bank-stablecoin-consortium-1113"
       ]
     },
     {
       "keyword": "pnc-coinbase-usdc-pilot",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "articles": [
-        "payments-pnc-coinbase-usdc-1112"
+        "payments-pnc-coinbase-usdc-1112",
+        "payments-pnc-coinbase-usdc-1113"
       ]
     },
     {
       "keyword": "bottomline-usdc-stablecoin",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "articles": [
-        "payments-bottomline-usdc-1112"
+        "payments-bottomline-usdc-1112",
+        "payments-bottomline-usdc-1113"
       ]
     },
     {
