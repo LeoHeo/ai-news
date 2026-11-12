@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updated": "2026-11-11",
+  "updated": "2026-11-12",
   "window_days": 7,
   "themes": [
     {
       "keyword": "occ-genius-act-stablecoin-final",
-      "count": 13,
+      "count": 14,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "articles": [
         "regulation-occ-genius-act",
         "regulation-occ-genius-act",
@@ -21,44 +21,8 @@
         "regulation-occ-genius-act-stablecoin-1101",
         "regulation-occ-genius-act-stablecoin",
         "regulation-occ-genius-act",
-        "regulation-occ-genius-act-1111"
-      ]
-    },
-    {
-      "keyword": "korea-bigtech-prepaid-refund",
-      "count": 13,
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-11-05",
-      "articles": [
-        "regulation-korea-prepaid-refund-1019",
-        "regulation-korea-prepaid",
-        "regulation-korea-prepaid",
-        "regulation-korea-prepaid",
-        "regulation-korea-bigtech-prepaid",
-        "regulation-korea-prepaid-1029",
-        "regulation-korea-prepaid-1030",
-        "regulation-korea-prepaid-1031",
-        "regulation-korea-bigtech-prepaid-refund-1101",
-        "regulation-korea-bigtech-prepaid",
-        "regulation-korea-bigtech-prepaid-refund",
-        "regulation-korea-bigtech-prepaid-1104",
-        "regulation-korea-prepaid-refund"
-      ]
-    },
-    {
-      "keyword": "toss-facepay-biometric",
-      "count": 8,
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-11-05",
-      "articles": [
-        "payments-toss-facepay",
-        "payments-toss-facepay-1028",
-        "payments-toss-facepay-1029",
-        "payments-toss-facepay-1030",
-        "payments-naverpay-toss-facepay-1031",
-        "payments-naver-toss-facepay",
-        "payments-toss-facepay-1104",
-        "payments-toss-facepay"
+        "regulation-occ-genius-act-1111",
+        "regulation-occ-genius-act-1112"
       ]
     },
     {
@@ -74,34 +38,10 @@
       ]
     },
     {
-      "keyword": "photonpay-40m-series-b",
-      "count": 3,
-      "first_seen": "2026-11-01",
-      "last_seen": "2026-11-04",
-      "articles": [
-        "investment-photonpay-40m-1101",
-        "investment-photonpay-40m",
-        "investment-photonpay-40m-1104"
-      ]
-    },
-    {
-      "keyword": "docomo-smtb-digital-banking-2027",
-      "count": 5,
-      "first_seen": "2026-11-01",
-      "last_seen": "2026-11-05",
-      "articles": [
-        "digital-banking-docomo-smtb-1101",
-        "digital-banking-docomo-smtb-neobank-cash",
-        "digital-banking-docomo-smtb-neobank-cash-1103",
-        "digital-banking-docomo-smtb-1104",
-        "digital-banking-docomo-smtb"
-      ]
-    },
-    {
       "keyword": "global-payments-pe-takeover",
-      "count": 8,
+      "count": 9,
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "articles": [
         "investment-global-payments-pe-takeover",
         "investment-global-payments-pe-1104",
@@ -110,7 +50,8 @@
         "investment-global-payments-pe",
         "payments-global-payments-pe",
         "investment-global-payments-lbo-1110",
-        "investment-global-payments-lbo-1111"
+        "investment-global-payments-lbo-1111",
+        "investment-global-payments-lbo-1112"
       ]
     },
     {
@@ -126,61 +67,6 @@
       ]
     },
     {
-      "keyword": "revolut-nz-bank-license",
-      "count": 3,
-      "first_seen": "2026-11-03",
-      "last_seen": "2026-11-05",
-      "articles": [
-        "digital-banking-revolut-nz-license",
-        "digital-banking-revolut-nz-1104",
-        "digital-banking-revolut-nz"
-      ]
-    },
-    {
-      "keyword": "okx-mastercard-card-us",
-      "count": 3,
-      "first_seen": "2026-11-03",
-      "last_seen": "2026-11-05",
-      "articles": [
-        "payments-okx-mastercard-card-us",
-        "payments-okx-mastercard-1104",
-        "payments-okx-mastercard-us"
-      ]
-    },
-    {
-      "keyword": "uber-hsbc-tokenized-deposits",
-      "count": 3,
-      "first_seen": "2026-11-03",
-      "last_seen": "2026-11-05",
-      "articles": [
-        "payments-uber-hsbc-tokenized-deposits",
-        "payments-uber-hsbc-1104",
-        "payments-uber-hsbc-tokenized"
-      ]
-    },
-    {
-      "keyword": "thunes-unionpay-china-payout",
-      "count": 3,
-      "first_seen": "2026-11-03",
-      "last_seen": "2026-11-05",
-      "articles": [
-        "remittance-thunes-unionpay-china",
-        "remittance-thunes-unionpay-1104",
-        "remittance-thunes-unionpay"
-      ]
-    },
-    {
-      "keyword": "razorpay-ifsca-licence",
-      "count": 3,
-      "first_seen": "2026-11-03",
-      "last_seen": "2026-11-05",
-      "articles": [
-        "remittance-razorpay-ifsca",
-        "remittance-razorpay-ifsca-1104",
-        "remittance-razorpay-ifsca"
-      ]
-    },
-    {
       "keyword": "korea-digital-asset-basic-act",
       "count": 4,
       "first_seen": "2026-11-03",
@@ -190,16 +76,6 @@
         "regulation-korea-digital-asset-1104",
         "regulation-korea-digital-asset-act",
         "regulation-korea-digital-asset-act"
-      ]
-    },
-    {
-      "keyword": "klarna-squire-bnpl-barbershops",
-      "count": 2,
-      "first_seen": "2026-11-03",
-      "last_seen": "2026-11-05",
-      "articles": [
-        "lending-klarna-squire-bnpl",
-        "lending-klarna-squire-bnpl"
       ]
     },
     {
@@ -224,26 +100,28 @@
     },
     {
       "keyword": "revolut-115b-valuation",
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "articles": [
         "investment-revolut-115b",
         "digital-banking-revolut-115b",
         "digital-banking-revolut-115b-1108",
         "digital-banking-revolut-115b",
         "digital-banking-revolut-115b-1110",
-        "investment-revolut-115b-1111"
+        "investment-revolut-115b-1111",
+        "digital-banking-revolut-115b-1112"
       ]
     },
     {
       "keyword": "pliant-b2b-ai-payments",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-08",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "articles": [
         "payments-pliant-b2b-ai",
-        "payments-pliant-series-c"
+        "payments-pliant-series-c",
+        "investment-pliant-series-c-1112"
       ]
     },
     {
@@ -305,13 +183,14 @@
     },
     {
       "keyword": "monzo-75b-fundraising",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-11-08",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-12",
       "articles": [
         "digital-banking-monzo-75b",
         "digital-banking-monzo-vc",
-        "digital-banking-monzo-75b-1110"
+        "digital-banking-monzo-75b-1110",
+        "digital-banking-monzo-75b-1112"
       ]
     },
     {
@@ -397,13 +276,14 @@
     },
     {
       "keyword": "tosspayments-viva-merger",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "articles": [
         "investment-tosspayments",
         "investment-tosspayments-1110",
-        "investment-tosspayments-1111"
+        "investment-tosspayments-1111",
+        "investment-tosspayments-1112"
       ]
     },
     {
@@ -480,12 +360,13 @@
     },
     {
       "keyword": "clink-mastercard-agent-pay",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "articles": [
         "payments-clink-mastercard-agent",
-        "payments-clink-mastercard-1111"
+        "payments-clink-mastercard-1111",
+        "payments-clink-mastercard-1112"
       ]
     },
     {
@@ -499,12 +380,13 @@
     },
     {
       "keyword": "synctera-baas-fundraising",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "articles": [
         "digital-banking-synctera-baas",
-        "digital-banking-synctera-1111"
+        "digital-banking-synctera-1111",
+        "digital-banking-synctera-1112"
       ]
     },
     {
@@ -527,11 +409,12 @@
     },
     {
       "keyword": "coinbase-occ-trust-charter",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-12",
       "articles": [
-        "regulation-coinbase-occ"
+        "regulation-coinbase-occ",
+        "regulation-coinbase-occ-1112"
       ]
     },
     {
@@ -563,20 +446,22 @@
     },
     {
       "keyword": "canada-rtr-launch",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "articles": [
-        "payments-canada-rtr-launch"
+        "payments-canada-rtr-launch",
+        "payments-canada-rtr-1112"
       ]
     },
     {
       "keyword": "naverpay-facesign-promo",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "articles": [
-        "payments-naverpay-facesign"
+        "payments-naverpay-facesign",
+        "payments-naverpay-facesign-1112"
       ]
     },
     {
@@ -590,38 +475,78 @@
     },
     {
       "keyword": "nexi-ratepay-affirm-sale",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "articles": [
-        "lending-nexi-ratepay-affirm"
+        "lending-nexi-ratepay-affirm",
+        "lending-nexi-ratepay-affirm-1112"
       ]
     },
     {
       "keyword": "eu-fida-withdrawal",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "articles": [
-        "regulation-eu-fida-withdrawal"
+        "regulation-eu-fida-withdrawal",
+        "regulation-eu-fida-withdrawal-1112"
       ]
     },
     {
       "keyword": "korea-id-verification-simplepay",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "articles": [
-        "regulation-korea-id-verification"
+        "regulation-korea-id-verification",
+        "regulation-korea-id-verification-1112"
       ]
     },
     {
       "keyword": "oppfi-bank-charter-withdrawal",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "articles": [
-        "regulation-oppfi-bank-withdrawal"
+        "regulation-oppfi-bank-withdrawal",
+        "regulation-oppfi-bank-1112"
+      ]
+    },
+    {
+      "keyword": "bank-stablecoin-consortium-270m",
+      "count": 1,
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "articles": [
+        "payments-bank-stablecoin-consortium-1112"
+      ]
+    },
+    {
+      "keyword": "pnc-coinbase-usdc-pilot",
+      "count": 1,
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "articles": [
+        "payments-pnc-coinbase-usdc-1112"
+      ]
+    },
+    {
+      "keyword": "bottomline-usdc-stablecoin",
+      "count": 1,
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "articles": [
+        "payments-bottomline-usdc-1112"
+      ]
+    },
+    {
+      "keyword": "etoro-lb-finanzas-latam",
+      "count": 1,
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "articles": [
+        "investment-etoro-lb-finanzas-1112"
       ]
     }
   ]
