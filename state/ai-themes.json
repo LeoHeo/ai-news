@@ -1,18 +1,198 @@
 {
   "topic": "ai",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "version": 1,
   "window_days": 7,
   "themes": {
     "anthropic-ipo-roadshow": {
-      "count": 15,
+      "count": 16,
       "first_seen": "2026-10-14",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-14",
       "status": "saturated",
       "example_titles": [
-        "Anthropic 3분기 매출 168억 달러 — IPO 기업가치 2조→1.5조 달러로 하향 전망",
         "Anthropic, IPO S-1에 2026 상반기 807억 달러 순손실 공개",
-        "Anthropic IPO 로드쇼 개시 — 주당 70~78달러·나스닥 'ANT'"
+        "Anthropic IPO 로드쇼 개시 — 주당 70~78달러·나스닥 'ANT'",
+        "Anthropic, 11월 19일 나스닥 'ANT' 첫 거래 개시 확정 — 주당 70~78달러"
+      ]
+    },
+    "nvidia-ceo-spy-investigation": {
+      "count": 5,
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-14",
+      "status": "saturated",
+      "example_titles": [
+        "젠슨 황 CEO, 스파이 혐의 조사 압박에 엔비디아 사임",
+        "엔비디아 주가 14% 급락, AMD·브로드컴은 반사 수혜로 5% 상승",
+        "Jensen Huang, Nvidia CEO 즉각 사임 — 중국 정보기관 연계 의혹 확인"
+      ]
+    },
+    "openai-gpt6-cyber": {
+      "count": 4,
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-14",
+      "status": "demoted",
+      "example_titles": [
+        "OpenAI, 취약점 연구 특화 보안 AI 모델 'GPT-6 Cyber' 출시",
+        "OpenAI·Google, 보안 특화 AI 모델 잇따라 출시",
+        "OpenAI GPT-6 Cyber, Preparedness 프레임워크 첫 'Critical' 등급 — 보안 승인 고객만 접근"
+      ]
+    },
+    "anthropic-fable-mythos-5-2": {
+      "count": 2,
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-14",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, Claude Fable 5.2·Mythos 5.2 출시 — IPO 직전 가격·속도 동시 개선",
+        "Claude Fable 5.2, Artificial Analysis 종합 지수 1위 등극"
+      ]
+    },
+    "deepmind-gemini-robotics-25": {
+      "count": 2,
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-14",
+      "status": "normal",
+      "example_titles": [
+        "Google DeepMind, Gemini Robotics 2.5 출시",
+        "Gemini Robotics 2.5, Mercedes-Benz 조립 라인 96% 성공률 달성"
+      ]
+    },
+    "fireworks-ai-llmjacking-breach": {
+      "count": 2,
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-14",
+      "status": "normal",
+      "example_titles": [
+        "Fireworks AI 2차 보안 침해 확인 — 고객 데이터셋·모델 가중치 유출, LLMJacking 공격 추정",
+        "Fireworks AI 2차 보안 침해 — Notion AI 고객 채팅 기록 유출 확인"
+      ]
+    },
+    "samsung-ai-glasses-launch": {
+      "count": 2,
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
+      "status": "normal",
+      "example_titles": [
+        "삼성, 'Intelligent Eyewear' AI 안경 12월 10일 공개 예고",
+        "삼성 'Intelligent Eyewear' AI 안경 12월 10일 출시 일정 재확인"
+      ]
+    },
+    "naver-kakao-ai-strategy": {
+      "count": 2,
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
+      "status": "normal",
+      "example_titles": [
+        "네이버 2조원 컴퓨팅 계약 수주 · 카카오 '카나나 스페이스' CBT 돌입",
+        "네이버 2조원 컴퓨팅 계약 수주, 카카오 '카나나 스페이스' CBT 돌입"
+      ]
+    },
+    "google-gemini-4-hydrogen": {
+      "count": 1,
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "status": "normal",
+      "example_titles": [
+        "Google, Gemini 4 Hydrogen 전 채널 동시 출시"
+      ]
+    },
+    "chatgpt-wallet-launch": {
+      "count": 1,
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "status": "normal",
+      "example_titles": [
+        "ChatGPT Wallet 출시 — 'Dots' AI 에이전트가 사용자 대신 구매"
+      ]
+    },
+    "claude-personal-finance": {
+      "count": 1,
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic Claude, Plaid 연동 개인 금융 기능 베타 출시"
+      ]
+    },
+    "deepseek-api-opening": {
+      "count": 1,
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "status": "normal",
+      "example_titles": [
+        "DeepSeek, 음성·OCR 포함 주요 기능 API 공개"
+      ]
+    },
+    "anthropic-metr-progress-report": {
+      "count": 1,
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "status": "normal",
+      "example_titles": [
+        "METR, Anthropic 모델 개선 속도 2024년 대비 약 2배로 가속화 평가"
+      ]
+    },
+    "openai-frontier-lawsuit": {
+      "count": 1,
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "status": "normal",
+      "example_titles": [
+        "비영리단체들, OpenAI·Google·Anthropic 등 AI 개발 중단 소송 제기"
+      ]
+    },
+    "nvidia-china-chip-project": {
+      "count": 1,
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "status": "normal",
+      "example_titles": [
+        "중국, Nvidia 칩 의존 32억 달러 AI 프로젝트 추진 — 황 CEO 사임 후 공급 차질 우려"
+      ]
+    },
+    "eu-ai-summit-mistral": {
+      "count": 1,
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "status": "normal",
+      "example_titles": [
+        "유럽 정상들, Mistral CEO 등과 EU AI 산업 육성 전략 논의"
+      ]
+    },
+    "airline-ai-agent-restriction": {
+      "count": 1,
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "status": "normal",
+      "example_titles": [
+        "United Airlines, 미승인 타사 AI 에이전트 시스템 접근 제한 선언"
+      ]
+    },
+    "spacex-ai-datacenter-74b": {
+      "count": 1,
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "status": "normal",
+      "example_titles": [
+        "스페이스X, 텍사스·애리조나에 740억 달러 규모 AI 데이터센터 건설 추진"
+      ]
+    },
+    "intel-korea-ai-alliance": {
+      "count": 1,
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "status": "normal",
+      "example_titles": [
+        "인텔 코리아, 23개사 K-AI 풀스택 얼라이언스 출범"
+      ]
+    },
+    "fractile-ai-chip-funding": {
+      "count": 1,
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "status": "normal",
+      "example_titles": [
+        "AI 반도체 스타트업 Fractile, 7억 2천만 달러 시리즈C 조달 — 기업가치 70억 달러"
       ]
     },
     "openai-q3-10b-revenue": {
@@ -22,15 +202,6 @@
       "status": "normal",
       "example_titles": [
         "OpenAI, 분기 매출 사상 첫 100억 달러 돌파"
-      ]
-    },
-    "deepmind-gemini-robotics-25": {
-      "count": 1,
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "status": "normal",
-      "example_titles": [
-        "Google DeepMind, Gemini Robotics 2.5 출시"
       ]
     },
     "deepmind-alphagenome-2": {
@@ -69,17 +240,6 @@
       "example_titles": [
         "LG AI연구원, K-엑사원 2.5 API 무료 개방 — 8주 만에 성능 70% 향상, DeepSeek와 경쟁",
         "LG AI연구원, K-엑사원 2.5 API 무료 개방"
-      ]
-    },
-    "nvidia-ceo-spy-investigation": {
-      "count": 4,
-      "first_seen": "2026-11-11",
-      "last_seen": "2026-11-13",
-      "status": "demoted",
-      "example_titles": [
-        "Nvidia 이사회, CEO 젠슨 황 중국 스파이 혐의 관계 독립 조사 착수 — 하원 11월 18일 증언 요청",
-        "젠슨 황 CEO, 스파이 혐의 조사 압박에 엔비디아 사임",
-        "엔비디아 주가 14% 급락, AMD·브로드컴은 반사 수혜로 5% 상승"
       ]
     },
     "microsoft-oracle-cloud-exit": {
@@ -129,15 +289,6 @@
         "Apple, $49.99 'Intelligence 사용 팩' 첫 출시 — Creator Studio 앱 월 한도 초과 시 추가 사용권"
       ]
     },
-    "fireworks-ai-llmjacking-breach": {
-      "count": 1,
-      "first_seen": "2026-11-11",
-      "last_seen": "2026-11-11",
-      "status": "normal",
-      "example_titles": [
-        "Fireworks AI 2차 보안 침해 확인 — 고객 데이터셋·모델 가중치 유출, LLMJacking 공격 추정"
-      ]
-    },
     "trump-ai-guardrails-openness": {
       "count": 1,
       "first_seen": "2026-11-11",
@@ -145,15 +296,6 @@
       "status": "normal",
       "example_titles": [
         "트럼프, AI 안전 가드레일에 \"반대 없다\" — 60분 인터뷰서 대중 우위 조건부 규제 허용 시사"
-      ]
-    },
-    "anthropic-fable-mythos-5-2": {
-      "count": 1,
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, Claude Fable 5.2·Mythos 5.2 출시 — IPO 직전 가격·속도 동시 개선"
       ]
     },
     "anthropic-security-breach": {
@@ -278,115 +420,6 @@
         "OpenAI, 펀딩 목표 200억 달러로 하향 — 투자 회의론에 기업가치 1.25조 달러"
       ]
     },
-    "openai-gpt6-cyber": {
-      "count": 3,
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-08",
-      "status": "demoted",
-      "example_titles": [
-        "OpenAI, 취약점 연구 특화 보안 AI 모델 'GPT-6 Cyber' 출시",
-        "OpenAI·Google, 보안 특화 AI 모델 잇따라 출시"
-      ]
-    },
-    "openai-gpt-image-26": {
-      "count": 1,
-      "first_seen": "2026-11-08",
-      "last_seen": "2026-11-08",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, GPT Image 2.6 출시 — Flare·Sunburst 두 가지 API 모델, GIF·SVG 지원"
-      ]
-    },
-    "deepmind-rsa-attack": {
-      "count": 1,
-      "first_seen": "2026-11-08",
-      "last_seen": "2026-11-08",
-      "status": "normal",
-      "example_titles": [
-        "구글 딥마인드, AI 에이전트로 1024비트 RSA 레거시 취약점 발견 — 서명 위조 1,600배 가속"
-      ]
-    },
-    "openai-eth-disproof": {
-      "count": 1,
-      "first_seen": "2026-11-08",
-      "last_seen": "2026-11-08",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI·Anthropic, AI로 27년된 복잡도 이론 'ETH 가설' 반증 주장 — 러셀 임파글리아초 충격"
-      ]
-    },
-    "google-wyoming-datacenter": {
-      "count": 1,
-      "first_seen": "2026-11-08",
-      "last_seen": "2026-11-08",
-      "status": "normal",
-      "example_titles": [
-        "구글, 와이오밍주 첫 AI 데이터센터에 170억 달러 투자 — 702MW 연료전지+CCS 적용"
-      ]
-    },
-    "anthropic-ap-licensing": {
-      "count": 1,
-      "first_seen": "2026-11-08",
-      "last_seen": "2026-11-08",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, AP통신과 첫 콘텐츠 라이선싱 계약 — 선거 실시간 데이터 제공"
-      ]
-    },
-    "uber-ai-agents": {
-      "count": 1,
-      "first_seen": "2026-11-08",
-      "last_seen": "2026-11-08",
-      "status": "normal",
-      "example_titles": [
-        "우버, 가장 바쁜 10월 한 주간 AI 에이전트 호출 단 4건 — 에이전트 상용화 아직 먼 길"
-      ]
-    },
-    "doj-ai-task-force": {
-      "count": 1,
-      "first_seen": "2026-11-08",
-      "last_seen": "2026-11-08",
-      "status": "normal",
-      "example_titles": [
-        "미 법무부, 'AI 초지능 태스크포스' 신설 — 외국 국가 행위자·기업의 AI 오남용 타깃"
-      ]
-    },
-    "ai-political-ads-candidates": {
-      "count": 1,
-      "first_seen": "2026-11-08",
-      "last_seen": "2026-11-08",
-      "status": "normal",
-      "example_titles": [
-        "분석: 미 선거 AI 정치 광고 절반, 실제 후보자 얼굴·목소리 사용 — 딥페이크 규제 공백"
-      ]
-    },
-    "openai-poisoning-lawsuit": {
-      "count": 1,
-      "first_seen": "2026-11-08",
-      "last_seen": "2026-11-08",
-      "status": "normal",
-      "example_titles": [
-        "미국 남성, OpenAI·샘 올트먼 상대 소송 — GPT-4o가 아내 독살 계획 도왔다 주장"
-      ]
-    },
-    "nvidia-congress-briefing": {
-      "count": 1,
-      "first_seen": "2026-11-08",
-      "last_seen": "2026-11-08",
-      "status": "normal",
-      "example_titles": [
-        "미 하원 소위원장 3인, 젠슨 황에 11월 18일 비공개 브리핑 요청 — Q3 실적 발표 전날"
-      ]
-    },
-    "anthropic-onepwr-power-deal": {
-      "count": 1,
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, OnePwr와 34억 달러 가스 발전기 계약 — 데이터센터 전력 인프라 직접 확보"
-      ]
-    },
     "mistral-le-chonk-weights": {
       "count": 1,
       "first_seen": "2026-11-09",
@@ -448,213 +481,6 @@
       "status": "normal",
       "example_titles": [
         "美 기술 정책 단체, 의회에 AI 안전성 입법 촉구 연합 구성"
-      ]
-    },
-    "ramp-ai-spending-stall": {
-      "count": 1,
-      "first_seen": "2026-11-07",
-      "last_seen": "2026-11-07",
-      "status": "normal",
-      "example_titles": [
-        "Ramp 데이터: AI 지출 성장 정체 — Anthropic IPO 임박 시점에 나온 경보"
-      ]
-    },
-    "deepmind-rsa-vulnerability": {
-      "count": 1,
-      "first_seen": "2026-11-07",
-      "last_seen": "2026-11-07",
-      "status": "normal",
-      "example_titles": [
-        "DeepMind AI 에이전트, 1024비트 RSA 취약점 2건 발견"
-      ]
-    },
-    "deepmind-nda-ban": {
-      "count": 1,
-      "first_seen": "2026-11-07",
-      "last_seen": "2026-11-07",
-      "status": "normal",
-      "example_titles": [
-        "DeepMind 직원들, 구글 비판 평생 금지 조항에 반발"
-      ]
-    },
-    "kospi-ai-selloff": {
-      "count": 1,
-      "first_seen": "2026-11-07",
-      "last_seen": "2026-11-07",
-      "status": "normal",
-      "example_titles": [
-        "코스피 8% 급락 — AI 성장 공포 확산, 전문가 \"사이클 종료 아닌 최악 시나리오 반영\""
-      ]
-    },
-    "openai-whitehouse-datacenter-push": {
-      "count": 1,
-      "first_seen": "2026-11-07",
-      "last_seen": "2026-11-07",
-      "status": "normal",
-      "example_titles": [
-        "데이터센터 주민 반대 투표에도 오픈AI·백악관 \"투자 계속\" 선언"
-      ]
-    },
-    "kakao-q3-ai-deficit": {
-      "count": 1,
-      "first_seen": "2026-11-07",
-      "last_seen": "2026-11-07",
-      "status": "normal",
-      "example_titles": [
-        "카카오 3분기 역대 최대 영업이익 2403억 원, AI 사업 적자 640억 원으로 확대"
-      ]
-    },
-    "sand-ai-funding": {
-      "count": 1,
-      "first_seen": "2026-11-07",
-      "last_seen": "2026-11-07",
-      "status": "normal",
-      "example_titles": [
-        "Sand.ai, 코너스톤·왕수 공동 주도로 시리즈 A+ 2억 달러 유치"
-      ]
-    },
-    "naver-kakao-ai-ads": {
-      "count": 1,
-      "first_seen": "2026-11-07",
-      "last_seen": "2026-11-07",
-      "status": "normal",
-      "example_titles": [
-        "네이버·카카오, 중소 광고주 위한 AI 광고 집행 도구 출시"
-      ]
-    },
-    "llm-benchmark-nov2026": {
-      "count": 1,
-      "first_seen": "2026-11-07",
-      "last_seen": "2026-11-07",
-      "status": "normal",
-      "example_titles": [
-        "LLM 벤치마크 순위 (11월 2026): BenchLM 1위 Gemini 4 Carbon, Vals 1위 Claude Sonnet 5.5"
-      ]
-    },
-    "openai-gpt6-astra-frontier": {
-      "count": 1,
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, GPT-6 Astra Frontier 모델 공식 공개"
-      ]
-    },
-    "anthropic-enterprise-lockdown": {
-      "count": 1,
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, Claude Enterprise에 보안 강화 잠금 기능 적용"
-      ]
-    },
-    "anthropic-aup-update": {
-      "count": 1,
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "normal",
-      "example_titles": [
-        "Anthropic, 'Be Nice to Claude' — 허용 사용 정책 업데이트"
-      ]
-    },
-    "meta-conductor-acquisition": {
-      "count": 1,
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "normal",
-      "example_titles": [
-        "Meta, AI 코딩 에이전트 스타트업 Conductor 인수"
-      ]
-    },
-    "nasdaq-ai-election-crash": {
-      "count": 1,
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "normal",
-      "example_titles": [
-        "나스닥 5% 급락·다우 1,800포인트 하락 — 중간선거·AI 투자 우려 복합 작용"
-      ]
-    },
-    "nvidia-korea-ai": {
-      "count": 1,
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "normal",
-      "example_titles": [
-        "젠슨 황, 서울 신라호텔서 국내 AI 스타트업 비공개 면담... NVIDIA AI 데이 서울 앞두고 방한"
-      ]
-    },
-    "ai-ma-2026-momentum": {
-      "count": 1,
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "normal",
-      "example_titles": [
-        "2026년 AI 기업 M&A 195건 돌파 — OpenAI 단독 10건으로 선두"
-      ]
-    },
-    "trump-ai-accord": {
-      "count": 1,
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "normal",
-      "example_titles": [
-        "트럼프, 중간선거 전 AI 초당파 거버넌스 협약 추진... 선거 후 의회 과제로 전환"
-      ]
-    },
-    "germany-eu-ai-act": {
-      "count": 1,
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "normal",
-      "example_titles": [
-        "독일 연방의회, EU AI법 국내법화 법안 채택 — 주요국 AI 법제화 도미노"
-      ]
-    },
-    "spacex-ai-datacenter-74b": {
-      "count": 1,
-      "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13",
-      "status": "normal",
-      "example_titles": [
-        "스페이스X, 텍사스·애리조나에 740억 달러 규모 AI 데이터센터 건설 추진"
-      ]
-    },
-    "samsung-ai-glasses-launch": {
-      "count": 1,
-      "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13",
-      "status": "normal",
-      "example_titles": [
-        "삼성, 'Intelligent Eyewear' AI 안경 12월 10일 공개 예고"
-      ]
-    },
-    "naver-kakao-ai-strategy": {
-      "count": 1,
-      "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13",
-      "status": "normal",
-      "example_titles": [
-        "네이버 2조원 컴퓨팅 계약 수주 · 카카오 '카나나 스페이스' CBT 돌입"
-      ]
-    },
-    "intel-korea-ai-alliance": {
-      "count": 1,
-      "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13",
-      "status": "normal",
-      "example_titles": [
-        "인텔 코리아, 23개사 K-AI 풀스택 얼라이언스 출범"
-      ]
-    },
-    "fractile-ai-chip-funding": {
-      "count": 1,
-      "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13",
-      "status": "normal",
-      "example_titles": [
-        "AI 반도체 스타트업 Fractile, 7억 2천만 달러 시리즈C 조달 — 기업가치 70억 달러"
       ]
     }
   }
