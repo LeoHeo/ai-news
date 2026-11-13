@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "window_days": 7,
   "themes": [
     {
@@ -65,38 +65,6 @@
         "investment-opay-ipo-1104",
         "investment-opay-ipo",
         "regulation-opay-ipo-halt"
-      ]
-    },
-    {
-      "keyword": "korea-digital-asset-basic-act",
-      "count": 4,
-      "first_seen": "2026-11-03",
-      "last_seen": "2026-11-06",
-      "articles": [
-        "regulation-korea-digital-asset-basic-act",
-        "regulation-korea-digital-asset-1104",
-        "regulation-korea-digital-asset-act",
-        "regulation-korea-digital-asset-act"
-      ]
-    },
-    {
-      "keyword": "tencent-mastercard-agentic-mou",
-      "count": 2,
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-06",
-      "articles": [
-        "payments-tencent-mastercard-mou",
-        "payments-tencent-mastercard-mou"
-      ]
-    },
-    {
-      "keyword": "stripe-stablecoin-global-payouts",
-      "count": 2,
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-06",
-      "articles": [
-        "payments-stripe-stablecoin-payouts",
-        "payments-stripe-stablecoin-160markets"
       ]
     },
     {
@@ -525,12 +493,13 @@
     },
     {
       "keyword": "bank-stablecoin-consortium-270m",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "articles": [
         "payments-bank-stablecoin-consortium-1112",
-        "payments-bank-stablecoin-consortium-1113"
+        "payments-bank-stablecoin-consortium-1113",
+        "payments-bank-stablecoin-consortium-1114"
       ]
     },
     {
@@ -560,6 +529,78 @@
       "last_seen": "2026-11-12",
       "articles": [
         "investment-etoro-lb-finanzas-1112"
+      ]
+    },
+    {
+      "keyword": "visa-usdpt-anchorage-settlement",
+      "count": 1,
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "articles": [
+        "payments-visa-usdpt-settlement-1114"
+      ]
+    },
+    {
+      "keyword": "triple-a-sfa-stablecoin-membership",
+      "count": 1,
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "articles": [
+        "payments-triple-a-sfa-1114"
+      ]
+    },
+    {
+      "keyword": "de-afc-commerzbank-deutsche-jv",
+      "count": 1,
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "articles": [
+        "digital-banking-de-afc-jv-1114"
+      ]
+    },
+    {
+      "keyword": "griffin-baas-series-b-stablecoin",
+      "count": 1,
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "articles": [
+        "digital-banking-griffin-series-b-1114"
+      ]
+    },
+    {
+      "keyword": "finom-mcp-ai-integration",
+      "count": 1,
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "articles": [
+        "digital-banking-finom-mcp-1114"
+      ]
+    },
+    {
+      "keyword": "gemini-eu-exit-kast",
+      "count": 1,
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "articles": [
+        "investment-gemini-kast-eu-1114"
+      ]
+    },
+    {
+      "keyword": "korea-won-stablecoin-bank-rule",
+      "count": 1,
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "articles": [
+        "regulation-korea-won-stablecoin-1114"
+      ]
+    },
+    {
+      "keyword": "glovo-pragmago-embedded-lending",
+      "count": 1,
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "articles": [
+        "lending-glovo-pragmago-1114"
       ]
     }
   ]
