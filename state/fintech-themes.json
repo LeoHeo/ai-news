@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-14",
+  "updated": "2026-11-15",
   "window_days": 7,
   "themes": [
     {
@@ -40,9 +40,9 @@
     },
     {
       "keyword": "global-payments-pe-takeover",
-      "count": 9,
+      "count": 10,
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-15",
       "articles": [
         "investment-global-payments-pe-takeover",
         "investment-global-payments-pe-1104",
@@ -52,7 +52,8 @@
         "payments-global-payments-pe",
         "investment-global-payments-lbo-1110",
         "investment-global-payments-lbo-1111",
-        "investment-global-payments-lbo-1112"
+        "investment-global-payments-lbo-1112",
+        "investment-global-payments-lbo-1115"
       ]
     },
     {
@@ -69,9 +70,9 @@
     },
     {
       "keyword": "revolut-115b-valuation",
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-15",
       "articles": [
         "investment-revolut-115b",
         "digital-banking-revolut-115b",
@@ -79,7 +80,8 @@
         "digital-banking-revolut-115b",
         "digital-banking-revolut-115b-1110",
         "investment-revolut-115b-1111",
-        "digital-banking-revolut-115b-1112"
+        "digital-banking-revolut-115b-1112",
+        "digital-banking-revolut-115b-1115"
       ]
     },
     {
@@ -152,15 +154,16 @@
     },
     {
       "keyword": "monzo-75b-fundraising",
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-11-08",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-15",
       "articles": [
         "digital-banking-monzo-75b",
         "digital-banking-monzo-vc",
         "digital-banking-monzo-75b-1110",
         "digital-banking-monzo-75b-1112",
-        "investment-monzo-75b-1113"
+        "investment-monzo-75b-1113",
+        "digital-banking-monzo-75b-1115"
       ]
     },
     {
@@ -246,15 +249,16 @@
     },
     {
       "keyword": "tosspayments-viva-merger",
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-15",
       "articles": [
         "investment-tosspayments",
         "investment-tosspayments-1110",
         "investment-tosspayments-1111",
         "investment-tosspayments-1112",
-        "investment-tosspayments-1113"
+        "investment-tosspayments-1113",
+        "investment-tosspayments-1115"
       ]
     },
     {
@@ -380,13 +384,14 @@
     },
     {
       "keyword": "coinbase-occ-trust-charter",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-15",
       "articles": [
         "regulation-coinbase-occ",
         "regulation-coinbase-occ-1112",
-        "regulation-coinbase-occ-1113"
+        "regulation-coinbase-occ-1113",
+        "regulation-coinbase-occ-1115"
       ]
     },
     {
@@ -429,13 +434,14 @@
     },
     {
       "keyword": "naverpay-facesign-promo",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-15",
       "articles": [
         "payments-naverpay-facesign",
         "payments-naverpay-facesign-1112",
-        "payments-naverpay-facesign-1113"
+        "payments-naverpay-facesign-1113",
+        "payments-naverpay-facesign-1115"
       ]
     },
     {
@@ -449,24 +455,26 @@
     },
     {
       "keyword": "nexi-ratepay-affirm-sale",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-15",
       "articles": [
         "lending-nexi-ratepay-affirm",
         "lending-nexi-ratepay-affirm-1112",
-        "lending-nexi-ratepay-affirm-1113"
+        "lending-nexi-ratepay-affirm-1113",
+        "lending-nexi-ratepay-affirm-1115"
       ]
     },
     {
       "keyword": "eu-fida-withdrawal",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-15",
       "articles": [
         "regulation-eu-fida-withdrawal",
         "regulation-eu-fida-withdrawal-1112",
-        "regulation-eu-fida-withdrawal-1113"
+        "regulation-eu-fida-withdrawal-1113",
+        "regulation-eu-fida-withdrawal-1115"
       ]
     },
     {
@@ -493,13 +501,14 @@
     },
     {
       "keyword": "bank-stablecoin-consortium-270m",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-14",
+      "last_seen": "2026-11-15",
       "articles": [
         "payments-bank-stablecoin-consortium-1112",
         "payments-bank-stablecoin-consortium-1113",
-        "payments-bank-stablecoin-consortium-1114"
+        "payments-bank-stablecoin-consortium-1114",
+        "payments-bank-stablecoin-consortium-1115"
       ]
     },
     {
@@ -533,38 +542,42 @@
     },
     {
       "keyword": "visa-usdpt-anchorage-settlement",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-14",
+      "last_seen": "2026-11-15",
       "articles": [
-        "payments-visa-usdpt-settlement-1114"
+        "payments-visa-usdpt-settlement-1114",
+        "payments-visa-usdpt-settlement-1115"
       ]
     },
     {
       "keyword": "triple-a-sfa-stablecoin-membership",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-14",
+      "last_seen": "2026-11-15",
       "articles": [
-        "payments-triple-a-sfa-1114"
+        "payments-triple-a-sfa-1114",
+        "payments-triple-a-sfa-1115"
       ]
     },
     {
       "keyword": "de-afc-commerzbank-deutsche-jv",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-14",
+      "last_seen": "2026-11-15",
       "articles": [
-        "digital-banking-de-afc-jv-1114"
+        "digital-banking-de-afc-jv-1114",
+        "digital-banking-de-afc-jv-1115"
       ]
     },
     {
       "keyword": "griffin-baas-series-b-stablecoin",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-14",
+      "last_seen": "2026-11-15",
       "articles": [
-        "digital-banking-griffin-series-b-1114"
+        "digital-banking-griffin-series-b-1114",
+        "digital-banking-griffin-series-b-1115"
       ]
     },
     {
@@ -578,29 +591,32 @@
     },
     {
       "keyword": "gemini-eu-exit-kast",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-14",
+      "last_seen": "2026-11-15",
       "articles": [
-        "investment-gemini-kast-eu-1114"
+        "investment-gemini-kast-eu-1114",
+        "investment-gemini-kast-eu-1115"
       ]
     },
     {
       "keyword": "korea-won-stablecoin-bank-rule",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-14",
+      "last_seen": "2026-11-15",
       "articles": [
-        "regulation-korea-won-stablecoin-1114"
+        "regulation-korea-won-stablecoin-1114",
+        "regulation-korea-won-stablecoin-1115"
       ]
     },
     {
       "keyword": "glovo-pragmago-embedded-lending",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-14",
+      "last_seen": "2026-11-15",
       "articles": [
-        "lending-glovo-pragmago-1114"
+        "lending-glovo-pragmago-1114",
+        "lending-glovo-pragmago-1115"
       ]
     }
   ]
