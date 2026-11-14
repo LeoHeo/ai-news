@@ -1,29 +1,29 @@
 {
   "topic": "ai",
-  "updated": "2026-11-14",
+  "updated": "2026-11-15",
   "version": 1,
   "window_days": 7,
   "themes": {
     "anthropic-ipo-roadshow": {
-      "count": 16,
+      "count": 17,
       "first_seen": "2026-10-14",
-      "last_seen": "2026-11-14",
+      "last_seen": "2026-11-15",
       "status": "saturated",
       "example_titles": [
         "Anthropic, IPO S-1에 2026 상반기 807억 달러 순손실 공개",
         "Anthropic IPO 로드쇼 개시 — 주당 70~78달러·나스닥 'ANT'",
-        "Anthropic, 11월 19일 나스닥 'ANT' 첫 거래 개시 확정 — 주당 70~78달러"
+        "Anthropic, 11월 18일 가격결정·19일 'ANT' 나스닥 첫 거래"
       ]
     },
     "nvidia-ceo-spy-investigation": {
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-14",
+      "last_seen": "2026-11-15",
       "status": "saturated",
       "example_titles": [
         "젠슨 황 CEO, 스파이 혐의 조사 압박에 엔비디아 사임",
-        "엔비디아 주가 14% 급락, AMD·브로드컴은 반사 수혜로 5% 상승",
-        "Jensen Huang, Nvidia CEO 즉각 사임 — 중국 정보기관 연계 의혹 확인"
+        "Jensen Huang, Nvidia CEO 즉각 사임 — 중국 정보기관 연계 의혹 확인",
+        "NVIDIA, Jensen Huang CEO 즉각 사임 — CFO Colette Kress 임시 CEO"
       ]
     },
     "openai-gpt6-cyber": {
@@ -38,13 +38,100 @@
       ]
     },
     "anthropic-fable-mythos-5-2": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-14",
+      "last_seen": "2026-11-15",
       "status": "normal",
       "example_titles": [
         "Anthropic, Claude Fable 5.2·Mythos 5.2 출시 — IPO 직전 가격·속도 동시 개선",
-        "Claude Fable 5.2, Artificial Analysis 종합 지수 1위 등극"
+        "Claude Fable 5.2, Artificial Analysis 종합 지수 1위 등극",
+        "Claude Fable 5.2, Artificial Analysis AI 지수 1위"
+      ]
+    },
+    "chatgpt-wallet-launch": {
+      "count": 2,
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-15",
+      "status": "normal",
+      "example_titles": [
+        "ChatGPT Wallet 출시 — 'Dots' AI 에이전트가 사용자 대신 구매",
+        "ChatGPT Wallet 출시 — AI 에이전트가 생체인증으로 실구매 완결"
+      ]
+    },
+    "altman-korea-visit": {
+      "count": 4,
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-15",
+      "status": "demoted",
+      "example_titles": [
+        "샘 올트먼, 삼성·네이버·카카오 서울 연쇄 회동 — 한국 AI 전환·인프라 협력 확대",
+        "샘 올트먼, 11월 15일 카카오 방문 확정 — 삼성·네이버 연쇄 회동 이어 한국 AI 파트너십 본격화",
+        "샘 올트먼, 오늘 카카오 방문 — 한국 AI 파트너십 협력 논의"
+      ]
+    },
+    "openai-frontier-lawsuit": {
+      "count": 2,
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-15",
+      "status": "normal",
+      "example_titles": [
+        "비영리단체들, OpenAI·Google·Anthropic 등 AI 개발 중단 소송 제기",
+        "비영리단체 4곳, OpenAI·Google·Anthropic에 차세대 AI 개발 금지 가처분 신청"
+      ]
+    },
+    "faa-ai-ground-stop": {
+      "count": 1,
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-15",
+      "status": "normal",
+      "example_titles": [
+        "FAA, SMART AI 항공 관제 도입 직후 전국 통신 장애 조사 착수",
+        "미 하원의원 20여 명, FAA에 SMART AI 항공 관제 도구 배포 중단 촉구"
+      ]
+    },
+    "white-house-ai-disclosure": {
+      "count": 1,
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-15",
+      "status": "normal",
+      "example_titles": [
+        "백악관, AI 취약점 공개 장려 위해 사이버 책임 완화 권고"
+      ]
+    },
+    "langchain-valuation-milestone": {
+      "count": 1,
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-15",
+      "status": "normal",
+      "example_titles": [
+        "LangChain, AI 에이전트 오케스트레이션 기업가치 30억 달러 도달"
+      ]
+    },
+    "apple-homeview-siri-display": {
+      "count": 1,
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-15",
+      "status": "normal",
+      "example_titles": [
+        "Apple HomeView $299 스마트 디스플레이 출시 — Siri AI 베타 탑재"
+      ]
+    },
+    "kakao-kanana-launch": {
+      "count": 1,
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-15",
+      "status": "normal",
+      "example_titles": [
+        "카카오 '카나나 스페이스' 12월 비공개 베타 개시, AI 이용자 1,000만 목표"
+      ]
+    },
+    "naver-ai-infrastructure": {
+      "count": 1,
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-15",
+      "status": "normal",
+      "example_titles": [
+        "네이버, 미국 AI 추론 기업과 차세대 GPU 포함 2조원 컴퓨팅 계약 체결"
       ]
     },
     "deepmind-gemini-robotics-25": {
@@ -96,15 +183,6 @@
         "Google, Gemini 4 Hydrogen 전 채널 동시 출시"
       ]
     },
-    "chatgpt-wallet-launch": {
-      "count": 1,
-      "first_seen": "2026-11-14",
-      "last_seen": "2026-11-14",
-      "status": "normal",
-      "example_titles": [
-        "ChatGPT Wallet 출시 — 'Dots' AI 에이전트가 사용자 대신 구매"
-      ]
-    },
     "claude-personal-finance": {
       "count": 1,
       "first_seen": "2026-11-14",
@@ -130,15 +208,6 @@
       "status": "normal",
       "example_titles": [
         "METR, Anthropic 모델 개선 속도 2024년 대비 약 2배로 가속화 평가"
-      ]
-    },
-    "openai-frontier-lawsuit": {
-      "count": 1,
-      "first_seen": "2026-11-14",
-      "last_seen": "2026-11-14",
-      "status": "normal",
-      "example_titles": [
-        "비영리단체들, OpenAI·Google·Anthropic 등 AI 개발 중단 소송 제기"
       ]
     },
     "nvidia-china-chip-project": {
@@ -388,16 +457,6 @@
       "example_titles": [
         "민주당 중간선거 압승... AI 투자 세제 혜택 축소·기업 규제 강화 예고",
         "민주당 의회 장악 후 AI 규제 강화 가속 — Pritzker 주지사, 연방 AI 프레임워크 즉각 입법 촉구"
-      ]
-    },
-    "altman-korea-visit": {
-      "count": 3,
-      "first_seen": "2026-11-07",
-      "last_seen": "2026-11-10",
-      "status": "demoted",
-      "example_titles": [
-        "샘 올트먼, 삼성·네이버·카카오 서울 연쇄 회동 — 한국 AI 전환·인프라 협력 확대",
-        "샘 올트먼, 11월 15일 카카오 방문 확정 — 삼성·네이버 연쇄 회동 이어 한국 AI 파트너십 본격화"
       ]
     },
     "thinking-machines-lab-5b": {
