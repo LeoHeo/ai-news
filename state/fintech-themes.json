@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updated": "2026-11-15",
+  "updated": "2026-11-16",
   "window_days": 7,
   "themes": [
     {
       "keyword": "occ-genius-act-stablecoin-final",
-      "count": 15,
+      "count": 16,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-16",
       "articles": [
         "regulation-occ-genius-act",
         "regulation-occ-genius-act",
@@ -23,7 +23,8 @@
         "regulation-occ-genius-act",
         "regulation-occ-genius-act-1111",
         "regulation-occ-genius-act-1112",
-        "regulation-occ-genius-act-1113"
+        "regulation-occ-genius-act-1113",
+        "regulation-occ-genius-act-1116"
       ]
     },
     {
@@ -57,18 +58,6 @@
       ]
     },
     {
-      "keyword": "opay-ipo-withdrawal",
-      "count": 4,
-      "first_seen": "2026-11-03",
-      "last_seen": "2026-11-08",
-      "articles": [
-        "investment-opay-ipo-withdrawal",
-        "investment-opay-ipo-1104",
-        "investment-opay-ipo",
-        "regulation-opay-ipo-halt"
-      ]
-    },
-    {
       "keyword": "revolut-115b-valuation",
       "count": 8,
       "first_seen": "2026-11-05",
@@ -86,13 +75,14 @@
     },
     {
       "keyword": "pliant-b2b-ai-payments",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-11-08",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-16",
       "articles": [
         "payments-pliant-b2b-ai",
         "payments-pliant-series-c",
-        "investment-pliant-series-c-1112"
+        "investment-pliant-series-c-1112",
+        "investment-pliant-series-c-1116"
       ]
     },
     {
@@ -107,24 +97,6 @@
       ]
     },
     {
-      "keyword": "visa-singapore-ai-hub",
-      "count": 1,
-      "first_seen": "2026-11-08",
-      "last_seen": "2026-11-08",
-      "articles": [
-        "payments-visa-singapore-ai"
-      ]
-    },
-    {
-      "keyword": "adyen-q3-2026-growth",
-      "count": 1,
-      "first_seen": "2026-11-08",
-      "last_seen": "2026-11-08",
-      "articles": [
-        "payments-adyen-q3"
-      ]
-    },
-    {
       "keyword": "segpay-pay-by-bank-europe",
       "count": 2,
       "first_seen": "2026-11-08",
@@ -132,24 +104,6 @@
       "articles": [
         "payments-segpay-pbbank",
         "payments-segpay-pbbank-1110"
-      ]
-    },
-    {
-      "keyword": "indusind-jpmorgan-xpedite",
-      "count": 1,
-      "first_seen": "2026-11-08",
-      "last_seen": "2026-11-08",
-      "articles": [
-        "remittance-indusind-jpmorgan"
-      ]
-    },
-    {
-      "keyword": "bitso-150b-tpv-2026",
-      "count": 1,
-      "first_seen": "2026-11-08",
-      "last_seen": "2026-11-08",
-      "articles": [
-        "remittance-bitso-150b"
       ]
     },
     {
@@ -164,60 +118,6 @@
         "digital-banking-monzo-75b-1112",
         "investment-monzo-75b-1113",
         "digital-banking-monzo-75b-1115"
-      ]
-    },
-    {
-      "keyword": "block-q3-2026-earnings",
-      "count": 1,
-      "first_seen": "2026-11-08",
-      "last_seen": "2026-11-08",
-      "articles": [
-        "digital-banking-block-q3"
-      ]
-    },
-    {
-      "keyword": "funding-circle-ceo-change",
-      "count": 1,
-      "first_seen": "2026-11-08",
-      "last_seen": "2026-11-08",
-      "articles": [
-        "lending-funding-circle-ceo"
-      ]
-    },
-    {
-      "keyword": "cert-in-ai-payment-threat",
-      "count": 1,
-      "first_seen": "2026-11-08",
-      "last_seen": "2026-11-08",
-      "articles": [
-        "regulation-cert-in-ai-threat"
-      ]
-    },
-    {
-      "keyword": "korea-card-stablecoin-scope",
-      "count": 1,
-      "first_seen": "2026-11-08",
-      "last_seen": "2026-11-08",
-      "articles": [
-        "regulation-korea-card-stablecoin"
-      ]
-    },
-    {
-      "keyword": "dtcc-tokenization-launch",
-      "count": 1,
-      "first_seen": "2026-11-08",
-      "last_seen": "2026-11-08",
-      "articles": [
-        "investment-morgan-stanley-dtcc"
-      ]
-    },
-    {
-      "keyword": "tzero-spac-350m",
-      "count": 1,
-      "first_seen": "2026-11-08",
-      "last_seen": "2026-11-08",
-      "articles": [
-        "investment-tzero-spac"
       ]
     },
     {
@@ -572,12 +472,13 @@
     },
     {
       "keyword": "griffin-baas-series-b-stablecoin",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
       "articles": [
         "digital-banking-griffin-series-b-1114",
-        "digital-banking-griffin-series-b-1115"
+        "digital-banking-griffin-series-b-1115",
+        "investment-griffin-series-b-1116"
       ]
     },
     {
@@ -617,6 +518,78 @@
       "articles": [
         "lending-glovo-pragmago-1114",
         "lending-glovo-pragmago-1115"
+      ]
+    },
+    {
+      "keyword": "imprint-130m-series-d",
+      "count": 1,
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "articles": [
+        "investment-imprint-130m-1116"
+      ]
+    },
+    {
+      "keyword": "alta-blockchain-80m",
+      "count": 1,
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "articles": [
+        "investment-alta-blockchain-1116"
+      ]
+    },
+    {
+      "keyword": "toss-p2p-lending-registration",
+      "count": 1,
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "articles": [
+        "investment-toss-p2p-1116"
+      ]
+    },
+    {
+      "keyword": "india-fintech-q3-2026-doubled",
+      "count": 1,
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "articles": [
+        "investment-india-q3-1116"
+      ]
+    },
+    {
+      "keyword": "india-banks-fintech-fraud-checks",
+      "count": 1,
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "articles": [
+        "regulation-india-fraud-checks-1116"
+      ]
+    },
+    {
+      "keyword": "iso20022-swift-structured-deadline",
+      "count": 1,
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "articles": [
+        "payments-iso20022-deadline-1116"
+      ]
+    },
+    {
+      "keyword": "lemfi-bvnk-stablecoin-remittance",
+      "count": 1,
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "articles": [
+        "remittance-lemfi-bvnk-1116"
+      ]
+    },
+    {
+      "keyword": "revolut-uk-banking-licence",
+      "count": 1,
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "articles": [
+        "digital-banking-revolut-uk-licence-1116"
       ]
     }
   ]
