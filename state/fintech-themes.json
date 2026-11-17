@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "window_days": 7,
   "themes": [
     {
@@ -28,22 +28,10 @@
       ]
     },
     {
-      "keyword": "epi-ideal-wero-migration",
-      "count": 4,
-      "first_seen": "2026-10-29",
-      "last_seen": "2026-11-09",
-      "articles": [
-        "payments-epi-wero",
-        "payments-epi-wero-1030",
-        "payments-epi-wero-migration",
-        "payments-epi-wero"
-      ]
-    },
-    {
       "keyword": "global-payments-pe-takeover",
-      "count": 10,
+      "count": 11,
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-17",
       "articles": [
         "investment-global-payments-pe-takeover",
         "investment-global-payments-pe-1104",
@@ -54,7 +42,8 @@
         "investment-global-payments-lbo-1110",
         "investment-global-payments-lbo-1111",
         "investment-global-payments-lbo-1112",
-        "investment-global-payments-lbo-1115"
+        "investment-global-payments-lbo-1115",
+        "investment-global-payments-lbo-end"
       ]
     },
     {
@@ -121,116 +110,18 @@
       ]
     },
     {
-      "keyword": "eu-bnpl-ccd-november2026",
-      "count": 1,
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09",
-      "articles": [
-        "regulation-eu-bnpl"
-      ]
-    },
-    {
-      "keyword": "uk-bnpl-fca-july2026",
-      "count": 1,
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09",
-      "articles": [
-        "regulation-uk-bnpl"
-      ]
-    },
-    {
-      "keyword": "nigeria-stablecoin-capital-rule",
-      "count": 1,
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09",
-      "articles": [
-        "regulation-nigeria-stablecoin"
-      ]
-    },
-    {
       "keyword": "tosspayments-viva-merger",
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-17",
       "articles": [
         "investment-tosspayments",
         "investment-tosspayments-1110",
         "investment-tosspayments-1111",
         "investment-tosspayments-1112",
         "investment-tosspayments-1113",
-        "investment-tosspayments-1115"
-      ]
-    },
-    {
-      "keyword": "nmi-dwolla-a2a-acquisition",
-      "count": 1,
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09",
-      "articles": [
-        "investment-nmi-dwolla"
-      ]
-    },
-    {
-      "keyword": "airwallex-b2b-cross-border-cards",
-      "count": 1,
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09",
-      "articles": [
-        "payments-airwallex-boost"
-      ]
-    },
-    {
-      "keyword": "us-payment-hubs-rtp-fednow",
-      "count": 1,
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09",
-      "articles": [
-        "payments-hubs-rtp"
-      ]
-    },
-    {
-      "keyword": "fintech-trade-finance-expansion",
-      "count": 1,
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09",
-      "articles": [
-        "payments-trade-finance"
-      ]
-    },
-    {
-      "keyword": "cross-river-rlusd-247-remittance",
-      "count": 1,
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09",
-      "articles": [
-        "remittance-cross-river"
-      ]
-    },
-    {
-      "keyword": "tazapay-fy2026-revenue-growth",
-      "count": 1,
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09",
-      "articles": [
-        "remittance-tazapay"
-      ]
-    },
-    {
-      "keyword": "remote-embedded-expense-cards",
-      "count": 1,
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09",
-      "articles": [
-        "digital-banking-remote-cards"
-      ]
-    },
-    {
-      "keyword": "us-bank-lending-standards-tight",
-      "count": 1,
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09",
-      "articles": [
-        "lending-bank-standards"
+        "investment-tosspayments-1115",
+        "investment-tosspayments-merger"
       ]
     },
     {
@@ -334,14 +225,15 @@
     },
     {
       "keyword": "naverpay-facesign-promo",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-17",
       "articles": [
         "payments-naverpay-facesign",
         "payments-naverpay-facesign-1112",
         "payments-naverpay-facesign-1113",
-        "payments-naverpay-facesign-1115"
+        "payments-naverpay-facesign-1115",
+        "payments-naverpay-facesign"
       ]
     },
     {
@@ -367,14 +259,15 @@
     },
     {
       "keyword": "eu-fida-withdrawal",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-17",
       "articles": [
         "regulation-eu-fida-withdrawal",
         "regulation-eu-fida-withdrawal-1112",
         "regulation-eu-fida-withdrawal-1113",
-        "regulation-eu-fida-withdrawal-1115"
+        "regulation-eu-fida-withdrawal-1115",
+        "regulation-eu-fida-withdrawal"
       ]
     },
     {
@@ -401,24 +294,26 @@
     },
     {
       "keyword": "bank-stablecoin-consortium-270m",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-17",
       "articles": [
         "payments-bank-stablecoin-consortium-1112",
         "payments-bank-stablecoin-consortium-1113",
         "payments-bank-stablecoin-consortium-1114",
-        "payments-bank-stablecoin-consortium-1115"
+        "payments-bank-stablecoin-consortium-1115",
+        "payments-bank-faro-consortium"
       ]
     },
     {
       "keyword": "pnc-coinbase-usdc-pilot",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-17",
       "articles": [
         "payments-pnc-coinbase-usdc-1112",
-        "payments-pnc-coinbase-usdc-1113"
+        "payments-pnc-coinbase-usdc-1113",
+        "payments-pnc-coinbase-usdc"
       ]
     },
     {
@@ -472,13 +367,14 @@
     },
     {
       "keyword": "griffin-baas-series-b-stablecoin",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-17",
       "articles": [
         "digital-banking-griffin-series-b-1114",
         "digital-banking-griffin-series-b-1115",
-        "investment-griffin-series-b-1116"
+        "investment-griffin-series-b-1116",
+        "investment-griffin-series-b"
       ]
     },
     {
@@ -502,12 +398,13 @@
     },
     {
       "keyword": "korea-won-stablecoin-bank-rule",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-17",
       "articles": [
         "regulation-korea-won-stablecoin-1114",
-        "regulation-korea-won-stablecoin-1115"
+        "regulation-korea-won-stablecoin-1115",
+        "regulation-korea-stablecoin-ownership"
       ]
     },
     {
@@ -522,11 +419,12 @@
     },
     {
       "keyword": "imprint-130m-series-d",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-17",
       "articles": [
-        "investment-imprint-130m-1116"
+        "investment-imprint-130m-1116",
+        "investment-imprint-130m"
       ]
     },
     {
@@ -567,20 +465,22 @@
     },
     {
       "keyword": "iso20022-swift-structured-deadline",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-17",
       "articles": [
-        "payments-iso20022-deadline-1116"
+        "payments-iso20022-deadline-1116",
+        "payments-iso20022-deadline"
       ]
     },
     {
       "keyword": "lemfi-bvnk-stablecoin-remittance",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-17",
       "articles": [
-        "remittance-lemfi-bvnk-1116"
+        "remittance-lemfi-bvnk-1116",
+        "remittance-lemfi-bvnk"
       ]
     },
     {
@@ -590,6 +490,51 @@
       "last_seen": "2026-11-16",
       "articles": [
         "digital-banking-revolut-uk-licence-1116"
+      ]
+    },
+    {
+      "keyword": "dbs-kinexys-tokenized-deposit",
+      "count": 1,
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "articles": [
+        "payments-dbs-kinexys-tokenized"
+      ]
+    },
+    {
+      "keyword": "revolut-italy-aml-supervision",
+      "count": 1,
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "articles": [
+        "regulation-revolut-italy-aml"
+      ]
+    },
+    {
+      "keyword": "brazil-bcb-stablecoin-warning",
+      "count": 1,
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "articles": [
+        "regulation-brazil-bcb-stablecoin"
+      ]
+    },
+    {
+      "keyword": "paytm-rbi-wallet-restart",
+      "count": 1,
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "articles": [
+        "digital-banking-paytm-rbi-wallet"
+      ]
+    },
+    {
+      "keyword": "dbs-stripe-agentic-payments",
+      "count": 1,
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "articles": [
+        "payments-dbs-stripe-agentic"
       ]
     }
   ]
