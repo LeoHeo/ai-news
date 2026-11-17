@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-17",
+  "updated": "2026-11-18",
   "window_days": 7,
   "themes": [
     {
@@ -86,16 +86,6 @@
       ]
     },
     {
-      "keyword": "segpay-pay-by-bank-europe",
-      "count": 2,
-      "first_seen": "2026-11-08",
-      "last_seen": "2026-11-10",
-      "articles": [
-        "payments-segpay-pbbank",
-        "payments-segpay-pbbank-1110"
-      ]
-    },
-    {
       "keyword": "monzo-75b-fundraising",
       "count": 6,
       "first_seen": "2026-11-08",
@@ -136,15 +126,6 @@
       ]
     },
     {
-      "keyword": "visa-senegal-digital-mou",
-      "count": 1,
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
-      "articles": [
-        "payments-visa-senegal"
-      ]
-    },
-    {
       "keyword": "synctera-baas-fundraising",
       "count": 3,
       "first_seen": "2026-11-10",
@@ -153,24 +134,6 @@
         "digital-banking-synctera-baas",
         "digital-banking-synctera-1111",
         "digital-banking-synctera-1112"
-      ]
-    },
-    {
-      "keyword": "nubank-mercado-pago-crypto-halt",
-      "count": 1,
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
-      "articles": [
-        "digital-banking-nubank-crypto"
-      ]
-    },
-    {
-      "keyword": "wahda-backbase-digital-banking",
-      "count": 1,
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
-      "articles": [
-        "digital-banking-wahda-backbase"
       ]
     },
     {
@@ -186,30 +149,13 @@
       ]
     },
     {
-      "keyword": "galaxy-digital-occ-charter",
-      "count": 1,
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
-      "articles": [
-        "regulation-galaxy-occ"
-      ]
-    },
-    {
-      "keyword": "fca-transaction-reporting-reform",
-      "count": 1,
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
-      "articles": [
-        "regulation-fca-tx-report"
-      ]
-    },
-    {
       "keyword": "thailand-stablecoin-bnpl-rule",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-18",
       "articles": [
-        "regulation-thailand-stablecoin"
+        "regulation-thailand-stablecoin",
+        "regulation-thailand-stablecoin-cap"
       ]
     },
     {
@@ -419,11 +365,12 @@
     },
     {
       "keyword": "imprint-130m-series-d",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "articles": [
         "investment-imprint-130m-1116",
+        "investment-imprint-130m",
         "investment-imprint-130m"
       ]
     },
@@ -494,11 +441,12 @@
     },
     {
       "keyword": "dbs-kinexys-tokenized-deposit",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "articles": [
-        "payments-dbs-kinexys-tokenized"
+        "payments-dbs-kinexys-tokenized",
+        "payments-dbs-kinexys-live"
       ]
     },
     {
@@ -535,6 +483,132 @@
       "last_seen": "2026-11-17",
       "articles": [
         "payments-dbs-stripe-agentic"
+      ]
+    },
+    {
+      "keyword": "hkma-swift-tokenized-deposits",
+      "count": 1,
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "articles": [
+        "payments-hkma-swift-tokenized"
+      ]
+    },
+    {
+      "keyword": "mastercard-accept-tap-phone-sff",
+      "count": 1,
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "articles": [
+        "payments-mastercard-accept-sff"
+      ]
+    },
+    {
+      "keyword": "uob-tmrw-china-qr",
+      "count": 1,
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "articles": [
+        "payments-uob-china-qr-tmrw"
+      ]
+    },
+    {
+      "keyword": "standard-bank-kinexys-jpm",
+      "count": 1,
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "articles": [
+        "payments-standard-bank-kinexys"
+      ]
+    },
+    {
+      "keyword": "prove-ai-payments-committee",
+      "count": 1,
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "articles": [
+        "payments-prove-ai-committee"
+      ]
+    },
+    {
+      "keyword": "fsb-g20-crossborder-slowdown",
+      "count": 1,
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "articles": [
+        "remittance-fsb-crossborder-g20"
+      ]
+    },
+    {
+      "keyword": "western-union-intermex-termination",
+      "count": 1,
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "articles": [
+        "remittance-wu-intermex-end"
+      ]
+    },
+    {
+      "keyword": "mambu-mastercard-move-apac",
+      "count": 1,
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "articles": [
+        "remittance-mambu-mastercard-apac"
+      ]
+    },
+    {
+      "keyword": "klarna-q3-2026-earnings",
+      "count": 1,
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "articles": [
+        "digital-banking-klarna-q3-2026"
+      ]
+    },
+    {
+      "keyword": "klarna-cfo-robinhood",
+      "count": 1,
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "articles": [
+        "digital-banking-klarna-cfo"
+      ]
+    },
+    {
+      "keyword": "uk-inperson-banking-protection",
+      "count": 1,
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "articles": [
+        "regulation-uk-banking-protection"
+      ]
+    },
+    {
+      "keyword": "eba-circle-usdc-supervision",
+      "count": 1,
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "articles": [
+        "regulation-eba-circle-usdc"
+      ]
+    },
+    {
+      "keyword": "singapore-fintech-festival-2026",
+      "count": 1,
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "articles": [
+        "regulation-sff-2026"
+      ]
+    },
+    {
+      "keyword": "end-close-seed-round",
+      "count": 1,
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "articles": [
+        "investment-end-close-seed"
       ]
     }
   ]
