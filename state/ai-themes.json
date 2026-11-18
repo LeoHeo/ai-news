@@ -1,18 +1,18 @@
 {
   "topic": "ai",
-  "updated": "2026-11-18",
+  "updated": "2026-11-19",
   "version": 1,
   "window_days": 7,
   "themes": {
     "anthropic-ipo-roadshow": {
-      "count": 20,
+      "count": 21,
       "first_seen": "2026-10-14",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "status": "saturated",
       "example_titles": [
         "Anthropic IPO 로드쇼 개시 — 주당 70~78달러·나스닥 'ANT'",
         "Anthropic, 11월 18일 가격결정·19일 'ANT' 나스닥 첫 거래",
-        "Anthropic IPO 공모가 $70-78 확정, 11월 19일 나스닥 'ANT' 상장 예정"
+        "Anthropic, 나스닥 'ANT' 첫 거래 개시"
       ]
     },
     "nvidia-ceo-spy-investigation": {
@@ -80,14 +80,14 @@
       ]
     },
     "faa-ai-ground-stop": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-15",
-      "last_seen": "2026-11-17",
-      "status": "normal",
+      "last_seen": "2026-11-19",
+      "status": "demoted",
       "example_titles": [
         "FAA, SMART AI 항공 관제 도입 직후 전국 통신 장애 조사 착수",
         "미 하원의원 20여 명, FAA에 SMART AI 항공 관제 도구 배포 중단 촉구",
-        "FAA, AI 오작동으로 미국 전역 항공편 2시간 운항 중지"
+        "Warner 보고서: AI 의존 급증으로 연쇄 장애 위험 고조"
       ]
     },
     "white-house-ai-disclosure": {
@@ -334,42 +334,6 @@
         "뉴욕 주, 경계선 AI 모델 개발사 등록 의무화 'RAISE 법' 추진 현황"
       ]
     },
-    "meta-muse-ember-launch": {
-      "count": 1,
-      "first_seen": "2026-11-11",
-      "last_seen": "2026-11-11",
-      "status": "normal",
-      "example_titles": [
-        "Meta, 에이전트용 소형 모델 'Muse Ember' 출시 — Claude Haiku 5.5 동급 성능에 3분의 1 비용"
-      ]
-    },
-    "google-tpu-8tx-8i-max": {
-      "count": 1,
-      "first_seen": "2026-11-11",
-      "last_seen": "2026-11-11",
-      "status": "normal",
-      "example_titles": [
-        "Google, 에이전트 시대 겨냥 8세대 TPU 8i Max·8tx 출시 — AI 칩 고객 100개사 돌파"
-      ]
-    },
-    "apple-intelligence-paid-tier": {
-      "count": 1,
-      "first_seen": "2026-11-11",
-      "last_seen": "2026-11-11",
-      "status": "normal",
-      "example_titles": [
-        "Apple, $49.99 'Intelligence 사용 팩' 첫 출시 — Creator Studio 앱 월 한도 초과 시 추가 사용권"
-      ]
-    },
-    "trump-ai-guardrails-openness": {
-      "count": 1,
-      "first_seen": "2026-11-11",
-      "last_seen": "2026-11-11",
-      "status": "normal",
-      "example_titles": [
-        "트럼프, AI 안전 가드레일에 \"반대 없다\" — 60분 인터뷰서 대중 우위 조건부 규제 허용 시사"
-      ]
-    },
     "anthropic-managed-agents-beta": {
       "count": 1,
       "first_seen": "2026-11-16",
@@ -490,12 +454,13 @@
       ]
     },
     "nvidia-earnings-q3-beat": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "status": "normal",
       "example_titles": [
-        "엔비디아 3분기 매출 $115.8B, YoY +103% — 블랙웰 가속·크레스 임시 CEO 발표"
+        "엔비디아 3분기 매출 $115.8B, YoY +103% — 블랙웰 가속·크레스 임시 CEO 발표",
+        "엔비디아 Q3 매출 $115.8B, AI 수요 역대 최고"
       ]
     },
     "ai-military-targeting-game": {
@@ -508,21 +473,23 @@
       ]
     },
     "california-openai-lawsuit": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "status": "normal",
       "example_titles": [
-        "캘리포니아 AG, AI 에이전트 해킹 취약점·Hugging Face 무단 배포로 OpenAI 제소"
+        "캘리포니아 AG, AI 에이전트 해킹 취약점·Hugging Face 무단 배포로 OpenAI 제소",
+        "캘리포니아 법무장관, OpenAI 비영리→영리 전환 법적 제동"
       ]
     },
     "google-ai-threat-report": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "status": "normal",
       "example_titles": [
-        "구글 TIG 보고서: 자율 AI 에이전트, 환경 맥락 따라 공격 임계치 스스로 조정"
+        "구글 TIG 보고서: 자율 AI 에이전트, 환경 맥락 따라 공격 임계치 스스로 조정",
+        "구글 GTIG, 자율 AI 에이전트 악용 위협 추적 보고서"
       ]
     },
     "litellm-pypi-security": {
@@ -541,6 +508,51 @@
       "status": "normal",
       "example_titles": [
         "SK이노베이션, 에너지 AI 스타트업 10곳 '피어링' 협력 프로그램 시작"
+      ]
+    },
+    "us-bis-ai-chip-remote-rule": {
+      "count": 1,
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "status": "normal",
+      "example_titles": [
+        "美 상무부 BIS, AI 칩 원격접근 차단 규정 도입"
+      ]
+    },
+    "gao-chatbot-safety-test": {
+      "count": 1,
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "status": "normal",
+      "example_titles": [
+        "GAO 보고서: AI 챗봇 안전장치 20개 중 15개 우회 가능"
+      ]
+    },
+    "ai-toy-safety-recall": {
+      "count": 1,
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "status": "normal",
+      "example_titles": [
+        "AI 탑재 아동 장난감 7종 리콜… 개인정보·안전 위협"
+      ]
+    },
+    "microsoft-ignite-mai-2026": {
+      "count": 1,
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "status": "normal",
+      "example_titles": [
+        "Microsoft Ignite 2026: MAI 에이전트 플랫폼 & GitHub Copilot 강화"
+      ]
+    },
+    "nextrise-2026-korea-ai": {
+      "count": 1,
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "status": "normal",
+      "example_titles": [
+        "AI Summit Seoul & NextRise 2026 개막, 스타트업 100개 집결"
       ]
     }
   }
