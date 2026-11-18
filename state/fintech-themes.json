@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-18",
+  "updated": "2026-11-19",
   "window_days": 7,
   "themes": [
     {
@@ -72,17 +72,6 @@
         "payments-pliant-series-c",
         "investment-pliant-series-c-1112",
         "investment-pliant-series-c-1116"
-      ]
-    },
-    {
-      "keyword": "eu-canada-rtr-link",
-      "count": 3,
-      "first_seen": "2026-11-08",
-      "last_seen": "2026-11-11",
-      "articles": [
-        "payments-eu-canada-rtr",
-        "payments-canada-eu-rtp-1110",
-        "payments-eu-canada-rtr-link-1111"
       ]
     },
     {
@@ -180,15 +169,6 @@
         "payments-naverpay-facesign-1113",
         "payments-naverpay-facesign-1115",
         "payments-naverpay-facesign"
-      ]
-    },
-    {
-      "keyword": "revolut-australia-banking",
-      "count": 1,
-      "first_seen": "2026-11-11",
-      "last_seen": "2026-11-11",
-      "articles": [
-        "digital-banking-revolut-australia"
       ]
     },
     {
@@ -441,12 +421,13 @@
     },
     {
       "keyword": "dbs-kinexys-tokenized-deposit",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "articles": [
         "payments-dbs-kinexys-tokenized",
-        "payments-dbs-kinexys-live"
+        "payments-dbs-kinexys-live",
+        "payments-dbs-kinexys-1119"
       ]
     },
     {
@@ -469,11 +450,12 @@
     },
     {
       "keyword": "paytm-rbi-wallet-restart",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-19",
       "articles": [
-        "digital-banking-paytm-rbi-wallet"
+        "digital-banking-paytm-rbi-wallet",
+        "digital-banking-paytm-rbi-1119"
       ]
     },
     {
@@ -487,20 +469,22 @@
     },
     {
       "keyword": "hkma-swift-tokenized-deposits",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "articles": [
-        "payments-hkma-swift-tokenized"
+        "payments-hkma-swift-tokenized",
+        "payments-hkma-swift-1119"
       ]
     },
     {
       "keyword": "mastercard-accept-tap-phone-sff",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "articles": [
-        "payments-mastercard-accept-sff"
+        "payments-mastercard-accept-sff",
+        "payments-mastercard-accept-1119"
       ]
     },
     {
@@ -532,11 +516,12 @@
     },
     {
       "keyword": "fsb-g20-crossborder-slowdown",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "articles": [
-        "remittance-fsb-crossborder-g20"
+        "remittance-fsb-crossborder-g20",
+        "remittance-fsb-crossborder-1119"
       ]
     },
     {
@@ -550,38 +535,42 @@
     },
     {
       "keyword": "mambu-mastercard-move-apac",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "articles": [
-        "remittance-mambu-mastercard-apac"
+        "remittance-mambu-mastercard-apac",
+        "remittance-mambu-mastercard-1119"
       ]
     },
     {
       "keyword": "klarna-q3-2026-earnings",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "articles": [
-        "digital-banking-klarna-q3-2026"
+        "digital-banking-klarna-q3-2026",
+        "digital-banking-klarna-q3-1119"
       ]
     },
     {
       "keyword": "klarna-cfo-robinhood",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "articles": [
-        "digital-banking-klarna-cfo"
+        "digital-banking-klarna-cfo",
+        "digital-banking-klarna-cfo-1119"
       ]
     },
     {
       "keyword": "uk-inperson-banking-protection",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "articles": [
-        "regulation-uk-banking-protection"
+        "regulation-uk-banking-protection",
+        "regulation-uk-banking-1119"
       ]
     },
     {
@@ -595,11 +584,12 @@
     },
     {
       "keyword": "singapore-fintech-festival-2026",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "articles": [
-        "regulation-sff-2026"
+        "regulation-sff-2026",
+        "regulation-sff-mas-ai-1119"
       ]
     },
     {
@@ -609,6 +599,24 @@
       "last_seen": "2026-11-18",
       "articles": [
         "investment-end-close-seed"
+      ]
+    },
+    {
+      "keyword": "visa-direct-stablecoin-apac",
+      "count": 1,
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "articles": [
+        "payments-visa-direct-stablecoin-apac"
+      ]
+    },
+    {
+      "keyword": "world-bank-circle-stablecoin",
+      "count": 1,
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "articles": [
+        "payments-worldbank-circle-stablecoin"
       ]
     }
   ]
