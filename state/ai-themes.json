@@ -1,18 +1,18 @@
 {
   "topic": "ai",
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "version": 1,
   "window_days": 7,
   "themes": {
     "anthropic-ipo-roadshow": {
-      "count": 21,
+      "count": 22,
       "first_seen": "2026-10-14",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "status": "saturated",
       "example_titles": [
         "Anthropic IPO 로드쇼 개시 — 주당 70~78달러·나스닥 'ANT'",
-        "Anthropic, 11월 18일 가격결정·19일 'ANT' 나스닥 첫 거래",
-        "Anthropic, 나스닥 'ANT' 첫 거래 개시"
+        "Anthropic, 나스닥 'ANT' 첫 거래 개시",
+        "Anthropic, 나스닥 첫 거래 $97.17 마감 — AI 역대 최대 IPO 완성"
       ]
     },
     "nvidia-ceo-spy-investigation": {
@@ -33,7 +33,6 @@
       "status": "demoted",
       "example_titles": [
         "OpenAI, 취약점 연구 특화 보안 AI 모델 'GPT-6 Cyber' 출시",
-        "OpenAI·Google, 보안 특화 AI 모델 잇따라 출시",
         "OpenAI GPT-6 Cyber, Preparedness 프레임워크 첫 'Critical' 등급"
       ]
     },
@@ -44,8 +43,7 @@
       "status": "normal",
       "example_titles": [
         "Anthropic, Claude Fable 5.2·Mythos 5.2 출시 — IPO 직전 가격·속도 동시 개선",
-        "Claude Fable 5.2, Artificial Analysis 종합 지수 1위 등극",
-        "Claude Fable 5.2, Artificial Analysis AI 지수 1위"
+        "Claude Fable 5.2, Artificial Analysis 종합 지수 1위 등극"
       ]
     },
     "chatgpt-wallet-launch": {
@@ -65,7 +63,6 @@
       "status": "demoted",
       "example_titles": [
         "샘 올트먼, 삼성·네이버·카카오 서울 연쇄 회동 — 한국 AI 전환·인프라 협력 확대",
-        "샘 올트먼, 11월 15일 카카오 방문 확정",
         "샘 올트먼, 오늘 카카오 방문 — 한국 AI 파트너십 협력 논의"
       ]
     },
@@ -86,7 +83,6 @@
       "status": "demoted",
       "example_titles": [
         "FAA, SMART AI 항공 관제 도입 직후 전국 통신 장애 조사 착수",
-        "미 하원의원 20여 명, FAA에 SMART AI 항공 관제 도구 배포 중단 촉구",
         "Warner 보고서: AI 의존 급증으로 연쇄 장애 위험 고조"
       ]
     },
@@ -266,15 +262,6 @@
         "AI 반도체 스타트업 Fractile, 7억 2천만 달러 시리즈C 조달 — 기업가치 70억 달러"
       ]
     },
-    "openai-q3-10b-revenue": {
-      "count": 1,
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, 분기 매출 사상 첫 100억 달러 돌파"
-      ]
-    },
     "deepmind-alphagenome-2": {
       "count": 2,
       "first_seen": "2026-11-12",
@@ -283,44 +270,6 @@
       "example_titles": [
         "Google DeepMind AlphaGenome 2 출시",
         "구글 딥마인드, AlphaGenome 2로 유전체 해석 정확도 대폭 향상"
-      ]
-    },
-    "deepmind-signal-code-verify": {
-      "count": 1,
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "status": "normal",
-      "example_titles": [
-        "Google DeepMind, Signal 암호화 코드 AI 형식 검증 완료"
-      ]
-    },
-    "us-china-si-apec-dialogue": {
-      "count": 1,
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "status": "normal",
-      "example_titles": [
-        "미·중 AI 초지능 대화, APEC서 첫 본회의 추진"
-      ]
-    },
-    "lg-exaone-free-api": {
-      "count": 2,
-      "first_seen": "2026-11-11",
-      "last_seen": "2026-11-12",
-      "status": "normal",
-      "example_titles": [
-        "LG AI연구원, K-엑사원 2.5 API 무료 개방 — 8주 만에 성능 70% 향상, DeepSeek와 경쟁",
-        "LG AI연구원, K-엑사원 2.5 API 무료 개방"
-      ]
-    },
-    "microsoft-oracle-cloud-exit": {
-      "count": 2,
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-12",
-      "status": "normal",
-      "example_titles": [
-        "마이크로소프트, 오라클 AI 클라우드 협업 종료 — 'Oracle AI Infrastructure' 계약 철수",
-        "마이크로소프트, 오라클 AI 클라우드 계약 최종 철수"
       ]
     },
     "ny-raise-act-registration": {
@@ -538,21 +487,149 @@
       ]
     },
     "microsoft-ignite-mai-2026": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "status": "normal",
       "example_titles": [
-        "Microsoft Ignite 2026: MAI 에이전트 플랫폼 & GitHub Copilot 강화"
+        "Microsoft Ignite 2026: MAI 에이전트 플랫폼 & GitHub Copilot 강화",
+        "Nadella, AI 에이전트 도입 맥락에서 Microsoft 6만 명 조기 퇴직 유도 배경 설명"
       ]
     },
     "nextrise-2026-korea-ai": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "status": "normal",
       "example_titles": [
-        "AI Summit Seoul & NextRise 2026 개막, 스타트업 100개 집결"
+        "AI Summit Seoul & NextRise 2026 개막, 스타트업 100개 집결",
+        "넥스트라이즈 2026 개막 — OpenAI 임직원·100개 AI 스타트업 집결"
+      ]
+    },
+    "google-gemini-4-neon": {
+      "count": 1,
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "status": "normal",
+      "example_titles": [
+        "Google, Gemini 4 Neon 출시 — Opus 5.5급 코딩 성능에 $3/M 토큰"
+      ]
+    },
+    "meta-muse-privacy-breach": {
+      "count": 1,
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "status": "normal",
+      "example_titles": [
+        "Meta AI 에이전트 Muse, 계정 간 대화 혼선·Signal 메시지 무단 접근 사태"
+      ]
+    },
+    "google-gemini-computer-use": {
+      "count": 1,
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "status": "normal",
+      "example_titles": [
+        "Google Gemini, macOS 앱에 'Mac 컴퓨터 사용' 기능 탑재"
+      ]
+    },
+    "uber-ai-coding-costs": {
+      "count": 1,
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "status": "normal",
+      "example_titles": [
+        "Uber, AI 코딩 도구 토큰 예산 초과 — 컨텍스트·추론 범위 축소 조치"
+      ]
+    },
+    "google-ai-search-incognito": {
+      "count": 1,
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "status": "normal",
+      "example_titles": [
+        "Google AI 검색 모드, 대화 이력 미반영 인코그니토 기능 추가"
+      ]
+    },
+    "openai-chip-design-optimization": {
+      "count": 1,
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, AI로 AMD 칩 설계 최적화 — 전력·성능 최대 14% 개선"
+      ]
+    },
+    "korea-csat-llm-score": {
+      "count": 1,
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "status": "normal",
+      "example_titles": [
+        "2027 수능 AI 성적표: OpenAI·Google 450점 공동 1위, LG K-엑사원 414점"
+      ]
+    },
+    "weightbench-llm-benchmark": {
+      "count": 1,
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "status": "normal",
+      "example_titles": [
+        "WeightBench, LLM이 신경망 가중치를 직접 조작·생성하는 능력 평가 벤치마크 출시"
+      ]
+    },
+    "nvidia-china-h200-halt": {
+      "count": 1,
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "status": "normal",
+      "example_titles": [
+        "Nvidia 임시 CEO, 허가받은 Hopper 칩도 중국 공급 완전 중단 선언"
+      ]
+    },
+    "nadella-ai-agents-web": {
+      "count": 1,
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "status": "normal",
+      "example_titles": [
+        "나델라 Microsoft CEO: AI 에이전트가 웹 광고 경제 근본 재편할 것"
+      ]
+    },
+    "altman-nyt-dealbook-2026": {
+      "count": 1,
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "status": "normal",
+      "example_titles": [
+        "Sam Altman, NYT DealBook서 경고: AI가 아닌 인간이 중요한 결정 내려야"
+      ]
+    },
+    "california-ai-safety-mandate": {
+      "count": 1,
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "status": "normal",
+      "example_titles": [
+        "캘리포니아, 프런티어 AI 의무 안전 기준·긴급 종료 권한 포함 차기 단계 발표"
+      ]
+    },
+    "trump-china-ai-disclosure": {
+      "count": 1,
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "status": "normal",
+      "example_titles": [
+        "트럼프 행정부, 미국 기업에 중국 AI 사용 현황 홈페이지 공개 의무화 검토"
+      ]
+    },
+    "openai-state-criminal-probe": {
+      "count": 1,
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "status": "normal",
+      "example_titles": [
+        "애리조나 주 법무장관, OpenAI 등 형사 수사 개시 — AI 에이전트 은행 무단 침투 혐의"
       ]
     }
   }
