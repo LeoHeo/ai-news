@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "window_days": 7,
   "themes": [
     {
@@ -101,28 +101,6 @@
         "investment-tosspayments-1113",
         "investment-tosspayments-1115",
         "investment-tosspayments-merger"
-      ]
-    },
-    {
-      "keyword": "clink-mastercard-agent-pay",
-      "count": 3,
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-12",
-      "articles": [
-        "payments-clink-mastercard-agent",
-        "payments-clink-mastercard-1111",
-        "payments-clink-mastercard-1112"
-      ]
-    },
-    {
-      "keyword": "synctera-baas-fundraising",
-      "count": 3,
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-12",
-      "articles": [
-        "digital-banking-synctera-baas",
-        "digital-banking-synctera-1111",
-        "digital-banking-synctera-1112"
       ]
     },
     {
@@ -250,15 +228,6 @@
       "articles": [
         "payments-bottomline-usdc-1112",
         "payments-bottomline-usdc-1113"
-      ]
-    },
-    {
-      "keyword": "etoro-lb-finanzas-latam",
-      "count": 1,
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "articles": [
-        "investment-etoro-lb-finanzas-1112"
       ]
     },
     {
@@ -479,12 +448,13 @@
     },
     {
       "keyword": "mastercard-accept-tap-phone-sff",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "articles": [
         "payments-mastercard-accept-sff",
-        "payments-mastercard-accept-1119"
+        "payments-mastercard-accept-1119",
+        "payments-mastercard-accept-1120"
       ]
     },
     {
@@ -545,12 +515,13 @@
     },
     {
       "keyword": "klarna-q3-2026-earnings",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "articles": [
         "digital-banking-klarna-q3-2026",
-        "digital-banking-klarna-q3-1119"
+        "digital-banking-klarna-q3-1119",
+        "digital-banking-klarna-q3-1120"
       ]
     },
     {
@@ -603,20 +574,94 @@
     },
     {
       "keyword": "visa-direct-stablecoin-apac",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "articles": [
-        "payments-visa-direct-stablecoin-apac"
+        "payments-visa-direct-stablecoin-apac",
+        "payments-visa-direct-stablecoin-apac-1120"
       ]
     },
     {
       "keyword": "world-bank-circle-stablecoin",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "articles": [
-        "payments-worldbank-circle-stablecoin"
+        "payments-worldbank-circle-stablecoin",
+        "payments-worldbank-circle-stablecoin-1120"
+      ]
+    },
+    {
+      "keyword": "visa-agentic-ready-acceptance",
+      "count": 1,
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "articles": [
+        "payments-visa-agentic-ready-1120"
+      ]
+    },
+    {
+      "keyword": "pine-labs-staq-stablecoin",
+      "count": 1,
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "articles": [
+        "payments-pine-labs-staq-1120"
+      ]
+    },
+    {
+      "keyword": "xtransfer-vpbank-smartpay-mou",
+      "count": 1,
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "articles": [
+        "remittance-xtransfer-vpbank-1120"
+      ]
+    },
+    {
+      "keyword": "lumepay-africa-crossborder",
+      "count": 1,
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "articles": [
+        "remittance-lumepay-africa-1120"
+      ]
+    },
+    {
+      "keyword": "qonto-french-banking-licence",
+      "count": 1,
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "articles": [
+        "digital-banking-qonto-licence-1120"
+      ]
+    },
+    {
+      "keyword": "epaa-apac-tokenised-money",
+      "count": 1,
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "articles": [
+        "regulation-epaa-apac-tokenised-1120"
+      ]
+    },
+    {
+      "keyword": "mas-agentic-money-sandbox",
+      "count": 1,
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "articles": [
+        "regulation-mas-agentic-sandbox-1120"
+      ]
+    },
+    {
+      "keyword": "korea-fintech-week-2026",
+      "count": 1,
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "articles": [
+        "regulation-korea-fintech-week-1120"
       ]
     }
   ]
