@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "window_days": 7,
   "themes": [
     {
@@ -49,22 +49,6 @@
       ]
     },
     {
-      "keyword": "revolut-115b-valuation",
-      "count": 8,
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-15",
-      "articles": [
-        "investment-revolut-115b",
-        "digital-banking-revolut-115b",
-        "digital-banking-revolut-115b-1108",
-        "digital-banking-revolut-115b",
-        "digital-banking-revolut-115b-1110",
-        "investment-revolut-115b-1111",
-        "digital-banking-revolut-115b-1112",
-        "digital-banking-revolut-115b-1115"
-      ]
-    },
-    {
       "keyword": "pliant-b2b-ai-payments",
       "count": 4,
       "first_seen": "2026-11-08",
@@ -74,20 +58,6 @@
         "payments-pliant-series-c",
         "investment-pliant-series-c-1112",
         "investment-pliant-series-c-1116"
-      ]
-    },
-    {
-      "keyword": "monzo-75b-fundraising",
-      "count": 6,
-      "first_seen": "2026-11-08",
-      "last_seen": "2026-11-15",
-      "articles": [
-        "digital-banking-monzo-75b",
-        "digital-banking-monzo-vc",
-        "digital-banking-monzo-75b-1110",
-        "digital-banking-monzo-75b-1112",
-        "investment-monzo-75b-1113",
-        "digital-banking-monzo-75b-1115"
       ]
     },
     {
@@ -103,18 +73,6 @@
         "investment-tosspayments-1113",
         "investment-tosspayments-1115",
         "investment-tosspayments-merger"
-      ]
-    },
-    {
-      "keyword": "coinbase-occ-trust-charter",
-      "count": 4,
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-15",
-      "articles": [
-        "regulation-coinbase-occ",
-        "regulation-coinbase-occ-1112",
-        "regulation-coinbase-occ-1113",
-        "regulation-coinbase-occ-1115"
       ]
     },
     {
@@ -138,18 +96,6 @@
         "payments-naverpay-facesign-1113",
         "payments-naverpay-facesign-1115",
         "payments-naverpay-facesign"
-      ]
-    },
-    {
-      "keyword": "nexi-ratepay-affirm-sale",
-      "count": 4,
-      "first_seen": "2026-11-11",
-      "last_seen": "2026-11-15",
-      "articles": [
-        "lending-nexi-ratepay-affirm",
-        "lending-nexi-ratepay-affirm-1112",
-        "lending-nexi-ratepay-affirm-1113",
-        "lending-nexi-ratepay-affirm-1115"
       ]
     },
     {
@@ -190,36 +136,6 @@
       ]
     },
     {
-      "keyword": "visa-usdpt-anchorage-settlement",
-      "count": 2,
-      "first_seen": "2026-11-14",
-      "last_seen": "2026-11-15",
-      "articles": [
-        "payments-visa-usdpt-settlement-1114",
-        "payments-visa-usdpt-settlement-1115"
-      ]
-    },
-    {
-      "keyword": "triple-a-sfa-stablecoin-membership",
-      "count": 2,
-      "first_seen": "2026-11-14",
-      "last_seen": "2026-11-15",
-      "articles": [
-        "payments-triple-a-sfa-1114",
-        "payments-triple-a-sfa-1115"
-      ]
-    },
-    {
-      "keyword": "de-afc-commerzbank-deutsche-jv",
-      "count": 2,
-      "first_seen": "2026-11-14",
-      "last_seen": "2026-11-15",
-      "articles": [
-        "digital-banking-de-afc-jv-1114",
-        "digital-banking-de-afc-jv-1115"
-      ]
-    },
-    {
       "keyword": "griffin-baas-series-b-stablecoin",
       "count": 4,
       "first_seen": "2026-11-14",
@@ -232,16 +148,6 @@
       ]
     },
     {
-      "keyword": "gemini-eu-exit-kast",
-      "count": 2,
-      "first_seen": "2026-11-14",
-      "last_seen": "2026-11-15",
-      "articles": [
-        "investment-gemini-kast-eu-1114",
-        "investment-gemini-kast-eu-1115"
-      ]
-    },
-    {
       "keyword": "korea-won-stablecoin-bank-rule",
       "count": 3,
       "first_seen": "2026-11-14",
@@ -250,16 +156,6 @@
         "regulation-korea-won-stablecoin-1114",
         "regulation-korea-won-stablecoin-1115",
         "regulation-korea-stablecoin-ownership"
-      ]
-    },
-    {
-      "keyword": "glovo-pragmago-embedded-lending",
-      "count": 2,
-      "first_seen": "2026-11-14",
-      "last_seen": "2026-11-15",
-      "articles": [
-        "lending-glovo-pragmago-1114",
-        "lending-glovo-pragmago-1115"
       ]
     },
     {
@@ -340,15 +236,16 @@
     },
     {
       "keyword": "dbs-kinexys-tokenized-deposit",
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "articles": [
         "payments-dbs-kinexys-tokenized",
         "payments-dbs-kinexys-live",
         "payments-dbs-kinexys-1119",
         "payments-dbs-kinexys-live",
-        "payments-dbs-kinexys-live"
+        "payments-dbs-kinexys-live",
+        "payments-dbs-kinexys-tokenized-deposit"
       ]
     },
     {
@@ -438,14 +335,15 @@
     },
     {
       "keyword": "fsb-g20-crossborder-slowdown",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "articles": [
         "remittance-fsb-crossborder-g20",
         "remittance-fsb-crossborder-1119",
         "remittance-fsb-g20-crossborder",
-        "remittance-fsb-g20-crossborder"
+        "remittance-fsb-g20-crossborder",
+        "remittance-fsb-g20-crossborder-slowdown"
       ]
     },
     {
@@ -469,15 +367,16 @@
     },
     {
       "keyword": "klarna-q3-2026-earnings",
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "articles": [
         "digital-banking-klarna-q3-2026",
         "digital-banking-klarna-q3-1119",
         "digital-banking-klarna-q3-1120",
         "digital-banking-klarna-q3",
-        "digital-banking-klarna-q3-2026"
+        "digital-banking-klarna-q3-2026",
+        "digital-banking-klarna-q3-2026-1123"
       ]
     },
     {
@@ -542,24 +441,26 @@
     },
     {
       "keyword": "world-bank-circle-stablecoin",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "articles": [
         "payments-worldbank-circle-stablecoin",
         "payments-worldbank-circle-stablecoin-1120",
         "payments-worldbank-circle-stablecoin",
-        "remittance-worldbank-circle-usdc"
+        "remittance-worldbank-circle-usdc",
+        "remittance-worldbank-circle-usdc-1123"
       ]
     },
     {
       "keyword": "visa-agentic-ready-acceptance",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "articles": [
         "payments-visa-agentic-ready-1120",
-        "payments-visa-agentic-ready"
+        "payments-visa-agentic-ready",
+        "payments-visa-agentic-ready-acceptance"
       ]
     },
     {
@@ -591,13 +492,14 @@
     },
     {
       "keyword": "qonto-french-banking-licence",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "articles": [
         "digital-banking-qonto-licence-1120",
         "digital-banking-qonto-licence",
-        "digital-banking-qonto-licence"
+        "digital-banking-qonto-licence",
+        "digital-banking-qonto-licence-1123"
       ]
     },
     {
@@ -611,99 +513,118 @@
     },
     {
       "keyword": "mas-agentic-money-sandbox",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "articles": [
         "regulation-mas-agentic-sandbox-1120",
-        "payments-mas-kya-protocol"
+        "payments-mas-kya-protocol",
+        "regulation-mas-agentic-money-sandbox"
       ]
     },
     {
       "keyword": "korea-fintech-week-2026",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "articles": [
         "regulation-korea-fintech-week-1120",
         "regulation-korea-fintech-week",
-        "regulation-korea-fintech-week"
+        "regulation-korea-fintech-week",
+        "regulation-korea-fintech-week-2026"
       ]
     },
     {
       "keyword": "modulr-cvrp-b2b-launch",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "articles": [
         "payments-modulr-cvrp-launch",
-        "payments-modulr-cvrp-b2b"
+        "payments-modulr-cvrp-b2b",
+        "payments-modulr-cvrp-b2b-launch"
       ]
     },
     {
       "keyword": "tether-scrypt-stablecoin-eu",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "articles": [
-        "payments-tether-scrypt-stablecoin"
+        "payments-tether-scrypt-stablecoin",
+        "payments-tether-scrypt-stablecoin-eu"
       ]
     },
     {
       "keyword": "clearbank-kraken-embedded-banking",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "articles": [
         "digital-banking-clearbank-kraken",
-        "digital-banking-clearbank-kraken"
+        "digital-banking-clearbank-kraken",
+        "digital-banking-clearbank-kraken-1123"
       ]
     },
     {
       "keyword": "equifax-mastercard-cdr-australia",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "articles": [
         "lending-equifax-mastercard-australia",
-        "regulation-equifax-mastercard-cdr"
+        "regulation-equifax-mastercard-cdr",
+        "lending-equifax-mastercard-cdr-australia"
       ]
     },
     {
       "keyword": "payhawk-series-c-goldman",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "articles": [
         "investment-payhawk-series-c",
-        "investment-payhawk-series-c"
+        "investment-payhawk-series-c",
+        "investment-payhawk-series-c-goldman"
       ]
     },
     {
       "keyword": "moonpay-occ-charter",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-22",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "articles": [
-        "regulation-moonpay-occ-charter"
+        "regulation-moonpay-occ-charter",
+        "regulation-moonpay-occ-charter-1123"
       ]
     },
     {
       "keyword": "fca-tech-payment-regulation",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-22",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "articles": [
-        "regulation-fca-payment-tech"
+        "regulation-fca-payment-tech",
+        "regulation-fca-tech-payment-regulation"
       ]
     },
     {
       "keyword": "affirm-card-bnpl-growth",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-22",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "articles": [
-        "lending-affirm-card-growth"
+        "lending-affirm-card-growth",
+        "lending-affirm-card-bnpl-growth"
+      ]
+    },
+    {
+      "keyword": "ftpartners-q3-ma-report",
+      "count": 1,
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "articles": [
+        "investment-ftpartners-q3-ma-report"
       ]
     }
   ]
