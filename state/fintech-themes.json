@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "window_days": 7,
   "themes": [
     {
@@ -46,18 +46,6 @@
         "investment-global-payments-lbo-1112",
         "investment-global-payments-lbo-1115",
         "investment-global-payments-lbo-end"
-      ]
-    },
-    {
-      "keyword": "pliant-b2b-ai-payments",
-      "count": 4,
-      "first_seen": "2026-11-08",
-      "last_seen": "2026-11-16",
-      "articles": [
-        "payments-pliant-b2b-ai",
-        "payments-pliant-series-c",
-        "investment-pliant-series-c-1112",
-        "investment-pliant-series-c-1116"
       ]
     },
     {
@@ -170,42 +158,6 @@
       ]
     },
     {
-      "keyword": "alta-blockchain-80m",
-      "count": 1,
-      "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
-      "articles": [
-        "investment-alta-blockchain-1116"
-      ]
-    },
-    {
-      "keyword": "toss-p2p-lending-registration",
-      "count": 1,
-      "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
-      "articles": [
-        "investment-toss-p2p-1116"
-      ]
-    },
-    {
-      "keyword": "india-fintech-q3-2026-doubled",
-      "count": 1,
-      "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
-      "articles": [
-        "investment-india-q3-1116"
-      ]
-    },
-    {
-      "keyword": "india-banks-fintech-fraud-checks",
-      "count": 1,
-      "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
-      "articles": [
-        "regulation-india-fraud-checks-1116"
-      ]
-    },
-    {
       "keyword": "iso20022-swift-structured-deadline",
       "count": 2,
       "first_seen": "2026-11-16",
@@ -223,15 +175,6 @@
       "articles": [
         "remittance-lemfi-bvnk-1116",
         "remittance-lemfi-bvnk"
-      ]
-    },
-    {
-      "keyword": "revolut-uk-banking-licence",
-      "count": 1,
-      "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
-      "articles": [
-        "digital-banking-revolut-uk-licence-1116"
       ]
     },
     {
@@ -453,6 +396,72 @@
       ]
     },
     {
+      "keyword": "stripe-ipo-timeline",
+      "count": 6,
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-24",
+      "articles": [
+        "investment-stripe-ipo-1119",
+        "investment-stripe-ipo-1120",
+        "investment-stripe-ipo-1121",
+        "investment-stripe-ipo-1122",
+        "investment-stripe-ipo-timeline",
+        "investment-stripe-ipo-2027-roadshow"
+      ]
+    },
+    {
+      "keyword": "google-wallet-ios",
+      "count": 5,
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-24",
+      "articles": [
+        "payments-google-wallet-ios-1119",
+        "payments-google-wallet-ios-1120",
+        "payments-google-wallet-ios-1121",
+        "payments-google-wallet-ios-nfc",
+        "payments-google-wallet-ios-nfc-1124"
+      ]
+    },
+    {
+      "keyword": "apple-pay-bnpl",
+      "count": 5,
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-24",
+      "articles": [
+        "payments-apple-pay-later-1120",
+        "payments-apple-pay-later-1121",
+        "payments-apple-pay-later-1122",
+        "payments-apple-pay-later-global",
+        "payments-apple-pay-later-1124"
+      ]
+    },
+    {
+      "keyword": "us-stablecoin-bill",
+      "count": 5,
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-24",
+      "articles": [
+        "regulation-us-stablecoin-bill-1120",
+        "regulation-us-genius-act-1121",
+        "regulation-us-genius-act-1122",
+        "regulation-us-genius-act-stablecoin",
+        "regulation-us-genius-act-1124"
+      ]
+    },
+    {
+      "keyword": "klarna-ipo-nasdaq",
+      "count": 5,
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-24",
+      "articles": [
+        "investment-klarna-ipo-1120",
+        "investment-klarna-ipo-1121",
+        "investment-klarna-ipo-1122",
+        "investment-klarna-ipo-1123",
+        "investment-klarna-nasdaq-ipo-filing"
+      ]
+    },
+    {
       "keyword": "visa-agentic-ready-acceptance",
       "count": 3,
       "first_seen": "2026-11-20",
@@ -524,14 +533,87 @@
     },
     {
       "keyword": "korea-fintech-week-2026",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "articles": [
         "regulation-korea-fintech-week-1120",
         "regulation-korea-fintech-week",
         "regulation-korea-fintech-week",
-        "regulation-korea-fintech-week-2026"
+        "regulation-korea-fintech-week-2026",
+        "regulation-korea-fintech-week-2026-1124"
+      ]
+    },
+    {
+      "keyword": "visa-mastercard-surcharge",
+      "count": 4,
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-24",
+      "articles": [
+        "payments-visa-mc-surcharge-1121",
+        "payments-visa-mc-surcharge-1122",
+        "payments-visa-mc-surcharge-ruling",
+        "payments-visa-mastercard-surcharge-ruling"
+      ]
+    },
+    {
+      "keyword": "wise-swift-integration",
+      "count": 4,
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-24",
+      "articles": [
+        "remittance-wise-swift-1121",
+        "remittance-wise-swift-1122",
+        "remittance-wise-swift-gpi",
+        "remittance-wise-swift-gpi-integration"
+      ]
+    },
+    {
+      "keyword": "nubank-latam-expansion",
+      "count": 4,
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-24",
+      "articles": [
+        "digital-banking-nubank-latam-1121",
+        "digital-banking-nubank-latam-1122",
+        "digital-banking-nubank-latam-1123",
+        "digital-banking-nubank-colombia-credit"
+      ]
+    },
+    {
+      "keyword": "kakaobank-southeast-asia",
+      "count": 4,
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-24",
+      "articles": [
+        "digital-banking-kakaobank-sea-1121",
+        "digital-banking-kakaobank-sea-1122",
+        "digital-banking-kakaobank-sea-1123",
+        "digital-banking-kakaobank-vietnam-license"
+      ]
+    },
+    {
+      "keyword": "affirm-ai-underwriting",
+      "count": 4,
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-24",
+      "articles": [
+        "lending-affirm-ai-1121",
+        "lending-affirm-ai-1122",
+        "lending-affirm-ai-underwriting",
+        "lending-affirm-ai-credit-model"
+      ]
+    },
+    {
+      "keyword": "eu-open-finance-psd3",
+      "count": 4,
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-24",
+      "articles": [
+        "regulation-eu-psd3-1121",
+        "regulation-eu-psd3-1122",
+        "regulation-eu-open-finance-psd3",
+        "regulation-eu-psd3-open-finance"
       ]
     },
     {
@@ -547,12 +629,13 @@
     },
     {
       "keyword": "tether-scrypt-stablecoin-eu",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "articles": [
         "payments-tether-scrypt-stablecoin",
-        "payments-tether-scrypt-stablecoin-eu"
+        "payments-tether-scrypt-stablecoin-eu",
+        "regulation-tether-scrypt-mica-1124"
       ]
     },
     {
@@ -625,6 +708,69 @@
       "last_seen": "2026-11-23",
       "articles": [
         "investment-ftpartners-q3-ma-report"
+      ]
+    },
+    {
+      "keyword": "oaknorth-us-bank-charter",
+      "count": 1,
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "articles": [
+        "digital-banking-oaknorth-us-bank-charter"
+      ]
+    },
+    {
+      "keyword": "credit-mutuel-cyberattack",
+      "count": 1,
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "articles": [
+        "digital-banking-credit-mutuel-cyberattack"
+      ]
+    },
+    {
+      "keyword": "bill-tpg-takeprivate",
+      "count": 1,
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "articles": [
+        "investment-bill-tpg-6b-takeprivate"
+      ]
+    },
+    {
+      "keyword": "fca-bnpl-regulation-final",
+      "count": 1,
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "articles": [
+        "regulation-fca-bnpl-regulation-final"
+      ]
+    },
+    {
+      "keyword": "world-bank-remittance-2026",
+      "count": 1,
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "articles": [
+        "remittance-world-bank-remittance-report-2026"
+      ]
+    },
+    {
+      "keyword": "moonpay-b2b-payments",
+      "count": 1,
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "articles": [
+        "payments-moonpay-b2b-payments"
+      ]
+    },
+    {
+      "keyword": "upgrade-sme-lending-ai",
+      "count": 1,
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "articles": [
+        "lending-upgrade-sme-lending-ai"
       ]
     }
   ]
