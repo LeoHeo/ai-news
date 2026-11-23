@@ -1,6 +1,6 @@
 {
   "topic": "ai",
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "version": 1,
   "window_days": 7,
   "themes": {
@@ -16,34 +16,15 @@
       ]
     },
     "nvidia-ceo-spy-investigation": {
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-24",
       "status": "saturated",
       "example_titles": [
         "젠슨 황 CEO, 스파이 혐의 조사 압박에 엔비디아 사임",
         "Jensen Huang, Nvidia CEO 즉각 사임 — 중국 정보기관 연계 의혹 확인",
-        "NVIDIA, Jensen Huang CEO 즉각 사임 — CFO Colette Kress 임시 CEO"
-      ]
-    },
-    "chatgpt-wallet-launch": {
-      "count": 3,
-      "first_seen": "2026-11-14",
-      "last_seen": "2026-11-16",
-      "status": "demoted",
-      "example_titles": [
-        "ChatGPT Wallet 출시 — 'Dots' AI 에이전트가 사용자 대신 구매",
-        "ChatGPT Wallet 출시 — AI 에이전트가 생체인증으로 실구매 완결"
-      ]
-    },
-    "openai-frontier-lawsuit": {
-      "count": 3,
-      "first_seen": "2026-11-14",
-      "last_seen": "2026-11-16",
-      "status": "demoted",
-      "example_titles": [
-        "비영리단체들, OpenAI·Google·Anthropic 등 AI 개발 중단 소송 제기",
-        "비영리단체 4곳, OpenAI·Google·Anthropic에 차세대 AI 개발 금지 가처분 신청"
+        "NVIDIA, Jensen Huang CEO 즉각 사임 — CFO Colette Kress 임시 CEO",
+        "젠슨 황, Nvidia CEO 복귀 — 조사는 진행 중·증시 급반등"
       ]
     },
     "faa-ai-ground-stop": {
@@ -56,15 +37,6 @@
         "Warner 보고서: AI 의존 급증으로 연쇄 장애 위험 고조"
       ]
     },
-    "white-house-ai-disclosure": {
-      "count": 2,
-      "first_seen": "2026-11-15",
-      "last_seen": "2026-11-16",
-      "status": "normal",
-      "example_titles": [
-        "백악관, AI 취약점 공개 장려 위해 사이버 책임 완화 권고"
-      ]
-    },
     "kakao-kanana-launch": {
       "count": 2,
       "first_seen": "2026-11-15",
@@ -73,15 +45,6 @@
       "example_titles": [
         "카카오 '카나나 스페이스' 12월 비공개 베타 개시, AI 이용자 1,000만 목표",
         "카카오, 한국어 특화 AI '카나나-2' 출시… 한국어 이해도 1위"
-      ]
-    },
-    "google-gemini-4-hydrogen": {
-      "count": 2,
-      "first_seen": "2026-11-14",
-      "last_seen": "2026-11-16",
-      "status": "normal",
-      "example_titles": [
-        "Google, Gemini 4 Hydrogen 전 채널 동시 출시"
       ]
     },
     "ny-raise-act-registration": {
@@ -95,33 +58,6 @@
         "뉴욕 주, 경계선 AI 모델 개발사 등록 의무화 'RAISE 법' 추진 현황"
       ]
     },
-    "anthropic-managed-agents-beta": {
-      "count": 1,
-      "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
-      "status": "normal",
-      "example_titles": [
-        "앤트로픽, Claude Managed Agents 비공개 베타 시작"
-      ]
-    },
-    "sierra-agent-protocol-launch": {
-      "count": 1,
-      "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
-      "status": "normal",
-      "example_titles": [
-        "시에라, Personal Agent Protocol 1.0 오픈소스 공개"
-      ]
-    },
-    "elevenlabs-elevenai-app": {
-      "count": 1,
-      "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
-      "status": "normal",
-      "example_titles": [
-        "ElevenLabs, 회의 전사·실시간 어시스트 앱 'ElevenAI' 얼리 액세스"
-      ]
-    },
     "hyundai-ai-real-broadcast": {
       "count": 2,
       "first_seen": "2026-11-16",
@@ -130,24 +66,6 @@
       "example_titles": [
         "현대홈쇼핑, AI가 방송 전체를 생성하는 'AI-REAL' 론칭",
         "현대홈쇼핑, 국내 최초 AI 가상 쇼호스트 'AI-REAL' 생방송 도입"
-      ]
-    },
-    "google-alphaevolve-sc26": {
-      "count": 1,
-      "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
-      "status": "normal",
-      "example_titles": [
-        "구글 클라우드, AlphaEvolve + HPC 에이전트 SC26 앞두고 선공개"
-      ]
-    },
-    "japan-defense-ai-vision": {
-      "count": 1,
-      "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
-      "status": "normal",
-      "example_titles": [
-        "일본 고이즈미 방위상, 11월 말 'Defense AI Vision' 공표 예고"
       ]
     },
     "congress-ndaa-ai-chip-bills": {
@@ -658,12 +576,13 @@
       ]
     },
     "openai-pretraining-common-limits": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-23",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "status": "normal",
       "example_titles": [
-        "OpenAI, 사전학습 퍼플렉서티 수치 최초 공개…업계 공동 한계선 제안"
+        "OpenAI, 사전학습 퍼플렉서티 수치 최초 공개…업계 공동 한계선 제안",
+        "OpenAI 수석 과학자 Pachocki, 퍼플렉서티 기반 AI 개발 공동 한계선 제안"
       ]
     },
     "openrouter-zdr-providers-removed": {
@@ -685,12 +604,13 @@
       ]
     },
     "amazon-decart-acquisition": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-23",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "status": "normal",
       "example_titles": [
-        "아마존, AI 칩 최적화 스타트업 데카르트 75억달러에 인수 임박"
+        "아마존, AI 칩 최적화 스타트업 데카르트 75억달러에 인수 임박",
+        "아마존, AI 칩 최적화 스타트업 Decart 75억 달러에 인수 — Trainium 칩 판매 채비"
       ]
     },
     "musk-ai-datacenter-warning": {
@@ -703,12 +623,13 @@
       ]
     },
     "nasdaq-ai-tech-correction": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-23",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "status": "normal",
       "example_titles": [
-        "나스닥 시총 일주일 새 5천조원 증발…'AI 투자 회의론' 확산"
+        "나스닥 시총 일주일 새 5천조원 증발…'AI 투자 회의론' 확산",
+        "AI주 급락에 닷컴버블 경고 — 한국 수출·소비·세수까지 타격 우려"
       ]
     },
     "ai-credit-risk-analysis": {
@@ -718,6 +639,96 @@
       "status": "normal",
       "example_titles": [
         "DB증권 'AI 신용 재평가…위기 아닌 옥석 가리기'"
+      ]
+    },
+    "claude-fable-benchlm-top": {
+      "count": 1,
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "status": "normal",
+      "example_titles": [
+        "Claude Fable 5.2, BenchLM 종합 평가 1위 — Gemini 4 Neon·GPT-6.2 Astra 압도"
+      ]
+    },
+    "google-search-ai-drive-wallet": {
+      "count": 1,
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "status": "normal",
+      "example_titles": [
+        "Google 검색 AI 모드, 구글 드라이브·Wallet 연동으로 개인화 답변 확대"
+      ]
+    },
+    "naver-kakao-agent-launch": {
+      "count": 1,
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "status": "normal",
+      "example_titles": [
+        "네이버·카카오, AI 에이전트 12월 출시 — API·CUA 병행으로 안전성 강화"
+      ]
+    },
+    "deepmind-lean4-quantum": {
+      "count": 1,
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "status": "normal",
+      "example_titles": [
+        "구글 DeepMind, Lean 4 양자 알고리즘 검증 프레임워크 오픈소스 공개"
+      ]
+    },
+    "sierra-series-f-funding": {
+      "count": 1,
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "status": "normal",
+      "example_titles": [
+        "Sierra, 시리즈 F 17억 5천만 달러 조달 — 2026년 11월 AI 단일 최대 라운드"
+      ]
+    },
+    "kakao-legal-clearance-ai": {
+      "count": 1,
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "status": "normal",
+      "example_titles": [
+        "카카오 창업자 김범수 무죄 → 사법리스크 해소, 연내 AI 서비스 출시 가속"
+      ]
+    },
+    "kakao-ai-financial-results": {
+      "count": 1,
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "status": "normal",
+      "example_titles": [
+        "카카오 3분기 AI 서비스 적자 확대 — CFO \"2028년 AI 매출 두 자릿수 비중 목표\""
+      ]
+    },
+    "ai-agent-it-governance": {
+      "count": 1,
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "status": "normal",
+      "example_titles": [
+        "AI 에이전트 도입으로 IT 의사결정 주체가 바뀐다 — 비즈니스팀 vs IT 보안팀"
+      ]
+    },
+    "supertake-ai-investing": {
+      "count": 1,
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "status": "normal",
+      "example_titles": [
+        "Supertake, 2천만 달러 시드 조달 — AI 에이전트가 주가 예측을 포트폴리오로 자동 전환"
+      ]
+    },
+    "nga-ai-regulation-state-voice": {
+      "count": 1,
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "status": "normal",
+      "example_titles": [
+        "미국 주지사협의회(NGA), AI 연방 규제에 주(州) 소비자 보호 권한 보존 요구"
       ]
     }
   }
