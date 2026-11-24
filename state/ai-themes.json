@@ -1,30 +1,31 @@
 {
   "topic": "ai",
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "version": 1,
   "window_days": 7,
   "themes": {
     "anthropic-ipo-roadshow": {
-      "count": 23,
+      "count": 24,
       "first_seen": "2026-10-14",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-25",
       "status": "saturated",
       "example_titles": [
         "Anthropic IPO 로드쇼 개시 — 주당 70~78달러·나스닥 'ANT'",
         "Anthropic, 나스닥 'ANT' 첫 거래 개시",
-        "앤트로픽 나스닥 상장 다음날 급락… AI 투자 회의론 확산"
+        "앤트로픽 나스닥 상장 다음날 급락… AI 투자 회의론 확산",
+        "앤트로픽 주가, 상장가 83달러 하회 — AI 스타트업 밸류에이션 우려 고조"
       ]
     },
     "nvidia-ceo-spy-investigation": {
-      "count": 8,
+      "count": 9,
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "status": "saturated",
       "example_titles": [
         "젠슨 황 CEO, 스파이 혐의 조사 압박에 엔비디아 사임",
         "Jensen Huang, Nvidia CEO 즉각 사임 — 중국 정보기관 연계 의혹 확인",
         "NVIDIA, Jensen Huang CEO 즉각 사임 — CFO Colette Kress 임시 CEO",
-        "젠슨 황, Nvidia CEO 복귀 — 조사는 진행 중·증시 급반등"
+        "엔비디아 이사회, 젠슨 황 CEO 만장일치 복귀 — 국가 안보 위협 없다 결론"
       ]
     },
     "faa-ai-ground-stop": {
@@ -58,43 +59,6 @@
         "뉴욕 주, 경계선 AI 모델 개발사 등록 의무화 'RAISE 법' 추진 현황"
       ]
     },
-    "hyundai-ai-real-broadcast": {
-      "count": 2,
-      "first_seen": "2026-11-16",
-      "last_seen": "2026-11-17",
-      "status": "normal",
-      "example_titles": [
-        "현대홈쇼핑, AI가 방송 전체를 생성하는 'AI-REAL' 론칭",
-        "현대홈쇼핑, 국내 최초 AI 가상 쇼호스트 'AI-REAL' 생방송 도입"
-      ]
-    },
-    "congress-ndaa-ai-chip-bills": {
-      "count": 1,
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "status": "normal",
-      "example_titles": [
-        "미 의회, 국방수권법에 AI 칩 수출 통제 조항 추가 추진"
-      ]
-    },
-    "us-pax-silica-ai-accord": {
-      "count": 1,
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "status": "normal",
-      "example_titles": [
-        "미국, 'Pax Silica' AI 반도체 공급망 다자협정 체결"
-      ]
-    },
-    "philippines-ai-hub-backlash": {
-      "count": 1,
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "status": "normal",
-      "example_titles": [
-        "필리핀 AI 허브 개발 계획에 환경단체 반발"
-      ]
-    },
     "fed-ai-systemic-risk": {
       "count": 2,
       "first_seen": "2026-11-17",
@@ -103,33 +67,6 @@
       "example_titles": [
         "연방준비제도, 대형 금융사 87%가 AI 시스템 리스크 경고",
         "연준 워시 이사, AI 거품 붕괴 3가지 시나리오 경고 — '소프트랜딩은 가장 낙관적 전제'"
-      ]
-    },
-    "dreamteam-ai-crm-funding": {
-      "count": 1,
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "status": "normal",
-      "example_titles": [
-        "AI CRM 스타트업 Dreamteam, 시리즈 B $5,300만 조달"
-      ]
-    },
-    "zoox-uber-robotaxi-launch": {
-      "count": 1,
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "status": "normal",
-      "example_titles": [
-        "Zoox-Uber 협력 로보택시, 라스베이거스 공식 운행 개시"
-      ]
-    },
-    "openai-voice-live-transition": {
-      "count": 1,
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, ChatGPT 음성 모드 'Voice'를 'Live' 브랜드로 전환"
       ]
     },
     "nvidia-earnings-q3-beat": {
@@ -494,13 +431,14 @@
       ]
     },
     "korea-exam-ai-cheating": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-22",
-      "last_seen": "2026-11-23",
-      "status": "normal",
+      "last_seen": "2026-11-25",
+      "status": "demoted",
       "example_titles": [
         "한국 국가자격시험에서 AI 활용 부정행위 5건 적발·1건 무효 처리",
-        "최교진 교육부 장관, 수능 AI 부정행위 대책 혼선 책임지고 사퇴"
+        "최교진 교육부 장관, 수능 AI 부정행위 대책 혼선 책임지고 사퇴",
+        "한국 교육부, AI 부정행위 근절 위해 중·고교 내신 감독 수능 수준으로 강화"
       ]
     },
     "trump-xi-ai-summit-talks": {
@@ -576,13 +514,14 @@
       ]
     },
     "openai-pretraining-common-limits": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-23",
-      "last_seen": "2026-11-24",
-      "status": "normal",
+      "last_seen": "2026-11-25",
+      "status": "demoted",
       "example_titles": [
         "OpenAI, 사전학습 퍼플렉서티 수치 최초 공개…업계 공동 한계선 제안",
-        "OpenAI 수석 과학자 Pachocki, 퍼플렉서티 기반 AI 개발 공동 한계선 제안"
+        "OpenAI 수석 과학자 Pachocki, 퍼플렉서티 기반 AI 개발 공동 한계선 제안",
+        "OpenAI 수석 과학자 파초키, 퍼플렉서티 기반 AI 사전학습 공동 한계선 제안"
       ]
     },
     "openrouter-zdr-providers-removed": {
@@ -651,12 +590,13 @@
       ]
     },
     "google-search-ai-drive-wallet": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "status": "normal",
       "example_titles": [
-        "Google 검색 AI 모드, 구글 드라이브·Wallet 연동으로 개인화 답변 확대"
+        "Google 검색 AI 모드, 구글 드라이브·Wallet 연동으로 개인화 답변 확대",
+        "Google AI 모드, 개인화 연동 대상에 Google Wallet·Drive·Gemini 앱 추가"
       ]
     },
     "naver-kakao-agent-launch": {
@@ -729,6 +669,96 @@
       "status": "normal",
       "example_titles": [
         "미국 주지사협의회(NGA), AI 연방 규제에 주(州) 소비자 보호 권한 보존 요구"
+      ]
+    },
+    "aws-gemma4-open-models": {
+      "count": 1,
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "status": "normal",
+      "example_titles": [
+        "AWS, Google Gemma 4 기반 오픈 의사결정 모델 5종 공개"
+      ]
+    },
+    "google-gemini-4-carbon": {
+      "count": 1,
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "status": "normal",
+      "example_titles": [
+        "Google, Gemini 4 Argon 후속 모델 'Gemini 4 Carbon' 개발 중"
+      ]
+    },
+    "openai-terra-family": {
+      "count": 1,
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, Terra 패밀리 차세대 모델 수 주 내 출시 예고"
+      ]
+    },
+    "anthropic-claude-ship-github": {
+      "count": 1,
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "status": "normal",
+      "example_titles": [
+        "앤트로픽, 기업용 GitHub PR 자동 리뷰 'Claude Ship' 베타 출시"
+      ]
+    },
+    "openai-cisco-shirudo-security": {
+      "count": 1,
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI·Cisco, 취약점 공개~패치 사이 시스템 보호하는 오픈소스 'Shirudo' 출시"
+      ]
+    },
+    "walmart-ai-agents-retail": {
+      "count": 1,
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "status": "normal",
+      "example_titles": [
+        "Walmart, 재고·결제 시스템 AI 에이전트에 개방 — 완전 자동화 리테일 추진"
+      ]
+    },
+    "aws-bedrock-agentcore": {
+      "count": 1,
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "status": "normal",
+      "example_titles": [
+        "AWS, Amazon Bedrock AgentCore 런타임 업그레이드 발표"
+      ]
+    },
+    "ai-safety-employee-warning": {
+      "count": 1,
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI·앤트로픽 직원 수십 명, '미공개 최신 모델 안전하지 않다' 내부 경고"
+      ]
+    },
+    "australia-digital-duty-care": {
+      "count": 1,
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "status": "normal",
+      "example_titles": [
+        "호주 의회, AI 기업에 이용자 피해 방지 의무 부과하는 '디지털 주의 의무법' 통과 임박"
+      ]
+    },
+    "un-ai-safety-framework": {
+      "count": 1,
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "status": "normal",
+      "example_titles": [
+        "유엔 사무총장, AI 안전 다자 프레임워크 협상 촉구 — '역사적 권력 이동 경고'"
       ]
     }
   }
