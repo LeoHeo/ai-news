@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "window_days": 7,
   "themes": [
     {
@@ -30,29 +30,10 @@
       ]
     },
     {
-      "keyword": "global-payments-pe-takeover",
-      "count": 11,
-      "first_seen": "2026-11-03",
-      "last_seen": "2026-11-17",
-      "articles": [
-        "investment-global-payments-pe-takeover",
-        "investment-global-payments-pe-1104",
-        "investment-global-payments-lbo",
-        "investment-global-payments-lbo",
-        "investment-global-payments-pe",
-        "payments-global-payments-pe",
-        "investment-global-payments-lbo-1110",
-        "investment-global-payments-lbo-1111",
-        "investment-global-payments-lbo-1112",
-        "investment-global-payments-lbo-1115",
-        "investment-global-payments-lbo-end"
-      ]
-    },
-    {
       "keyword": "tosspayments-viva-merger",
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-25",
       "articles": [
         "investment-tosspayments",
         "investment-tosspayments-1110",
@@ -60,7 +41,8 @@
         "investment-tosspayments-1112",
         "investment-tosspayments-1113",
         "investment-tosspayments-1115",
-        "investment-tosspayments-merger"
+        "investment-tosspayments-merger",
+        "digital-banking-tosspayments-viva-merger"
       ]
     },
     {
@@ -74,79 +56,6 @@
       ]
     },
     {
-      "keyword": "naverpay-facesign-promo",
-      "count": 5,
-      "first_seen": "2026-11-11",
-      "last_seen": "2026-11-17",
-      "articles": [
-        "payments-naverpay-facesign",
-        "payments-naverpay-facesign-1112",
-        "payments-naverpay-facesign-1113",
-        "payments-naverpay-facesign-1115",
-        "payments-naverpay-facesign"
-      ]
-    },
-    {
-      "keyword": "eu-fida-withdrawal",
-      "count": 5,
-      "first_seen": "2026-11-11",
-      "last_seen": "2026-11-17",
-      "articles": [
-        "regulation-eu-fida-withdrawal",
-        "regulation-eu-fida-withdrawal-1112",
-        "regulation-eu-fida-withdrawal-1113",
-        "regulation-eu-fida-withdrawal-1115",
-        "regulation-eu-fida-withdrawal"
-      ]
-    },
-    {
-      "keyword": "bank-stablecoin-consortium-270m",
-      "count": 5,
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-17",
-      "articles": [
-        "payments-bank-stablecoin-consortium-1112",
-        "payments-bank-stablecoin-consortium-1113",
-        "payments-bank-stablecoin-consortium-1114",
-        "payments-bank-stablecoin-consortium-1115",
-        "payments-bank-faro-consortium"
-      ]
-    },
-    {
-      "keyword": "pnc-coinbase-usdc-pilot",
-      "count": 3,
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-17",
-      "articles": [
-        "payments-pnc-coinbase-usdc-1112",
-        "payments-pnc-coinbase-usdc-1113",
-        "payments-pnc-coinbase-usdc"
-      ]
-    },
-    {
-      "keyword": "griffin-baas-series-b-stablecoin",
-      "count": 4,
-      "first_seen": "2026-11-14",
-      "last_seen": "2026-11-17",
-      "articles": [
-        "digital-banking-griffin-series-b-1114",
-        "digital-banking-griffin-series-b-1115",
-        "investment-griffin-series-b-1116",
-        "investment-griffin-series-b"
-      ]
-    },
-    {
-      "keyword": "korea-won-stablecoin-bank-rule",
-      "count": 3,
-      "first_seen": "2026-11-14",
-      "last_seen": "2026-11-17",
-      "articles": [
-        "regulation-korea-won-stablecoin-1114",
-        "regulation-korea-won-stablecoin-1115",
-        "regulation-korea-stablecoin-ownership"
-      ]
-    },
-    {
       "keyword": "imprint-130m-series-d",
       "count": 3,
       "first_seen": "2026-11-16",
@@ -155,26 +64,6 @@
         "investment-imprint-130m-1116",
         "investment-imprint-130m",
         "investment-imprint-130m"
-      ]
-    },
-    {
-      "keyword": "iso20022-swift-structured-deadline",
-      "count": 2,
-      "first_seen": "2026-11-16",
-      "last_seen": "2026-11-17",
-      "articles": [
-        "payments-iso20022-deadline-1116",
-        "payments-iso20022-deadline"
-      ]
-    },
-    {
-      "keyword": "lemfi-bvnk-stablecoin-remittance",
-      "count": 2,
-      "first_seen": "2026-11-16",
-      "last_seen": "2026-11-17",
-      "articles": [
-        "remittance-lemfi-bvnk-1116",
-        "remittance-lemfi-bvnk"
       ]
     },
     {
@@ -192,24 +81,6 @@
       ]
     },
     {
-      "keyword": "revolut-italy-aml-supervision",
-      "count": 1,
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "articles": [
-        "regulation-revolut-italy-aml"
-      ]
-    },
-    {
-      "keyword": "brazil-bcb-stablecoin-warning",
-      "count": 1,
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "articles": [
-        "regulation-brazil-bcb-stablecoin"
-      ]
-    },
-    {
       "keyword": "paytm-rbi-wallet-restart",
       "count": 2,
       "first_seen": "2026-11-17",
@@ -217,15 +88,6 @@
       "articles": [
         "digital-banking-paytm-rbi-wallet",
         "digital-banking-paytm-rbi-1119"
-      ]
-    },
-    {
-      "keyword": "dbs-stripe-agentic-payments",
-      "count": 1,
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "articles": [
-        "payments-dbs-stripe-agentic"
       ]
     },
     {
@@ -397,29 +259,31 @@
     },
     {
       "keyword": "stripe-ipo-timeline",
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "articles": [
         "investment-stripe-ipo-1119",
         "investment-stripe-ipo-1120",
         "investment-stripe-ipo-1121",
         "investment-stripe-ipo-1122",
         "investment-stripe-ipo-timeline",
+        "investment-stripe-ipo-2027-roadshow",
         "investment-stripe-ipo-2027-roadshow"
       ]
     },
     {
       "keyword": "google-wallet-ios",
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "articles": [
         "payments-google-wallet-ios-1119",
         "payments-google-wallet-ios-1120",
         "payments-google-wallet-ios-1121",
         "payments-google-wallet-ios-nfc",
-        "payments-google-wallet-ios-nfc-1124"
+        "payments-google-wallet-ios-nfc-1124",
+        "payments-google-wallet-ios-nfc"
       ]
     },
     {
@@ -437,15 +301,16 @@
     },
     {
       "keyword": "us-stablecoin-bill",
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "articles": [
         "regulation-us-stablecoin-bill-1120",
         "regulation-us-genius-act-1121",
         "regulation-us-genius-act-1122",
         "regulation-us-genius-act-stablecoin",
-        "regulation-us-genius-act-1124"
+        "regulation-us-genius-act-1124",
+        "regulation-us-genius-act-stablecoin"
       ]
     },
     {
@@ -533,38 +398,41 @@
     },
     {
       "keyword": "korea-fintech-week-2026",
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "articles": [
         "regulation-korea-fintech-week-1120",
         "regulation-korea-fintech-week",
         "regulation-korea-fintech-week",
         "regulation-korea-fintech-week-2026",
-        "regulation-korea-fintech-week-2026-1124"
+        "regulation-korea-fintech-week-2026-1124",
+        "regulation-korea-fintech-week-2026"
       ]
     },
     {
       "keyword": "visa-mastercard-surcharge",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "articles": [
         "payments-visa-mc-surcharge-1121",
         "payments-visa-mc-surcharge-1122",
         "payments-visa-mc-surcharge-ruling",
+        "payments-visa-mastercard-surcharge-ruling",
         "payments-visa-mastercard-surcharge-ruling"
       ]
     },
     {
       "keyword": "wise-swift-integration",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "articles": [
         "remittance-wise-swift-1121",
         "remittance-wise-swift-1122",
         "remittance-wise-swift-gpi",
+        "remittance-wise-swift-gpi-integration",
         "remittance-wise-swift-gpi-integration"
       ]
     },
@@ -582,38 +450,41 @@
     },
     {
       "keyword": "kakaobank-southeast-asia",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "articles": [
         "digital-banking-kakaobank-sea-1121",
         "digital-banking-kakaobank-sea-1122",
         "digital-banking-kakaobank-sea-1123",
-        "digital-banking-kakaobank-vietnam-license"
+        "digital-banking-kakaobank-vietnam-license",
+        "digital-banking-kakaobank-southeast-asia"
       ]
     },
     {
       "keyword": "affirm-ai-underwriting",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "articles": [
         "lending-affirm-ai-1121",
         "lending-affirm-ai-1122",
         "lending-affirm-ai-underwriting",
-        "lending-affirm-ai-credit-model"
+        "lending-affirm-ai-credit-model",
+        "lending-affirm-ai-underwriting"
       ]
     },
     {
       "keyword": "eu-open-finance-psd3",
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "articles": [
         "regulation-eu-psd3-1121",
         "regulation-eu-psd3-1122",
         "regulation-eu-open-finance-psd3",
-        "regulation-eu-psd3-open-finance"
+        "regulation-eu-psd3-open-finance",
+        "regulation-eu-open-finance-psd3"
       ]
     },
     {
@@ -712,47 +583,52 @@
     },
     {
       "keyword": "oaknorth-us-bank-charter",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "articles": [
+        "digital-banking-oaknorth-us-bank-charter",
         "digital-banking-oaknorth-us-bank-charter"
       ]
     },
     {
       "keyword": "credit-mutuel-cyberattack",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "articles": [
+        "digital-banking-credit-mutuel-cyberattack",
         "digital-banking-credit-mutuel-cyberattack"
       ]
     },
     {
       "keyword": "bill-tpg-takeprivate",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "articles": [
+        "investment-bill-tpg-6b-takeprivate",
         "investment-bill-tpg-6b-takeprivate"
       ]
     },
     {
       "keyword": "fca-bnpl-regulation-final",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "articles": [
+        "regulation-fca-bnpl-regulation-final",
         "regulation-fca-bnpl-regulation-final"
       ]
     },
     {
       "keyword": "world-bank-remittance-2026",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "articles": [
-        "remittance-world-bank-remittance-report-2026"
+        "remittance-world-bank-remittance-report-2026",
+        "remittance-world-bank-remittance-2026"
       ]
     },
     {
@@ -771,6 +647,42 @@
       "last_seen": "2026-11-24",
       "articles": [
         "lending-upgrade-sme-lending-ai"
+      ]
+    },
+    {
+      "keyword": "payments-coupang-woori-won-stablecoin",
+      "count": 1,
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "articles": [
+        "payments-coupang-woori-won-stablecoin"
+      ]
+    },
+    {
+      "keyword": "investment-airwallex-330m-8b",
+      "count": 1,
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "articles": [
+        "investment-airwallex-330m-8b"
+      ]
+    },
+    {
+      "keyword": "investment-moneris-rbc-bmo-pe-sale",
+      "count": 1,
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "articles": [
+        "investment-moneris-rbc-bmo-pe-sale"
+      ]
+    },
+    {
+      "keyword": "investment-picpay-ipo-filing",
+      "count": 1,
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "articles": [
+        "investment-picpay-ipo-filing"
       ]
     }
   ]
