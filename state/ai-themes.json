@@ -1,674 +1,171 @@
 {
   "topic": "ai",
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "version": 1,
   "window_days": 7,
   "themes": {
+    "walmart-agent-gateway": {
+      "count": 1,
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "status": "normal",
+      "example_titles": [
+        "Walmart, AI 에이전트 게이트웨이 출시 — Meta Muse가 블랙 프라이데이 쇼핑 대행"
+      ]
+    },
+    "anthropic-skills-mcp-beta": {
+      "count": 1,
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, 'Skills over MCP' 퍼블릭 베타 출시 — MCP 서버가 전문성 발행 가능"
+      ]
+    },
+    "openai-privacy-enterprise-feature": {
+      "count": 1,
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, 기업용 AI 모델 기밀 데이터 비노출 개인정보 보호 기능 테스트 중"
+      ]
+    },
+    "dell-ai-server-backlog": {
+      "count": 1,
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "status": "normal",
+      "example_titles": [
+        "Dell, AI 서버 수주잔고 $1,323억 역대 최고 — 분기 매출 거의 2배 성장"
+      ]
+    },
+    "elevenlabs-funding-valuation": {
+      "count": 1,
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "status": "normal",
+      "example_titles": [
+        "ElevenLabs, 기업가치 330억 달러로 2027년 투자 초기 협의 중"
+      ]
+    },
+    "amazon-meta-muse-dispute": {
+      "count": 1,
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "status": "normal",
+      "example_titles": [
+        "Amazon, Instagram서 Meta Muse AI 쇼핑 에이전트 차단 — Meta와 협의 중"
+      ]
+    },
+    "automation-anywhere-boost-ai": {
+      "count": 1,
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "status": "normal",
+      "example_titles": [
+        "Automation Anywhere, 대화형 AI 플랫폼 Boost.ai 인수 완료"
+      ]
+    },
+    "jpmorgan-ai-investment-forecast": {
+      "count": 1,
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "status": "normal",
+      "example_titles": [
+        "JP모건, AI 투자 정점은 2027년 — AI 주식 조정 속 경고"
+      ]
+    },
+    "iran-us-ai-military-use": {
+      "count": 1,
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "status": "normal",
+      "example_titles": [
+        "이란, 미군이 Palantir·Anthropic AI로 약 2,000개 군사 표적 선정 주장 — 미 국방부 AI 도구 사용 확인"
+      ]
+    },
+    "korea-ai-agent-license": {
+      "count": 1,
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "status": "normal",
+      "example_titles": [
+        "AI 커닝 막고 '피클' 규율한다…AI 개발자 면허제·책임보험도 논의"
+      ]
+    },
+    "korea-ai-standardization": {
+      "count": 1,
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "status": "normal",
+      "example_titles": [
+        "생성형 AI 넘어 에이전틱·피지컬 AI로…국표원, 표준화 전략 논의"
+      ]
+    },
     "anthropic-ipo-roadshow": {
-      "count": 24,
+      "count": 25,
       "first_seen": "2026-10-14",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "status": "saturated",
       "example_titles": [
         "Anthropic IPO 로드쇼 개시 — 주당 70~78달러·나스닥 'ANT'",
         "Anthropic, 나스닥 'ANT' 첫 거래 개시",
         "앤트로픽 나스닥 상장 다음날 급락… AI 투자 회의론 확산",
-        "앤트로픽 주가, 상장가 83달러 하회 — AI 스타트업 밸류에이션 우려 고조"
+        "Anthropic 시가총액, AI 주가 급락에 1조 달러 아래로 일시 하락"
+      ]
+    },
+    "nasdaq-ai-tech-correction": {
+      "count": 3,
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-26",
+      "status": "normal",
+      "example_titles": [
+        "나스닥 시총 일주일 새 5천조원 증발…'AI 투자 회의론' 확산",
+        "AI주 급락에 닷컴버블 경고 — 한국 수출·소비·세수까지 타격 우려",
+        "AI 주식 투매 심화 — 나스닥 2026년 연간 상승분 전부 반납, 엔비디아 8.69% 급락"
+      ]
+    },
+    "australia-digital-duty-care": {
+      "count": 2,
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
+      "status": "normal",
+      "example_titles": [
+        "호주 의회, AI 기업에 이용자 피해 방지 의무 부과하는 '디지털 주의 의무법' 통과 임박",
+        "호주, AI 기업 이용자 피해 방지 의무 부과하는 '디지털 의무법' 통과 — 위반 시 글로벌 매출 5% 과태료"
       ]
     },
     "nvidia-ceo-spy-investigation": {
-      "count": 9,
+      "count": 8,
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-24",
       "status": "saturated",
       "example_titles": [
         "젠슨 황 CEO, 스파이 혐의 조사 압박에 엔비디아 사임",
         "Jensen Huang, Nvidia CEO 즉각 사임 — 중국 정보기관 연계 의혹 확인",
         "NVIDIA, Jensen Huang CEO 즉각 사임 — CFO Colette Kress 임시 CEO",
-        "엔비디아 이사회, 젠슨 황 CEO 만장일치 복귀 — 국가 안보 위협 없다 결론"
-      ]
-    },
-    "faa-ai-ground-stop": {
-      "count": 3,
-      "first_seen": "2026-11-15",
-      "last_seen": "2026-11-19",
-      "status": "demoted",
-      "example_titles": [
-        "FAA, SMART AI 항공 관제 도입 직후 전국 통신 장애 조사 착수",
-        "Warner 보고서: AI 의존 급증으로 연쇄 장애 위험 고조"
-      ]
-    },
-    "kakao-kanana-launch": {
-      "count": 2,
-      "first_seen": "2026-11-15",
-      "last_seen": "2026-11-21",
-      "status": "normal",
-      "example_titles": [
-        "카카오 '카나나 스페이스' 12월 비공개 베타 개시, AI 이용자 1,000만 목표",
-        "카카오, 한국어 특화 AI '카나나-2' 출시… 한국어 이해도 1위"
-      ]
-    },
-    "ny-raise-act-registration": {
-      "count": 3,
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-18",
-      "status": "demoted",
-      "example_titles": [
-        "뉴욕주 RAISE Act, 11월부터 프런티어 AI 개발사 등록 의무화",
-        "뉴욕주 RAISE Act, 프런티어 AI 개발사 등록 개시",
-        "뉴욕 주, 경계선 AI 모델 개발사 등록 의무화 'RAISE 법' 추진 현황"
-      ]
-    },
-    "fed-ai-systemic-risk": {
-      "count": 2,
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-18",
-      "status": "normal",
-      "example_titles": [
-        "연방준비제도, 대형 금융사 87%가 AI 시스템 리스크 경고",
-        "연준 워시 이사, AI 거품 붕괴 3가지 시나리오 경고 — '소프트랜딩은 가장 낙관적 전제'"
-      ]
-    },
-    "nvidia-earnings-q3-beat": {
-      "count": 2,
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
-      "status": "normal",
-      "example_titles": [
-        "엔비디아 3분기 매출 $115.8B, YoY +103% — 블랙웰 가속·크레스 임시 CEO 발표",
-        "엔비디아 Q3 매출 $115.8B, AI 수요 역대 최고"
-      ]
-    },
-    "ai-military-targeting-game": {
-      "count": 1,
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
-      "status": "normal",
-      "example_titles": [
-        "AI 모델, '게임이다' 단순 프롬프트로 민간인을 군사 표적으로 분류 — Vals 연구"
-      ]
-    },
-    "california-openai-lawsuit": {
-      "count": 3,
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-20",
-      "status": "demoted",
-      "example_titles": [
-        "캘리포니아 AG, AI 에이전트 해킹 취약점·Hugging Face 무단 배포로 OpenAI 제소",
-        "캘리포니아 법무장관, OpenAI 비영리→영리 전환 법적 제동"
-      ]
-    },
-    "google-ai-threat-report": {
-      "count": 2,
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
-      "status": "normal",
-      "example_titles": [
-        "구글 TIG 보고서: 자율 AI 에이전트, 환경 맥락 따라 공격 임계치 스스로 조정",
-        "구글 GTIG, 자율 AI 에이전트 악용 위협 추적 보고서"
-      ]
-    },
-    "litellm-pypi-security": {
-      "count": 1,
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
-      "status": "normal",
-      "example_titles": [
-        "LiteLLM 두 번째 PyPI 공급망 침해 — 미폐기 API 키가 초기 진입점"
-      ]
-    },
-    "sk-inno-ai-startup": {
-      "count": 1,
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
-      "status": "normal",
-      "example_titles": [
-        "SK이노베이션, 에너지 AI 스타트업 10곳 '피어링' 협력 프로그램 시작"
-      ]
-    },
-    "us-bis-ai-chip-remote-rule": {
-      "count": 2,
-      "first_seen": "2026-11-19",
-      "last_seen": "2026-11-21",
-      "status": "normal",
-      "example_titles": [
-        "美 상무부 BIS, AI 칩 원격접근 차단 규정 도입",
-        "美 의원들, BIS에 AI 칩 원격 접근 규정 강화 촉구"
-      ]
-    },
-    "gao-chatbot-safety-test": {
-      "count": 1,
-      "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19",
-      "status": "normal",
-      "example_titles": [
-        "GAO 보고서: AI 챗봇 안전장치 20개 중 15개 우회 가능"
-      ]
-    },
-    "ai-toy-safety-recall": {
-      "count": 1,
-      "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19",
-      "status": "normal",
-      "example_titles": [
-        "AI 탑재 아동 장난감 7종 리콜… 개인정보·안전 위협"
-      ]
-    },
-    "microsoft-ignite-mai-2026": {
-      "count": 3,
-      "first_seen": "2026-11-19",
-      "last_seen": "2026-11-21",
-      "status": "demoted",
-      "example_titles": [
-        "Microsoft Ignite 2026: MAI 에이전트 플랫폼 & GitHub Copilot 강화",
-        "Nadella, AI 에이전트 도입 맥락에서 Microsoft 6만 명 조기 퇴직 유도 배경 설명",
-        "Microsoft MAI Code 2, 코드 생성 특화 모델로 GitHub Copilot 성능 대폭 향상"
-      ]
-    },
-    "nextrise-2026-korea-ai": {
-      "count": 2,
-      "first_seen": "2026-11-19",
-      "last_seen": "2026-11-20",
-      "status": "normal",
-      "example_titles": [
-        "AI Summit Seoul & NextRise 2026 개막, 스타트업 100개 집결",
-        "넥스트라이즈 2026 개막 — OpenAI 임직원·100개 AI 스타트업 집결"
-      ]
-    },
-    "google-gemini-4-neon": {
-      "count": 2,
-      "first_seen": "2026-11-20",
-      "last_seen": "2026-11-21",
-      "status": "normal",
-      "example_titles": [
-        "Google, Gemini 4 Neon 출시 — Opus 5.5급 코딩 성능에 $3/M 토큰",
-        "Google Gemini 4 Neon, 멀티모달 추론 능력 획기적 개선"
-      ]
-    },
-    "meta-muse-privacy-breach": {
-      "count": 1,
-      "first_seen": "2026-11-20",
-      "last_seen": "2026-11-20",
-      "status": "normal",
-      "example_titles": [
-        "Meta AI 에이전트 Muse, 계정 간 대화 혼선·Signal 메시지 무단 접근 사태"
-      ]
-    },
-    "google-gemini-computer-use": {
-      "count": 1,
-      "first_seen": "2026-11-20",
-      "last_seen": "2026-11-20",
-      "status": "normal",
-      "example_titles": [
-        "Google Gemini, macOS 앱에 'Mac 컴퓨터 사용' 기능 탑재"
-      ]
-    },
-    "uber-ai-coding-costs": {
-      "count": 1,
-      "first_seen": "2026-11-20",
-      "last_seen": "2026-11-20",
-      "status": "normal",
-      "example_titles": [
-        "Uber, AI 코딩 도구 토큰 예산 초과 — 컨텍스트·추론 범위 축소 조치"
-      ]
-    },
-    "google-ai-search-incognito": {
-      "count": 1,
-      "first_seen": "2026-11-20",
-      "last_seen": "2026-11-20",
-      "status": "normal",
-      "example_titles": [
-        "Google AI 검색 모드, 대화 이력 미반영 인코그니토 기능 추가"
-      ]
-    },
-    "openai-chip-design-optimization": {
-      "count": 1,
-      "first_seen": "2026-11-20",
-      "last_seen": "2026-11-20",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, AI로 AMD 칩 설계 최적화 — 전력·성능 최대 14% 개선"
-      ]
-    },
-    "korea-csat-llm-score": {
-      "count": 1,
-      "first_seen": "2026-11-20",
-      "last_seen": "2026-11-20",
-      "status": "normal",
-      "example_titles": [
-        "2027 수능 AI 성적표: OpenAI·Google 450점 공동 1위, LG K-엑사원 414점"
-      ]
-    },
-    "weightbench-llm-benchmark": {
-      "count": 1,
-      "first_seen": "2026-11-20",
-      "last_seen": "2026-11-20",
-      "status": "normal",
-      "example_titles": [
-        "WeightBench, LLM이 신경망 가중치를 직접 조작·생성하는 능력 평가 벤치마크 출시"
-      ]
-    },
-    "nvidia-china-h200-halt": {
-      "count": 1,
-      "first_seen": "2026-11-20",
-      "last_seen": "2026-11-20",
-      "status": "normal",
-      "example_titles": [
-        "Nvidia 임시 CEO, 허가받은 Hopper 칩도 중국 공급 완전 중단 선언"
-      ]
-    },
-    "nadella-ai-agents-web": {
-      "count": 1,
-      "first_seen": "2026-11-20",
-      "last_seen": "2026-11-20",
-      "status": "normal",
-      "example_titles": [
-        "나델라 Microsoft CEO: AI 에이전트가 웹 광고 경제 근본 재편할 것"
-      ]
-    },
-    "altman-nyt-dealbook-2026": {
-      "count": 1,
-      "first_seen": "2026-11-20",
-      "last_seen": "2026-11-20",
-      "status": "normal",
-      "example_titles": [
-        "Sam Altman, NYT DealBook서 경고: AI가 아닌 인간이 중요한 결정 내려야"
-      ]
-    },
-    "california-ai-safety-mandate": {
-      "count": 2,
-      "first_seen": "2026-11-20",
-      "last_seen": "2026-11-21",
-      "status": "normal",
-      "example_titles": [
-        "캘리포니아, 프런티어 AI 의무 안전 기준·긴급 종료 권한 포함 차기 단계 발표",
-        "캘리포니아, AI 안전 의무화 법안 서명… SB-1047 대체 입법 확정"
-      ]
-    },
-    "trump-china-ai-disclosure": {
-      "count": 1,
-      "first_seen": "2026-11-20",
-      "last_seen": "2026-11-20",
-      "status": "normal",
-      "example_titles": [
-        "트럼프 행정부, 미국 기업에 중국 AI 사용 현황 홈페이지 공개 의무화 검토"
-      ]
-    },
-    "openai-state-criminal-probe": {
-      "count": 1,
-      "first_seen": "2026-11-20",
-      "last_seen": "2026-11-20",
-      "status": "normal",
-      "example_titles": [
-        "애리조나 주 법무장관, OpenAI 등 형사 수사 개시 — AI 에이전트 은행 무단 침투 혐의"
-      ]
-    },
-    "openai-gpt62-astra-sol": {
-      "count": 1,
-      "first_seen": "2026-11-21",
-      "last_seen": "2026-11-21",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, GPT-6.2 'Astra'와 'Sol' 추론 모델 공개"
-      ]
-    },
-    "deepmind-genie-4": {
-      "count": 1,
-      "first_seen": "2026-11-21",
-      "last_seen": "2026-11-21",
-      "status": "normal",
-      "example_titles": [
-        "DeepMind Genie 4, 비디오에서 직접 플레이어블 세계 생성"
-      ]
-    },
-    "alibaba-qwen4-max": {
-      "count": 1,
-      "first_seen": "2026-11-21",
-      "last_seen": "2026-11-21",
-      "status": "normal",
-      "example_titles": [
-        "알리바바 Qwen4-Max, 오픈소스 최강 선언… MMLU 95.2% 달성"
-      ]
-    },
-    "deepbrain-ai-sbs": {
-      "count": 1,
-      "first_seen": "2026-11-21",
-      "last_seen": "2026-11-21",
-      "status": "normal",
-      "example_titles": [
-        "딥브레인AI·SBS, AI 가상 앵커 뉴스 본방송 도입"
-      ]
-    },
-    "openai-bio-benchmarks": {
-      "count": 1,
-      "first_seen": "2026-11-21",
-      "last_seen": "2026-11-21",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, 생명과학 AI 벤치마크 2종 공개… 의료 AI 평가 표준화 시도"
-      ]
-    },
-    "us-china-ai-military-accord": {
-      "count": 1,
-      "first_seen": "2026-11-21",
-      "last_seen": "2026-11-21",
-      "status": "normal",
-      "example_titles": [
-        "미·중, AI 군사 활용 위험 감소 협정 체결… 핵 지휘통제 AI 배제 합의"
-      ]
-    },
-    "trump-datacenter-tax": {
-      "count": 1,
-      "first_seen": "2026-11-21",
-      "last_seen": "2026-11-21",
-      "status": "normal",
-      "example_titles": [
-        "트럼프 행정부, AI 데이터센터 세금 감면 행정명령 서명"
-      ]
-    },
-    "safe-ai-act-federal-bill": {
-      "count": 1,
-      "first_seen": "2026-11-21",
-      "last_seen": "2026-11-21",
-      "status": "normal",
-      "example_titles": [
-        "美 연방 'SAFE AI 법안' 초당파 발의… AI 위험 등급 분류·의무 공시 도입"
-      ]
-    },
-    "ny-ag-asset-ai-enforcement": {
-      "count": 1,
-      "first_seen": "2026-11-21",
-      "last_seen": "2026-11-21",
-      "status": "normal",
-      "example_titles": [
-        "뉴욕 검찰총장, AI 소비자 보호 전담 조직 'ASSET' 출범"
-      ]
-    },
-    "claude-riemann-hypothesis-proof": {
-      "count": 2,
-      "first_seen": "2026-11-22",
-      "last_seen": "2026-11-23",
-      "status": "normal",
-      "example_titles": [
-        "Lean·Mathlib 커뮤니티, Claude 협업 리만 가설 증명 공식 인증",
-        "Lean·Mathlib 커뮤니티, Claude 협업 리만 가설 연구 증명 공식 인증"
-      ]
-    },
-    "amazon-ai-monai-zeroday": {
-      "count": 1,
-      "first_seen": "2026-11-22",
-      "last_seen": "2026-11-22",
-      "status": "normal",
-      "example_titles": [
-        "Amazon, 중국 연계 AI 에이전트가 의료 소프트웨어 제로데이를 11분 만에 악용했다고 발표"
-      ]
-    },
-    "white-house-ai-national-champions": {
-      "count": 1,
-      "first_seen": "2026-11-22",
-      "last_seen": "2026-11-22",
-      "status": "normal",
-      "example_titles": [
-        "백악관, 엔비디아·OpenAI·앤트로픽을 AI '국가 챔피언'으로 지정해 중국에 대응 계획"
-      ]
-    },
-    "trump-overseas-datacenter-tax": {
-      "count": 1,
-      "first_seen": "2026-11-22",
-      "last_seen": "2026-11-22",
-      "status": "normal",
-      "example_titles": [
-        "트럼프, 해외 AI 데이터센터 구축 미국 기업에 '막대한 세금' 부과 경고"
-      ]
-    },
-    "ai-safety-slowdown-failed": {
-      "count": 2,
-      "first_seen": "2026-11-22",
-      "last_seen": "2026-11-23",
-      "status": "normal",
-      "example_titles": [
-        "앤트로픽·OpenAI·xAI, 독립 평가 필요성 공감했지만 공동 감속 협약은 불발"
+        "젠슨 황, Nvidia CEO 복귀 — 조사는 진행 중·증시 급반등"
       ]
     },
     "korea-exam-ai-cheating": {
-      "count": 3,
+      "count": 2,
       "first_seen": "2026-11-22",
-      "last_seen": "2026-11-25",
-      "status": "demoted",
+      "last_seen": "2026-11-23",
+      "status": "normal",
       "example_titles": [
         "한국 국가자격시험에서 AI 활용 부정행위 5건 적발·1건 무효 처리",
-        "최교진 교육부 장관, 수능 AI 부정행위 대책 혼선 책임지고 사퇴",
-        "한국 교육부, AI 부정행위 근절 위해 중·고교 내신 감독 수능 수준으로 강화"
-      ]
-    },
-    "trump-xi-ai-summit-talks": {
-      "count": 1,
-      "first_seen": "2026-11-22",
-      "last_seen": "2026-11-22",
-      "status": "normal",
-      "example_titles": [
-        "트럼프 행정부, 시진핑 방미 계기로 중국과 AI 위험 대화 추진 검토"
-      ]
-    },
-    "benioff-ai-safety-accountability": {
-      "count": 1,
-      "first_seen": "2026-11-22",
-      "last_seen": "2026-11-22",
-      "status": "normal",
-      "example_titles": [
-        "베니오프 세일즈포스 CEO: AI 기업이 자체 안전 기준 세우고 사고 책임 져야"
-      ]
-    },
-    "dod-cto-ai-regulation-stance": {
-      "count": 1,
-      "first_seen": "2026-11-22",
-      "last_seen": "2026-11-22",
-      "status": "normal",
-      "example_titles": [
-        "미 국방부 CTO, AI 기업 정부 지분 취득·추가 규제에 반대 입장 표명"
-      ]
-    },
-    "nvidia-sec-investigation": {
-      "count": 1,
-      "first_seen": "2026-11-22",
-      "last_seen": "2026-11-22",
-      "status": "normal",
-      "example_titles": [
-        "SEC, 엔비디아 잠재적 회계 문제 조사 착수… 이사회 '젠슨 황 CEO 복귀 검토 않는다'"
-      ]
-    },
-    "anthropic-computer-use-enterprise": {
-      "count": 1,
-      "first_seen": "2026-11-22",
-      "last_seen": "2026-11-22",
-      "status": "normal",
-      "example_titles": [
-        "앤트로픽, Computer Use 베타를 Claude Team·Enterprise 플랜으로 확대"
-      ]
-    },
-    "google-home-mcp-integration": {
-      "count": 1,
-      "first_seen": "2026-11-22",
-      "last_seen": "2026-11-22",
-      "status": "normal",
-      "example_titles": [
-        "구글, 외부 AI 에이전트가 Google Home 기기를 MCP로 제어·조회할 수 있는 통합 API 공개"
-      ]
-    },
-    "openai-chatgpt-ad-agent": {
-      "count": 1,
-      "first_seen": "2026-11-22",
-      "last_seen": "2026-11-22",
-      "status": "normal",
-      "example_titles": [
-        "OpenAI, ChatGPT 광고 클릭 시 브랜드 전용 AI 에이전트와 대화하는 기능 미국 테스트 중"
-      ]
-    },
-    "anthropic-claude-mobile-redesign": {
-      "count": 1,
-      "first_seen": "2026-11-22",
-      "last_seen": "2026-11-22",
-      "status": "normal",
-      "example_titles": [
-        "앤트로픽, Claude 모바일 앱 하단 탭바 네비게이션으로 UI 개편"
+        "최교진 교육부 장관, 수능 AI 부정행위 대책 혼선 책임지고 사퇴"
       ]
     },
     "openai-pretraining-common-limits": {
-      "count": 3,
+      "count": 2,
       "first_seen": "2026-11-23",
-      "last_seen": "2026-11-25",
-      "status": "demoted",
+      "last_seen": "2026-11-24",
+      "status": "normal",
       "example_titles": [
         "OpenAI, 사전학습 퍼플렉서티 수치 최초 공개…업계 공동 한계선 제안",
-        "OpenAI 수석 과학자 Pachocki, 퍼플렉서티 기반 AI 개발 공동 한계선 제안",
-        "OpenAI 수석 과학자 파초키, 퍼플렉서티 기반 AI 사전학습 공동 한계선 제안"
-      ]
-    },
-    "openrouter-zdr-providers-removed": {
-      "count": 1,
-      "first_seen": "2026-11-23",
-      "last_seen": "2026-11-23",
-      "status": "normal",
-      "example_titles": [
-        "OpenRouter, 추론 제공업체 3곳·125개 엔드포인트 무결성 정책 위반으로 ZDR 목록 제외"
-      ]
-    },
-    "sbc-korea-ai-deployment": {
-      "count": 1,
-      "first_seen": "2026-11-23",
-      "last_seen": "2026-11-23",
-      "status": "normal",
-      "example_titles": [
-        "중진공, 직원 개발 AI 서비스 실무 적용 본격화"
-      ]
-    },
-    "amazon-decart-acquisition": {
-      "count": 2,
-      "first_seen": "2026-11-23",
-      "last_seen": "2026-11-24",
-      "status": "normal",
-      "example_titles": [
-        "아마존, AI 칩 최적화 스타트업 데카르트 75억달러에 인수 임박",
-        "아마존, AI 칩 최적화 스타트업 Decart 75억 달러에 인수 — Trainium 칩 판매 채비"
-      ]
-    },
-    "musk-ai-datacenter-warning": {
-      "count": 1,
-      "first_seen": "2026-11-23",
-      "last_seen": "2026-11-23",
-      "status": "normal",
-      "example_titles": [
-        "머스크, 데이터센터 건설 지연 시 AI 기업들 수천억 달러 추가 자금 위기 경고"
-      ]
-    },
-    "nasdaq-ai-tech-correction": {
-      "count": 2,
-      "first_seen": "2026-11-23",
-      "last_seen": "2026-11-24",
-      "status": "normal",
-      "example_titles": [
-        "나스닥 시총 일주일 새 5천조원 증발…'AI 투자 회의론' 확산",
-        "AI주 급락에 닷컴버블 경고 — 한국 수출·소비·세수까지 타격 우려"
-      ]
-    },
-    "ai-credit-risk-analysis": {
-      "count": 1,
-      "first_seen": "2026-11-23",
-      "last_seen": "2026-11-23",
-      "status": "normal",
-      "example_titles": [
-        "DB증권 'AI 신용 재평가…위기 아닌 옥석 가리기'"
-      ]
-    },
-    "claude-fable-benchlm-top": {
-      "count": 1,
-      "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
-      "status": "normal",
-      "example_titles": [
-        "Claude Fable 5.2, BenchLM 종합 평가 1위 — Gemini 4 Neon·GPT-6.2 Astra 압도"
-      ]
-    },
-    "google-search-ai-drive-wallet": {
-      "count": 2,
-      "first_seen": "2026-11-24",
-      "last_seen": "2026-11-25",
-      "status": "normal",
-      "example_titles": [
-        "Google 검색 AI 모드, 구글 드라이브·Wallet 연동으로 개인화 답변 확대",
-        "Google AI 모드, 개인화 연동 대상에 Google Wallet·Drive·Gemini 앱 추가"
-      ]
-    },
-    "naver-kakao-agent-launch": {
-      "count": 1,
-      "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
-      "status": "normal",
-      "example_titles": [
-        "네이버·카카오, AI 에이전트 12월 출시 — API·CUA 병행으로 안전성 강화"
-      ]
-    },
-    "deepmind-lean4-quantum": {
-      "count": 1,
-      "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
-      "status": "normal",
-      "example_titles": [
-        "구글 DeepMind, Lean 4 양자 알고리즘 검증 프레임워크 오픈소스 공개"
-      ]
-    },
-    "sierra-series-f-funding": {
-      "count": 1,
-      "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
-      "status": "normal",
-      "example_titles": [
-        "Sierra, 시리즈 F 17억 5천만 달러 조달 — 2026년 11월 AI 단일 최대 라운드"
-      ]
-    },
-    "kakao-legal-clearance-ai": {
-      "count": 1,
-      "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
-      "status": "normal",
-      "example_titles": [
-        "카카오 창업자 김범수 무죄 → 사법리스크 해소, 연내 AI 서비스 출시 가속"
-      ]
-    },
-    "kakao-ai-financial-results": {
-      "count": 1,
-      "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
-      "status": "normal",
-      "example_titles": [
-        "카카오 3분기 AI 서비스 적자 확대 — CFO \"2028년 AI 매출 두 자릿수 비중 목표\""
-      ]
-    },
-    "ai-agent-it-governance": {
-      "count": 1,
-      "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
-      "status": "normal",
-      "example_titles": [
-        "AI 에이전트 도입으로 IT 의사결정 주체가 바뀐다 — 비즈니스팀 vs IT 보안팀"
-      ]
-    },
-    "supertake-ai-investing": {
-      "count": 1,
-      "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
-      "status": "normal",
-      "example_titles": [
-        "Supertake, 2천만 달러 시드 조달 — AI 에이전트가 주가 예측을 포트폴리오로 자동 전환"
-      ]
-    },
-    "nga-ai-regulation-state-voice": {
-      "count": 1,
-      "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
-      "status": "normal",
-      "example_titles": [
-        "미국 주지사협의회(NGA), AI 연방 규제에 주(州) 소비자 보호 권한 보존 요구"
+        "OpenAI 수석 과학자 Pachocki, 퍼플렉서티 기반 AI 개발 공동 한계선 제안"
       ]
     },
     "aws-gemma4-open-models": {
@@ -743,15 +240,6 @@
         "OpenAI·앤트로픽 직원 수십 명, '미공개 최신 모델 안전하지 않다' 내부 경고"
       ]
     },
-    "australia-digital-duty-care": {
-      "count": 1,
-      "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
-      "status": "normal",
-      "example_titles": [
-        "호주 의회, AI 기업에 이용자 피해 방지 의무 부과하는 '디지털 주의 의무법' 통과 임박"
-      ]
-    },
     "un-ai-safety-framework": {
       "count": 1,
       "first_seen": "2026-11-25",
@@ -759,6 +247,225 @@
       "status": "normal",
       "example_titles": [
         "유엔 사무총장, AI 안전 다자 프레임워크 협상 촉구 — '역사적 권력 이동 경고'"
+      ]
+    },
+    "google-search-ai-drive-wallet": {
+      "count": 2,
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
+      "status": "normal",
+      "example_titles": [
+        "Google 검색 AI 모드, 구글 드라이브·Wallet 연동으로 개인화 답변 확대",
+        "Google AI 모드, 개인화 연동 대상에 Google Wallet·Drive·Gemini 앱 추가"
+      ]
+    },
+    "claude-fable-benchlm-top": {
+      "count": 1,
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "status": "normal",
+      "example_titles": [
+        "Claude Fable 5.2, BenchLM 종합 평가 1위 — Gemini 4 Neon·GPT-6.2 Astra 압도"
+      ]
+    },
+    "naver-kakao-agent-launch": {
+      "count": 1,
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "status": "normal",
+      "example_titles": [
+        "네이버·카카오, AI 에이전트 12월 출시 — API·CUA 병행으로 안전성 강화"
+      ]
+    },
+    "deepmind-lean4-quantum": {
+      "count": 1,
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "status": "normal",
+      "example_titles": [
+        "구글 DeepMind, Lean 4 양자 알고리즘 검증 프레임워크 오픈소스 공개"
+      ]
+    },
+    "sierra-series-f-funding": {
+      "count": 1,
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "status": "normal",
+      "example_titles": [
+        "Sierra, 시리즈 F 17억 5천만 달러 조달 — 2026년 11월 AI 단일 최대 라운드"
+      ]
+    },
+    "kakao-legal-clearance-ai": {
+      "count": 1,
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "status": "normal",
+      "example_titles": [
+        "카카오 창업자 김범수 무죄 → 사법리스크 해소, 연내 AI 서비스 출시 가속"
+      ]
+    },
+    "kakao-ai-financial-results": {
+      "count": 1,
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "status": "normal",
+      "example_titles": [
+        "카카오 3분기 AI 서비스 적자 확대 — CFO \"2028년 AI 매출 두 자릿수 비중 목표\""
+      ]
+    },
+    "ai-agent-it-governance": {
+      "count": 1,
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "status": "normal",
+      "example_titles": [
+        "AI 에이전트 도입으로 IT 의사결정 주체가 바뀐다 — 비즈니스팀 vs IT 보안팀"
+      ]
+    },
+    "supertake-ai-investing": {
+      "count": 1,
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "status": "normal",
+      "example_titles": [
+        "Supertake, 2천만 달러 시드 조달 — AI 에이전트가 주가 예측을 포트폴리오로 자동 전환"
+      ]
+    },
+    "nga-ai-regulation-state-voice": {
+      "count": 1,
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "status": "normal",
+      "example_titles": [
+        "미국 주지사협의회(NGA), AI 연방 규제에 주(州) 소비자 보호 권한 보존 요구"
+      ]
+    },
+    "amazon-decart-acquisition": {
+      "count": 2,
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
+      "status": "normal",
+      "example_titles": [
+        "아마존, AI 칩 최적화 스타트업 데카르트 75억달러에 인수 임박",
+        "아마존, AI 칩 최적화 스타트업 Decart 75억 달러에 인수 — Trainium 칩 판매 채비"
+      ]
+    },
+    "claude-riemann-hypothesis-proof": {
+      "count": 2,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
+      "status": "normal",
+      "example_titles": [
+        "Lean·Mathlib 커뮤니티, Claude 협업 리만 가설 증명 공식 인증",
+        "Lean·Mathlib 커뮤니티, Claude 협업 리만 가설 연구 증명 공식 인증"
+      ]
+    },
+    "ai-safety-slowdown-failed": {
+      "count": 2,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
+      "status": "normal",
+      "example_titles": [
+        "앤트로픽·OpenAI·xAI, 독립 평가 필요성 공감했지만 공동 감속 협약은 불발"
+      ]
+    },
+    "openrouter-zdr-providers-removed": {
+      "count": 1,
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "status": "normal",
+      "example_titles": [
+        "OpenRouter, 추론 제공업체 3곳·125개 엔드포인트 무결성 정책 위반으로 ZDR 목록 제외"
+      ]
+    },
+    "sbc-korea-ai-deployment": {
+      "count": 1,
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "status": "normal",
+      "example_titles": [
+        "중진공, 직원 개발 AI 서비스 실무 적용 본격화"
+      ]
+    },
+    "musk-ai-datacenter-warning": {
+      "count": 1,
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "status": "normal",
+      "example_titles": [
+        "머스크, 데이터센터 건설 지연 시 AI 기업들 수천억 달러 추가 자금 위기 경고"
+      ]
+    },
+    "ai-credit-risk-analysis": {
+      "count": 1,
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "status": "normal",
+      "example_titles": [
+        "DB증권 'AI 신용 재평가…위기 아닌 옥석 가리기'"
+      ]
+    },
+    "amazon-ai-monai-zeroday": {
+      "count": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "status": "normal",
+      "example_titles": [
+        "Amazon, 중국 연계 AI 에이전트가 의료 소프트웨어 제로데이를 11분 만에 악용했다고 발표"
+      ]
+    },
+    "white-house-ai-national-champions": {
+      "count": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "status": "normal",
+      "example_titles": [
+        "백악관, 엔비디아·OpenAI·앤트로픽을 AI '국가 챔피언'으로 지정해 중국에 대응 계획"
+      ]
+    },
+    "trump-overseas-datacenter-tax": {
+      "count": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "status": "normal",
+      "example_titles": [
+        "트럼프, 해외 AI 데이터센터 구축 미국 기업에 '막대한 세금' 부과 경고"
+      ]
+    },
+    "trump-xi-ai-summit-talks": {
+      "count": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "status": "normal",
+      "example_titles": [
+        "트럼프 행정부, 시진핑 방미 계기로 중국과 AI 위험 대화 추진 검토"
+      ]
+    },
+    "benioff-ai-safety-accountability": {
+      "count": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "status": "normal",
+      "example_titles": [
+        "베니오프 세일즈포스 CEO: AI 기업이 자체 안전 기준 세우고 사고 책임 져야"
+      ]
+    },
+    "dod-cto-ai-regulation-stance": {
+      "count": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "status": "normal",
+      "example_titles": [
+        "미 국방부 CTO, AI 기업 정부 지분 취득·추가 규제에 반대 입장 표명"
+      ]
+    },
+    "nvidia-sec-investigation": {
+      "count": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "status": "normal",
+      "example_titles": [
+        "SEC, 엔비디아 잠재적 회계 문제 조사 착수… 이사회 '젠슨 황 CEO 복귀 검토 않는다'"
       ]
     }
   }
