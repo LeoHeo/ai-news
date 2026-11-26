@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "window_days": 7,
   "themes": [
     {
@@ -43,27 +43,6 @@
         "investment-tosspayments-1115",
         "investment-tosspayments-merger",
         "digital-banking-tosspayments-viva-merger"
-      ]
-    },
-    {
-      "keyword": "thailand-stablecoin-bnpl-rule",
-      "count": 2,
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-18",
-      "articles": [
-        "regulation-thailand-stablecoin",
-        "regulation-thailand-stablecoin-cap"
-      ]
-    },
-    {
-      "keyword": "imprint-130m-series-d",
-      "count": 3,
-      "first_seen": "2026-11-16",
-      "last_seen": "2026-11-18",
-      "articles": [
-        "investment-imprint-130m-1116",
-        "investment-imprint-130m",
-        "investment-imprint-130m"
       ]
     },
     {
@@ -112,33 +91,6 @@
       ]
     },
     {
-      "keyword": "uob-tmrw-china-qr",
-      "count": 1,
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
-      "articles": [
-        "payments-uob-china-qr-tmrw"
-      ]
-    },
-    {
-      "keyword": "standard-bank-kinexys-jpm",
-      "count": 1,
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
-      "articles": [
-        "payments-standard-bank-kinexys"
-      ]
-    },
-    {
-      "keyword": "prove-ai-payments-committee",
-      "count": 1,
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
-      "articles": [
-        "payments-prove-ai-committee"
-      ]
-    },
-    {
       "keyword": "fsb-g20-crossborder-slowdown",
       "count": 5,
       "first_seen": "2026-11-18",
@@ -149,15 +101,6 @@
         "remittance-fsb-g20-crossborder",
         "remittance-fsb-g20-crossborder",
         "remittance-fsb-g20-crossborder-slowdown"
-      ]
-    },
-    {
-      "keyword": "western-union-intermex-termination",
-      "count": 1,
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
-      "articles": [
-        "remittance-wu-intermex-end"
       ]
     },
     {
@@ -205,15 +148,6 @@
       ]
     },
     {
-      "keyword": "eba-circle-usdc-supervision",
-      "count": 1,
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
-      "articles": [
-        "regulation-eba-circle-usdc"
-      ]
-    },
-    {
       "keyword": "singapore-fintech-festival-2026",
       "count": 2,
       "first_seen": "2026-11-18",
@@ -221,15 +155,6 @@
       "articles": [
         "regulation-sff-2026",
         "regulation-sff-mas-ai-1119"
-      ]
-    },
-    {
-      "keyword": "end-close-seed-round",
-      "count": 1,
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
-      "articles": [
-        "investment-end-close-seed"
       ]
     },
     {
@@ -357,11 +282,12 @@
     },
     {
       "keyword": "lumepay-africa-crossborder",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-26",
       "articles": [
-        "remittance-lumepay-africa-1120"
+        "remittance-lumepay-africa-1120",
+        "remittance-lumepay"
       ]
     },
     {
@@ -398,16 +324,17 @@
     },
     {
       "keyword": "korea-fintech-week-2026",
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "articles": [
         "regulation-korea-fintech-week-1120",
         "regulation-korea-fintech-week",
         "regulation-korea-fintech-week",
         "regulation-korea-fintech-week-2026",
         "regulation-korea-fintech-week-2026-1124",
-        "regulation-korea-fintech-week-2026"
+        "regulation-korea-fintech-week-2026",
+        "regulation-korea-fintech-week"
       ]
     },
     {
@@ -583,22 +510,24 @@
     },
     {
       "keyword": "oaknorth-us-bank-charter",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "articles": [
         "digital-banking-oaknorth-us-bank-charter",
-        "digital-banking-oaknorth-us-bank-charter"
+        "digital-banking-oaknorth-us-bank-charter",
+        "digital-banking-oaknorth"
       ]
     },
     {
       "keyword": "credit-mutuel-cyberattack",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "articles": [
         "digital-banking-credit-mutuel-cyberattack",
-        "digital-banking-credit-mutuel-cyberattack"
+        "digital-banking-credit-mutuel-cyberattack",
+        "digital-banking-credit-mutuel"
       ]
     },
     {
@@ -651,11 +580,12 @@
     },
     {
       "keyword": "payments-coupang-woori-won-stablecoin",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "articles": [
-        "payments-coupang-woori-won-stablecoin"
+        "payments-coupang-woori-won-stablecoin",
+        "payments-coupang-woori"
       ]
     },
     {
@@ -683,6 +613,87 @@
       "last_seen": "2026-11-25",
       "articles": [
         "investment-picpay-ipo-filing"
+      ]
+    },
+    {
+      "keyword": "payoneer-payo-occ-bank",
+      "count": 1,
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "articles": [
+        "regulation-payoneer-occ"
+      ]
+    },
+    {
+      "keyword": "tencent-sff-payments-2026",
+      "count": 1,
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "articles": [
+        "payments-tencent-sff"
+      ]
+    },
+    {
+      "keyword": "korea-digital-assets-remittance-threat",
+      "count": 1,
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "articles": [
+        "remittance-korea-survey"
+      ]
+    },
+    {
+      "keyword": "borderless-ai-stablecoin-payroll",
+      "count": 1,
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "articles": [
+        "remittance-borderless-ai"
+      ]
+    },
+    {
+      "keyword": "mas-tokenisation-digital-wallets",
+      "count": 1,
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "articles": [
+        "digital-banking-mas-tokenisation"
+      ]
+    },
+    {
+      "keyword": "ant-international-bny-crossborder",
+      "count": 1,
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "articles": [
+        "payments-ant-bny"
+      ]
+    },
+    {
+      "keyword": "eba-stablecoin-defi-consumer-risks",
+      "count": 1,
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "articles": [
+        "regulation-eba-defi"
+      ]
+    },
+    {
+      "keyword": "cashfree-agentic-wallet",
+      "count": 1,
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "articles": [
+        "payments-cashfree-agentic"
+      ]
+    },
+    {
+      "keyword": "oliver-wyman-synpulse-acquisition",
+      "count": 1,
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "articles": [
+        "investment-oliver-wyman"
       ]
     }
   ]
