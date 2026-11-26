@@ -1,9 +1,126 @@
 {
   "topic": "ai",
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "version": 1,
   "window_days": 7,
   "themes": {
+    "cognition-swe-2-1-release": {
+      "count": 1,
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "status": "normal",
+      "example_titles": [
+        "Cognition SWE-2.1 코딩 모델 출시 — 벤치마크 수치 이전 세대 대비 2배"
+      ]
+    },
+    "sakana-namazu-small-model": {
+      "count": 1,
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "status": "normal",
+      "example_titles": [
+        "Sakana AI, 300억 파라미터 추론 모델 'Namazu Small' 발표"
+      ]
+    },
+    "anthropic-rust-api-migration": {
+      "count": 1,
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic, Messages API Python→Rust 전환 — CPU 70% 절감·TTFT 20% 단축"
+      ]
+    },
+    "apple-siri-app-intents-open": {
+      "count": 1,
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "status": "normal",
+      "example_titles": [
+        "Apple, App Intents로 Siri AI를 모든 개발자에게 개방"
+      ]
+    },
+    "openai-chatgpt-codex-meter": {
+      "count": 1,
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, ChatGPT와 Codex 사용량 한도 단일화"
+      ]
+    },
+    "openai-matrix-mult-bound": {
+      "count": 1,
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI 프리프린트, 행렬 곱셈 지수 정확히 9/4 주장 — 1979년 이후 최대 도약"
+      ]
+    },
+    "fcc-spacex-ai-satellites": {
+      "count": 1,
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "status": "normal",
+      "example_titles": [
+        "FCC, SpaceX AI 데이터센터 위성 최대 100만 기 운용 승인"
+      ]
+    },
+    "chinese-ai-labs-distillation": {
+      "count": 1,
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "status": "normal",
+      "example_titles": [
+        "중국 AI 랩, Google·Meta 학습 데이터 직접 접근 추구 — 칩 규제 우회 전략"
+      ]
+    },
+    "anthropic-enterprise-ai-survey": {
+      "count": 1,
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic 내부 연구 — 기업 55%가 AI 도입 후 산출물·품질 향상, 19%는 아직 무성과"
+      ]
+    },
+    "state-ag-ai-delusional-warning": {
+      "count": 1,
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "status": "normal",
+      "example_titles": [
+        "미국 주 법무장관들, Microsoft·OpenAI·Google 등 AI 기업에 '환각' 출력 수정 경고"
+      ]
+    },
+    "alliance-ai-palantir-lawsuit": {
+      "count": 1,
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "status": "normal",
+      "example_titles": [
+        "Alliance for Secure AI, Palantir의 군사 AI 표적 선정 활용 소송 제기"
+      ]
+    },
+    "tidal-ai-music-removal": {
+      "count": 1,
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "status": "normal",
+      "example_titles": [
+        "Tidal, 완전 AI 생성 음악 트랙 수백만 건 플랫폼서 제거 예정"
+      ]
+    },
+    "cisa-drupal-rce-anthropic": {
+      "count": 1,
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "status": "normal",
+      "example_titles": [
+        "CISA, Anthropic 스캐너가 발견한 Drupal RCE 취약점 패치 명령 — 연방기관 오늘까지"
+      ]
+    },
     "walmart-agent-gateway": {
       "count": 1,
       "first_seen": "2026-11-26",
@@ -137,9 +254,9 @@
       ]
     },
     "nvidia-ceo-spy-investigation": {
-      "count": 8,
+      "count": 9,
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-27",
       "status": "saturated",
       "example_titles": [
         "젠슨 황 CEO, 스파이 혐의 조사 압박에 엔비디아 사임",
