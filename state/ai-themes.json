@@ -1,9 +1,117 @@
 {
   "topic": "ai",
-  "updated": "2026-11-27",
+  "updated": "2026-11-28",
   "version": 1,
   "window_days": 7,
   "themes": {
+    "nvidia-megaspeed-china-smuggle": {
+      "count": 1,
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "status": "normal",
+      "example_titles": [
+        "미국 금수 조치 속 엔비디아 AI 칩, 상하이 Megaspeed 연계 데이터센터서 발견"
+      ]
+    },
+    "canada-ai-compute-billion": {
+      "count": 1,
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "status": "normal",
+      "example_titles": [
+        "캐나다, AI 컴퓨팅 접근 기금 C$10억으로 확대"
+      ]
+    },
+    "deepmind-seoul-ai-campus": {
+      "count": 1,
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "status": "normal",
+      "example_titles": [
+        "구글 딥마인드, 서울 AI 캠퍼스 추진 — SNU·KAIST와 공동연구"
+      ]
+    },
+    "siemens-humanoid-factory-update": {
+      "count": 1,
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "status": "normal",
+      "example_titles": [
+        "휴머노이드 로봇, 지멘스 제조라인 급식 작업 첫 운용 성공"
+      ]
+    },
+    "zuckerberg-ai-safety-company-stance": {
+      "count": 1,
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "status": "normal",
+      "example_titles": [
+        "저커버그 \"AI 안전은 각 기업 책임, 공동 감속은 불필요\""
+      ]
+    },
+    "gates-ai-global-governance-org": {
+      "count": 1,
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "status": "normal",
+      "example_titles": [
+        "빌 게이츠, AI 국제기구 창설 제안 — 미·중 공동 위험 관리"
+      ]
+    },
+    "congress-ai-regulation-stall": {
+      "count": 1,
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "status": "normal",
+      "example_titles": [
+        "미 의회 AI 규제법 연내 처리 사실상 불발 — 주(州) 권한 갈등이 발목"
+      ]
+    },
+    "tencent-hy4-flash-opensourced": {
+      "count": 1,
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "status": "normal",
+      "example_titles": [
+        "텐센트 Hy4 Flash, 오픈소스 공개 — FP8 포함 3종 버전 제공"
+      ]
+    },
+    "enterprise-ai-agent-governance": {
+      "count": 1,
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "status": "normal",
+      "example_titles": [
+        "기업들, AI 에이전트 신원·권한 관리 체계 구축 착수"
+      ]
+    },
+    "claude-watermark-enterprise-reaction": {
+      "count": 1,
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "status": "normal",
+      "example_titles": [
+        "Anthropic 클로드 텍스트 워터마킹, 기업 고객 반발 촉발"
+      ]
+    },
+    "openai-gpt62-billing-correction": {
+      "count": 1,
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "status": "normal",
+      "example_titles": [
+        "OpenAI, GPT-6.2 과금 오류 정정 — 사용자 환불 처리"
+      ]
+    },
+    "os-omni-neurips-benchmark": {
+      "count": 1,
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "status": "normal",
+      "example_titles": [
+        "OS-Omni, NeurIPS 2026 발표 — 6개 플랫폼 1,200 태스크 범용 에이전트 벤치마크"
+      ]
+    },
     "cognition-swe-2-1-release": {
       "count": 1,
       "first_seen": "2026-11-27",
@@ -550,12 +658,13 @@
       ]
     },
     "trump-xi-ai-summit-talks": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-22",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-28",
       "status": "normal",
       "example_titles": [
-        "트럼프 행정부, 시진핑 방미 계기로 중국과 AI 위험 대화 추진 검토"
+        "트럼프 행정부, 시진핑 방미 계기로 중국과 AI 위험 대화 추진 검토",
+        "트럼프 행정부, 시진핑 방미 계기로 미·중 AI 위험 대화 추진"
       ]
     },
     "benioff-ai-safety-accountability": {
