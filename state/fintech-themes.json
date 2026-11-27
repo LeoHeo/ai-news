@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "window_days": 7,
   "themes": [
     {
@@ -31,9 +31,9 @@
     },
     {
       "keyword": "tosspayments-viva-merger",
-      "count": 8,
+      "count": 9,
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-27",
       "articles": [
         "investment-tosspayments",
         "investment-tosspayments-1110",
@@ -42,7 +42,8 @@
         "investment-tosspayments-1113",
         "investment-tosspayments-1115",
         "investment-tosspayments-merger",
-        "digital-banking-tosspayments-viva-merger"
+        "digital-banking-tosspayments-viva-merger",
+        "digital-banking-tosspayments-viva"
       ]
     },
     {
@@ -57,26 +58,6 @@
         "payments-dbs-kinexys-live",
         "payments-dbs-kinexys-live",
         "payments-dbs-kinexys-tokenized-deposit"
-      ]
-    },
-    {
-      "keyword": "paytm-rbi-wallet-restart",
-      "count": 2,
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-19",
-      "articles": [
-        "digital-banking-paytm-rbi-wallet",
-        "digital-banking-paytm-rbi-1119"
-      ]
-    },
-    {
-      "keyword": "hkma-swift-tokenized-deposits",
-      "count": 2,
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
-      "articles": [
-        "payments-hkma-swift-tokenized",
-        "payments-hkma-swift-1119"
       ]
     },
     {
@@ -104,16 +85,6 @@
       ]
     },
     {
-      "keyword": "mambu-mastercard-move-apac",
-      "count": 2,
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
-      "articles": [
-        "remittance-mambu-mastercard-apac",
-        "remittance-mambu-mastercard-1119"
-      ]
-    },
-    {
       "keyword": "klarna-q3-2026-earnings",
       "count": 6,
       "first_seen": "2026-11-18",
@@ -125,36 +96,6 @@
         "digital-banking-klarna-q3",
         "digital-banking-klarna-q3-2026",
         "digital-banking-klarna-q3-2026-1123"
-      ]
-    },
-    {
-      "keyword": "klarna-cfo-robinhood",
-      "count": 2,
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
-      "articles": [
-        "digital-banking-klarna-cfo",
-        "digital-banking-klarna-cfo-1119"
-      ]
-    },
-    {
-      "keyword": "uk-inperson-banking-protection",
-      "count": 2,
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
-      "articles": [
-        "regulation-uk-banking-protection",
-        "regulation-uk-banking-1119"
-      ]
-    },
-    {
-      "keyword": "singapore-fintech-festival-2026",
-      "count": 2,
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
-      "articles": [
-        "regulation-sff-2026",
-        "regulation-sff-mas-ai-1119"
       ]
     },
     {
@@ -184,9 +125,9 @@
     },
     {
       "keyword": "stripe-ipo-timeline",
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-27",
       "articles": [
         "investment-stripe-ipo-1119",
         "investment-stripe-ipo-1120",
@@ -194,7 +135,8 @@
         "investment-stripe-ipo-1122",
         "investment-stripe-ipo-timeline",
         "investment-stripe-ipo-2027-roadshow",
-        "investment-stripe-ipo-2027-roadshow"
+        "investment-stripe-ipo-2027-roadshow",
+        "investment-stripe"
       ]
     },
     {
@@ -324,9 +266,9 @@
     },
     {
       "keyword": "korea-fintech-week-2026",
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "articles": [
         "regulation-korea-fintech-week-1120",
         "regulation-korea-fintech-week",
@@ -334,6 +276,7 @@
         "regulation-korea-fintech-week-2026",
         "regulation-korea-fintech-week-2026-1124",
         "regulation-korea-fintech-week-2026",
+        "regulation-korea-fintech-week",
         "regulation-korea-fintech-week"
       ]
     },
@@ -510,12 +453,13 @@
     },
     {
       "keyword": "oaknorth-us-bank-charter",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "articles": [
         "digital-banking-oaknorth-us-bank-charter",
         "digital-banking-oaknorth-us-bank-charter",
+        "digital-banking-oaknorth",
         "digital-banking-oaknorth"
       ]
     },
@@ -571,11 +515,12 @@
     },
     {
       "keyword": "upgrade-sme-lending-ai",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-27",
       "articles": [
-        "lending-upgrade-sme-lending-ai"
+        "lending-upgrade-sme-lending-ai",
+        "lending-upgrade-sme"
       ]
     },
     {
@@ -617,10 +562,11 @@
     },
     {
       "keyword": "payoneer-payo-occ-bank",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "articles": [
+        "regulation-payoneer-occ",
         "regulation-payoneer-occ"
       ]
     },
@@ -644,56 +590,89 @@
     },
     {
       "keyword": "borderless-ai-stablecoin-payroll",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "articles": [
+        "remittance-borderless-ai",
         "remittance-borderless-ai"
       ]
     },
     {
       "keyword": "mas-tokenisation-digital-wallets",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "articles": [
+        "digital-banking-mas-tokenisation",
         "digital-banking-mas-tokenisation"
       ]
     },
     {
       "keyword": "ant-international-bny-crossborder",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "articles": [
+        "payments-ant-bny",
         "payments-ant-bny"
       ]
     },
     {
       "keyword": "eba-stablecoin-defi-consumer-risks",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "articles": [
+        "regulation-eba-defi",
         "regulation-eba-defi"
       ]
     },
     {
       "keyword": "cashfree-agentic-wallet",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "articles": [
+        "payments-cashfree-agentic",
         "payments-cashfree-agentic"
       ]
     },
     {
       "keyword": "oliver-wyman-synpulse-acquisition",
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "articles": [
+        "investment-oliver-wyman",
         "investment-oliver-wyman"
+      ]
+    },
+    {
+      "keyword": "form3-coinbase-stablecoin",
+      "count": 1,
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "articles": [
+        "payments-form3-coinbase"
+      ]
+    },
+    {
+      "keyword": "tenpay-barq-mou",
+      "count": 1,
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "articles": [
+        "remittance-tenpay-barq"
+      ]
+    },
+    {
+      "keyword": "lendingusa-crossriver-bitcoin-loans",
+      "count": 1,
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "articles": [
+        "lending-lendingusa-crossriver"
       ]
     }
   ]
