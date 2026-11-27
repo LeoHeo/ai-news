@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-27",
+  "updated": "2026-11-28",
   "window_days": 7,
   "themes": [
     {
@@ -31,9 +31,9 @@
     },
     {
       "keyword": "tosspayments-viva-merger",
-      "count": 9,
+      "count": 10,
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "articles": [
         "investment-tosspayments",
         "investment-tosspayments-1110",
@@ -43,7 +43,8 @@
         "investment-tosspayments-1115",
         "investment-tosspayments-merger",
         "digital-banking-tosspayments-viva-merger",
-        "digital-banking-tosspayments-viva"
+        "digital-banking-tosspayments-viva",
+        "digital-banking-tosspayments-viva-delay-1128"
       ]
     },
     {
@@ -58,17 +59,6 @@
         "payments-dbs-kinexys-live",
         "payments-dbs-kinexys-live",
         "payments-dbs-kinexys-tokenized-deposit"
-      ]
-    },
-    {
-      "keyword": "mastercard-accept-tap-phone-sff",
-      "count": 3,
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-20",
-      "articles": [
-        "payments-mastercard-accept-sff",
-        "payments-mastercard-accept-1119",
-        "payments-mastercard-accept-1120"
       ]
     },
     {
@@ -205,24 +195,6 @@
       ]
     },
     {
-      "keyword": "pine-labs-staq-stablecoin",
-      "count": 1,
-      "first_seen": "2026-11-20",
-      "last_seen": "2026-11-20",
-      "articles": [
-        "payments-pine-labs-staq-1120"
-      ]
-    },
-    {
-      "keyword": "xtransfer-vpbank-smartpay-mou",
-      "count": 1,
-      "first_seen": "2026-11-20",
-      "last_seen": "2026-11-20",
-      "articles": [
-        "remittance-xtransfer-vpbank-1120"
-      ]
-    },
-    {
       "keyword": "lumepay-africa-crossborder",
       "count": 2,
       "first_seen": "2026-11-20",
@@ -245,15 +217,6 @@
       ]
     },
     {
-      "keyword": "epaa-apac-tokenised-money",
-      "count": 1,
-      "first_seen": "2026-11-20",
-      "last_seen": "2026-11-20",
-      "articles": [
-        "regulation-epaa-apac-tokenised-1120"
-      ]
-    },
-    {
       "keyword": "mas-agentic-money-sandbox",
       "count": 3,
       "first_seen": "2026-11-20",
@@ -266,9 +229,9 @@
     },
     {
       "keyword": "korea-fintech-week-2026",
-      "count": 8,
+      "count": 9,
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "articles": [
         "regulation-korea-fintech-week-1120",
         "regulation-korea-fintech-week",
@@ -277,7 +240,8 @@
         "regulation-korea-fintech-week-2026-1124",
         "regulation-korea-fintech-week-2026",
         "regulation-korea-fintech-week",
-        "regulation-korea-fintech-week"
+        "regulation-korea-fintech-week",
+        "regulation-korea-fintech-week-2026-close"
       ]
     },
     {
@@ -403,13 +367,14 @@
     },
     {
       "keyword": "payhawk-series-c-goldman",
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-28",
       "articles": [
         "investment-payhawk-series-c",
         "investment-payhawk-series-c",
-        "investment-payhawk-series-c-goldman"
+        "investment-payhawk-series-c-goldman",
+        "investment-payhawk-series-c-1128"
       ]
     },
     {
@@ -476,12 +441,13 @@
     },
     {
       "keyword": "bill-tpg-takeprivate",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-28",
       "articles": [
         "investment-bill-tpg-6b-takeprivate",
-        "investment-bill-tpg-6b-takeprivate"
+        "investment-bill-tpg-6b-takeprivate",
+        "investment-bill-tpg-1128"
       ]
     },
     {
@@ -562,12 +528,13 @@
     },
     {
       "keyword": "payoneer-payo-occ-bank",
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "articles": [
         "regulation-payoneer-occ",
-        "regulation-payoneer-occ"
+        "regulation-payoneer-occ",
+        "regulation-payoneer-occ-conditional-1128"
       ]
     },
     {
@@ -673,6 +640,123 @@
       "last_seen": "2026-11-27",
       "articles": [
         "lending-lendingusa-crossriver"
+      ]
+    },
+    {
+      "keyword": "brazil-b3-brl-stablecoin",
+      "count": 1,
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "articles": [
+        "payments-brazil-b3-brl-stablecoin-1128"
+      ]
+    },
+    {
+      "keyword": "straitsx-ocbc-stablecoin-pilot",
+      "count": 1,
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "articles": [
+        "payments-straitsx-ocbc-stablecoin-1128"
+      ]
+    },
+    {
+      "keyword": "stablecoin-volume-2026",
+      "count": 1,
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "articles": [
+        "payments-stablecoin-482b-1128"
+      ]
+    },
+    {
+      "keyword": "stablecoin-walled-gardens",
+      "count": 1,
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "articles": [
+        "payments-stablecoin-walled-gardens-1128"
+      ]
+    },
+    {
+      "keyword": "asean3-crossborder-payments",
+      "count": 1,
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "articles": [
+        "remittance-asean3-crossborder-1128"
+      ]
+    },
+    {
+      "keyword": "mtn-africa-bank-license",
+      "count": 1,
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "articles": [
+        "remittance-mtn-bank-license-1128"
+      ]
+    },
+    {
+      "keyword": "fnb-globba-anniversary",
+      "count": 1,
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "articles": [
+        "remittance-fnb-globba-1128"
+      ]
+    },
+    {
+      "keyword": "revolut-115b-valuation",
+      "count": 1,
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "articles": [
+        "digital-banking-revolut-115b-1128"
+      ]
+    },
+    {
+      "keyword": "tamara-bnpl-abs-funding",
+      "count": 1,
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "articles": [
+        "lending-tamara-abs-400m-1128"
+      ]
+    },
+    {
+      "keyword": "eu-fida-open-finance-withdrawal",
+      "count": 1,
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "articles": [
+        "regulation-eu-fida-withdrawal-1128"
+      ]
+    },
+    {
+      "keyword": "esma-mica-stablecoin-deadline",
+      "count": 1,
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "articles": [
+        "regulation-esma-mica-deadline-1128"
+      ]
+    },
+    {
+      "keyword": "nuvei-payoneer-acquisition",
+      "count": 1,
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "articles": [
+        "investment-nuvei-payoneer-1128"
+      ]
+    },
+    {
+      "keyword": "imprint-cobranded-funding",
+      "count": 1,
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "articles": [
+        "investment-imprint-130m-1128"
       ]
     }
   ]
